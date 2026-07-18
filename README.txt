@@ -6030,6 +6030,119 @@ Physical Appearance Prompt Style 4b — Nijika Alt Style 2
 
  6. Pose: Standing casually with her arms resting straight down at her sides.
 
+Physical Appearance Prompt Style 1 — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika is a petite, slim girl. Clear blue eyes with a calm, confident expression. Her expression is a small closed-mouth smile.
+
+ 2. Hair & Head: Short, tousled sky-blue hair cut into a layered shaggy bob with choppy bangs and a vivid pastel-pink underlayer visible along the sides and nape. She wears a multicolored rainbow flower hair clip with hanging bead strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with pale pink-white inner fur and one thick, bushy fox tail extending behind her in a smooth gradient from sky blue through white into soft pink at the tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: She pairs it with fitted black utility shorts with a belt, chains, dangling gradient straps, and a thigh band, black slouch socks, and chunky black platform sneakers with oversized tread and pink-and-blue paw-print accents.
+
+ 6. Pose: With both arms relaxed naturally at her sides in a straight, self-assured stance.
+
+Physical Appearance Prompt Style 1b — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika is a slim, petite girl. Clear cool-blue eyes. She ends with a small closed-mouth smile.
+
+ 2. Hair & Head: A calm, friendly gaze, framed by short, tousled sky-blue hair cut into a choppy neck-length bob that fades into pastel pink and lilac at the ends, with uneven layered bangs and a multicolored rainbow flower clip accompanied by bead strands and narrow hanging ribbons.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based blue fox ears with pale pink-and-white inner tufts and one thick, fluffy tail that transitions from sky blue through nearly white fur into a soft pastel-pink tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ.” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
+
+ 6. Pose: Standing directly front-facing with her feet set shoulder-width apart and both arms hanging naturally at her sides with relaxed open hands.
+
+Physical Appearance Prompt Style 1c — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika has a slim, slightly athletic build. Pale blue eyes, and a composed little smile that feels cool rather than bubbly.
+
+ 2. Hair & Head: Her hair is cut in a short, choppy bob in light sky blue with pink and lilac tones melting into the lower layers, and one side is dressed with a rainbow flower ornament and dangling beads.
+
+ 3. Species Traits: Fox Logic — She has large blue ears with soft pink inner fur and a long, thick tail that shifts from sky blue into white and pink near the tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ,” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
+
+ 6. Pose: In the front pose her body faces straight ahead, her feet are planted shoulder-width apart, and both arms hang relaxed at her sides with her fingers slightly open.
+
+Physical Appearance Prompt Style 2 — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika is a petite, coolly cheerful girl. Pale blue eyes rest above a soft, closed-lip smile. Her expression is a serene closed-mouth smile,.
+
+ 2. Hair & Head: Shaggy, shoulder-length powder-blue hair whose choppy under-layers melt into pastel pink and rainbow tints, accented above one ear by a rainbow-gradient flower ornament with hanging ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and pink into a frosted white tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika," above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
+
+ 6. Pose: She stands squarely with her arms hanging relaxed at her sides.
+
+Physical Appearance Prompt Style 2b — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika has a petite, slight build with fair skin. Pale glacier-blue eyes, and a gentle closed-lip smile.
+
+ 2. Hair & Head: Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
+
+ 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering hanging at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints.
+
+ 6. Pose: She stands squarely with her arms relaxed at her sides, held slightly away from her body.
+
+Physical Appearance Prompt Style 3 — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika is slender. Bright blue eyes with a cheerful, friendly expression. Her expression is a wide, happy smile.
+
+ 2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy light blue fox tail that smoothly gradients into a soft pink tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: A black thigh garter on her right leg with a hanging tag, and a black belt with a rainbow buckle and dangling chain links. Black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides.
+
+ 6. Pose: With both arms resting naturally down at her sides in a casual, standing posture, with long rainbow ribbons hanging from her waist, one inscribed with "西川ニジカ".
+
+Physical Appearance Prompt Style 4 — Nijika Alt Style 3
+
+ 1. Base Anatomy: Nijika is a petite girl. Vivid blue eyes. Her expression is a soft closed-mouth smile.
+
+ 2. Hair & Head: Short, messy light blue to pink gradient hair, blunt bangs, and rainbow floral clips. She wears a black bell choker and colorful floral hairpieces.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail fading from light blue to pale pink.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: Black shorts with chains and a hanging strap, black slouched socks with a paw-print thigh garter, and chunky black platform sneakers.
+
+ 6. Pose: With her arms resting casually downward at her sides.
+
+Physical Appearance Prompt Style 4b — Nijika
+
+ 1. Base Anatomy: Nijika is a slender young girl. Bright blue eyes. She exhibits a gentle smile.
+
+ 2. Hair & Head: Short light blue hair fading to pink at the tips, accessorized with a colorful floral clip on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she features large, wide-based light blue ears with white inner fluff and a thick, bushy tail gradienting from light blue to white before finishing with a bright pink tip.
+
+ 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+ 5. Lower Body & Feet: She pairs this with black shorts, a holographic-buckle belt, silver hip chains, a matching kanji hanging strap, and a right thigh garter, completed by slouchy black socks and chunky black sneakers displaying mismatched pink and blue paw prints.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
+
+
 ---
 
 Name:
