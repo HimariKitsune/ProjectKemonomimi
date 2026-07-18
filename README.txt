@@ -1,3 +1,9 @@
+using:
+https://huggingface.co/spaces/fancyfeast/joy-caption-beta-one
+https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two
+https://huggingface.co/spaces/deepghs/wd14_tagging_online
+https://huggingface.co/fancyfeast
+https://huggingface.co/deepghs
 
 ---
 
@@ -186,69 +192,239 @@ Sumire is a deeply affectionate cat girl who longs to be chosen and kept close, 
 
 Physical Appearance Prompt Style 1 — Sumire
 
-Sumire is a petite, slim girl with very long, voluminous wavy lavender hair that falls past her waist in thick, softly curled layers, styled with a heavy side-swept fringe that veils one eye, and a single visible bright violet eye with a lively, mischievous expression. Her animal features include small, sleek pointed lavender cat ears with rosy-pink inner fur and a long, flexible pale-lavender tail of even slender thickness that curves upward behind her, decorated near the tip with a deep purple flower ornament and dangling jewel tassels. She wears a clustered violet flower hairpiece with bead-and-ribbon strands, a black choker with a violet gemstone pendant, and coordinated purple floral charms. Her outfit is a white-and-lavender pinstriped lace-trim camisole with a purple ribbon at the bust, layered under a cropped black jacket worn off one shoulder and detailed with violet corset lacing, buckled straps, and blossom appliqués, a black pleated miniskirt with purple trim, a belt, gold chains, and scattered floral motifs, black thigh-high stockings held by decorative garter straps and flower charms, and chunky black platform combat boots with stacked buckles, purple cross-lacing, blossoms, and crystal drops. Her expression is a wide open-mouthed grin showing a small fang, with one fist raised beside her cheek in a playful cat-paw gesture and her other arm relaxed at her side.
+ 1. Base Anatomy: Sumire is a petite, slim girl. A single visible bright violet eye with a lively, mischievous expression. Her expression is a wide open-mouthed grin showing a small fang.
+
+ 2. Hair & Head: Very long, voluminous wavy lavender hair that falls past her waist in thick, softly curled layers, styled with a heavy side-swept fringe that veils one eye. She wears a clustered violet flower hairpiece with bead-and-ribbon strands.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed lavender cat ears with rosy-pink inner fur and a long, flexible pale-lavender tail of even slender thickness that curves upward behind her, decorated near the tip with a deep purple flower ornament and dangling jewel tassels.
+
+ 4. Upper Body: She wears a clustered violet flower hairpiece with bead-and-ribbon strands, a black choker with a violet gemstone pendant, and coordinated purple floral charms. Her outfit is a white-and-lavender pinstriped lace-trim camisole with a purple ribbon at the bust, layered under a cropped black jacket worn off one shoulder and detailed with violet corset lacing, buckled straps, and blossom appliqués.
+
+ 5. Lower Body & Feet: A black pleated miniskirt with purple trim, a belt, gold chains, and scattered floral motifs, black thigh-high stockings held by decorative garter straps and flower charms, and chunky black platform combat boots with stacked buckles, purple cross-lacing, blossoms, and crystal drops.
+
+ 6. Pose: With one fist raised beside her cheek in a playful cat-paw gesture and her other arm relaxed at her side.
 
 Physical Appearance Prompt Style 1b — Sumire
 
-Sumire is a slim, petite girl with a visible vivid amethyst-purple eye held in a lively, playful gaze, while her other eye is concealed beneath heavy side-swept bangs; her extremely long, voluminous lavender hair falls in loose waves to her thighs with pale lilac highlights, a deep-violet floral hairpiece, and dangling beaded ribbon ornaments at one side. She has large, wide-based lavender fox ears with pink inner fur and white tufts, plus one thick, fluffy pale-lilac tail with a soft pinkish gradient, decorated by a dark-purple flower and hanging charms. A black choker and faceted purple pendant frame her neck above a cropped white-lavender corset camisole with black lace edging, violet ribbon lacing, and a small bow, layered beneath an oversized black off-shoulder cropped jacket trimmed in purple and fitted with buckles, straps, floral embroidery, and balloon sleeves. A belted black pleated miniskirt carries violet hem stripes, tiny flower motifs, a draped chain, and floral charms, followed by black thigh-high stockings with asymmetric garter straps and gold-chain ornaments. Heavy black platform combat boots feature layered buckle cuffs, purple laces, and violet flower charms. She finishes with an open-mouthed cheerful smile, standing front-facing with her weight relaxed, one hand lowered beside her skirt and the other curled into a small paw-like fist beside her cheek.
+ 1. Base Anatomy: Sumire is a slim, petite girl. A visible vivid amethyst-purple eye held in a lively, playful gaze, while her other eye is concealed beneath heavy side-swept bangs. She finishes with an open-mouthed cheerful smile.
+
+ 2. Hair & Head: Her extremely long, voluminous lavender hair falls in loose waves to her thighs with pale lilac highlights, a deep-violet floral hairpiece, and dangling beaded ribbon ornaments at one side.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed lavender cat ears with pink inner fur and white tufts, plus one long, flexible pale-lilac cat tail of even slender thickness with a soft pinkish gradient, decorated by a dark-purple flower and hanging charms.
+
+ 4. Upper Body: A black choker and faceted purple pendant frame her neck above a cropped white-lavender corset camisole with black lace edging, violet ribbon lacing, and a small bow, layered beneath an oversized black off-shoulder cropped jacket trimmed in purple and fitted with buckles, straps, floral embroidery, and balloon sleeves.
+
+ 5. Lower Body & Feet: A belted black pleated miniskirt carries violet hem stripes, tiny flower motifs, a draped chain, and floral charms, followed by black thigh-high stockings with asymmetric garter straps and gold-chain ornaments. Heavy black platform combat boots feature layered buckle cuffs, purple laces, and violet flower charms.
+
+ 6. Pose: Standing front-facing with her weight relaxed, one hand lowered beside her skirt and the other curled into a small paw-like fist beside her cheek.
 
 Physical Appearance Prompt Style 1c — Sumire
 
-Sumire has a slim, petite build, bright violet eyes, and a cheerful open-mouthed smile that makes her look lively and teasing. Her hair falls all the way past her hips in soft, airy lilac waves with a faint pink cast at the ends, and her long front fringe sweeps across to hide one eye while a large violet flower ornament with bead tassels decorates the side of her head. She has upright lavender animal ears with pale inner fur and a plush, gently curling lilac tail adorned with matching violet floral bows, giving her silhouette a soft, elegant fullness. Closest to the body she wears a white-lavender cropped camisole with lace edging, ribbon lacing, and a small front bow, layered under a slouched black off-shoulder jacket trimmed in purple with buckles, floral appliqués, and no readable text. Her lower half is finished with a black pleated mini skirt patterned with purple blossoms, a belt and hanging chain accents, black thigh-high stockings with jeweled garter straps, and tall black platform lace-up boots embellished with purple flowers and dangling ornaments. She stands with her hips slightly angled, one hand lifted near her cheek in a soft paw-like fist, and the other arm lowered with the fingers relaxed by her side.
+ 1. Base Anatomy: Sumire has a slim, petite build. Bright violet eyes, and a cheerful open-mouthed smile that makes her look lively and teasing.
+
+ 2. Hair & Head: Her hair falls all the way past her hips in soft, airy lilac waves with a faint pink cast at the ends, and her long front fringe sweeps across to hide one eye while a large violet flower ornament with bead tassels decorates the side of her head.
+
+ 3. Species Traits: Cat Logic — She has upright lavender animal ears with pale inner fur and a plush, gently curling lilac tail adorned with matching violet floral bows, giving her silhouette a soft, elegant fullness.
+
+ 4. Upper Body: Closest to the body she wears a white-lavender cropped camisole with lace edging, ribbon lacing, and a small front bow, layered under a slouched black off-shoulder jacket trimmed in purple with buckles, floral appliqués, and no readable text.
+
+ 5. Lower Body & Feet: Her lower half is finished with a black pleated mini skirt patterned with purple blossoms, a belt and hanging chain accents, black thigh-high stockings with jeweled garter straps, and tall black platform lace-up boots embellished with purple flowers and dangling ornaments.
+
+ 6. Pose: She stands with her hips slightly angled, one hand lifted near her cheek in a soft paw-like fist, and the other arm lowered with the fingers relaxed by her side.
 
 Physical Appearance Prompt Style 2 — Sumire
 
-Sumire is a slender, willowy girl with extremely long, voluminous lilac-lavender hair that falls in loose mermaid waves past her hips, styled with heavy side-swept bangs that completely veil one eye, and her single visible eye is a soft violet with a bright, mischievous gleam. Her animal features include small, sleekly pointed lavender cat ears with blush-pink inner fur and white tufts atop her head, and a long, slender lavender cat tail of even thickness with a short plush texture, accented near the tip by a purple blossom-and-bow ornament with a dangling crystal charm. She wears an ornate purple flower kanzashi with white petal accents and long beaded ribbon streamers above her left temple, along with a black choker holding a violet gem pendant. Her outfit is a white frill-trimmed camisole crop top with a lavender ribbon bow and button placket that bares her midriff, layered beneath a black cropped off-the-shoulder jacket with puffed sleeves detailed in purple criss-cross lacing, buckled straps, and delicate floral stitching; a black pleated miniskirt printed with purple petals is finished with a lavender frill hem, a wide gold-buckled belt with a hanging chain and flower charm, and garter straps that clip onto black thigh-high stockings adorned with flower-and-chain garters; she stands in chunky black lace-up platform combat boots with stacked buckled straps, purple laces, flower ornaments, and tassel zipper pulls. Her expression is an open-mouthed, fanged grin of pure delight, posed with one hand curled up beside her face in a playful cat-paw gesture while her other arm hangs relaxed at her side.
+ 1. Base Anatomy: Sumire is a slender, willowy girl. Single visible eye is a soft violet with a bright, mischievous gleam. Her expression is an open-mouthed, fanged grin of pure delight.
+
+ 2. Hair & Head: Extremely long, voluminous lilac-lavender hair that falls in loose mermaid waves past her hips, styled with heavy side-swept bangs that completely veil one eye. She wears an ornate purple flower kanzashi with white petal accents and long beaded ribbon streamers above her left temple.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleekly pointed lavender cat ears with blush-pink inner fur and white tufts atop her head, and a long, slender lavender cat tail of even thickness with a short plush texture, accented near the tip by a purple blossom-and-bow ornament with a dangling crystal charm.
+
+ 4. Upper Body: She wears an ornate purple flower kanzashi with white petal accents and long beaded ribbon streamers above her left temple, along with a black choker holding a violet gem pendant. Her outfit is a white frill-trimmed camisole crop top with a lavender ribbon bow and button placket that bares her midriff, layered beneath a black cropped off-the-shoulder jacket with puffed sleeves detailed in purple criss-cross lacing, buckled straps, and delicate floral stitching.
+
+ 5. Lower Body & Feet: A black pleated miniskirt printed with purple petals is finished with a lavender frill hem, a wide gold-buckled belt with a hanging chain and flower charm, and garter straps that clip onto black thigh-high stockings adorned with flower-and-chain garters; she stands in chunky black lace-up platform combat boots with stacked buckled straps, purple laces, flower ornaments, and tassel zipper pulls.
+
+ 6. Pose: Posed with one hand curled up beside her face in a playful cat-paw gesture while her other arm hangs relaxed at her side.
 
 Physical Appearance Prompt Style 2b — Sumire
 
-Sumire has a slender, willowy build with fair skin, striking violet eyes, and an open-mouthed, fanged grin that radiates playful mischief. Her pale lavender hair cascades in loose, voluminous waves past her hips, with long sweeping bangs that completely veil her right eye and a cluster of dark purple blossoms with beaded ribbon streamers clipped at the side of her head. Sleek lavender cat ears with soft pink inner fur rise from her crown, and a long, supple lilac tail curls gracefully behind her, tied near the tip with a deep violet flower bow. Around her neck she wears a black choker with a violet gem pendant, beneath which sits a white sleeveless camisole-style crop top trimmed with fine ruffles, tiny buttons, and a purple ribbon bow at the bust, all layered under a cropped black jacket slouched off both shoulders and detailed with purple lace-up cording, buckled straps, and small floral embroidery; the outfit carries no visible text or logos. Her high-waisted black pleated miniskirt features a purple floral border and a frilled lavender hem, cinched with a purple belt, gold buckle, and draped chain, while garter straps connect to black thigh-high stockings accented with flower charms and delicate chains, ending in chunky black platform combat boots covered in buckles, purple criss-cross laces, and violet flower ornaments. She stands with her right hand raised in a curled paw pose beside her cheek while her left arm hangs relaxed at her side.
+ 1. Base Anatomy: Sumire has a slender, willowy build with fair skin. Striking violet eyes, and an open-mouthed, fanged grin that radiates playful mischief.
+
+ 2. Hair & Head: Her pale lavender hair cascades in loose, voluminous waves past her hips, with long sweeping bangs that completely veil her right eye and a cluster of dark purple blossoms with beaded ribbon streamers clipped at the side of her head.
+
+ 3. Species Traits: Cat Logic — Sleek lavender cat ears with soft pink inner fur rise from her crown, and a long, supple lilac tail curls gracefully behind her, tied near the tip with a deep violet flower bow.
+
+ 4. Upper Body: Around her neck she wears a black choker with a violet gem pendant, beneath which sits a white sleeveless camisole-style crop top trimmed with fine ruffles, tiny buttons, and a purple ribbon bow at the bust, all layered under a cropped black jacket slouched off both shoulders and detailed with purple lace-up cording, buckled straps, and small floral embroidery; the outfit carries no visible text or logos.
+
+ 5. Lower Body & Feet: Her high-waisted black pleated miniskirt features a purple floral border and a frilled lavender hem, cinched with a purple belt, gold buckle, and draped chain, while garter straps connect to black thigh-high stockings accented with flower charms and delicate chains, ending in chunky black platform combat boots covered in buckles, purple criss-cross laces, and violet flower ornaments.
+
+ 6. Pose: She stands with her right hand raised in a curled paw pose beside her cheek while her left arm hangs relaxed at her side.
 
 Physical Appearance Prompt Style 3 — Sumire
 
-Sumire is a slender girl with long, wavy lavender hair featuring straight-cut bangs, styled with a heavy side-swept fringe that veils left eye, adorned with purple floral hairpins on the left side of her head, and bright purple eyes. Her animal features include smaller, pointed lavender cat ears with white inner fluff and a long, flexible lavender cat tail wrapped with a purple ribbon and floral accent. She wears a black choker with a hanging crystal and matching strapped garter rings on her thighs. Her outfit is a white corset-style top under a cropped black streetwear jacket with off-the-shoulder straps, a pleated black miniskirt with cherry blossom embroidery and a chain belt, sheer black thigh-high stockings, and heavy-soled black combat boots laced with purple ribbons. Her expression is cheerful and smiling, with one hand raised near her chin in a playful fist pose.
+ 1. Base Anatomy: Sumire is a slender girl. Bright purple eyes. Her expression is cheerful and smiling.
+
+ 2. Hair & Head: Long, wavy lavender hair featuring straight-cut bangs, styled with a heavy side-swept fringe that veils left eye, adorned with purple floral hairpins on the left side of her head.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, pointed lavender cat ears with white inner fluff and a long, flexible lavender cat tail wrapped with a purple ribbon and floral accent.
+
+ 4. Upper Body: She wears a black choker with a hanging crystal and matching strapped. Her outfit is a white corset-style top under a cropped black streetwear jacket with off-the-shoulder straps.
+
+ 5. Lower Body & Feet: Garter rings on her thighs. A pleated black miniskirt with cherry blossom embroidery and a chain belt, sheer black thigh-high stockings, and heavy-soled black combat boots laced with purple ribbons.
+
+ 6. Pose: With one hand raised near her chin in a playful fist pose.
 
 Physical Appearance Prompt Style 4 — Sumire
 
-Sumire is a slender girl with extremely long, wavy pastel purple hair with blunt bangs and dark purple floral clips, and bright purple eyes. Her animal features include pointed, sleek light purple cat ears and a slender, flexible light purple cat tail. She wears a black choker with a purple gem and dangling floral hair ornaments. Her outfit is a black cropped jacket with purple floral and buckle accents layered over a white bustier top, a black pleated mini skirt with a purple floral hem pattern, black thigh-high stockings with strappy floral garters, and chunky black combat boots with purple laces and floral details. Her expression is a cheerful open-mouthed smile with her right hand raised in a curled paw-like gesture and her left arm resting behind her back.
+ 1. Base Anatomy: Sumire is a slender girl. Bright purple eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, wavy pastel purple hair with blunt bangs and dark purple floral clips. She wears a black choker with a purple gem and dangling floral hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek light purple cat ears and a slender, flexible light purple cat tail.
+
+ 4. Upper Body: She wears a black choker with a purple gem and dangling floral hair ornaments. Her outfit is a black cropped jacket with purple floral and buckle accents layered over a white bustier top.
+
+ 5. Lower Body & Feet: A black pleated mini skirt with a purple floral hem pattern, black thigh-high stockings with strappy floral garters, and chunky black combat boots with purple laces and floral details.
+
+ 6. Pose: With her right hand raised in a curled paw-like gesture and her left arm resting behind her back.
 
 Physical Appearance Prompt Style 4b — Sumire
 
-Sumire is a slender young girl with bright purple eyes and long, wavy pastel purple hair adorned with a large purple floral hairpin on the left side. Following cat logic, she features moderately sized, pointed pale purple feline ears and a slender, flexible pale purple tail wrapped with a purple ribbon bow at the base of the curve. Her outfit begins with a black ribbon choker holding a small gem, worn underneath a cropped black zip-up jacket with dropped shoulders, floral prints, and buckle straps, layered over a white corset-style crop top with black lacing. She wears a black pleated miniskirt decorated with a purple floral hem pattern, paired with black thigh-high stockings featuring a strapped garter belt on the left thigh and strappy black combat-style boots adorned with purple laces, buckles, and floral charms. She gazes forward with a cheerful, open-mouthed smile, posing with her right hand playfully curled into a paw near her face and her left arm resting straight down.
+ 1. Base Anatomy: Sumire is a slender young girl. Bright purple eyes. She gazes forward with a cheerful, open-mouthed smile.
 
-Sumire is a slender girl with extremely long, wavy pastel purple hair with blunt bangs and dark purple floral clips, and bright purple eyes. Her animal features include pointed, sleek light purple cat ears and a slender, flexible light purple cat tail. She wears a black choker with a purple gem and dangling floral hair ornaments. Her outfit is a black cropped jacket with purple floral and buckle accents layered over a white bustier top, a black pleated mini skirt with a purple floral hem pattern, black thigh-high stockings with strappy floral garters, and chunky black combat boots with purple laces and floral details. Her expression is a cheerful open-mouthed smile with her right hand raised in a curled paw-like gesture and her left arm resting behind her back.
+ 2. Hair & Head: Long, wavy pastel purple hair adorned with a large purple floral hairpin on the left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she features moderately sized, pointed pale purple feline ears and a slender, flexible pale purple tail wrapped with a purple ribbon bow at the base of the curve.
+
+ 4. Upper Body: Her outfit begins with a black ribbon choker holding a small gem, worn underneath a cropped black zip-up jacket with dropped shoulders, floral prints, and buckle straps, layered over a white corset-style crop top with black lacing.
+
+ 5. Lower Body & Feet: She wears a black pleated miniskirt decorated with a purple floral hem pattern, paired with black thigh-high stockings featuring a strapped garter belt on the left thigh and strappy black combat-style boots adorned with purple laces, buckles, and floral charms.
+
+ 6. Pose: Posing with her right hand playfully curled into a paw near her face and her left arm resting straight down.
+
+ 1. Base Anatomy: Sumire is a slender girl. Bright purple eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, wavy pastel purple hair with blunt bangs and dark purple floral clips. She wears a black choker with a purple gem and dangling floral hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek light purple cat ears and a slender, flexible light purple cat tail.
+
+ 4. Upper Body: She wears a black choker with a purple gem and dangling floral hair ornaments. Her outfit is a black cropped jacket with purple floral and buckle accents layered over a white bustier top.
+
+ 5. Lower Body & Feet: A black pleated mini skirt with a purple floral hem pattern, black thigh-high stockings with strappy floral garters, and chunky black combat boots with purple laces and floral details.
+
+ 6. Pose: With her right hand raised in a curled paw-like gesture and her left arm resting behind her back.
 
 Physical Appearance Prompt Style 1 — Sumire Alt Style 1
 
-Sumire is a petite, slim girl with extremely long, voluminous lavender hair that falls past her waist in dense, softly defined waves, styled with a heavy side-swept fringe that completely covers one eye and decorated on one side with a layered violet flower ornament, trailing wisteria-like blossoms, beads, ribbons, and jewel tassels, and one visible vivid purple eye with a lively, mischievous expression. Her animal features include small, sleek pointed lavender cat ears with rosy-pink inner fur and a long, flexible pale-lavender tail of even slender thickness that curves upward behind her, finished near the lower section with a dark purple bow and dangling crystal charm. She wears a black choker with a purple gemstone pendant, floral jewelry, paw-shaped charms, gold chains, and numerous violet ribbons and hanging ornaments coordinated throughout her ensemble. Her outfit is a fitted white-and-lavender lace-trimmed cropped camisole with pinstriped panels, a purple bow at the bust, corset-style seams, and dangling jewel details, layered beneath an oversized black jacket worn off both shoulders and decorated with purple floral embroidery, buckled straps, corset lacing, violet lining, and long ribbon tabs, paired with a black pleated miniskirt edged in purple and embellished with a belt, gold chains, paw and flower charms, wisteria ornaments, and asymmetrical hanging straps, mismatched legwear consisting of one opaque black thigh-high stocking with violet floral embroidery and one black fishnet thigh-high secured by a purple bow garter, and chunky black platform combat boots with purple lug soles, violet laces, buckles, blossoms, and dangling floral charms. Her expression is a wide open-mouthed smile showing a small fang, with one fist raised beside her cheek in a playful cat-paw gesture and her other arm hanging loosely at her side.
+ 1. Base Anatomy: Sumire is a petite, slim girl. One visible vivid purple eye with a lively, mischievous expression. Her expression is a wide open-mouthed smile showing a small fang.
+
+ 2. Hair & Head: Extremely long, voluminous lavender hair that falls past her waist in dense, softly defined waves, styled with a heavy side-swept fringe that completely covers one eye and decorated on one side with a layered violet flower ornament, trailing wisteria-like blossoms, beads, ribbons, and jewel tassels.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed lavender cat ears with rosy-pink inner fur and a long, flexible pale-lavender tail of even slender thickness that curves upward behind her, finished near the lower section with a dark purple bow and dangling crystal charm.
+
+ 4. Upper Body: She wears a black choker with a purple gemstone pendant, floral jewelry, paw-shaped charms, gold chains, and numerous violet ribbons and hanging ornaments coordinated throughout her ensemble. Her outfit is a fitted white-and-lavender lace-trimmed cropped camisole with pinstriped panels, a purple bow at the bust, corset-style seams, and dangling jewel details, layered beneath an oversized black jacket worn off both shoulders and decorated with purple floral embroidery, buckled straps, corset lacing, violet lining, and long ribbon tabs.
+
+ 5. Lower Body & Feet: Paired with a black pleated miniskirt edged in purple and embellished with a belt, gold chains, paw and flower charms, wisteria ornaments, and asymmetrical hanging straps, mismatched legwear consisting of one opaque black thigh-high stocking with violet floral embroidery and one black fishnet thigh-high secured by a purple bow garter, and chunky black platform combat boots with purple lug soles, violet laces, buckles, blossoms, and dangling floral charms.
+
+ 6. Pose: With one fist raised beside her cheek in a playful cat-paw gesture and her other arm hanging loosely at her side.
 
 Physical Appearance Prompt Style 1b — Sumire Alt Style 1
 
-Sumire is a slim, petite girl with a visible vivid violet-magenta eye set in a playful, cheerful expression, while her other eye is hidden beneath heavy side-swept bangs; her hair is extremely long, voluminous, and wavy, colored a soft lilac-lavender with pale icy highlights, and adorned at one side with a dense purple floral clip, beaded chains, and dangling tassels. She has large, wide-based pale lavender fox ears with fluffy pink-white inner fur and one thick, plush lavender tail that curves behind her and is tied with a dark purple bow near the middle and another bow near the tip. Around her neck she wears a black choker with a small purple heart gem, and beneath an oversized black off-shoulder jacket embroidered with violet blossoms, straps, buckles, and ribbon details she wears a white and lavender lace-trimmed corset-style crop top with a central purple bow and dangling charm. Her bottom layer is a short black pleated skirt with purple edging, a belt, chain drapes, paw and blossom charms, and several hanging ribbon ornaments. Her legwear is asymmetrical, with one black thigh-high stocking decorated with violet floral motifs and the other a black fishnet stocking attached by a strapped garter and bow. She wears chunky black platform lace-up boots with vivid purple soles, floral charms, and ribbon accents. She ends with an open-mouthed smile, standing front-facing with her weight relaxed, one hand lowered by her side and the other curled into a small fist beside her cheek in a cute paw-like pose.
+ 1. Base Anatomy: Sumire is a slim, petite girl. A visible vivid violet-magenta eye set in a playful, cheerful expression, while her other eye is hidden beneath heavy side-swept bangs. She ends with an open-mouthed smile.
+
+ 2. Hair & Head: Her hair is extremely long, voluminous, and wavy, colored a soft lilac-lavender with pale icy highlights, and adorned at one side with a dense purple floral clip, beaded chains, and dangling tassels.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed pale-lavender cat ears with soft pink-white inner fur and one long, flexible lavender cat tail of even slender thickness that curves behind her and is tied with a dark purple bow near the middle and another bow near the tip.
+
+ 4. Upper Body: Around her neck she wears a black choker with a small purple heart gem, and beneath an oversized black off-shoulder jacket embroidered with violet blossoms, straps, buckles, and ribbon details she wears a white and lavender lace-trimmed corset-style crop top with a central purple bow and dangling charm.
+
+ 5. Lower Body & Feet: Her bottom layer is a short black pleated skirt with purple edging, a belt, chain drapes, paw and blossom charms, and several hanging ribbon ornaments. Her legwear is asymmetrical, with one black thigh-high stocking decorated with violet floral motifs and the other a black fishnet stocking attached by a strapped garter and bow. She wears chunky black platform lace-up boots with vivid purple soles, floral charms, and ribbon accents.
+
+ 6. Pose: Standing front-facing with her weight relaxed, one hand lowered by her side and the other curled into a small fist beside her cheek in a cute paw-like pose.
 
 Physical Appearance Prompt Style 1c — Sumire Alt Style 1
 
-Sumire has a slender, youthful figure, vivid violet eyes, and a playful open-mouthed smile that makes her look lively and teasing. Her hair is extremely long, thick, and wavy, rendered in pale lavender with cool lilac shading, with a heavy front fringe that covers her left eye and a dramatic floral tassel arrangement clustered beside her right ear. Her ears are neat and pointed with soft pink inner fur, and her tail is long and flexible rather than massive, curving outward behind her in the same pale lavender tone and finished with a dark purple bow and crystal drop near the end. Closest to the body she wears a white lace-trimmed bustier with delicate floral embossing, black strap details, and a violet ribbon bow at the center, layered under an oversized black off-shoulder jacket with purple lining, buckled straps, ribbon lacing, floral motifs, and hanging jeweled ornaments. Her lower half combines a black pleated mini skirt with violet edging, a decorated belt, dangling chains, and paw-print accessories, then mismatched legwear with one opaque black thigh-high stocking embroidered with a small floral motif and the other leg in black fishnet topped by a thigh strap and bow, all finished with black lace-up platform ankle boots with chunky violet soles and floral tassel decorations. She stands facing front with her torso upright, her left hand lifted in a loose fist near her cheek, her right arm lowered beside her skirt, and her feet set apart in a balanced stance.
+ 1. Base Anatomy: Sumire has a slender, youthful figure. Vivid violet eyes, and a playful open-mouthed smile that makes her look lively and teasing.
+
+ 2. Hair & Head: Her hair is extremely long, thick, and wavy, rendered in pale lavender with cool lilac shading, with a heavy front fringe that covers her left eye and a dramatic floral tassel arrangement clustered beside her right ear.
+
+ 3. Species Traits: Cat Logic — Her ears are neat and pointed with soft pink inner fur, and her tail is long and flexible rather than massive, curving outward behind her in the same pale lavender tone and finished with a dark purple bow and crystal drop near the end.
+
+ 4. Upper Body: Closest to the body she wears a white lace-trimmed bustier with delicate floral embossing, black strap details, and a violet ribbon bow at the center, layered under an oversized black off-shoulder jacket with purple lining, buckled straps, ribbon lacing, floral motifs, and hanging jeweled ornaments.
+
+ 5. Lower Body & Feet: Her lower half combines a black pleated mini skirt with violet edging, a decorated belt, dangling chains, and paw-print accessories, then mismatched legwear with one opaque black thigh-high stocking embroidered with a small floral motif and the other leg in black fishnet topped by a thigh strap and bow, all finished with black lace-up platform ankle boots with chunky violet soles and floral tassel decorations.
+
+ 6. Pose: She stands facing front with her torso upright, her left hand lifted in a loose fist near her cheek, her right arm lowered beside her skirt, and her feet set apart in a balanced stance.
 
 Physical Appearance Prompt Style 2 — Sumire Alt Style 1
 
-Sumire is a slender, willowy girl with extremely long, voluminous pale-lavender waves spilling past her hips, her sweeping bangs veiling her right eye completely and a violet flower ornament with cascading wisteria-style bead strands pinned at her temple, and she has bright violet eyes lit by an open-mouthed, fanged smile. Her animal features include sleek, pointed lavender cat ears with rosy inner fur, and a single slender, flexible lilac tail of even thickness, tied near the tip with a purple polka-dot bow and a hanging crystal charm. She wears a layered black choker with a violet gem pendant and a fine necklace holding a purple teardrop jewel. Her outfit is a white ruffled camisole crop top tied with a violet ribbon, layered under a black jacket slouched off both shoulders and worked with purple lace-up cording, buckled straps, and floral embroidery, paired with a high-waisted black pleated miniskirt bordered in purple blossoms and hung with a gold chain, trailing wisteria clusters, ribbons, and a white paw print, deliberately mismatched legwear that sets a floral-printed black thigh-high stocking on one leg against a sheer fishnet on the other with a bowed garter strap, and black lace-up platform combat boots with violet soles, ribbons, and wisteria flower ornaments. Her expression is a playful fanged grin with her right hand raised in a curled paw pose beside her cheek while her left arm hangs relaxed at her side.
+ 1. Base Anatomy: Sumire is a slender, willowy girl. She has bright violet eyes lit by an open-mouthed, fanged smile. Her expression is a playful fanged grin.
+
+ 2. Hair & Head: Extremely long, voluminous pale-lavender waves spilling past her hips, her sweeping bangs veiling her right eye completely and a violet flower ornament with cascading wisteria-style bead strands pinned at her temple.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed lavender cat ears with rosy inner fur, and a single slender, flexible lilac tail of even thickness, tied near the tip with a purple polka-dot bow and a hanging crystal charm.
+
+ 4. Upper Body: She wears a layered black choker with a violet gem pendant and a fine necklace holding a purple teardrop jewel. Her outfit is a white ruffled camisole crop top tied with a violet ribbon, layered under a black jacket slouched off both shoulders and worked with purple lace-up cording, buckled straps, and floral embroidery.
+
+ 5. Lower Body & Feet: Paired with a high-waisted black pleated miniskirt bordered in purple blossoms and hung with a gold chain, trailing wisteria clusters, ribbons, and a white paw print, deliberately mismatched legwear that sets a floral-printed black thigh-high stocking on one leg against a sheer fishnet on the other with a bowed garter strap, and black lace-up platform combat boots with violet soles, ribbons, and wisteria flower ornaments.
+
+ 6. Pose: With her right hand raised in a curled paw pose beside her cheek while her left arm hangs relaxed at her side.
 
 Physical Appearance Prompt Style 2b — Sumire Alt Style 1
 
-Sumire has a slender, willowy build with fair skin, striking violet eyes, and an open-mouthed fanged grin. Her pale lavender hair cascades in loose waves past her hips, with long sweeping bangs veiling her right eye and a purple-and-white flower ornament trailing wisteria-like bead strands clipped at the side of her head. Sleek lavender cat ears with rosy inner fur rise from her crown, and a long, supple lilac tail curls up behind her, tied near the tip with a purple polka-dot bow and a crystal drop. She wears a dark choker with a hanging charm above a fine gem-pendant necklace, a white ruffled camisole crop top laced with purple ribbon and finished with a bow at the bust, and over it a black jacket slouched off both shoulders with harness-style straps, purple lace-up cording, buckled cuffs, and wisteria blossoms embroidered down the sleeves; the outfit carries no visible text. Her black pleated miniskirt is trimmed with a purple waistband, belt, and gold chain, hung with cascading wisteria flower charms, ribbon streamers, and a small white paw print, worn over deliberately mismatched legwear — a black floral-printed thigh-high stocking on one leg and a sheer fishnet stocking on the other, each topped with a purple bow garter — and chunky black platform combat boots with violet soles, purple criss-cross laces, back bows, and hanging wisteria charms. She stands with her right hand raised in a curled paw beside her cheek while her left arm hangs relaxed at her side.
+ 1. Base Anatomy: Sumire has a slender, willowy build with fair skin. Striking violet eyes, and an open-mouthed fanged grin.
+
+ 2. Hair & Head: Her pale lavender hair cascades in loose waves past her hips, with long sweeping bangs veiling her right eye and a purple-and-white flower ornament trailing wisteria-like bead strands clipped at the side of her head.
+
+ 3. Species Traits: Cat Logic — Sleek lavender cat ears with rosy inner fur rise from her crown, and a long, supple lilac tail curls up behind her, tied near the tip with a purple polka-dot bow and a crystal drop.
+
+ 4. Upper Body: She wears a dark choker with a hanging charm above a fine gem-pendant necklace, a white ruffled camisole crop top laced with purple ribbon and finished with a bow at the bust, and over it a black jacket slouched off both shoulders with harness-style straps, purple lace-up cording, buckled cuffs, and wisteria blossoms embroidered down the sleeves; the outfit carries no visible text.
+
+ 5. Lower Body & Feet: Her black pleated miniskirt is trimmed with a purple waistband, belt, and gold chain, hung with cascading wisteria flower charms, ribbon streamers, and a small white paw print, worn over deliberately mismatched legwear — a black floral-printed thigh-high stocking on one leg and a sheer fishnet stocking on the other, each topped with a purple bow garter — and chunky black platform combat boots with violet soles, purple criss-cross laces, back bows, and hanging wisteria charms.
+
+ 6. Pose: She stands with her right hand raised in a curled paw beside her cheek while her left arm hangs relaxed at her side.
 
 Physical Appearance Prompt Style 3 — Sumire Alt Style 1
 
-Sumire is slender with long, voluminous wavy pastel violet hair styled with a heavy side-swept fringe veiling left eye and a large purple floral hair clip with trailing wisteria tassels on the left side, and bright purple eyes. Her animal features include smaller, pointed pastel violet cat ears with soft inner fur and a long, flexible, slender violet cat tail that maintains an even thickness, adorned with a purple ribbon bow near the middle. She wears a black choker with a purple gemstone pendant, a gold waist chain with a white paw-print charm, and a dark purple ribbon garter on her left thigh. Her outfit is a black streetwear zip-up hooded jacket decorated with purple floral embroidery on the sleeves with a white and purple frilled cropped camisole top with lace-up details, a black high-waisted pleated mini skirt featuring a purple ruffled underlayer, mismatched legwear consisting of a solid black thigh-high sock on her right leg and a black fishnet stocking on her left leg, and high-top black platform combat boots with purple laces and floral details. Her expression is a bright, open-mouthed smile with her right hand raised near her shoulder in a cute single cat-paw fist gesture while her left arm rests relaxed by her side.
+ 1. Base Anatomy: Sumire is slender. Bright purple eyes. Her expression is a bright, open-mouthed smile.
+
+ 2. Hair & Head: Long, voluminous wavy pastel violet hair styled with a heavy side-swept fringe veiling left eye and a large purple floral hair clip with trailing wisteria tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, pointed pastel violet cat ears with soft inner fur and a long, flexible, slender violet cat tail that maintains an even thickness, adorned with a purple ribbon bow near the middle.
+
+ 4. Upper Body: She wears a black choker with a purple gemstone pendant. Her outfit is a black streetwear zip-up hooded jacket decorated with purple floral embroidery on the sleeves with a white and purple frilled cropped camisole top with lace-up details.
+
+ 5. Lower Body & Feet: A gold waist chain with a white paw-print charm, and a dark purple ribbon garter on her left thigh. A black high-waisted pleated mini skirt featuring a purple ruffled underlayer, mismatched legwear consisting of a solid black thigh-high sock on her right leg and a black fishnet stocking on her left leg, and high-top black platform combat boots with purple laces and floral details.
+
+ 6. Pose: With her right hand raised near her shoulder in a cute single cat-paw fist gesture while her left arm rests relaxed by her side.
 
 Physical Appearance Prompt Style 4 — Sumire Alt Style 1
 
-Sumire is a slim girl with long, wavy lavender hair, layered bangs, and elaborate purple flower clips, and vivid purple eyes. Her animal features include smaller, sleek pointed purple cat ears and a long, slender, flexible purple cat tail of even thickness decorated with a small purple bow. She wears a black choker with a star charm and multiple star-themed accessories. Her outfit is a black zip-up jacket with purple floral patterns layered over a white corset-style top, a pleated black mini skirt with purple floral accents, black fishnet stockings with a floral thigh garter, and black platform boots with purple lace and floral charms. Her expression is a cheerful open-mouthed smile with her right hand held up in a curled paw pose near her cheek.
+ 1. Base Anatomy: Sumire is a slim girl. Vivid purple eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy lavender hair, layered bangs, and elaborate purple flower clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, sleek pointed purple cat ears and a long, slender, flexible purple cat tail of even thickness decorated with a small purple bow.
+
+ 4. Upper Body: She wears a black choker with a star charm and multiple star-themed accessories. Her outfit is a black zip-up jacket with purple floral patterns layered over a white corset-style top.
+
+ 5. Lower Body & Feet: A pleated black mini skirt with purple floral accents, black fishnet stockings with a floral thigh garter, and black platform boots with purple lace and floral charms.
+
+ 6. Pose: With her right hand held up in a curled paw pose near her cheek.
 
 Physical Appearance Prompt Style 4b — Sumire Alt Style 1
 
-Sumire is a slender young girl with vibrant purple eyes and long, wavy light purple hair elegantly adorned with a cluster of white and purple flowers with trailing tassels on her left side. Applying cat logic, she possesses sleek, pointed light purple ears with white inner fluff and a long, slender, flexible light purple tail detailed with a matching purple ribbon bow near the tip. Her attire starts with a black choker and a delicate gold pendant necklace, layered over a white crop top with black trim, corset-style lacing, and black straps, worn beneath a loose-fitting black open jacket decorated with purple floral patterns, crisscross sleeve lacing, and dangling purple ribbons. Her lower half consists of a black pleated miniskirt with a vibrant purple ruffled hemline, heavily accessorized with a black belt, gold hip chains, and decorative purple bows. She styles her legs with sheer black fishnet tights and strapped garters bearing purple bows on both thighs, finishing with black platform lace-up boots accented with dangling purple floral charms and purple outsoles. She displays a cheerful, open-mouthed smile, posing playfully with her right hand raised into a curled paw gesture and her left arm resting casually at her side.
+ 1. Base Anatomy: Sumire is a slender young girl. Vibrant purple eyes. She displays a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light purple hair elegantly adorned with a cluster of white and purple flowers with trailing tassels on her left side.
+
+ 3. Species Traits: Cat Logic — Applying cat logic, she possesses sleek, pointed light purple ears with white inner fluff and a long, slender, flexible light purple tail detailed with a matching purple ribbon bow near the tip.
+
+ 4. Upper Body: Her attire starts with a black choker and a delicate gold pendant necklace, layered over a white crop top with black trim, corset-style lacing, and black straps, worn beneath a loose-fitting black open jacket decorated with purple floral patterns, crisscross sleeve lacing, and dangling purple ribbons.
+
+ 5. Lower Body & Feet: Her lower half consists of a black pleated miniskirt with a vibrant purple ruffled hemline, heavily accessorized with a black belt, gold hip chains, and decorative purple bows. She styles her legs with sheer black fishnet tights and strapped garters bearing purple bows on both thighs, finishing with black platform lace-up boots accented with dangling purple floral charms and purple outsoles.
+
+ 6. Pose: Posing playfully with her right hand raised into a curled paw gesture and her left arm resting casually at her side.
 
 ---
 
@@ -437,67 +613,227 @@ Yuuka is a cheerful, high-energy cat girl who expresses affection through consta
 
 Physical Appearance Prompt Style 1 — Yuuka
 
-Yuuka is a petite, slim girl with long, tousled black hair that transitions into a vivid indigo-violet gradient at the ends, framed by soft uneven bangs and a purple floral ornament on one side, and bright sapphire-blue eyes with an energetic, sparkling expression. Her animal features include small, sleek pointed black cat ears with pale cream inner fur and a long, flexible black tail of even slender thickness that curls behind her, tied near the outer curve with a large purple flower bow. She wears a purple blossom hair accessory with dangling bead strands and a black choker with a round gold bell. Her outfit is a cropped black top printed with a stylized purple cat face and paw emblem, layered under an oversized black hoodie jacket with violet lining, floral-patterned sleeves, paw-print patches, utility straps, and small bows, a tiered black-to-purple pleated skirt with floral patterns and an oversized waist bow worn over fitted black shorts with O-ring garter harnesses, black thigh-high stockings with purple bands and paw accents, and black high-top sneakers with white platform soles and purple laces. Her expression is a broad open-mouthed smile with both fists raised in a cheerful double cat-paw pose.
+ 1. Base Anatomy: Yuuka is a petite, slim girl. Bright sapphire-blue eyes with an energetic, sparkling expression. Her expression is a broad open-mouthed smile.
+
+ 2. Hair & Head: Long, tousled black hair that transitions into a vivid indigo-violet gradient at the ends, framed by soft uneven bangs and a purple floral ornament on one side.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed black cat ears with pale cream inner fur and a long, flexible black tail of even slender thickness that curls behind her, tied near the outer curve with a large purple flower bow.
+
+ 4. Upper Body: She wears a purple blossom hair accessory with dangling bead strands and a black choker with a round gold bell. Her outfit is a cropped black top printed with a stylized purple cat face and paw emblem, layered under an oversized black hoodie jacket with violet lining, floral-patterned sleeves, paw-print patches, utility straps, and small bows.
+
+ 5. Lower Body & Feet: A tiered black-to-purple pleated skirt with floral patterns and an oversized waist bow worn over fitted black shorts with O-ring garter harnesses, black thigh-high stockings with purple bands and paw accents, and black high-top sneakers with white platform soles and purple laces.
+
+ 6. Pose: With both fists raised in a cheerful double cat-paw pose.
 
 Physical Appearance Prompt Style 1b — Yuuka
 
-Yuuka is a petite, slim girl with brilliant sapphire-blue eyes opened wide in an excited expression and shaggy, waist-length black hair that shifts through deep violet into electric-purple tips, styled in tousled waves with uneven bangs and a violet flower cluster with dangling ribbons at one side. She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail curved upward, its middle decorated with a large purple bow and flower. A black collar with a large gold bell sits at her throat above a cropped black camisole printed with a purple outlined cat-face and paw-print logo, covered by an oversized black hooded bomber jacket with violet striped cuffs, gold rings, ribbon hardware, flower appliqués, and paw motifs. Her layered black-and-purple pleated miniskirt has an asymmetric ruffled construction, floral and paw-print decoration, and a large purple waist bow, with dark shorts visible beneath. Black thigh-high stockings are accented with purple bands and paw prints, while ringed garter straps and dangling flower charms decorate the thighs. Black high-top platform sneakers have white toe caps and soles, purple laces, paw-print tongue patches, and floral ornaments. She ends with a wide open-mouthed smile, facing directly forward with her feet apart and both elbows bent as she raises two clenched fists in an energetic double cat-paw pose.
+ 1. Base Anatomy: Yuuka is a petite, slim girl. Brilliant sapphire-blue eyes opened wide in an excited expression. She ends with a wide open-mouthed smile.
+
+ 2. Hair & Head: Shaggy, waist-length black hair that shifts through deep violet into electric-purple tips, styled in tousled waves with uneven bangs and a violet flower cluster with dangling ribbons at one side.
+
+ 3. Species Traits: Cat Logic — She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail curved upward, its middle decorated with a large purple bow and flower.
+
+ 4. Upper Body: A black collar with a large gold bell sits at her throat above a cropped black camisole printed with a purple outlined cat-face and paw-print logo, covered by an oversized black hooded bomber jacket with violet striped cuffs, gold rings, ribbon hardware, flower appliqués, and paw motifs. Black high-top platform.
+
+ 5. Lower Body & Feet: Her layered black-and-purple pleated miniskirt has an asymmetric ruffled construction, floral and paw-print decoration, and a large purple waist bow, with dark shorts visible beneath. Black thigh-high stockings are accented with purple bands and paw prints, while ringed garter straps and dangling flower charms decorate the thighs. Sneakers have white toe caps and soles, purple laces, paw-print tongue patches, and floral ornaments.
+
+ 6. Pose: Facing directly forward with her feet apart and both elbows bent as she raises two clenched fists in an energetic double cat-paw pose.
 
 Physical Appearance Prompt Style 1c — Yuuka
 
-Yuuka has a small, youthful build, vivid blue eyes, and an excited open grin that feels playful from the first glance. Her hair is medium-long to long, layered and tousled, predominantly black with saturated violet underlayers and ends, and it frames her face with soft bangs while a purple flower cluster with dangling charms accents one side. She has sleek black animal ears with pale inner fur and a long, slender black tail tied with oversized purple bows, which keeps the design nimble rather than fluffy. Under her outerwear she wears a black cropped top printed with a stylized purple outline of a cat face and a paw mark, and over it sits a roomy black hooded jacket with purple lining, striped cuffs, paw-and-blossom motifs, zipper pulls, and no visible lettering. Below that she wears a layered black mini skirt with purple floral accents over fitted black shorts, asymmetrical thigh-high stockings with paw motifs and garter straps, and black high-top sneakers with purple laces and chunky white soles. She faces forward with both elbows bent, both hands held up near shoulder height in a kittenish paw pose, and her stance balanced with one leg set slightly ahead of the other.
+ 1. Base Anatomy: Yuuka has a small, youthful build. Vivid blue eyes, and an excited open grin that feels playful from the first glance.
+
+ 2. Hair & Head: Her hair is medium-long to long, layered and tousled, predominantly black with saturated violet underlayers and ends, and it frames her face with soft bangs while a purple flower cluster with dangling charms accents one side.
+
+ 3. Species Traits: Cat Logic — She has sleek black animal ears with pale inner fur and a long, slender black tail tied with oversized purple bows, which keeps the design nimble rather than fluffy.
+
+ 4. Upper Body: Under her outerwear she wears a black cropped top printed with a stylized purple outline of a cat face and a paw mark, and over it sits a roomy black hooded jacket with purple lining, striped cuffs, paw-and-blossom motifs, zipper pulls, and no visible lettering.
+
+ 5. Lower Body & Feet: Below that she wears a layered black mini skirt with purple floral accents over fitted black shorts, asymmetrical thigh-high stockings with paw motifs and garter straps, and black high-top sneakers with purple laces and chunky white soles.
+
+ 6. Pose: She faces forward with both elbows bent, both hands held up near shoulder height in a kittenish paw pose, and her stance balanced with one leg set slightly ahead of the other.
 
 Physical Appearance Prompt Style 2 — Yuuka
 
-Yuuka is a petite, lively girl with long, tousled black hair underlaid with vivid indigo-violet that brightens toward the ends, framed by choppy, wispy bangs, and her large round eyes are a luminous cyan-blue full of sparkle. Her animal features include compact, sharply pointed black cat ears with pale inner fur, and a long, slender jet-black cat tail of even thickness that curves flexibly upward, tied near the tip with a violet bow centered by a purple blossom. She wears a purple flower-cluster hair ornament with pink ribbon dangles at her left temple and a black collar-style choker fitted with a golden bell. Her outfit is a black cropped tank top printed with a purple cat-face outline and paw print, layered under an oversized black zip-up hoodie with violet lining, purple bows, paw-print patches, blossom-dusted sleeves, and buckled cuff straps; a tiered black-to-violet gradient skirt scattered with purple flowers and dressed with oversized purple bows is worn over fitted black shorts joined by O-ring garter harness straps; black thigh-high stockings carry purple paw prints and violet trim bands; and she wears black canvas high-top sneakers with white platform soles, purple laces, and tiny flower charms. Her expression is an exuberant, wide-open smile with shining eyes, posed with both hands raised to chest height in curled double cat-paw gestures.
+ 1. Base Anatomy: Yuuka is a petite, lively girl. Large round eyes are a luminous cyan-blue full of sparkle. Her expression is an exuberant, wide-open smile with shining eyes.
+
+ 2. Hair & Head: Long, tousled black hair underlaid with vivid indigo-violet that brightens toward the ends, framed by choppy, wispy bangs. She wears a purple flower-cluster hair ornament with pink ribbon dangles at her left temple and a black collar-style choker fitted with a golden bell.
+
+ 3. Species Traits: Cat Logic — Her animal features include compact, sharply pointed black cat ears with pale inner fur, and a long, slender jet-black cat tail of even thickness that curves flexibly upward, tied near the tip with a violet bow centered by a purple blossom.
+
+ 4. Upper Body: She wears a purple flower-cluster hair ornament with pink ribbon dangles at her left temple and a black collar-style choker fitted with a golden bell. Her outfit is a black cropped tank top printed with a purple cat-face outline and paw print, layered under an oversized black zip-up hoodie with violet lining, purple bows, paw-print patches, blossom-dusted sleeves, and buckled cuff straps.
+
+ 5. Lower Body & Feet: A tiered black-to-violet gradient skirt scattered with purple flowers and dressed with oversized purple bows is worn over fitted black shorts joined by O-ring garter harness straps; black thigh-high stockings carry purple paw prints and violet trim bands; and she wears black canvas high-top sneakers with white platform soles, purple laces, and tiny flower charms.
+
+ 6. Pose: Posed with both hands raised to chest height in curled double cat-paw gestures.
 
 Physical Appearance Prompt Style 2b — Yuuka
 
-Yuuka has a petite, slight frame with fair skin, large sapphire-blue eyes, and a wide, open-mouthed beaming smile. Her shaggy, layered black hair falls to mid-back in tousled waves shot through with vivid indigo-violet that intensifies toward the ends, and a purple flower ornament with pink ribbon dangles is pinned above her ear. Sleek black cat ears with pale inner tufts sit atop her head, and a slender, flexible black tail arcs behind her, finished with a violet bow and tiny blossom near the tip. She wears a black choker with a golden bell, a black crop top printed with a purple cat-face and paw-print graphic that is purely pictorial with no written text, and over it an oversized black zip-up hoodie with purple drawstrings and lining, a purple paw print on the hood, lavender bows, floral patches on the sleeves, and buckled straps. Her layered, tiered skirt fades from black into purple floral print and is decorated with large violet bows, worn over fitted black shorts with o-ring garter harness straps circling her thighs, above black thigh-high stockings marked with purple paw prints and trim, and black high-top sneakers on thick white platform soles laced in purple with flower charms. She poses facing forward with both fists raised in a cheerful double paw pose at chest height.
+ 1. Base Anatomy: Yuuka has a petite, slight frame with fair skin. Large sapphire-blue eyes, and a wide, open-mouthed beaming smile. She poses facing forward with both fists raised in a cheerful double paw pose at chest height.
+
+ 2. Hair & Head: Her shaggy, layered black hair falls to mid-back in tousled waves shot through with vivid indigo-violet that intensifies toward the ends, and a purple flower ornament with pink ribbon dangles is pinned above her ear.
+
+ 3. Species Traits: Cat Logic — Sleek black cat ears with pale inner tufts sit atop her head, and a slender, flexible black tail arcs behind her, finished with a violet bow and tiny blossom near the tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell, a black crop top printed with a purple cat-face and paw-print graphic that is purely pictorial with no written text, and over it an oversized black zip-up hoodie with purple drawstrings and lining, a purple paw print on the hood, lavender bows, floral patches on the sleeves, and buckled straps.
+
+ 5. Lower Body & Feet: Her layered, tiered skirt fades from black into purple floral print and is decorated with large violet bows, worn over fitted black shorts with o-ring garter harness straps circling her thighs, above black thigh-high stockings marked with purple paw prints and trim, and black high-top sneakers on thick white platform soles laced in purple with flower charms.
+
+ 6. Pose: She poses facing forward with both fists raised in a cheerful double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Yuuka
 
-Yuuka is a petite girl with messy, shoulder-length black hair that gradients into a vibrant indigo-purple at the tips, framing a joyful expression with large blue eyes. Her animal features include small, pointed black cat ears with tan inner fur and a long, slender black cat tail adorned with a purple ribbon. She wears a black collar with a golden bell and matching buckled thigh straps decorated with paw prints. Her outfit is a black crop top featuring a purple cat-print logo layered beneath a black zip-up hoodie with purple lining and floral decals, a tiered purple-and-black pleated skirt, black thigh-high socks, and black high-top sneakers with white soles and purple laces. Her expression is broad and excited, with both hands brought up to her chest in dual cat-paw poses.
+ 1. Base Anatomy: Yuuka is a petite girl. Framing a joyful expression with large blue eyes. Her expression is broad and excited.
+
+ 2. Hair & Head: Messy, shoulder-length black hair that gradients into a vibrant indigo-purple at the tips.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed black cat ears with tan inner fur and a long, slender black cat tail adorned with a purple ribbon.
+
+ 4. Upper Body: She wears a black collar with a golden bell and matching buckled thigh straps decorated with paw prints. Her outfit is a black crop top featuring a purple cat-print logo layered beneath a black zip-up hoodie with purple lining and floral decals.
+
+ 5. Lower Body & Feet: A tiered purple-and-black pleated skirt, black thigh-high socks, and black high-top sneakers with white soles and purple laces.
+
+ 6. Pose: With both hands brought up to her chest in dual cat-paw poses.
 
 Physical Appearance Prompt Style 4 — Yuuka
 
-Yuuka is a petite girl with long, layered black hair transitioning to vibrant purple tips with blunt bangs and purple floral hair clips, and vivid blue eyes. Her animal features include sleek, pointed black cat ears and a long, slender, flexible black cat tail of even thickness adorned with a purple bow. She wears a black choker with a golden bell and hanging floral hair accessories. Her outfit is a black zip-up hoodie featuring a purple paw print and floral motifs layered over a black crop top with a matching paw print, a black pleated mini skirt with a purple floral gradient hem over black shorts, black thigh-high stockings held by buckled strap garters with paw charms, and black high-top canvas sneakers with purple soles and floral lace accents. Her expression is a bright, open-mouthed smile with both hands raised near her chest in cute, curled paw poses.
+ 1. Base Anatomy: Yuuka is a petite girl. Vivid blue eyes. Her expression is a bright, open-mouthed smile.
+
+ 2. Hair & Head: Long, layered black hair transitioning to vibrant purple tips with blunt bangs and purple floral hair clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed black cat ears and a long, slender, flexible black cat tail of even thickness adorned with a purple bow.
+
+ 4. Upper Body: She wears a black choker with a golden bell and hanging floral hair accessories. Her outfit is a black zip-up hoodie featuring a purple paw print and floral motifs layered over a black crop top with a matching paw print.
+
+ 5. Lower Body & Feet: A black pleated mini skirt with a purple floral gradient hem over black shorts, black thigh-high stockings held by buckled strap garters with paw charms, and black high-top canvas sneakers with purple soles and floral lace accents.
+
+ 6. Pose: With both hands raised near her chest in cute, curled paw poses.
 
 Physical Appearance Prompt Style 4b — Yuuka
 
-Yuuka has a slender build, bright blue eyes, and voluminous, layered black hair that transitions into vivid purple at the ends, styled with a purple floral hairpin cluster on her left side. Based on cat logic, she possesses sleek black feline ears with pink inner fluff and a slender, curving black tail adorned with a purple bow near the tip. Her accessories include a black choker with a gold bell, leading into a cropped black t-shirt featuring a purple paw print graphic, layered beneath a black zip-up hoodie detailed with purple accents, buckles, and floral motifs. Her lower half consists of a black pleated miniskirt with purple floral hem patterns and a matching side bow, paired with black thigh-high stockings held by intricate strapped garter belts with paw-print charms, and finished with black high-top canvas sneakers featuring purple laces and floral charms. She displays a bright, open-mouthed smile while standing energetically with both hands raised into playful, curled paw gestures.
+ 1. Base Anatomy: Yuuka has a slender build. Bright blue eyes. She displays a bright, open-mouthed smile.
+
+ 2. Hair & Head: Voluminous, layered black hair that transitions into vivid purple at the ends, styled with a purple floral hairpin cluster on her left side.
+
+ 3. Species Traits: Cat Logic — Based on cat logic, she possesses sleek black feline ears with pink inner fluff and a slender, curving black tail adorned with a purple bow near the tip.
+
+ 4. Upper Body: Her accessories include a black choker with a gold bell, leading into a cropped black t-shirt featuring a purple paw print graphic, layered beneath a black zip-up hoodie detailed with purple accents, buckles, and floral motifs.
+
+ 5. Lower Body & Feet: Her lower half consists of a black pleated miniskirt with purple floral hem patterns and a matching side bow, paired with black thigh-high stockings held by intricate strapped garter belts with paw-print charms, and finished with black high-top canvas sneakers featuring purple laces and floral charms.
+
+ 6. Pose: Standing energetically with both hands raised into playful, curled paw gestures.
 
 Physical Appearance Prompt Style 1 — Yuuka Alt Style 1
 
-Yuuka is a petite, slim girl with long, voluminous black hair that falls to her lower back in loose layered waves and transitions into a vivid indigo-violet gradient at the ends, framed by soft uneven bangs and decorated on one side with a large purple flower ornament, smaller blossoms, bead strands, and long tassels, and bright sapphire-blue eyes with an energetic, delighted expression. Her animal features include small, sleek pointed black cat ears with soft pale pink inner fur and a long, flexible black tail of even slender thickness that curves smoothly behind her, decorated near the outer section with a large violet bow and a small dangling gold star charm. She wears a purple choker with a central floral ornament and pendant, additional blossom accessories, gold chains, tiny star charms, ribbons, and coordinated purple jewelry-like details throughout her ensemble. Her outfit is a fitted black cropped camisole with purple trim and a prominent crescent-shaped floral-and-gold chest ornament, layered beneath a black off-the-shoulder jacket with voluminous sleeves, purple lining, corset-style arm lacing, pink-and-violet blossom embroidery, and gold star accents, paired with a highly layered black and purple pleated miniskirt featuring petal-shaped overskirt panels, a large decorative flower bow at one hip, a black belt, gold chains, star charms, and hanging garter straps, black thigh-high stockings with purple floral ornaments and dangling jewelry details, and black high-top platform sneakers with white toe caps, purple lug soles, pale laces, gold star hardware, and violet bow accents. Her expression is a wide open-mouthed smile showing a small fang, with both hands raised beside her shoulders and her fingers curled forward in a playful double cat-paw pose.
+ 1. Base Anatomy: Yuuka is a petite, slim girl. Bright sapphire-blue eyes with an energetic, delighted expression. Her expression is a wide open-mouthed smile showing a small fang.
+
+ 2. Hair & Head: Long, voluminous black hair that falls to her lower back in loose layered waves and transitions into a vivid indigo-violet gradient at the ends, framed by soft uneven bangs and decorated on one side with a large purple flower ornament, smaller blossoms, bead strands, and long tassels.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed black cat ears with soft pale pink inner fur and a long, flexible black tail of even slender thickness that curves smoothly behind her, decorated near the outer section with a large violet bow and a small dangling gold star charm.
+
+ 4. Upper Body: She wears a purple choker with a central floral ornament and pendant, additional blossom accessories, gold chains, tiny star charms, ribbons, and coordinated purple jewelry-like details throughout her ensemble. Her outfit is a fitted black cropped camisole with purple trim and a prominent crescent-shaped floral-and-gold chest ornament, layered beneath a black off-the-shoulder jacket with voluminous sleeves, purple lining, corset-style arm lacing, pink-and-violet blossom embroidery, and gold star accents.
+
+ 5. Lower Body & Feet: Paired with a highly layered black and purple pleated miniskirt featuring petal-shaped overskirt panels, a large decorative flower bow at one hip, a black belt, gold chains, star charms, and hanging garter straps, black thigh-high stockings with purple floral ornaments and dangling jewelry details, and black high-top platform sneakers with white toe caps, purple lug soles, pale laces, gold star hardware, and violet bow accents.
+
+ 6. Pose: With both hands raised beside her shoulders and her fingers curled forward in a playful double cat-paw pose.
 
 Physical Appearance Prompt Style 1b — Yuuka Alt Style 1
 
-Yuuka is a petite, slim girl with bright sapphire-blue eyes and a lively, excited expression, framed by very long, thick black hair that falls in loose waves and fades into a rich violet-purple at the ends, with a large purple flower clip and tasselled ornaments decorating one side. She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail that curls behind her and is tied with a purple bow and tiny gold charms. She wears a black choker and a fitted black cropped top with a large purple blossom-and-heart emblem at the chest, layered under a black cropped jacket with violet trim, floral embroidery, shoulder cutouts, and lace-up ribbon details running down the sleeves. At her waist sits a black-and-purple pleated mini skirt with gold chain drapes, petal-like translucent overskirt panels, starry speckled accents, and a large floral bow ornament at one hip. Her legwear consists of black thigh-high stockings decorated with flower-star garters and dangling gem-like ornaments. On her feet are black high-top platform sneakers with white toe caps, purple soles, gold eyelets, and flower accents. She finishes with a wide open-mouthed smile, facing forward with both elbows bent and both hands raised in front of her shoulders, fingers spread in an animated double cat-paw pose.
+ 1. Base Anatomy: Yuuka is a petite, slim girl. Bright sapphire-blue eyes. She finishes with a wide open-mouthed smile.
+
+ 2. Hair & Head: A lively, excited expression, framed by very long, thick black hair that falls in loose waves and fades into a rich violet-purple at the ends, with a large purple flower clip and tasselled ornaments decorating one side.
+
+ 3. Species Traits: Cat Logic — She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail that curls behind her and is tied with a purple bow and tiny gold charms.
+
+ 4. Upper Body: She wears a black choker and a fitted black cropped top with a large purple blossom-and-heart emblem at the chest, layered under a black cropped jacket with violet trim, floral embroidery, shoulder cutouts, and lace-up ribbon details running down the sleeves. On her feet are black high-top platform.
+
+ 5. Lower Body & Feet: At her waist sits a black-and-purple pleated mini skirt with gold chain drapes, petal-like translucent overskirt panels, starry speckled accents, and a large floral bow ornament at one hip. Her legwear consists of black thigh-high stockings decorated with flower-star garters and dangling gem-like ornaments. Sneakers with white toe caps, purple soles, gold eyelets, and flower accents.
+
+ 6. Pose: Facing forward with both elbows bent and both hands raised in front of her shoulders, fingers spread in an animated double cat-paw pose.
 
 Physical Appearance Prompt Style 1c — Yuuka Alt Style 1
 
-Yuuka has a petite, energetic build, bright azure-blue eyes, and an enthusiastic open smile. Her hair is long, wavy, and voluminous, black at the roots and through most of the length before deepening into saturated violet at the lower half, with a large purple flower ornament and tassels pinned beside her right ear. Her ears are sleek and pointed with pale inner fur, and her tail is slender and highly flexible, black throughout with a purple bow tied near the end and a small dangling charm. Against her skin she wears a cropped black top centered by a large purple flower medallion framed in gold, then an off-shoulder black jacket lined in purple and decorated with cherry blossoms, ribbon lacing on the sleeves, and small star-like sparkles, while translucent purple petal-like panels flare from the waist and back like layered decorative overskirts. Her lower body is built around a black pleated mini skirt dusted with gold star motifs and trimmed in purple, cinched with a belt and chain details, paired with black thigh-high stockings accented by floral garters and jewel drops, and finished with black high-top sneakers that have white toe caps, purple soles, and flower ornaments at the ankles. She stands front-facing with both elbows bent outward, both hands raised near shoulder height in a paw-like gesture, her fingers curled, and her legs straight beneath her.
+ 1. Base Anatomy: Yuuka has a petite, energetic build. Bright azure-blue eyes, and an enthusiastic open smile.
+
+ 2. Hair & Head: Her hair is long, wavy, and voluminous, black at the roots and through most of the length before deepening into saturated violet at the lower half, with a large purple flower ornament and tassels pinned beside her right ear.
+
+ 3. Species Traits: Cat Logic — Her ears are sleek and pointed with pale inner fur, and her tail is slender and highly flexible, black throughout with a purple bow tied near the end and a small dangling charm.
+
+ 4. Upper Body: Against her skin she wears a cropped black top centered by a large purple flower medallion framed in gold, then an off-shoulder black jacket lined in purple and decorated with cherry blossoms, ribbon lacing on the sleeves, and small star-like sparkles.
+
+ 5. Lower Body & Feet: Translucent purple petal-like panels flare from the waist and back like layered decorative overskirts. Her lower body is built around a black pleated mini skirt dusted with gold star motifs and trimmed in purple, cinched with a belt and chain details, paired with black thigh-high stockings accented by floral garters and jewel drops, and finished with black high-top sneakers that have white toe caps, purple soles, and flower ornaments at the ankles.
+
+ 6. Pose: She stands front-facing with both elbows bent outward, both hands raised near shoulder height in a paw-like gesture, her fingers curled, and her legs straight beneath her.
 
 Physical Appearance Prompt Style 2 — Yuuka Alt Style 1
 
-Yuuka is a petite girl with long, tousled black waves that flush into vivid violet-purple through the underlayer and ends, framed by soft bangs and crowned with a large purple blossom ornament dripping golden tassels above her ear, and she has big sapphire-blue eyes and a joyful open-mouthed smile. Her animal features include small, sleek black cat ears with pale pink inner fur, and a single long, slender black tail of even thickness that curls upward, dressed near the tip with a purple polka-dot bow and star charm. She wears a violet choker with a flower charm and a delicate matching flower necklace. Her outfit is a black sleeveless crop hoodie with a violet-lined hood, golden zipper, and a gilded crescent-and-blossom emblem at the chest, its bare shoulders bridged by purple ribbon bows that fasten detached black sleeves laced with cording and printed with pink blossoms, paired with a black pleated miniskirt shimmering with a starry galaxy print and layered lavender side drapes gathered under a great purple bow and gold-chained belt, black garter-clipped thigh-high stockings hung with flower charms and gem drops, and black high-top sneakers on white-and-violet platform soles finished with bows, ribbons, and golden star medallions. Her expression is a bright, delighted grin with both hands raised beside her shoulders in open, clawed paw gestures.
+ 1. Base Anatomy: Yuuka is a petite girl. She has big sapphire-blue eyes and a joyful open-mouthed smile. Her expression is a bright, delighted grin.
+
+ 2. Hair & Head: Long, tousled black waves that flush into vivid violet-purple through the underlayer and ends, framed by soft bangs and crowned with a large purple blossom ornament dripping golden tassels above her ear.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek black cat ears with pale pink inner fur, and a single long, slender black tail of even thickness that curls upward, dressed near the tip with a purple polka-dot bow and star charm.
+
+ 4. Upper Body: She wears a violet choker with a flower charm and a delicate matching flower necklace. Her outfit is a black sleeveless crop hoodie with a violet-lined hood, golden zipper, and a gilded crescent-and-blossom emblem at the chest, its bare shoulders bridged by purple ribbon bows that fasten detached black sleeves laced with cording and printed with pink blossoms.
+
+ 5. Lower Body & Feet: Paired with a black pleated miniskirt shimmering with a starry galaxy print and layered lavender side drapes gathered under a great purple bow and gold-chained belt, black garter-clipped thigh-high stockings hung with flower charms and gem drops, and black high-top sneakers on white-and-violet platform soles finished with bows, ribbons, and golden star medallions.
+
+ 6. Pose: With both hands raised beside her shoulders in open, clawed paw gestures.
 
 Physical Appearance Prompt Style 2b — Yuuka Alt Style 1
 
-Yuuka has a petite, slight frame with fair skin, large sapphire-blue eyes, and a wide, open-mouthed beaming smile. Her tousled black hair falls in waves to her mid-back, flushing into vivid violet through the lower lengths, and is pinned above one ear with a purple flower ornament dripping golden tassels. Sleek black cat ears with pale pink inner tufts sit atop her head, and a slender, flexible black tail with softly ridged fur arcs behind her, tied with a purple polka-dot bow and star charm near the tip. She wears a violet-edged black choker with a small blossom charm and a matching flower pendant, a black cropped top centered with a golden crescent moon and purple flower emblem, and a cropped black hooded jacket whose shoulders open into lavender ribbon bows and criss-cross lacing along the sleeves, which are printed with sprays of pink-violet blossoms above purple-trimmed cuffs; no lettering appears anywhere on the outfit. Her black pleated miniskirt glitters with gold stars over a purple galaxy wash, belted in black with a gold chain and crowned at the hips by a large violet bow with layered lavender sash panels draping around the sides and back, while garter straps run to black thigh-high stockings hung with flower charms and gold drops, ending in black high-top sneakers on white platform soles with purple accents, star medallions, and back bows. She poses facing forward with both hands lifted in open, clawed paw gestures at shoulder height.
+ 1. Base Anatomy: Yuuka has a petite, slight frame with fair skin. Large sapphire-blue eyes, and a wide, open-mouthed beaming smile.
+
+ 2. Hair & Head: Her tousled black hair falls in waves to her mid-back, flushing into vivid violet through the lower lengths, and is pinned above one ear with a purple flower ornament dripping golden tassels.
+
+ 3. Species Traits: Cat Logic — Sleek black cat ears with pale pink inner tufts sit atop her head, and a slender, flexible black tail with softly ridged fur arcs behind her, tied with a purple polka-dot bow and star charm near the tip.
+
+ 4. Upper Body: She wears a violet-edged black choker with a small blossom charm and a matching flower pendant, a black cropped top centered with a golden crescent moon and purple flower emblem, and a cropped black hooded jacket whose shoulders open into lavender ribbon bows and criss-cross lacing along the sleeves, which are printed with sprays of pink-violet blossoms above purple-trimmed cuffs; no lettering appears anywhere on the outfit.
+
+ 5. Lower Body & Feet: Her black pleated miniskirt glitters with gold stars over a purple galaxy wash, belted in black with a gold chain and crowned at the hips by a large violet bow with layered lavender sash panels draping around the sides and back, while garter straps run to black thigh-high stockings hung with flower charms and gold drops, ending in black high-top sneakers on white platform soles with purple accents, star medallions, and back bows.
+
+ 6. Pose: She poses facing forward with both hands lifted in open, clawed paw gestures at shoulder height.
 
 Physical Appearance Prompt Style 3 — Yuuka Alt Style 1
 
-Yuuka is slender with long, wavy black hair featuring a vibrant violet gradient at the ends, styled with straight bangs, face-framing strands, and a large purple flower hair ornament with gold tassels on the left side, and bright blue eyes. Her animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, decorated with a purple ribbon bow. She wears a black collar with a golden crescent moon charm, gold chains draping across her hip, and a purple flower garter strap on her left leg. Her outfit is a black cold-shoulder cropped hoodie featuring pink floral sleeve patterns and a golden moon chest graphic with a black sleeveless inner crop top, a black pleated mini skirt with an asymmetrical layered purple starry galaxy overlay, black thigh-high socks secured by garter straps, and high-top black canvas sneakers with purple platform soles and laces. Her expression is a joyful, wide open-mouthed smile with both hands raised to chest level in an adorable double cat-paw fist pose.
+ 1. Base Anatomy: Yuuka is slender. Bright blue eyes. Her expression is a joyful, wide open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy black hair featuring a vibrant violet gradient at the ends, styled with straight bangs, face-framing strands, and a large purple flower hair ornament with gold tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, decorated with a purple ribbon bow.
+
+ 4. Upper Body: She wears a black collar with a golden crescent moon charm, gold chains draping across her hip. Her outfit is a black cold-shoulder cropped hoodie featuring pink floral sleeve patterns and a golden moon chest graphic with a black sleeveless inner crop top.
+
+ 5. Lower Body & Feet: A purple flower garter strap on her left leg. A black pleated mini skirt with an asymmetrical layered purple starry galaxy overlay, black thigh-high socks secured by garter straps, and high-top black canvas sneakers with purple platform soles and laces.
+
+ 6. Pose: With both hands raised to chest level in an adorable double cat-paw fist pose.
 
 Physical Appearance Prompt Style 4 — Yuuka Alt Style 1
 
-Yuuka is a petite girl with long, wavy black hair featuring vibrant purple tips, straight bangs, and prominent purple flower clips, and bright blue eyes. Her animal features include smaller, sleek pointed black cat ears and a long, slender, flexible black cat tail of even thickness tipped with a purple bow. She wears a black choker with a crescent moon charm. Her outfit is a black zip-up jacket over a black crop top with a crescent moon emblem, a pleated black and purple mini skirt with cosmic patterns, black thigh-high stockings with star-themed floral garters, and black platform sneakers with purple accents. Her expression is a bright open-mouthed smile with both hands raised to her chest in curled, paw-like fists.
+ 1. Base Anatomy: Yuuka is a petite girl. Bright blue eyes. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy black hair featuring vibrant purple tips, straight bangs, and prominent purple flower clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, sleek pointed black cat ears and a long, slender, flexible black cat tail of even thickness tipped with a purple bow.
+
+ 4. Upper Body: She wears a black choker with a crescent moon charm. Her outfit is a black zip-up jacket over a black crop top with a crescent moon emblem.
+
+ 5. Lower Body & Feet: A pleated black and purple mini skirt with cosmic patterns, black thigh-high stockings with star-themed floral garters, and black platform sneakers with purple accents.
+
+ 6. Pose: With both hands raised to her chest in curled, paw-like fists.
 
 Physical Appearance Prompt Style 4b — Yuuka Alt Style 1
 
-Yuuka is a slender young girl with bright blue eyes and long, wavy black hair that dramatically gradients into vibrant purple at the tips, decorated with a large cluster of purple flowers and hanging tassels on her left side. Based on cat logic, she features sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail finished with a purple ribbon bow. Her outfit includes a black choker with a pink paw pendant, layered under a black crop top displaying a gold crescent moon and purple floral emblem, worn underneath a black off-the-shoulder open jacket adorned with purple lacing, matching floral prints, and a stylish back strap. She wears a black pleated miniskirt overlaying a gradient purple ruffled hem, beautifully accessorized with a large purple floral ribbon bow on her right hip, gold hip chains, and delicate star charms. Her legwear consists of black thigh-high socks secured by garter straps, featuring a floral charm and hanging gold moon and star pendants on the left thigh, perfectly paired with black high-top platform sneakers detailed with purple laces, white toe caps, purple outsoles, and gold star emblems. She exhibits an enthusiastic, open-mouthed smile, posing brightly with both hands raised into playful, curled paw gestures near her chest.
+ 1. Base Anatomy: Yuuka is a slender young girl. Bright blue eyes. She exhibits an enthusiastic, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy black hair that dramatically gradients into vibrant purple at the tips, decorated with a large cluster of purple flowers and hanging tassels on her left side.
+
+ 3. Species Traits: Cat Logic — Based on cat logic, she features sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail finished with a purple ribbon bow.
+
+ 4. Upper Body: Her outfit includes a black choker with a pink paw pendant, layered under a black crop top displaying a gold crescent moon and purple floral emblem, worn underneath a black off-the-shoulder open jacket adorned with purple lacing, matching floral prints, and a stylish back strap.
+
+ 5. Lower Body & Feet: She wears a black pleated miniskirt overlaying a gradient purple ruffled hem, beautifully accessorized with a large purple floral ribbon bow on her right hip, gold hip chains, and delicate star charms. Her legwear consists of black thigh-high socks secured by garter straps, featuring a floral charm and hanging gold moon and star pendants on the left thigh, perfectly paired with black high-top platform sneakers detailed with purple laces, white toe caps, purple outsoles, and gold star emblems.
+
+ 6. Pose: Posing brightly with both hands raised into playful, curled paw gestures near her chest.
 
 ---
 
@@ -686,35 +1022,115 @@ Akane is an elegant and intensely devoted cat girl whose calm, controlled exteri
 
 Physical Appearance Prompt Style 1 — Akane
 
-Akane is a petite, slender girl with very long, softly wavy black hair streaked with crimson-magenta highlights that deepen into a wine-red gradient at the ends, framed by smooth center-swept bangs and ornate blossom ornaments, and calm ruby-red eyes with a poised, gentle expression. Her animal features include small, sleek pointed black cat ears with rosy inner fur and a long, flexible black tail of even slender thickness that curves elegantly upward, adorned with a dark crimson bow and dangling gold heart-lock charms. She wears symmetrical pink camellia hair ornaments with bead tassels, a frilled black choker with a gold heart-shaped lock and dark pendant, and matching heart-themed jewelry. Her outfit is a black and crimson gothic-wa dress with a lace-trimmed off-the-shoulder bodice, corset-style red lacing, a broad obi-inspired sash tied into a large bow, and wide kimono sleeves printed with cherry blossoms, layered over a tiered wine-red ruffle skirt with sheer floral side panels, paired with asymmetrical legwear consisting of one black blossom-patterned thigh-high stocking and a heart-charm garter on the bare leg, and black platform heeled boots cross-laced with crimson ribbon and finished with bows. Her expression is a soft closed-lip smile with both arms resting naturally at her sides in a composed, graceful stance.
+ 1. Base Anatomy: Akane is a petite, slender girl. Calm ruby-red eyes with a poised, gentle expression. Her expression is a soft closed-lip smile.
+
+ 2. Hair & Head: Very long, softly wavy black hair streaked with crimson-magenta highlights that deepen into a wine-red gradient at the ends, framed by smooth center-swept bangs and ornate blossom ornaments. She wears symmetrical pink camellia hair ornaments with bead tassels.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed black cat ears with rosy inner fur and a long, flexible black tail of even slender thickness that curves elegantly upward, adorned with a dark crimson bow and dangling gold heart-lock charms.
+
+ 4. Upper Body: She wears symmetrical pink camellia hair ornaments with bead tassels, a frilled black choker with a gold heart-shaped lock and dark pendant, and matching heart-themed jewelry. Her outfit is a black and crimson gothic-wa dress with a lace-trimmed off-the-shoulder bodice, corset-style red lacing, a broad obi-inspired sash tied into a large bow, and wide kimono sleeves printed with cherry blossoms.
+
+ 5. Lower Body & Feet: Layered over a tiered wine-red ruffle skirt with sheer floral side panels, paired with asymmetrical legwear consisting of one black blossom-patterned thigh-high stocking and a heart-charm garter on the bare leg, and black platform heeled boots cross-laced with crimson ribbon and finished with bows.
+
+ 6. Pose: With both arms resting naturally at her sides in a composed, graceful stance.
 
 Physical Appearance Prompt Style 1b — Akane
 
-Akane is a slender, petite girl with deep crimson-red eyes and a soft, composed gaze, framed by very long black hair that falls past her waist in loose waves with vivid rose-red streaks and burgundy-magenta undertones, straight wispy bangs, and elaborate red-pink blossom clusters with hanging beads and tassels on both sides of her head. She has compact, sleek black cat ears with dark rose inner coloring and one slender black tail curved beside her body, decorated with a large burgundy bow, small heart charms, and gold lock ornaments. A ruffled black choker with a heart-shaped gold setting and dark pendant sits above a gothic-lolita black corset bodice with a scalloped lace neckline, off-shoulder trim, and burgundy crisscross lacing, paired with detached long bell sleeves patterned in red and pink blossoms. A broad burgundy obi-like waist bow, gold chains, tassels, and heart-lock charms lead into a layered black miniskirt with wine-red ruffles and floral panels, extended by long split draped overskirt sections. Her legwear is asymmetric, with one bare thigh carrying a floral garter and heart charm while the opposite leg wears a black thigh-high embroidered with a red flowering vine and bow detail. Black platform ankle boots are wrapped in burgundy crisscross straps and finished with small bows and tassels. She ends with a gentle closed-mouth smile, standing straight and front-facing with her feet close together and both arms relaxed evenly at her sides.
+ 1. Base Anatomy: Akane is a slender, petite girl. Deep crimson-red eyes. She ends with a gentle closed-mouth smile.
+
+ 2. Hair & Head: A soft, composed gaze, framed by very long black hair that falls past her waist in loose waves with vivid rose-red streaks and burgundy-magenta undertones, straight wispy bangs, and elaborate red-pink blossom clusters with hanging beads and tassels on both sides of her head.
+
+ 3. Species Traits: Cat Logic — She has compact, sleek black cat ears with dark rose inner coloring and one slender black tail curved beside her body, decorated with a large burgundy bow, small heart charms, and gold lock ornaments.
+
+ 4. Upper Body: A ruffled black choker with a heart-shaped gold setting and dark pendant sits above a gothic-lolita black corset bodice with a scalloped lace neckline, off-shoulder trim, and burgundy crisscross lacing, paired with detached long bell sleeves patterned in red and pink blossoms.
+
+ 5. Lower Body & Feet: A broad burgundy obi-like waist bow, gold chains, tassels, and heart-lock charms lead into a layered black miniskirt with wine-red ruffles and floral panels, extended by long split draped overskirt sections. Her legwear is asymmetric, with one bare thigh carrying a floral garter and heart charm while the opposite leg wears a black thigh-high embroidered with a red flowering vine and bow detail. Black platform ankle boots are wrapped in burgundy crisscross straps and finished with small bows and tassels.
+
+ 6. Pose: Standing straight and front-facing with her feet close together and both arms relaxed evenly at her sides.
 
 Physical Appearance Prompt Style 1c — Akane
 
-Akane has a slender, doll-like build, warm crimson eyes, and a soft, composed smile that reads more graceful than mischievous. Her hair is very long and flowing, black through the crown with deep red streaks and a wine-to-rose gradient toward the ends, and it is styled with long bangs and lavish cherry-blossom ornaments with bead tassels on both sides of her head. She has sharply upright black animal ears and a slim black tail finished with bows, tassels, and heart-shaped lock charms, all of which keep the silhouette refined and ornamental. Her upper body is built from a black and crimson lace-trimmed corset dress with an off-shoulder neckline, crisscross lacing down the bodice, a black choker with a gold heart pendant, and dramatic draped kimono-like sleeves that fall from the arms in translucent floral layers, with no readable text anywhere on the costume. Her lower half continues into a layered ruffled mini skirt, one bare thigh with a red garter, one black thigh-high stocking embroidered with a climbing floral vine, and black platform ankle boots bound with red crisscross laces and bows. She stands straight and centered with both arms lowered, her draped sleeves hanging around her hands, and her feet set close together in a poised, formal stance.
+ 1. Base Anatomy: Akane has a slender, doll-like build. Warm crimson eyes, and a soft, composed smile that reads more graceful than mischievous.
+
+ 2. Hair & Head: Her hair is very long and flowing, black through the crown with deep red streaks and a wine-to-rose gradient toward the ends, and it is styled with long bangs and lavish cherry-blossom ornaments with bead tassels on both sides of her head.
+
+ 3. Species Traits: Cat Logic — She has sharply upright black animal ears and a slim black tail finished with bows, tassels, and heart-shaped lock charms, all of which keep the silhouette refined and ornamental.
+
+ 4. Upper Body: Her upper body is built from a black and crimson lace-trimmed corset dress with an off-shoulder neckline, crisscross lacing down the bodice, a black choker with a gold heart pendant, and dramatic draped kimono-like sleeves that fall from the arms in translucent floral layers, with no readable text anywhere on the costume.
+
+ 5. Lower Body & Feet: Her lower half continues into a layered ruffled mini skirt, one bare thigh with a red garter, one black thigh-high stocking embroidered with a climbing floral vine, and black platform ankle boots bound with red crisscross laces and bows.
+
+ 6. Pose: She stands straight and centered with both arms lowered, her draped sleeves hanging around her hands, and her feet set close together in a poised, formal stance.
 
 Physical Appearance Prompt Style 2 — Akane
 
-Akane is a slender, graceful girl with very long, softly waving black hair shot through with crimson-magenta streaks that deepen into a rose-red gradient at the ends, with fine face-framing strands and airy bangs, and her calm eyes are a deep garnet-red. Her animal features include sleek, pointed black cat ears rising from her crown, and a long, slender black cat tail of uniform thickness that curls elegantly upward, dressed with deep-red bows and a dangling golden heart-padlock charm near the tip. She wears elaborate kanzashi-style pink and crimson blossom ornaments with golden fittings and tasseled bead strands on both sides of her head, plus a wine-red frilled collar choker centered with a gold heart padlock. Her outfit is a black gothic-lolita minidress with a ribbon-laced corset bodice, lace-trimmed sweetheart neckline, and detached off-shoulder furisode-style sleeves that flare dramatically wide and are printed with drifting pink cherry blossoms; a grand crimson waist bow trails heart-lock charms and fine chains over a tiered, ruffled crimson floral skirt with long sheer blossom-printed drape panels falling at her sides; her legwear is deliberately asymmetric, pairing one black over-knee stocking printed with pink blossoms and laced with red ribbon against one bare thigh wrapped in a slim red garter strap with a heart charm; and she stands in black platform block-heel ankle boots crisscrossed with red lacing and finished with red bows and tassels. Her expression is a serene, closed-lip smile with a faint blush, posed standing demurely with both arms resting at her sides.
+ 1. Base Anatomy: Akane is a slender, graceful girl. Calm eyes are a deep garnet-red. Her expression is a serene, closed-lip smile with a faint blush.
+
+ 2. Hair & Head: Very long, softly waving black hair shot through with crimson-magenta streaks that deepen into a rose-red gradient at the ends, with fine face-framing strands and airy bangs. She wears elaborate kanzashi-style pink and crimson blossom ornaments with golden fittings and tasseled bead strands on both sides of her head.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed black cat ears rising from her crown, and a long, slender black cat tail of uniform thickness that curls elegantly upward, dressed with deep-red bows and a dangling golden heart-padlock charm near the tip.
+
+ 4. Upper Body: She wears elaborate kanzashi-style pink and crimson blossom ornaments with golden fittings and tasseled bead strands on both sides of her head, plus a wine-red frilled collar choker centered with a gold heart padlock. Her outfit is a black gothic-lolita minidress with a ribbon-laced corset bodice, lace-trimmed sweetheart neckline, and detached off-shoulder furisode-style sleeves that flare dramatically wide and are printed with drifting pink cherry blossoms.
+
+ 5. Lower Body & Feet: A grand crimson waist bow trails heart-lock charms and fine chains over a tiered, ruffled crimson floral skirt with long sheer blossom-printed drape panels falling at her sides; her legwear is deliberately asymmetric, pairing one black over-knee stocking printed with pink blossoms and laced with red ribbon against one bare thigh wrapped in a slim red garter strap with a heart charm; and she stands in black platform block-heel ankle boots crisscrossed with red lacing and finished with red bows and tassels.
+
+ 6. Pose: Posed standing demurely with both arms resting at her sides.
 
 Physical Appearance Prompt Style 2b — Akane
 
-Akane has a slim, elegant build with porcelain skin, deep crimson eyes, and a serene, closed-lip smile softened by a light blush. Her very long black hair flows in gentle waves with bright raspberry-red streaks framing her face and a full magenta gradient blooming through the lower lengths, adorned at both temples with pink cherry-blossom ornaments trailing beaded tassel strands. Sleek black cat ears, one dressed with a pink flower, crown her head, and a slender black tail curls upward behind her, tied with a wine-red bow and a golden heart-shaped padlock charm. At her throat sits a ruffled black-and-burgundy collar with a gold heart padlock pendant, above a black gothic-lolita dress featuring a lace-trimmed neckline that bares her shoulders, criss-cross corset lacing down the bodice, detached wide kimono-style sleeves printed with drifting pink sakura, a large burgundy waist bow hung with heart-lock charms and fine chains, and a tiered skirt of ruffled black and deep-red floral layers with long, sheer blossom-printed side drapes falling past her knees; the garment bears no legible text. Her legs are styled asymmetrically, with a red garter strap and heart charm circling one bare thigh while the other leg wears a black thigh-high stocking printed with trailing pink blossoms, and both feet are set in black platform heeled ankle boots laced with red criss-cross ribbons and bows. She stands demurely with her arms resting straight at her sides.
+ 1. Base Anatomy: Akane has a slim, elegant build with porcelain skin. Deep crimson eyes, and a serene, closed-lip smile softened by a light blush.
+
+ 2. Hair & Head: Her very long black hair flows in gentle waves with bright raspberry-red streaks framing her face and a full magenta gradient blooming through the lower lengths, adorned at both temples with pink cherry-blossom ornaments trailing beaded tassel strands.
+
+ 3. Species Traits: Cat Logic — Sleek black cat ears, one dressed with a pink flower, crown her head, and a slender black tail curls upward behind her, tied with a wine-red bow and a golden heart-shaped padlock charm.
+
+ 4. Upper Body: At her throat sits a ruffled black-and-burgundy collar with a gold heart padlock pendant, above a black gothic-lolita dress featuring a lace-trimmed neckline that bares her shoulders, criss-cross corset lacing down the bodice, detached wide kimono-style sleeves printed with drifting pink sakura.
+
+ 5. Lower Body & Feet: A large burgundy waist bow hung with heart-lock charms and fine chains, and a tiered skirt of ruffled black and deep-red floral layers with long, sheer blossom-printed side drapes falling past her knees; the garment bears no legible text. Her legs are styled asymmetrically, with a red garter strap and heart charm circling one bare thigh while the other leg wears a black thigh-high stocking printed with trailing pink blossoms, and both feet are set in black platform heeled ankle boots laced with red criss-cross ribbons and bows.
+
+ 6. Pose: She stands demurely with her arms resting straight at her sides.
 
 Physical Appearance Prompt Style 3 — Akane
 
-Akane is a slender girl with long, dark black hair that cascades into a deep pink ombre at the tips, featuring side-swept bangs accented by a single red streak and dark red eyes. Her animal features include small, pointed black cat ears with pink inner fluff and a slender, flexible black cat tail adorned with a red bow and hanging gold charms. She wears a black lace choker connected to a gold lock, along with asymmetric buckled thigh garters. Her outfit is an elegant black kimono-inspired top with wide, flowing sleeves adorned with pink cherry blossom prints, layered over a layered wine-red ruffled miniskirt, mismatched black thigh-high socks, and black platform ankle boots with red lace-up ribbons. Her expression is a gentle, calm smile with her arms resting loosely by her sides.
+ 1. Base Anatomy: Akane is a slender girl. Dark red eyes. Her expression is a gentle, calm smile.
+
+ 2. Hair & Head: Long, dark black hair that cascades into a deep pink ombre at the tips, featuring side-swept bangs accented by a single red streak.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed black cat ears with pink inner fluff and a slender, flexible black cat tail adorned with a red bow and hanging gold charms.
+
+ 4. Upper Body: She wears a black lace choker connected to a gold lock, along with asymmetric buckled thigh garters. Her outfit is an elegant black kimono-inspired top with wide, flowing sleeves adorned with pink cherry blossom prints.
+
+ 5. Lower Body & Feet: Layered over a layered wine-red ruffled miniskirt, mismatched black thigh-high socks, and black platform ankle boots with red lace-up ribbons.
+
+ 6. Pose: With her arms resting loosely by her sides.
 
 Physical Appearance Prompt Style 4 — Akane
 
-Akane is a slim girl with long, flowing black hair that fades into deep crimson tips, styled with straight bangs and elaborate pink floral hairpins, and striking red eyes. Her animal features include pointed, sleek black cat ears and a slender, flexible black cat tail wrapped with a red ribbon and heart-lock charm. She wears a black choker with a golden lock pendant, dangling floral hair chains, and a large crimson bow at her lower back. Her outfit is an off-the-shoulder black corset-style top with red lacing layered under wide, flowing black sleeves with pink cherry blossom prints, a tiered red and black ruffled mini skirt, asymmetrical black thigh-high stockings with red floral prints and strappy garters, and black platform ankle boots accented with red ribbons. Her expression is a soft, sweet closed-mouth smile with her arms resting casually at her sides.
+ 1. Base Anatomy: Akane is a slim girl. Striking red eyes. Her expression is a soft, sweet closed-mouth smile.
+
+ 2. Hair & Head: Long, flowing black hair that fades into deep crimson tips, styled with straight bangs and elaborate pink floral hairpins.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek black cat ears and a slender, flexible black cat tail wrapped with a red ribbon and heart-lock charm.
+
+ 4. Upper Body: She wears a black choker with a golden lock pendant, dangling floral hair chains, and a large crimson bow at her lower back. Her outfit is an off-the-shoulder black corset-style top with red lacing layered under wide, flowing black sleeves with pink cherry blossom prints.
+
+ 5. Lower Body & Feet: A tiered red and black ruffled mini skirt, asymmetrical black thigh-high stockings with red floral prints and strappy garters, and black platform ankle boots accented with red ribbons.
+
+ 6. Pose: With her arms resting casually at her sides.
 
 Physical Appearance Prompt Style 4b — Akane
 
-Akane is a slender young girl with striking red eyes and long, flowing black hair that fades into a deep crimson, accented by elaborate red and pink floral hairpins and long tassels on both sides. Adhering to cat logic, she sports sleek black feline ears and a slender, flexible black tail decorated with a red ribbon bow and a hanging heart charm. She wears a black lace choker with a heart pendant, complementing a gothic-inspired black off-the-shoulder dress featuring a lace-up bodice, wide draped kimono-style sleeves with pink cherry blossom patterns, and a layered, ruffled crimson underskirt tied with a large red ribbon bow at the waist. She pairs this with asymmetric black thigh-high stockings featuring floral patterns and a red strappy garter on the right thigh, completing the look with chunky black platform boots tied with red ribbons. She wears a soft, gentle smile, posing casually with her arms resting loosely at her sides.
+ 1. Base Anatomy: Akane is a slender young girl. Striking red eyes. She wears a soft, gentle smile.
+
+ 2. Hair & Head: Long, flowing black hair that fades into a deep crimson, accented by elaborate red and pink floral hairpins and long tassels on both sides.
+
+ 3. Species Traits: Cat Logic — Adhering to cat logic, she sports sleek black feline ears and a slender, flexible black tail decorated with a red ribbon bow and a hanging heart charm.
+
+ 4. Upper Body: She wears a black lace choker with a heart pendant, complementing a gothic-inspired black off-the-shoulder dress featuring a lace-up bodice, wide draped kimono-style sleeves with pink cherry blossom patterns, and a layered.
+
+ 5. Lower Body & Feet: Ruffled crimson underskirt tied with a large red ribbon bow at the waist. She pairs this with asymmetric black thigh-high stockings featuring floral patterns and a red strappy garter on the right thigh, completing the look with chunky black platform boots tied with red ribbons.
+
+ 6. Pose: Posing casually with her arms resting loosely at her sides.
 
 ---
 
@@ -903,35 +1319,115 @@ Momoka is a gentle, springlike cat girl whose affection develops slowly and natu
 
 Physical Appearance Prompt Style 1 — Momoka
 
-Momoka is a very petite, delicate girl with extremely long, silky pastel-pink hair that cascades to her knees in soft waves with faint lilac shading through the lower lengths, framed by airy bangs and a cherry-blossom ornament at one side, and large violet eyes with a shy, contented expression. Her animal features include small, sleek pointed pale-pink cat ears with deeper rose inner fur and a long, flexible pink tail of even slender thickness that curves behind her, tied with a translucent lilac bow and blossom tassels. She wears a pink cherry-blossom hairpiece with trailing ribbons, a pale lace choker with a small gold heart pendant, and coordinated flower ornaments at her waist and cuffs. Her outfit is a soft rose-pink floral babydoll dress with petal-scalloped embroidered panels and a frilled white underskirt, layered beneath a cream haori-inspired cardigan with lace edging, blossom embroidery, tassels, and voluminous sleeves, paired with white thigh-high stockings decorated with sakura appliqués and a floral garter, and glossy pink Mary Jane block heels with flower buckles. Her expression is a small closed-mouth catlike smile with both hands raised beside her chest in a timid double paw pose.
+ 1. Base Anatomy: Momoka is a very petite, delicate girl. Large violet eyes with a shy, contented expression. Her expression is a small closed-mouth catlike smile.
+
+ 2. Hair & Head: Extremely long, silky pastel-pink hair that cascades to her knees in soft waves with faint lilac shading through the lower lengths, framed by airy bangs and a cherry-blossom ornament at one side. She wears a pink cherry-blossom hairpiece with trailing ribbons.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed pale-pink cat ears with deeper rose inner fur and a long, flexible pink tail of even slender thickness that curves behind her, tied with a translucent lilac bow and blossom tassels.
+
+ 4. Upper Body: She wears a pink cherry-blossom hairpiece with trailing ribbons, a pale lace choker with a small gold heart pendant. Her outfit is a soft rose-pink floral babydoll dress with petal-scalloped embroidered panels and a frilled white underskirt, layered beneath a cream haori-inspired cardigan with lace edging, blossom embroidery, tassels, and voluminous sleeves.
+
+ 5. Lower Body & Feet: Coordinated flower ornaments at her waist and cuffs. Paired with white thigh-high stockings decorated with sakura appliqués and a floral garter, and glossy pink Mary Jane block heels with flower buckles.
+
+ 6. Pose: With both hands raised beside her chest in a timid double paw pose.
 
 Physical Appearance Prompt Style 1b — Momoka
 
-Momoka is a petite, delicately built girl with large violet-magenta eyes and a calm, softly blushing gaze, accompanied by extremely long pastel-pink hair that reaches her thighs in loose, flowing waves with rounded bangs and a pink blossom cluster, leaves, ribbon loops, and hanging tassels at one side. She has large, wide-based pink fox ears with pale inner tufts and one thick, fluffy blush-pink tail that curves upward with subtle lighter shading, a large lavender-pink bow, flower center, and dangling ornaments. A frilled pale choker with a small gold heart pendant rests above a pink dress bodice with vertical buttons, delicate ruffles, and a large flower-centered chest bow, layered beneath an ivory cropped bolero with voluminous sleeves, scalloped edges, and embroidered cherry-blossom patterns. A narrow floral bow belt defines the waist above a short petal-panel pink skirt edged in gold piping and embroidered flowers, with a white ruffled petticoat visible underneath. White thigh-high stockings have scalloped tops, an asymmetric floral garter, and a fine blossom motif trailing down one shin. Glossy pink Mary Jane platform heels feature slim straps and small floral embellishments. She finishes with a tiny, contented closed-mouth smile, facing forward with her feet together and both elbows bent as she holds two small fists beside her chest in a shy paw-like pose.
+ 1. Base Anatomy: Momoka is a petite, delicately built girl. Large violet-magenta eyes. She finishes with a tiny, contented closed-mouth smile.
+
+ 2. Hair & Head: A calm, softly blushing gaze, accompanied by extremely long pastel-pink hair that reaches her thighs in loose, flowing waves with rounded bangs and a pink blossom cluster, leaves, ribbon loops, and hanging tassels at one side.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed pink cat ears with pale inner tufts and one long, flexible blush-pink cat tail of even slender thickness that curves upward with subtle lighter shading, a large lavender-pink bow, flower center, and dangling ornaments.
+
+ 4. Upper Body: A frilled pale choker with a small gold heart pendant rests above a pink dress bodice with vertical buttons, delicate ruffles, and a large flower-centered chest bow, layered beneath an ivory cropped bolero with voluminous sleeves, scalloped edges, and embroidered cherry-blossom patterns. Glossy pink Mary Jane platform heels feature slim straps and small floral embellishments.
+
+ 5. Lower Body & Feet: A narrow floral bow belt defines the waist above a short petal-panel pink skirt edged in gold piping and embroidered flowers, with a white ruffled petticoat visible underneath. White thigh-high stockings have scalloped tops, an asymmetric floral garter, and a fine blossom motif trailing down one shin.
+
+ 6. Pose: Facing forward with her feet together and both elbows bent as she holds two small fists beside her chest in a shy paw-like pose.
 
 Physical Appearance Prompt Style 1c — Momoka
 
-Momoka has a petite, softly rounded build, large lavender-pink eyes, and a gentle little smile that keeps the design sweet rather than overtly playful. Her hair is extremely long, silky, and pastel pink, falling in soft waves to below the waist with a slightly deeper pink through the lower lengths, and a cluster of pale blossoms with ribbon tassels decorates one side beneath her smooth bangs. She has upright pink animal ears with fluffy inner fur and a plush pink tail tied with oversized bows and flower clasps, which gives her outline a plush, cuddly softness. She wears a pale pink dress with a high collar, a large chest bow, floral clasps, and layered ruffles, covered by a creamy short cardigan-like outer layer embroidered with blossoms and trimmed with tassels, while a small heart pendant at her throat reinforces the romantic theme and no readable text appears on the outfit. Her lower half includes a short layered skirt, white thigh-high stockings with scalloped tops and a floral garter detail on one leg, and glossy pink Mary Jane heels decorated with blossoms. She faces forward with both hands raised near her chest in matching paw-like fists, her shoulders relaxed, and her feet drawn in neatly beneath her.
+ 1. Base Anatomy: Momoka has a petite, softly rounded build. Large lavender-pink eyes, and a gentle little smile that keeps the design sweet rather than overtly playful.
+
+ 2. Hair & Head: Her hair is extremely long, silky, and pastel pink, falling in soft waves to below the waist with a slightly deeper pink through the lower lengths, and a cluster of pale blossoms with ribbon tassels decorates one side beneath her smooth bangs.
+
+ 3. Species Traits: Cat Logic — She has upright pink animal ears with fluffy inner fur and a plush pink tail tied with oversized bows and flower clasps, which gives her outline a plush, cuddly softness.
+
+ 4. Upper Body: She wears a pale pink dress with a high collar, a large chest bow, floral clasps, and layered ruffles, covered by a creamy short cardigan-like outer layer embroidered with blossoms and trimmed with tassels, while a small heart pendant at her throat reinforces the romantic theme and no readable text appears on the outfit.
+
+ 5. Lower Body & Feet: Her lower half includes a short layered skirt, white thigh-high stockings with scalloped tops and a floral garter detail on one leg, and glossy pink Mary Jane heels decorated with blossoms.
+
+ 6. Pose: She faces forward with both hands raised near her chest in matching paw-like fists, her shoulders relaxed, and her feet drawn in neatly beneath her.
 
 Physical Appearance Prompt Style 2 — Momoka
 
-Momoka is a petite, dainty girl with extremely long pastel-pink hair that cascades in soft, voluminous waves to her hips, cut with full rounded bangs and loose face-framing strands, and her wide, gentle eyes are a tender violet. Her animal features include small, neatly pointed rose-pink cat ears matching her hair, and a slender pink cat tail of even thickness with a softly brushed texture that curls upward, tied with a sheer lavender-pink bow accented by a tiny blossom. She wears a pink sakura-cluster hair ornament with ribbon loops and hanging tassel strands at her right temple, and a white ruffled choker collar centered with a golden heart pendant. Her outfit is a pink babydoll minidress whose bodice carries a striped pink chest bow with lavender ribbon streamers and dangling tassels, its skirt falling in gold-edged, petal-scalloped panels embroidered with cherry-blossom motifs over a frothy white petticoat and cinched by a pink waist belt with a blossom buckle; over it she layers an open cream cardigan-jacket with allover floral sprigs, frilled edges, and ruffled cuffs hung with flower charms; white thigh-high stockings with delicate lace tops show subtle sakura prints down the shins, one thigh wrapped in a pink flower garter with a falling tassel; and she stands in glossy candy-pink block-heel Mary Janes with blossom-trimmed straps. Her expression is a soft, contented cat-like closed smile with a rosy blush, posed with both hands lifted beside her shoulders in gentle curled paw gestures.
+ 1. Base Anatomy: Momoka is a petite, dainty girl. Wide, gentle eyes are a tender violet. Her expression is a soft, contented cat-like closed smile with a rosy blush.
+
+ 2. Hair & Head: Extremely long pastel-pink hair that cascades in soft, voluminous waves to her hips, cut with full rounded bangs and loose face-framing strands. She wears a pink sakura-cluster hair ornament with ribbon loops and hanging tassel strands at her right temple.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, neatly pointed rose-pink cat ears matching her hair, and a slender pink cat tail of even thickness with a softly brushed texture that curls upward, tied with a sheer lavender-pink bow accented by a tiny blossom.
+
+ 4. Upper Body: She wears a pink sakura-cluster hair ornament with ribbon loops and hanging tassel strands at her right temple, and a white ruffled choker collar centered with a golden heart pendant. Her outfit is a pink babydoll minidress whose bodice carries a striped pink chest bow with lavender ribbon streamers and dangling tassels.
+
+ 5. Lower Body & Feet: Its skirt falling in gold-edged, petal-scalloped panels embroidered with cherry-blossom motifs over a frothy white petticoat and cinched by a pink waist belt with a blossom buckle; over it she layers an open cream cardigan-jacket with allover floral sprigs, frilled edges, and ruffled cuffs hung with flower charms; white thigh-high stockings with delicate lace tops show subtle sakura prints down the shins, one thigh wrapped in a pink flower garter with a falling tassel; and she stands in glossy candy-pink block-heel Mary Janes with blossom-trimmed straps.
+
+ 6. Pose: Posed with both hands lifted beside her shoulders in gentle curled paw gestures.
 
 Physical Appearance Prompt Style 2b — Momoka
 
-Momoka has a petite, soft build with fair skin, round violet eyes, and a contented, closed-mouth smile with a distinctly catlike curve. Her pastel-pink hair spills in extremely long, romantic waves past her hips beneath soft blunt bangs, accented by a sakura blossom cluster with ribbon-and-tassel strands pinned above her ear. Sleek rose-pink cat ears with white inner fluff top her head, and a slim, flexible pink tail curls up behind her, tied with a translucent lavender bow and blossom. She wears a ruffled white choker with a gold heart charm, a pink babydoll dress embroidered with pale florals that flares into scalloped petal-shaped hem panels with tiny tassels over a white frilled underskirt, a pink waist belt with a flower buckle, and a large pink chest bow with lavender ribbon streamers, all beneath an open cream cardigan-jacket with frilled edges, a delicate floral pattern, and long puffed sleeves gathered into ruffled cuffs; no text or lettering appears anywhere on the outfit. Her legs are covered by white thigh-high stockings bearing a faint pink sakura print, with a flower garter and hanging tassel on one thigh, finished with glossy pink platform Mary Jane heels decorated with blossom buckles. She stands facing forward with both hands raised as soft fists in a double paw pose at chest height.
+ 1. Base Anatomy: Momoka has a petite, soft build with fair skin. Round violet eyes, and a contented, closed-mouth smile with a distinctly catlike curve.
+
+ 2. Hair & Head: Her pastel-pink hair spills in extremely long, romantic waves past her hips beneath soft blunt bangs, accented by a sakura blossom cluster with ribbon-and-tassel strands pinned above her ear.
+
+ 3. Species Traits: Cat Logic — Sleek rose-pink cat ears with white inner fluff top her head, and a slim, flexible pink tail curls up behind her, tied with a translucent lavender bow and blossom.
+
+ 4. Upper Body: She wears a ruffled white choker with a gold heart charm, a pink babydoll dress embroidered with pale florals that flares into scalloped petal-shaped hem panels with tiny tassels over a white frilled underskirt.
+
+ 5. Lower Body & Feet: A pink waist belt with a flower buckle, and a large pink chest bow with lavender ribbon streamers, all beneath an open cream cardigan-jacket with frilled edges, a delicate floral pattern, and long puffed sleeves gathered into ruffled cuffs; no text or lettering appears anywhere on the outfit. Her legs are covered by white thigh-high stockings bearing a faint pink sakura print, with a flower garter and hanging tassel on one thigh, finished with glossy pink platform Mary Jane heels decorated with blossom buckles.
+
+ 6. Pose: She stands facing forward with both hands raised as soft fists in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Momoka
 
-Momoka is a petite girl with very long, fluffy pastel pink hair styled with a straight fringe, accented by cherry blossom clips on the left side of her head, and warm purple eyes. Her animal features include small, pointed pink cat ears and a long, flexible pink cat tail wrapped in a lavender bow with hanging tassels. She wears a golden heart choker and matching floral thigh garters. Her outfit is a pink high-waisted dress with a scalloped hem and embroidered flower details, layered beneath a cream-colored long-sleeve cardigan tied with a purple bow, opaque white thigh-high stockings with faint floral prints, and pink Mary Jane platform heels with flower decorations. Her expression is sweet and cheerful, with both hands raised near her face in twin cat-paw poses.
+ 1. Base Anatomy: Momoka is a petite girl. Warm purple eyes. Her expression is sweet and cheerful.
+
+ 2. Hair & Head: Very long, fluffy pastel pink hair styled with a straight fringe, accented by cherry blossom clips on the left side of her head.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed pink cat ears and a long, flexible pink cat tail wrapped in a lavender bow with hanging tassels.
+
+ 4. Upper Body: She wears a golden heart choker and matching floral thigh garters. Her outfit is a pink high-waisted dress with a scalloped hem and embroidered flower details, layered beneath a cream-colored long-sleeve cardigan tied with a purple bow.
+
+ 5. Lower Body & Feet: Opaque white thigh-high stockings with faint floral prints, and pink Mary Jane platform heels with flower decorations.
+
+ 6. Pose: With both hands raised near her face in twin cat-paw poses.
 
 Physical Appearance Prompt Style 4 — Momoka
 
-Momoka is a petite girl with very long, wavy pastel pink hair styled with soft bangs and sakura floral hair clips, and bright purple eyes. Her animal features include sleek, pointed pink cat ears and a slender, flexible pink cat tail adorned with a matching pink ribbon. She wears a delicate gold choker with a heart pendant and dangling sakura hair ornaments. Her outfit is a soft pink and cream long-sleeved blouse layered beneath a pink pinafore dress with a front ribbon, a scalloped-hem pink skirt with subtle cherry blossom embroidery and white lace trims, semi-sheer white thigh-high stockings with pink floral garters and dangling tassels, and pink Mary Jane platform shoes with floral buckle details. Her expression is a gentle, open-mouthed smile with both hands raised to chest level in small, curled paw-like fists.
+ 1. Base Anatomy: Momoka is a petite girl. Bright purple eyes. Her expression is a gentle, open-mouthed smile.
+
+ 2. Hair & Head: Very long, wavy pastel pink hair styled with soft bangs and sakura floral hair clips. She wears a delicate gold choker with a heart pendant and dangling sakura hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed pink cat ears and a slender, flexible pink cat tail adorned with a matching pink ribbon.
+
+ 4. Upper Body: She wears a delicate gold choker with a heart pendant and dangling sakura hair ornaments. Her outfit is a soft pink and cream long-sleeved blouse layered beneath a pink pinafore dress with a front ribbon.
+
+ 5. Lower Body & Feet: A scalloped-hem pink skirt with subtle cherry blossom embroidery and white lace trims, semi-sheer white thigh-high stockings with pink floral garters and dangling tassels, and pink Mary Jane platform shoes with floral buckle details.
+
+ 6. Pose: With both hands raised to chest level in small, curled paw-like fists.
 
 Physical Appearance Prompt Style 4b — Momoka
 
-Momoka features a petite, slender build with large purple eyes and voluminous, flowing pastel pink hair decorated with a cluster of pale pink cherry blossom hairpins and tassels on the left side. Following cat logic, she has moderately sized, pink furry feline ears and a slender, curling pink tail accessorized with a pink bow and hanging charms. Her outfit starts with a delicate gold heart choker, paired with a soft pink collared dress featuring a central ribbon and a scalloped, petal-like hemline layered over a white ruffled petticoat, all worn beneath a loose, cream-colored cardigan with subtle floral embroidery on the sleeves. Her legwear consists of sheer white thigh-high stockings detailed with subtle floral prints and a decorative garter on the right thigh, matched with chunky pink Mary Jane platform heels adorned with floral clasps. She holds a bright, cheerful expression with a gentle smile, standing with both hands playfully curled into small paw gestures near her chest.
+ 1. Base Anatomy: Momoka features a petite, slender build. Large purple eyes. She holds a bright, cheerful expression with a gentle smile.
+
+ 2. Hair & Head: Voluminous, flowing pastel pink hair decorated with a cluster of pale pink cherry blossom hairpins and tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she has moderately sized, pink furry feline ears and a slender, curling pink tail accessorized with a pink bow and hanging charms.
+
+ 4. Upper Body: Her outfit starts with a delicate gold heart choker, paired with a soft pink collared dress featuring a central ribbon and a scalloped, petal-like hemline layered over a white ruffled petticoat, all worn beneath a loose, cream-colored cardigan with subtle floral embroidery on the sleeves.
+
+ 5. Lower Body & Feet: Her legwear consists of sheer white thigh-high stockings detailed with subtle floral prints and a decorative garter on the right thigh, matched with chunky pink Mary Jane platform heels adorned with floral clasps.
+
+ 6. Pose: Standing with both hands playfully curled into small paw gestures near her chest.
 
 ---
 
@@ -1120,35 +1616,115 @@ Mikan is a warm, openly affectionate cat girl who gives love freely, directly, a
 
 Physical Appearance Prompt Style 1 — Mikan
 
-Mikan is a petite, slim girl with long, wavy golden-orange hair that softens into a peach-pink gradient at the ends, framed by full bangs and citrus-colored floral clips, and bright sky-blue eyes with a sunny, enthusiastic expression. Her animal features include small, sleek pointed orange cat ears with cream inner fur and a long, flexible orange tail of even slender thickness that fades into pink toward the tip, tied with a red polka-dot bow and heart charm. She wears a rose-and-ribbon hair arrangement of orange, red, and white flowers, a red frilled choker with a gold heart pendant, and citrus-slice ornaments at her waist. Her outfit is a frilly orange-and-cream sweet-idol dress with an off-the-shoulder bodice, puffed sleeves, heart-shaped bust bow, corset lacing, and layered white lace, citrus-print, and red floral skirt panels, finished with decorative bows, fruit charms, and a large back ribbon, paired with white thigh-high stockings with orange heart garters and lace trim, short ruffled ankle socks, and orange platform Mary Jane heels decorated with orange slices and flowers. Her expression is a huge open-mouthed smile with both arms held slightly outward at her sides in a lively, welcoming pose.
+ 1. Base Anatomy: Mikan is a petite, slim girl. Bright sky-blue eyes with a sunny, enthusiastic expression. Her expression is a huge open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy golden-orange hair that softens into a peach-pink gradient at the ends, framed by full bangs and citrus-colored floral clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed orange cat ears with cream inner fur and a long, flexible orange tail of even slender thickness that fades into pink toward the tip, tied with a red polka-dot bow and heart charm.
+
+ 4. Upper Body: She wears a rose-and-ribbon hair arrangement of orange, red, and white flowers, a red frilled choker with a gold heart pendant. Her outfit is a frilly orange-and-cream sweet-idol dress with an off-the-shoulder bodice, puffed sleeves, heart-shaped bust bow, corset lacing, and layered white lace, citrus-print.
+
+ 5. Lower Body & Feet: Citrus-slice ornaments at her waist. Red floral skirt panels, finished with decorative bows, fruit charms, and a large back ribbon, paired with white thigh-high stockings with orange heart garters and lace trim, short ruffled ankle socks, and orange platform Mary Jane heels decorated with orange slices and flowers.
+
+ 6. Pose: With both arms held slightly outward at her sides in a lively, welcoming pose.
 
 Physical Appearance Prompt Style 1b — Mikan
 
-Mikan is a slim, petite girl with brilliant turquoise-blue eyes shining in an exuberant expression and very long, wavy golden-orange hair that fades into warm coral-pink at the ends, arranged with layered bangs and a side cluster of orange and red roses, tiny blossoms, and streaming ribbon ornaments. She has large, wide-based orange fox ears with cream inner tufts and one thick, fluffy orange-to-coral tail curved behind her, decorated near the end with a bright red polka-dot bow and a small fruit-like floral centerpiece. A cream frilled choker with a gold heart pendant sits above an off-shoulder white corset bodice trimmed in orange ruffles, centered by a large orange heart bow and orange crisscross ribbon lacing, with detached white bishop sleeves tied by small bows and finished in layered frill cuffs. Her waist is lavishly decorated with roses, white blossoms, a whole orange fruit ornament, gold chains, and heart hardware above a short tiered orange-and-white lolita skirt with lace, heart motifs, bows, a pale central panel, and a densely ruffled hem. Her bare legs carry asymmetric orange garter straps and one frilled thigh band with a heart-bow accent, while white ruffled ankle cuffs lead into orange platform Mary Jane shoes with ankle straps, white lace, bows, and flower details. She ends with a joyful open-mouthed smile, standing front-facing with her feet close together and both arms relaxed slightly away from her body, fingers naturally extended.
+ 1. Base Anatomy: Mikan is a slim, petite girl. Brilliant turquoise-blue eyes shining in an exuberant expression. She ends with a joyful open-mouthed smile.
+
+ 2. Hair & Head: Very long, wavy golden-orange hair that fades into warm coral-pink at the ends, arranged with layered bangs and a side cluster of orange and red roses, tiny blossoms, and streaming ribbon ornaments.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed orange cat ears with cream inner tufts and one long, flexible orange-to-coral cat tail of even slender thickness curved behind her, decorated near the end with a bright red polka-dot bow and a small fruit-like floral centerpiece.
+
+ 4. Upper Body: A cream frilled choker with a gold heart pendant sits above an off-shoulder white corset bodice trimmed in orange ruffles, centered by a large orange heart bow and orange crisscross ribbon lacing, with detached white bishop sleeves tied by small bows and finished in layered frill cuffs.
+
+ 5. Lower Body & Feet: Her waist is lavishly decorated with roses, white blossoms, a whole orange fruit ornament, gold chains, and heart hardware above a short tiered orange-and-white lolita skirt with lace, heart motifs, bows, a pale central panel, and a densely ruffled hem. Her bare legs carry asymmetric orange garter straps and one frilled thigh band with a heart-bow accent, while white ruffled ankle cuffs lead into orange platform Mary Jane shoes with ankle straps, white lace, bows, and flower details.
+
+ 6. Pose: Standing front-facing with her feet close together and both arms relaxed slightly away from her body, fingers naturally extended.
 
 Physical Appearance Prompt Style 1c — Mikan
 
-Mikan has a slim, lively build, bright sky-blue eyes, and a wide open smile that makes her look energetic and sunny. Her hair is long and golden orange with peachy coral gradients toward the ends, falling in loose waves around her shoulders and back, and it is framed by straight-cut bangs and lavish rose-and-citrus floral ornaments with ribbon streamers at the sides. She has broad orange animal ears with white inner fur and a thick, fluffy orange tail that fades softer at the tip and is tied with a large red polka-dot bow, giving her silhouette a more foxlike fullness. Her upper body starts with an off-shoulder white frilled blouse with ribbon ties at the sleeves, over which sits an orange-and-cream corset bodice laced down the center and topped by a heart motif, plus a floral-and-orange waist corsage and a gold heart pendant at the neck; there is no readable text on the costume. Her lower body is finished with a layered orange skirt full of bows and lace, mismatched thigh accessories instead of full stockings, frilled ankle socks, and orange platform strap shoes ornamented with flowers and citrus details. She stands facing front with both arms dropped slightly away from her sides, palms open and fingers spread softly, while her feet remain parallel in a bright, welcoming pose.
+ 1. Base Anatomy: Mikan has a slim, lively build. Bright sky-blue eyes, and a wide open smile that makes her look energetic and sunny.
+
+ 2. Hair & Head: Her hair is long and golden orange with peachy coral gradients toward the ends, falling in loose waves around her shoulders and back, and it is framed by straight-cut bangs and lavish rose-and-citrus floral ornaments with ribbon streamers at the sides.
+
+ 3. Species Traits: Cat Logic — She has small, pointed orange cat ears with white inner fur and a long, flexible orange cat tail that fades softly toward the tip and is tied with a large red polka-dot bow, keeping her silhouette distinctly feline and nimble.
+
+ 4. Upper Body: Her upper body starts with an off-shoulder white frilled blouse with ribbon ties at the sleeves, over which sits an orange-and-cream corset bodice laced down the center and topped by a heart motif.
+
+ 5. Lower Body & Feet: Plus a floral-and-orange waist corsage and a gold heart pendant at the neck; there is no readable text on the costume. Her lower body is finished with a layered orange skirt full of bows and lace, mismatched thigh accessories instead of full stockings, frilled ankle socks, and orange platform strap shoes ornamented with flowers and citrus details.
+
+ 6. Pose: She stands facing front with both arms dropped slightly away from her sides, palms open and fingers spread softly, while her feet remain parallel in a bright, welcoming pose.
 
 Physical Appearance Prompt Style 2 — Mikan
 
-Mikan is a slender, sunny girl with very long tangerine-blonde hair that melts into a coral-pink gradient at the ends, falling in buoyant waves with airy parted bangs, and her big bright eyes are a clear sky-blue. Her animal features include pointed orange cat ears tufted with white inner fur, and a long, flexible, softly furred cat tail of even slender thickness in warm orange fading to a rosy tip, curled upward and tied with a red polka-dot bow bearing a small orange-heart charm. She wears lush corsage-style hair ornaments of red, orange, and cream roses with red ribbon streamers on both sides of her head, and a red frill-edged choker with a golden heart pendant. Her outfit is a sweet idol-lolita ensemble: an off-shoulder white bodice with gold corset lacing and a red heart-centered bow at the bust, paired with detached puff sleeves stacked with ruffled cuffs and small red bows; the skirt layers orange and cream tiers printed with hearts and blossoms over lace ruffles, dressed with a red side drape, a large back bow, and a waist corsage of oranges and roses strung on a fine gold chain belt; white stockings trimmed with orange lace carry a red heart-drop garter on one thigh and a ribbon garter band on the other, layered with white ruffled fold-over ankle socks; and she wears orange platform Mary-Jane heels with ankle straps, white blossom accents, and orange-slice charms. Her expression is a joyful, wide-open beaming smile, posed standing with her arms flared slightly outward from her sides and fingers relaxed.
+ 1. Base Anatomy: Mikan is a slender, sunny girl. Big bright eyes are a clear sky-blue. Her expression is a joyful, wide-open beaming smile.
+
+ 2. Hair & Head: Very long tangerine-blonde hair that melts into a coral-pink gradient at the ends, falling in buoyant waves with airy parted bangs. She wears lush corsage-style hair ornaments of red.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed orange cat ears tufted with white inner fur, and a long, flexible, softly furred cat tail of even slender thickness in warm orange fading to a rosy tip, curled upward and tied with a red polka-dot bow bearing a small orange-heart charm.
+
+ 4. Upper Body: She wears lush corsage-style hair ornaments of red, orange, and cream roses with red ribbon streamers on both sides of her head, and a red frill-edged choker with a golden heart pendant. Her outfit is a sweet idol-lolita ensemble: an off-shoulder white bodice with gold corset lacing and a red heart-centered bow at the bust, paired with detached puff sleeves stacked with ruffled cuffs and small red bows.
+
+ 5. Lower Body & Feet: The skirt layers orange and cream tiers printed with hearts and blossoms over lace ruffles, dressed with a red side drape, a large back bow, and a waist corsage of oranges and roses strung on a fine gold chain belt; white stockings trimmed with orange lace carry a red heart-drop garter on one thigh and a ribbon garter band on the other, layered with white ruffled fold-over ankle socks; and she wears orange platform Mary-Jane heels with ankle straps, white blossom accents, and orange-slice charms.
+
+ 6. Pose: Posed standing with her arms flared slightly outward from her sides and fingers relaxed.
 
 Physical Appearance Prompt Style 2b — Mikan
 
-Mikan has a slender, energetic build with fair skin, bright sky-blue eyes, and a huge open-mouthed smile brimming with cheer. Her very long golden-orange hair melts into warm rose-pink through the ends and tumbles in loose waves beneath airy bangs, decorated on one side with red and cream roses trailing ribbon streamers. Sleek orange cat ears with white inner fluff spring from her hair, and a slender tail in matching orange fades to pink at the tip, where a red polka-dot bow is tied. Around her neck she wears a red frilled choker with a golden heart pendant over a thin black band, and her dress builds outward from a white bodice with a ruffled neckline into detached off-shoulder puffed sleeves gathered by red ribbon bows, an underbust corset panel laced with orange cording, a large red heart-centered bow at the chest, and a skirt of layered white, orange, and scarlet ruffled tiers printed with hearts and citrus florals, garnished at the waist with an orange-and-blossom cluster and a red floral side sash; the printwork is purely decorative, with no readable text. Her legs wear white stockings with lace garter bands, heart charms, and small red bows, ending in white ruffled socks and orange platform Mary Jane heels adorned with ankle straps, flowers, and orange-slice details. She stands squarely with her arms relaxed and slightly flared away from her sides, palms open.
+ 1. Base Anatomy: Mikan has a slender, energetic build with fair skin. Bright sky-blue eyes, and a huge open-mouthed smile brimming with cheer.
+
+ 2. Hair & Head: Her very long golden-orange hair melts into warm rose-pink through the ends and tumbles in loose waves beneath airy bangs, decorated on one side with red and cream roses trailing ribbon streamers.
+
+ 3. Species Traits: Cat Logic — Sleek orange cat ears with white inner fluff spring from her hair, and a slender tail in matching orange fades to pink at the tip, where a red polka-dot bow is tied.
+
+ 4. Upper Body: Around her neck she wears a red frilled choker with a golden heart pendant over a thin black band, and her dress builds outward from a white bodice with a ruffled neckline into detached off-shoulder puffed sleeves gathered by red ribbon bows, an underbust corset panel laced with orange cording, a large red heart-centered bow at the chest.
+
+ 5. Lower Body & Feet: A skirt of layered white, orange, and scarlet ruffled tiers printed with hearts and citrus florals, garnished at the waist with an orange-and-blossom cluster and a red floral side sash; the printwork is purely decorative, with no readable text. Her legs wear white stockings with lace garter bands, heart charms, and small red bows, ending in white ruffled socks and orange platform Mary Jane heels adorned with ankle straps, flowers, and orange-slice details.
+
+ 6. Pose: She stands squarely with her arms relaxed and slightly flared away from her sides, palms open.
 
 Physical Appearance Prompt Style 3 — Mikan
 
-Mikan is a slender girl with long, vibrant orange hair that turns into a soft pinkish-red gradient at the wavy tips, featuring straight-cut bangs and bright blue eyes. Her animal features include small, pointed orange cat ears and a slender, flexible orange cat tail tied with a red gingham bow. She wears an elaborate floral headpiece on her left ear consisting of orange and white roses, alongside a black choker with a gold heart and mismatched lace thigh garters. Her outfit is a white-and-orange corset-style dress featuring a large red bow at the chest, layered under detached cream balloon sleeves, a ruffled orange multi-tiered skirt adorned with citrus fruit motifs, white frilled ankle socks, and bright orange platform T-strap heels. Her expression is wide-mouthed and energetic, standing with her arms slightly flared to her sides.
+ 1. Base Anatomy: Mikan is a slender girl. Bright blue eyes. Her expression is wide-mouthed and energetic.
+
+ 2. Hair & Head: Long, vibrant orange hair that turns into a soft pinkish-red gradient at the wavy tips, featuring straight-cut bangs.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed orange cat ears and a slender, flexible orange cat tail tied with a red gingham bow.
+
+ 4. Upper Body: She wears an elaborate floral headpiece on her left ear consisting of orange and white roses, alongside a black choker with a gold heart and mismatched lace thigh garters. Her outfit is a white-and-orange corset-style dress featuring a large red bow at the chest, layered under detached cream balloon sleeves.
+
+ 5. Lower Body & Feet: A ruffled orange multi-tiered skirt adorned with citrus fruit motifs, white frilled ankle socks, and bright orange platform T-strap heels.
+
+ 6. Pose: Standing with her arms slightly flared to her sides.
 
 Physical Appearance Prompt Style 4 — Mikan
 
-Mikan is a slender girl with long, wavy orange hair fading into coral pink tips, parted bangs accented with bright floral and citrus-themed hair clips, and vivid blue eyes. Her animal features include pointed, sleek orange cat ears and a long, slender, flexible orange cat tail decorated with a red ribbon bow. She wears a black choker with a golden bell, intricate floral and orange-slice hairpieces, and a large red bow at her back. Her outfit is a vibrant orange and white off-the-shoulder dress featuring a corset-laced bodice layered with ruffled tiers and fruit appliqués, a ruffled orange and white mini skirt, white sheer stockings with lacy orange thigh garters and heart charms, and chunky orange platform shoes adorned with floral and citrus details. Her expression is a wide, joyful open-mouthed smile with her arms held loosely outward at her sides.
+ 1. Base Anatomy: Mikan is a slender girl. Vivid blue eyes. Her expression is a wide, joyful open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy orange hair fading into coral pink tips, parted bangs accented with bright floral and citrus-themed hair clips. She wears a black choker with a golden bell, intricate floral and orange-slice hairpieces.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek orange cat ears and a long, slender, flexible orange cat tail decorated with a red ribbon bow.
+
+ 4. Upper Body: She wears a black choker with a golden bell, intricate floral and orange-slice hairpieces, and a large red bow at her back. Her outfit is a vibrant orange and white off-the-shoulder dress featuring a corset-laced bodice layered with ruffled tiers and fruit appliqués.
+
+ 5. Lower Body & Feet: A ruffled orange and white mini skirt, white sheer stockings with lacy orange thigh garters and heart charms, and chunky orange platform shoes adorned with floral and citrus details.
+
+ 6. Pose: With her arms held loosely outward at her sides.
 
 Physical Appearance Prompt Style 4b — Mikan
 
-Mikan is a slender girl with vibrant blue eyes and long, wavy bright orange hair that fades into a softer peach tone at the tips, decorated with elaborate orange and red floral hairpieces on the left side. Based on cat logic, she possesses sleek orange feline ears with white inner fluff and a long, slender orange tail tipped with pink, featuring a red bow near the base. She wears a black choker with a red heart pendant, complementing a complex, ruffled off-the-shoulder dress in shades of orange and cream, featuring a lace-up bodice, detached puffed sleeves, red ribbon bows, and an orange fruit accessory on the waist. Her legs are adorned with intricate red and white strapped garters over bare thighs, leading down to sheer white ruffled ankle socks and chunky orange platform Mary Jane shoes featuring floral clasps and orange slice motifs. She presents an energetic, open-mouthed smile, posing cheerfully with her arms spread slightly outward and her fingers delicately extended.
+ 1. Base Anatomy: Mikan is a slender girl. Vibrant blue eyes. She presents an energetic, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy bright orange hair that fades into a softer peach tone at the tips, decorated with elaborate orange and red floral hairpieces on the left side.
+
+ 3. Species Traits: Cat Logic — Based on cat logic, she possesses sleek orange feline ears with white inner fluff and a long, slender orange tail tipped with pink, featuring a red bow near the base.
+
+ 4. Upper Body: She wears a black choker with a red heart pendant, complementing a complex, ruffled off-the-shoulder dress in shades of orange and cream, featuring a lace-up bodice, detached puffed sleeves, red ribbon bows.
+
+ 5. Lower Body & Feet: An orange fruit accessory on the waist. Her legs are adorned with intricate red and white strapped garters over bare thighs, leading down to sheer white ruffled ankle socks and chunky orange platform Mary Jane shoes featuring floral clasps and orange slice motifs.
+
+ 6. Pose: Posing cheerfully with her arms spread slightly outward and her fingers delicately extended.
 
 ---
 
@@ -1343,35 +1919,115 @@ Azuki is a mischievous, affectionate cat girl who turns teasing into her favorit
 
 Physical Appearance Prompt Style 1 — Azuki
 
-Azuki is a petite, slim girl with long, softly wavy milk-tea brown hair that transitions into a muted rosy-pink and pale lavender gradient at the ends, framed by fluffy bangs and long face-framing locks, and warm plum-violet eyes with a playful, affectionate expression. Her animal features include small, sleek pointed beige cat ears with pale pink inner fur and a long, flexible pinkish-beige tail of even slender thickness that curls behind her, decorated with a blossom-and-tassel charm near the outer curve. She wears a pink cherry-blossom hair ornament with trailing ribbons, a coral choker with a gold bell, and crescent-moon and tassel accessories at her waist. Her outfit is a white lace-trimmed camisole layered beneath an open cream kimono-style cardigan printed with pink sakura blossoms and finished with wide draped sleeves, paired with a high-waisted apricot-pink pleated skirt featuring corset-style side lacing, a striped bow, crescent charm, and white frilled hem, decorative thigh ribbons and floral garters, slouchy ivory cable-knit leg warmers adorned with bells and bows, and glossy pink platform Mary Jane loafers with blossom buckles. Her expression is a bright open-mouthed teasing smile with both hands lifted in a playful double claw pose.
+ 1. Base Anatomy: Azuki is a petite, slim girl. Warm plum-violet eyes with a playful, affectionate expression. Her expression is a bright open-mouthed teasing smile.
+
+ 2. Hair & Head: Long, softly wavy milk-tea brown hair that transitions into a muted rosy-pink and pale lavender gradient at the ends, framed by fluffy bangs and long face-framing locks. She wears a pink cherry-blossom hair ornament with trailing ribbons.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed beige cat ears with pale pink inner fur and a long, flexible pinkish-beige tail of even slender thickness that curls behind her, decorated with a blossom-and-tassel charm near the outer curve.
+
+ 4. Upper Body: She wears a pink cherry-blossom hair ornament with trailing ribbons, a coral choker with a gold bell. Her outfit is a white lace-trimmed camisole layered beneath an open cream kimono-style cardigan printed with pink sakura blossoms and finished with wide draped sleeves.
+
+ 5. Lower Body & Feet: Crescent-moon and tassel accessories at her waist. Paired with a high-waisted apricot-pink pleated skirt featuring corset-style side lacing, a striped bow, crescent charm, and white frilled hem, decorative thigh ribbons and floral garters, slouchy ivory cable-knit leg warmers adorned with bells and bows, and glossy pink platform Mary Jane loafers with blossom buckles.
+
+ 6. Pose: With both hands lifted in a playful double claw pose.
 
 Physical Appearance Prompt Style 1b — Azuki
 
-Azuki is a slim, petite girl with rich amethyst-purple eyes and a bright, playful gaze, framed by extremely long wavy hair in warm rose-beige and light chestnut tones that softly transition into dusty pink-lilac at the ends, with layered bangs and a cherry-blossom hair cluster accompanied by ribbon tassels. She has medium-sized, sleek rose-beige cat ears with white inner tufts and one slender, flexible matching tail curled upward, decorated near the tip with a small blossom ribbon and hanging tassel. A floral choker with a large gold bell rests above a white frilled camisole-style blouse with a tiny pink bow, layered beneath a pale cream kimono-inspired cropped haori with wide bell sleeves, cherry-blossom prints, and dangling rings, bells, cords, and tassels. A broad salmon-pink bow belt with a central flower and crescent-moon charm defines her waist over a short pleated salmon skirt with a white lace hem and corset-style side lacing. Her bare thighs are accented by delicate asymmetric flower-and-bow garters, followed by thick cream cable-knit leg warmers gathered around the calves and decorated with pink bows, blossoms, and small bells. Pink low-platform Mary Jane shoes feature broad straps and floral bow details. She finishes with an open-mouthed cheerful smile, facing forward in a relaxed, slightly angled stance with both hands lifted beside her shoulders and her fingers spread and curled into playful cat-paw gestures.
+ 1. Base Anatomy: Azuki is a slim, petite girl. Rich amethyst-purple eyes. She finishes with an open-mouthed cheerful smile.
+
+ 2. Hair & Head: A bright, playful gaze, framed by extremely long wavy hair in warm rose-beige and light chestnut tones that softly transition into dusty pink-lilac at the ends, with layered bangs and a cherry-blossom hair cluster accompanied by ribbon tassels.
+
+ 3. Species Traits: Cat Logic — She has medium-sized, sleek rose-beige cat ears with white inner tufts and one slender, flexible matching tail curled upward, decorated near the tip with a small blossom ribbon and hanging tassel.
+
+ 4. Upper Body: A floral choker with a large gold bell rests above a white frilled camisole-style blouse with a tiny pink bow, layered beneath a pale cream kimono-inspired cropped haori with wide bell sleeves, cherry-blossom prints, and dangling rings, bells, cords, and tassels. A short pleated salmon skirt with a white lace hem and corset-style side lacing.
+
+ 5. Lower Body & Feet: A broad salmon-pink bow belt with a central flower and crescent-moon charm defines her waist over a short pleated salmon skirt with a white lace hem and corset-style side lacing. Her bare thighs are accented by delicate asymmetric flower-and-bow garters, followed by thick cream cable-knit leg warmers gathered around the calves and decorated with pink bows, blossoms, and small bells. Pink low-platform Mary Jane shoes feature broad straps and floral bow details.
+
+ 6. Pose: Facing forward in a relaxed, slightly angled stance with both hands lifted beside her shoulders and her fingers spread and curled into playful cat-paw gestures.
 
 Physical Appearance Prompt Style 1c — Azuki
 
-Azuki has a slim, slightly taller-feeling build, rosy mauve eyes, and a playful open smile that gives her a friendly, teasing charm. Her hair is long and softly wavy, colored a warm beige-blonde at the crown that melts into dusty pink and lavender near the ends, and it frames her face with airy bangs while a cherry-blossom cluster with dangling charms decorates one side. She has upright soft beige animal ears and a long, slender dusty-pink tail with a small tassel ornament near the tip, so the animal features read nimble and graceful rather than fluffy. Closest to the body she wears a white ruffled blouse tied with a peach ribbon at the neckline, layered under a light cream floral cardigan or haori-style jacket, and over that sits a peach pleated skirt with flower trim and a waist bow, all accented by a bell choker and crescent moon charm, with no visible text. Her lower half includes bare legs with floral ribbon garters, heavy cable-knit leg warmers gathered around the calves, and chunky pink platform shoes finished with bows and tiny flower details. She poses with both hands lifted in playful claw shapes, her torso tilted slightly, and one knee bent inward so the stance feels coy and animated.
+ 1. Base Anatomy: Azuki has a slim, slightly taller-feeling build. Rosy mauve eyes, and a playful open smile that gives her a friendly, teasing charm.
+
+ 2. Hair & Head: Her hair is long and softly wavy, colored a warm beige-blonde at the crown that melts into dusty pink and lavender near the ends, and it frames her face with airy bangs while a cherry-blossom cluster with dangling charms decorates one side.
+
+ 3. Species Traits: Cat Logic — She has upright soft beige animal ears and a long, slender dusty-pink tail with a small tassel ornament near the tip, so the animal features read nimble and graceful rather than fluffy.
+
+ 4. Upper Body: Closest to the body she wears a white ruffled blouse tied with a peach ribbon at the neckline, layered under a light cream floral cardigan or haori-style jacket.
+
+ 5. Lower Body & Feet: Over that sits a peach pleated skirt with flower trim and a waist bow, all accented by a bell choker and crescent moon charm, with no visible text. Her lower half includes bare legs with floral ribbon garters, heavy cable-knit leg warmers gathered around the calves, and chunky pink platform shoes finished with bows and tiny flower details.
+
+ 6. Pose: She poses with both hands lifted in playful claw shapes, her torso tilted slightly, and one knee bent inward so the stance feels coy and animated.
 
 Physical Appearance Prompt Style 2 — Azuki
 
-Azuki is a petite, slight girl with very long milk-tea brown hair that softens into a rosy-pink gradient through its lower half, falling in loose romantic waves with wispy parted bangs, and her eyes are a dusky plum-mauve with a warm sparkle. Her animal features include small pointed light-brown cat ears with pale pink inner fur, and a long, slender fawn-brown cat tail of even thickness blushing pink toward the tip, which carries a tiny dangling blossom-and-tassel charm. She wears a pink cherry-blossom cluster ornament with ribbon and golden tassel dangles at her right temple and a pink choker fitted with a golden bell. Her outfit is a white frilled camisole laced with pink ribbon at the bust, draped with a cream haori-style cardigan whose wide kimono sleeves are printed with pink sakura sprays and hung with golden bells and tassels; a pink pleated high-waist skirt features gold side lacing, a red-striped waist bow with a golden crescent-moon charm, and a white lace hem scalloped with tiny cat faces; her bare thighs are accented by a pink bow garter on one leg and a blossom cord at the opposite knee above slouchy white cable-knit leg warmers decorated with pink bows and small golden bells; and she wears pink platform Mary Janes with bows and pale soles. Her expression is a bright, open-mouthed cheerful smile, posed mid-play with one hand raised beside her face and the other lifted at chest height, both curled into teasing cat-claw gestures.
+ 1. Base Anatomy: Azuki is a petite, slight girl. Eyes are a dusky plum-mauve with a warm sparkle. Her expression is a bright, open-mouthed cheerful smile.
+
+ 2. Hair & Head: Very long milk-tea brown hair that softens into a rosy-pink gradient through its lower half, falling in loose romantic waves with wispy parted bangs.
+
+ 3. Species Traits: Cat Logic — Her animal features include small pointed light-brown cat ears with pale pink inner fur, and a long, slender fawn-brown cat tail of even thickness blushing pink toward the tip, which carries a tiny dangling blossom-and-tassel charm.
+
+ 4. Upper Body: She wears a pink cherry-blossom cluster ornament with ribbon and golden tassel dangles at her right temple and a pink choker fitted with a golden bell. Her outfit is a white frilled camisole laced with pink ribbon at the bust, draped with a cream haori-style cardigan whose wide kimono sleeves are printed with pink sakura sprays and hung with golden bells and tassels.
+
+ 5. Lower Body & Feet: A pink pleated high-waist skirt features gold side lacing, a red-striped waist bow with a golden crescent-moon charm, and a white lace hem scalloped with tiny cat faces; her bare thighs are accented by a pink bow garter on one leg and a blossom cord at the opposite knee above slouchy white cable-knit leg warmers decorated with pink bows and small golden bells; and she wears pink platform Mary Janes with bows and pale soles.
+
+ 6. Pose: Posed mid-play with one hand raised beside her face and the other lifted at chest height, both curled into teasing cat-claw gestures.
 
 Physical Appearance Prompt Style 2b — Azuki
 
-Azuki has a petite, playful build with fair skin, warm plum-brown eyes, and a bright open smile. Her long milk-tea brown hair dissolves into soft pink through the lower lengths in tousled waves, with wispy bangs and a sakura cluster trailing pink ribbons and golden tassels pinned above her ear. Sleek light-brown cat ears with rosy inner fur rise from her head, and a long, slender taupe tail curls high behind her, hung with a small blossom-and-tassel charm. She wears a pink collar with a golden bell at her throat, a white frilled camisole blouse tied with a thin pink ribbon, and over it an open kimono-style haori cardigan in cream printed with pink cherry blossoms, its wide furisode sleeves edged with tiny gold bells and tassels, all cinched by a striped coral obi-style waist ribbon carrying a golden crescent-moon charm; the fabrics are pattern-only, with no visible lettering. Her high-waisted pink pleated skirt has corset-style side lacing and a white frilled hem printed with tiny cat faces, worn with a bowed garter strap on one thigh, a blossom anklet ribbon on the other leg, and chunky white cable-knit leg warmers decorated with pink bows and gold bells slouched over glossy pink platform Mary Janes. She poses with both hands lifted in playful clawed paw shapes, one raised high beside her head and the other held at chest level.
+ 1. Base Anatomy: Azuki has a petite, playful build with fair skin. Warm plum-brown eyes, and a bright open smile.
+
+ 2. Hair & Head: Her long milk-tea brown hair dissolves into soft pink through the lower lengths in tousled waves, with wispy bangs and a sakura cluster trailing pink ribbons and golden tassels pinned above her ear.
+
+ 3. Species Traits: Cat Logic — Sleek light-brown cat ears with rosy inner fur rise from her head, and a long, slender taupe tail curls high behind her, hung with a small blossom-and-tassel charm.
+
+ 4. Upper Body: She wears a pink collar with a golden bell at her throat, a white frilled camisole blouse tied with a thin pink ribbon, and over it an open kimono-style haori cardigan in cream printed with pink cherry blossoms, its wide furisode sleeves edged with tiny gold bells and tassels.
+
+ 5. Lower Body & Feet: All cinched by a striped coral obi-style waist ribbon carrying a golden crescent-moon charm; the fabrics are pattern-only, with no visible lettering. Her high-waisted pink pleated skirt has corset-style side lacing and a white frilled hem printed with tiny cat faces, worn with a bowed garter strap on one thigh, a blossom anklet ribbon on the other leg, and chunky white cable-knit leg warmers decorated with pink bows and gold bells slouched over glossy pink platform Mary Janes.
+
+ 6. Pose: She poses with both hands lifted in playful clawed paw shapes, one raised high beside her head and the other held at chest level.
 
 Physical Appearance Prompt Style 3 — Azuki
 
-Azuki is a gentle girl with long, wavy sandy-beige hair that shifts to a soft pink gradient at the tips, featuring wispy bangs and large, warm purple eyes. Her animal features include small, pointed beige cat ears and a long, slender beige cat tail accented with a pink floral tassel. She wears a collection of cherry blossom hair ornaments on her left side, a golden bell collar, and a delicate floral thigh ribbon. Her outfit is a white lace-trimmed camisole top layered under an oversized, cream-colored floral-print haori jacket, an A-line peach-pink pleated skirt with lace-up side details, thick cream-colored cable-knit leg warmers, and pink platform shoes with white ribbon bows. Her expression is a bright, welcoming smile with her hands raised playfully in front of her chest.
+ 1. Base Anatomy: Azuki is a gentle girl. Large, warm purple eyes. Her expression is a bright, welcoming smile.
+
+ 2. Hair & Head: Long, wavy sandy-beige hair that shifts to a soft pink gradient at the tips, featuring wispy bangs. She wears a collection of cherry blossom hair ornaments on her left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed beige cat ears and a long, slender beige cat tail accented with a pink floral tassel.
+
+ 4. Upper Body: She wears a collection of cherry blossom hair ornaments on her left side, a golden bell collar, and a delicate floral thigh ribbon. Her outfit is a white lace-trimmed camisole top layered under an oversized, cream-colored floral-print haori jacket.
+
+ 5. Lower Body & Feet: An A-line peach-pink pleated skirt with lace-up side details, thick cream-colored cable-knit leg warmers, and pink platform shoes with white ribbon bows.
+
+ 6. Pose: With her hands raised playfully in front of her chest.
 
 Physical Appearance Prompt Style 4 — Azuki
 
-Azuki is a slim girl with long, wavy beige hair cascading into soft pink ends, styled with parted bangs and cherry blossom hair clips, and warm purple eyes. Her animal features include sleek, pointed beige cat ears and a slender, flexible beige cat tail accented with a pink bow and hanging tassel. She wears a delicate choker with a golden bell, sakura hair ornaments, and a pale pink bow tied at her waist. Her outfit is a light beige kimono-style wrap jacket with sakura prints layered over a white ruffled camisole with a front ribbon, a pleated peach mini skirt with crisscross lacing, thick white knitted leg warmers over sheer stockings with ribbon-tied garters, and beige platform Mary Jane shoes detailed with pink ribbons and bells. Her expression is a bright, cheerful open-mouthed smile with her hands raised in playful, open-paw gestures.
+ 1. Base Anatomy: Azuki is a slim girl. Warm purple eyes. Her expression is a bright, cheerful open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy beige hair cascading into soft pink ends, styled with parted bangs and cherry blossom hair clips. She wears a delicate choker with a golden bell, sakura hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed beige cat ears and a slender, flexible beige cat tail accented with a pink bow and hanging tassel.
+
+ 4. Upper Body: She wears a delicate choker with a golden bell, sakura hair ornaments. Her outfit is a light beige kimono-style wrap jacket with sakura prints layered over a white ruffled camisole with a front ribbon.
+
+ 5. Lower Body & Feet: A pale pink bow tied at her waist. A pleated peach mini skirt with crisscross lacing, thick white knitted leg warmers over sheer stockings with ribbon-tied garters, and beige platform Mary Jane shoes detailed with pink ribbons and bells.
+
+ 6. Pose: With her hands raised in playful, open-paw gestures.
 
 Physical Appearance Prompt Style 4b — Azuki
 
-Azuki has a slender build, soft purple eyes, and long, wavy beige hair that gently transitions into pastel pink at the ends, styled with pink floral hairpins and dangling tassels on the left side. Adhering to cat logic, she features pointed beige feline ears and a slender, flexible beige tail accented with a pink ribbon bow and a hanging tassel. Her attire includes a black choker with a large gold bell, worn under a loose, light peach kimono-style jacket covered in cherry blossom prints, layered over a white ruffled top and a pleated peach mini skirt tied with a large pink bow at the waist. She pairs this with bare legs accented by strapped garters with floral motifs, thick cream-colored knitted leg warmers tied with pink ribbons, and chunky pink platform shoes decorated with white bows and floral charms. She wears a warm, inviting smile, posing playfully with her right hand raised in a relaxed claw gesture while her left arm rests casually at her side.
+ 1. Base Anatomy: Azuki has a slender build. Soft purple eyes. She wears a warm, inviting smile.
+
+ 2. Hair & Head: Long, wavy beige hair that gently transitions into pastel pink at the ends, styled with pink floral hairpins and dangling tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Adhering to cat logic, she features pointed beige feline ears and a slender, flexible beige tail accented with a pink ribbon bow and a hanging tassel.
+
+ 4. Upper Body: Her attire includes a black choker with a large gold bell, worn under a loose, light peach kimono-style jacket covered in cherry blossom prints.
+
+ 5. Lower Body & Feet: Layered over a white ruffled top and a pleated peach mini skirt tied with a large pink bow at the waist. She pairs this with bare legs accented by strapped garters with floral motifs, thick cream-colored knitted leg warmers tied with pink ribbons, and chunky pink platform shoes decorated with white bows and floral charms.
+
+ 6. Pose: Posing playfully with her right hand raised in a relaxed claw gesture while her left arm rests casually at her side.
 
 ---
 
@@ -1569,35 +2225,115 @@ Benika is a loving, expressive cat girl whose warmth is open and wholehearted, b
 
 Physical Appearance Prompt Style 1 — Benika
 
-Benika is a petite, slim girl with very long, voluminous crimson-pink hair that falls in loose waves and fades into a warm peach-gold gradient at the ends, framed by soft bangs and bold red floral ornaments, and vivid pink-red eyes with a spirited, confident expression. Her animal features include small, sleek pointed rosy-red cat ears with pale inner fur and a long, flexible pink tail of even slender thickness that curves high behind her, tied with a red bow and gold bell. She wears a large red camellia hairpiece with black ribbons, golden bells, and tassels, a black choker with a gold bell, and additional floral talismans and charms hanging from her clothes. Her outfit is a black cropped top layered beneath an oversized black hooded jacket with deep red lining, crimson floral embroidery, gold hardware, and hanging brocade straps, a pleated miniskirt combining black floral panels with rich red brocade, a gold chain belt, and tassel charms, sheer black thigh-high stockings with knotted red garter ornaments, and black high-top platform sneakers with white toe caps, red ribbon laces, and floral embroidery. Her expression is a bright open-mouthed smile with both arms relaxed naturally at her sides.
+ 1. Base Anatomy: Benika is a petite, slim girl. Vivid pink-red eyes with a spirited, confident expression. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Very long, voluminous crimson-pink hair that falls in loose waves and fades into a warm peach-gold gradient at the ends, framed by soft bangs and bold red floral ornaments. She wears a large red camellia hairpiece with black ribbons.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed rosy-red cat ears with pale inner fur and a long, flexible pink tail of even slender thickness that curves high behind her, tied with a red bow and gold bell.
+
+ 4. Upper Body: She wears a large red camellia hairpiece with black ribbons, golden bells, and tassels, a black choker with a gold bell, and additional floral talismans and charms hanging from her clothes. Her outfit is a black cropped top layered beneath an oversized black hooded jacket with deep red lining, crimson floral embroidery, gold hardware, and hanging brocade straps.
+
+ 5. Lower Body & Feet: A pleated miniskirt combining black floral panels with rich red brocade, a gold chain belt, and tassel charms, sheer black thigh-high stockings with knotted red garter ornaments, and black high-top platform sneakers with white toe caps, red ribbon laces, and floral embroidery.
+
+ 6. Pose: With both arms relaxed naturally at her sides.
 
 Physical Appearance Prompt Style 1b — Benika
 
-Benika is a slim, youthful girl with vivid ruby-red eyes held in an energetic, excited gaze and very long coral-red hair that falls in full waves past her waist, gradually fading into warm peach-pink at the lower lengths, with layered bangs and a large red camellia-style flower arrangement accented by black ribbons and gold bell ornaments. She has large, wide-based coral fox ears with pale inner fur and one thick, plush coral-to-soft-pink tail that curves high behind her, ornamented with a red bow and oversized gold bell. A fitted black bell choker sits above a cropped black camisole bearing a red flower emblem at the chest, layered beneath an oversized black hooded jacket with deep wine-red lining, red piping, gold rings and buckles, hanging tag-like ornaments, and elaborate red floral embroidery across the sleeves. A black belt, gold chains, tassels, and flower charms decorate an asymmetric pleated miniskirt constructed from alternating black and dark-red panels with fine gold trim. Black thigh-high stockings cover both legs, with one thigh accented by an ornate red-and-gold flower garter and hanging tassel. Black high-top platform sneakers have white toe caps, white laces, red ankle bows, and small floral emblems. She ends with a wide open-mouthed smile, standing directly forward with her legs set about shoulder-width apart and both arms hanging comfortably at her sides with relaxed, slightly open hands.
+ 1. Base Anatomy: Benika is a slim, youthful girl. Vivid ruby-red eyes held in an energetic, excited gaze. She ends with a wide open-mouthed smile.
+
+ 2. Hair & Head: Very long coral-red hair that falls in full waves past her waist, gradually fading into warm peach-pink at the lower lengths, with layered bangs and a large red camellia-style flower arrangement accented by black ribbons and gold bell ornaments.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed coral cat ears with pale inner fur and one long, flexible coral-to-soft-pink cat tail of even slender thickness that curves high behind her, ornamented with a red bow and oversized gold bell.
+
+ 4. Upper Body: A fitted black bell choker sits above a cropped black camisole bearing a red flower emblem at the chest, layered beneath an oversized black hooded jacket with deep wine-red lining, red piping, gold rings and buckles, hanging tag-like ornaments, and elaborate red floral embroidery across the sleeves. Black high-top platform.
+
+ 5. Lower Body & Feet: A black belt, gold chains, tassels, and flower charms decorate an asymmetric pleated miniskirt constructed from alternating black and dark-red panels with fine gold trim. Black thigh-high stockings cover both legs, with one thigh accented by an ornate red-and-gold flower garter and hanging tassel. Sneakers have white toe caps, white laces, red ankle bows, and small floral emblems.
+
+ 6. Pose: Standing directly forward with her legs set about shoulder-width apart and both arms hanging comfortably at her sides with relaxed, slightly open hands.
 
 Physical Appearance Prompt Style 1c — Benika
 
-Benika has a slim, youthful build, vivid pink-red eyes, and a bright open grin that gives her a confident, street-fashion energy. Her hair is very long and glossy, coral red through the crown and peachier toward the ends, worn in loose waves with straight bangs and a bold red flower-and-ribbon ornament with hanging charms at one side. She has upright red animal ears with pale inner fur and a long, flexible pink tail marked with tiny pale spots and tied with a bow and bell, which keeps the design lively and agile. Under her outer layer she wears a black cropped top centered with a red blossom emblem, paired with an oversized black hooded bomber jacket lined in deep red and covered in floral embroidery, gold hardware, decorative straps, and hanging charm tags, but no readable lettering. Her lower half consists of a black-and-red pleated mini skirt with belts and waist chains, dark thigh-high stockings with a floral garter piece on one leg, and black high-top sneakers with floral accents, red bows, and thick rubber soles. She stands facing forward with her arms relaxed at her sides, her fingers loose, and her legs set apart in a casual, self-assured stance.
+ 1. Base Anatomy: Benika has a slim, youthful build. Vivid pink-red eyes, and a bright open grin that gives her a confident, street-fashion energy.
+
+ 2. Hair & Head: Her hair is very long and glossy, coral red through the crown and peachier toward the ends, worn in loose waves with straight bangs and a bold red flower-and-ribbon ornament with hanging charms at one side.
+
+ 3. Species Traits: Cat Logic — She has upright red animal ears with pale inner fur and a long, flexible pink tail marked with tiny pale spots and tied with a bow and bell, which keeps the design lively and agile.
+
+ 4. Upper Body: Under her outer layer she wears a black cropped top centered with a red blossom emblem, paired with an oversized black hooded bomber jacket lined in deep red and covered in floral embroidery, gold hardware, decorative straps, and hanging charm tags, but no readable lettering.
+
+ 5. Lower Body & Feet: Her lower half consists of a black-and-red pleated mini skirt with belts and waist chains, dark thigh-high stockings with a floral garter piece on one leg, and black high-top sneakers with floral accents, red bows, and thick rubber soles.
+
+ 6. Pose: She stands facing forward with her arms relaxed at her sides, her fingers loose, and her legs set apart in a casual, self-assured stance.
 
 Physical Appearance Prompt Style 2 — Benika
 
-Benika is a slender, long-limbed girl with extremely long, voluminous crimson-rose hair that tumbles in heavy waves and fades into a peach-gold gradient at the ends, styled with soft parted bangs, and her lively eyes are a vivid magenta-pink. Her animal features include pointed rose-red cat ears tufted with white inner fur, and a long, slender coral-pink cat tail of even thickness that curls high behind her, tied with a red polka-dot bow carrying a golden bell and tassel. She wears a bold red camellia hair ornament with black ribbons, a golden bell, and hanging tassels at her left temple, a black choker with a golden bell at her throat, and black-and-gold talisman ribbon charms with bells knotted at each wrist. Her outfit is a black bandeau-style crop top printed with red plum blossoms that bares her midriff, worn under an oversized black souvenir-jacket-style hoodie with a deep red hood lining, red-and-gold floral embroidery tracing the sleeves and trim, gold zip hardware, and hanging tag charms; a pleated miniskirt color-blocked in black and deep crimson with gilded blossom prints hangs from a brown belt strung with gold chains, knotted cords, and flower charms; black thigh-high stockings are dressed with red knotted-cord garter charms; and she wears black canvas high-top sneakers with white toe caps and platform soles, laced in white and decorated with red floral prints and ribbon-bell charms. Her expression is a radiant open-mouthed smile, posed standing squarely with both arms relaxed at her sides.
+ 1. Base Anatomy: Benika is a slender, long-limbed girl. Lively eyes are a vivid magenta-pink. Her expression is a radiant open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, voluminous crimson-rose hair that tumbles in heavy waves and fades into a peach-gold gradient at the ends, styled with soft parted bangs. She wears a bold red camellia hair ornament with black ribbons.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed rose-red cat ears tufted with white inner fur, and a long, slender coral-pink cat tail of even thickness that curls high behind her, tied with a red polka-dot bow carrying a golden bell and tassel.
+
+ 4. Upper Body: She wears a bold red camellia hair ornament with black ribbons, a golden bell, and hanging tassels at her left temple, a black choker with a golden bell at her throat, and black-and-gold talisman ribbon charms with bells knotted at each wrist. Her outfit is a black bandeau-style crop top printed with red plum blossoms that bares her midriff, worn under an oversized black souvenir-jacket-style hoodie with a deep red hood lining, red-and-gold floral embroidery tracing the sleeves and trim, gold zip hardware, and hanging tag charms.
+
+ 5. Lower Body & Feet: A pleated miniskirt color-blocked in black and deep crimson with gilded blossom prints hangs from a brown belt strung with gold chains, knotted cords, and flower charms; black thigh-high stockings are dressed with red knotted-cord garter charms; and she wears black canvas high-top sneakers with white toe caps and platform soles, laced in white and decorated with red floral prints and ribbon-bell charms.
+
+ 6. Pose: Posed standing squarely with both arms relaxed at her sides.
 
 Physical Appearance Prompt Style 2b — Benika
 
-Benika has a slender build with fair skin, vivid magenta-red eyes, and a wide, open-mouthed grin. Her extraordinarily long crimson hair softens into peachy pink toward the ends and billows in dramatic, voluminous waves, crowned on one side by a large red camellia ornament with black ribbons, a golden bell, and hanging tassels. Sleek red cat ears with white inner fluff emerge from her hair, and a long, plush rose-pink tail curves in a smooth S behind her, tied with a red bow and golden bell partway down its length. She wears a black choker with a golden bell, a black cropped top printed with red plum blossoms, and an oversized black hooded jacket lined in deep red, trimmed with gold zippers, tag pulls, and red-and-gold banding, its sleeves embroidered with scarlet flowers; from each cuff hangs a black ribbon tag inscribed with gilt Japanese-style calligraphy that is ornamental and stylized rather than forming legible words. Her pleated miniskirt is color-blocked in black and deep red with gold floral prints, a slim belt, a draped gold chain, and knotted-cord tassel charms, worn above black thigh-high stockings, one thigh wrapped in a garter strap dangling red knot-cords and tassels, and black high-top sneakers on thick white platform soles with red floral embroidery and ribboned laces. She stands facing forward with her arms hanging relaxed, held just slightly away from her body.
+ 1. Base Anatomy: Benika has a slender build with fair skin. Vivid magenta-red eyes, and a wide, open-mouthed grin.
+
+ 2. Hair & Head: Her extraordinarily long crimson hair softens into peachy pink toward the ends and billows in dramatic, voluminous waves, crowned on one side by a large red camellia ornament with black ribbons, a golden bell, and hanging tassels.
+
+ 3. Species Traits: Cat Logic — Sleek red cat ears with white inner fluff emerge from her hair, and a long, plush rose-pink tail curves in a smooth S behind her, tied with a red bow and golden bell partway down its length.
+
+ 4. Upper Body: She wears a black choker with a golden bell, a black cropped top printed with red plum blossoms, and an oversized black hooded jacket lined in deep red, trimmed with gold zippers, tag pulls, and red-and-gold banding, its sleeves embroidered with scarlet flowers; from each cuff hangs a black ribbon tag inscribed with gilt Japanese-style calligraphy that is ornamental and stylized rather than forming legible words.
+
+ 5. Lower Body & Feet: Her pleated miniskirt is color-blocked in black and deep red with gold floral prints, a slim belt, a draped gold chain, and knotted-cord tassel charms, worn above black thigh-high stockings, one thigh wrapped in a garter strap dangling red knot-cords and tassels, and black high-top sneakers on thick white platform soles with red floral embroidery and ribboned laces.
+
+ 6. Pose: She stands facing forward with her arms hanging relaxed, held just slightly away from her body.
 
 Physical Appearance Prompt Style 3 — Benika
 
-Benika is an energetic girl with long, wavy coral-red hair that lightens to an orange-pink hue at the ends, featuring choppy bangs and matching dark red eyes. Her animal features include small, pointed red cat ears and a long, flexible red cat tail wrapped with a large red bow and a gold bell. She wears a massive red floral hair ornament with hanging black tassels on the left side of her head, a black choker, and strapped black thigh garters. Her outfit is a black crop top with a red flower crest under an oversized black streetwear hoodie featuring embroidered red floral patterns along the sleeves, a pleated black and red miniskirt with a gold chain belt, black thigh-high stockings, and black canvas sneakers with white laces. Her expression is a wide, joyful smile, standing with her arms relaxed slightly away from her body.
+ 1. Base Anatomy: Benika is an energetic girl. Matching dark red eyes. Her expression is a wide, joyful smile.
+
+ 2. Hair & Head: Long, wavy coral-red hair that lightens to an orange-pink hue at the ends, featuring choppy bangs. She wears a massive red floral hair ornament with hanging black tassels on the left side of her head.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed red cat ears and a long, flexible red cat tail wrapped with a large red bow and a gold bell.
+
+ 4. Upper Body: She wears a massive red floral hair ornament with hanging black tassels on the left side of her head, a black choker, and strapped black thigh garters. Her outfit is a black crop top with a red flower crest under an oversized black streetwear hoodie featuring embroidered red floral patterns along the sleeves.
+
+ 5. Lower Body & Feet: A pleated black and red miniskirt with a gold chain belt, black thigh-high stockings, and black canvas sneakers with white laces.
+
+ 6. Pose: Standing with her arms relaxed slightly away from her body.
 
 Physical Appearance Prompt Style 4 — Benika
 
-Benika is a petite girl with extremely long, wavy coral-red hair transitioning to pale blonde tips, blunt bangs framed by ornate red floral and black ribbon hair clips, and vibrant ruby red eyes. Her animal features include pointed, sleek red cat ears and a long, slender, flexible red cat tail adorned with a red ribbon and a golden bell. She wears a black choker with a bell, prominent red flower hairpieces, and hanging tassel ornaments. Her outfit is a black zip-up hooded jacket embellished with intricate red cherry blossom embroidery layered over a black crop top with a red floral motif, a black and red pleated mini skirt with gold chain accents, black thigh-high stockings secured by strappy garters with floral charms, and black high-top canvas sneakers with red laces and floral details. Her expression is an enthusiastic, open-mouthed smile with her arms held casually downward and slightly outward.
+ 1. Base Anatomy: Benika is a petite girl. Vibrant ruby red eyes. Her expression is an enthusiastic, open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, wavy coral-red hair transitioning to pale blonde tips, blunt bangs framed by ornate red floral and black ribbon hair clips. She wears a black choker with a bell, prominent red flower hairpieces.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek red cat ears and a long, slender, flexible red cat tail adorned with a red ribbon and a golden bell.
+
+ 4. Upper Body: She wears a black choker with a bell, prominent red flower hairpieces, and hanging tassel ornaments. Her outfit is a black zip-up hooded jacket embellished with intricate red cherry blossom embroidery layered over a black crop top with a red floral motif.
+
+ 5. Lower Body & Feet: A black and red pleated mini skirt with gold chain accents, black thigh-high stockings secured by strappy garters with floral charms, and black high-top canvas sneakers with red laces and floral details.
+
+ 6. Pose: With her arms held casually downward and slightly outward.
 
 Physical Appearance Prompt Style 4b — Benika
 
-Benika features a slender frame, bright pinkish-red eyes, and voluminous, wavy red hair that gradients into a soft peach color at the tips, adorned with a complex red and black floral hairpiece and dangling tassels on the left side. Following cat logic, she possesses pointed red feline ears and a long, slender pinkish-red tail curving upwards, decorated with a red bow and a gold bell near the base. Her accessories include a black choker with a gold bell, beneath a black zip-up bomber jacket featuring striking red cherry blossom embroidery, gold chains, and zipper details, layered over a black crop top with a red floral graphic. She wears a pleated black miniskirt with red accents and gold chains, paired with black thigh-high stockings featuring a strapped garter on the left thigh, and black high-top canvas sneakers detailed with red laces, floral charms, and a thick white sole. She displays a wide, enthusiastic smile, standing confidently with her arms resting straight down at her sides.
+ 1. Base Anatomy: Benika features a slender frame. Bright pinkish-red eyes. She displays a wide, enthusiastic smile.
+
+ 2. Hair & Head: Voluminous, wavy red hair that gradients into a soft peach color at the tips, adorned with a complex red and black floral hairpiece and dangling tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she possesses pointed red feline ears and a long, slender pinkish-red tail curving upwards, decorated with a red bow and a gold bell near the base.
+
+ 4. Upper Body: Her accessories include a black choker with a gold bell, beneath a black zip-up bomber jacket featuring striking red cherry blossom embroidery, gold chains, and zipper details, layered over a black crop top with a red floral graphic.
+
+ 5. Lower Body & Feet: She wears a pleated black miniskirt with red accents and gold chains, paired with black thigh-high stockings featuring a strapped garter on the left thigh, and black high-top canvas sneakers detailed with red laces, floral charms, and a thick white sole.
+
+ 6. Pose: Standing confidently with her arms resting straight down at her sides.
 
 ---
 
@@ -1791,35 +2527,115 @@ Renge is a gentle, lotus-themed cat girl who expresses love by nurturing the peo
 
 Physical Appearance Prompt Style 1 — Renge
 
-Renge is a petite, slim girl with long, softly wavy white hair washed with pale blush-pink tones and deepening into a rosy gradient toward the ends, framed by neat bangs and a large lotus ornament at one side, and clear red eyes with a warm, playful expression. Her animal features include small, sleek pointed cream-pink cat ears with soft pale inner fur and a long, flexible pale-peach tail of even slender thickness that curves behind her, tied with a large pink bow and dangling gold lotus charms. She wears an elaborate lotus-blossom hairpiece with bead tassels, a pink choker with a small pendant, and coordinated lotus ornaments at her waist, sleeves, and garters. Her outfit is a pink kimono-inspired mini dress with long draped sleeves, layered ruffle hems, delicate lotus prints, and a broad obi-style sash centered by a large lotus ornament and tied into a structured bow at the back, paired with white thigh-high stockings decorated with floral garters, bows, and tassels, and pink platform Mary Jane shoes with ribbon and blossom details. Her expression is a cheerful open-mouthed smile with both hands raised in a playful double paw pose.
+ 1. Base Anatomy: Renge is a petite, slim girl. Clear red eyes with a warm, playful expression. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Long, softly wavy white hair washed with pale blush-pink tones and deepening into a rosy gradient toward the ends, framed by neat bangs and a large lotus ornament at one side. She wears an elaborate lotus-blossom hairpiece with bead tassels.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed cream-pink cat ears with soft pale inner fur and a long, flexible pale-peach tail of even slender thickness that curves behind her, tied with a large pink bow and dangling gold lotus charms.
+
+ 4. Upper Body: She wears an elaborate lotus-blossom hairpiece with bead tassels, a pink choker with a small pendant. Her outfit is a pink kimono-inspired mini dress with long draped sleeves, layered ruffle hems, delicate lotus prints, and a broad obi-style sash centered by a large lotus ornament and tied into a structured bow at the back.
+
+ 5. Lower Body & Feet: Coordinated lotus ornaments at her waist, sleeves, and garters. Paired with white thigh-high stockings decorated with floral garters, bows, and tassels, and pink platform Mary Jane shoes with ribbon and blossom details.
+
+ 6. Pose: With both hands raised in a playful double paw pose.
 
 Physical Appearance Prompt Style 1b — Renge
 
-Renge is a slim, petite girl with clear ruby-red eyes and an openly delighted gaze, surrounded by long, softly wavy pale blush-pink hair that reaches her waist with wispy bangs and a large layered pink lotus hair ornament fitted with gold chains, beads, and tassels. She has small, sleek pale-pink cat ears with deeper pink inner fur and one slender, flexible cream-pink tail curving outward, tied with a large pink bow centered by a flower and finished with dangling gold and rose-colored charms. A dark choker with a pink heart detail frames her neck above a white and blush-pink kimono-inspired wrap bodice with a frilled neckline, floral prints, and decorative hanging cords, accompanied by dramatically wide sleeves patterned with lotus blossoms and terminated in flower-and-tassel ornaments. A structured pink obi with layered bands and a large three-dimensional lotus centerpiece sits over a short multi-layered pink pleated skirt with patterned panels and a white ruffled petticoat. Pale thigh-high stockings are topped by lotus-shaped lace bands and bow-and-tassel garters. Pink platform Mary Jane heels feature ankle bows, floral charms, fine gold trim, and layered straps. She finishes with a happy open-mouthed smile, facing forward with her legs close and one knee subtly relaxed while both hands are raised beside her shoulders, fingers spread and curled into an animated double cat-paw pose.
+ 1. Base Anatomy: Renge is a slim, petite girl. Clear ruby-red eyes. She finishes with a happy open-mouthed smile.
+
+ 2. Hair & Head: An openly delighted gaze, surrounded by long, softly wavy pale blush-pink hair that reaches her waist with wispy bangs and a large layered pink lotus hair ornament fitted with gold chains, beads, and tassels.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pale-pink cat ears with deeper pink inner fur and one slender, flexible cream-pink tail curving outward, tied with a large pink bow centered by a flower and finished with dangling gold and rose-colored charms.
+
+ 4. Upper Body: A dark choker with a pink heart detail frames her neck above a white and blush-pink kimono-inspired wrap bodice with a frilled neckline, floral prints, and decorative hanging cords, accompanied by dramatically wide sleeves patterned with lotus blossoms and terminated in flower-and-tassel ornaments.
+
+ 5. Lower Body & Feet: A structured pink obi with layered bands and a large three-dimensional lotus centerpiece sits over a short multi-layered pink pleated skirt with patterned panels and a white ruffled petticoat. Pale thigh-high stockings are topped by lotus-shaped lace bands and bow-and-tassel garters. Pink platform Mary Jane heels feature ankle bows, floral charms, fine gold trim, and layered straps.
+
+ 6. Pose: Facing forward with her legs close and one knee subtly relaxed while both hands are raised beside her shoulders, fingers spread and curled into an animated double cat-paw pose.
 
 Physical Appearance Prompt Style 1c — Renge
 
-Renge has a petite, delicate build, warm red-pink eyes, and a cheerful open smile that feels sweet and inviting. Her hair is long and softly layered, pale blush at the top and deepening into rosy pink through the lower lengths, with wispy bangs and a large lotus-like flower ornament with long dangling tassels resting at one side of her head. She has soft cream-and-pink animal ears and a slim pale tail tied with a large pink bow and hanging bead ornaments, which keeps the silhouette elegant and balanced. Her upper body is dressed in a kimono-inspired white wrap top patterned with pink florals and lotuses, crossed over a layered pink skirt and cinched with a broad pink obi featuring a large central lotus ornament, while the oversized sleeves drape beautifully and show no readable text. Her lower half continues with layered ruffles, white thigh-high stockings topped by lotus-shaped lace bands and ribbon tassels, and glossy pink platform Mary Jane heels decorated with bows and tiny floral details. She poses facing forward with both hands lifted near shoulder height in a gentle clawing gesture, her elbows bent, and one leg turned inward to give the whole stance a shy, playful softness.
+ 1. Base Anatomy: Renge has a petite, delicate build. Warm red-pink eyes, and a cheerful open smile that feels sweet and inviting.
+
+ 2. Hair & Head: Her hair is long and softly layered, pale blush at the top and deepening into rosy pink through the lower lengths, with wispy bangs and a large lotus-like flower ornament with long dangling tassels resting at one side of her head.
+
+ 3. Species Traits: Cat Logic — She has soft cream-and-pink animal ears and a slim pale tail tied with a large pink bow and hanging bead ornaments, which keeps the silhouette elegant and balanced.
+
+ 4. Upper Body: Her hair is long and softly layered, pale blush at the top and deepening into rosy pink through the lower lengths, with wispy bangs and a large lotus-like flower ornament with long dangling tassels resting at one side of her head. Her upper body is dressed in a kimono-inspired white wrap top patterned with pink florals and lotuses.
+
+ 5. Lower Body & Feet: Crossed over a layered pink skirt and cinched with a broad pink obi featuring a large central lotus ornament, while the oversized sleeves drape beautifully and show no readable text. Her lower half continues with layered ruffles, white thigh-high stockings topped by lotus-shaped lace bands and ribbon tassels, and glossy pink platform Mary Jane heels decorated with bows and tiny floral details.
+
+ 6. Pose: She poses facing forward with both hands lifted near shoulder height in a gentle clawing gesture, her elbows bent, and one leg turned inward to give the whole stance a shy, playful softness.
 
 Physical Appearance Prompt Style 2 — Renge
 
-Renge is a petite, delicate girl with long pale blush-pink hair worn in soft tousled waves over her shoulders and back, with feathery parted bangs, and her wide eyes are a striking ruby-red. Her animal features include small pointed cat ears in the same pale pink as her hair, and a slender cream-pink cat tail of even thickness that arcs upward, tied with a large rosy bow crowned by a lotus blossom and a golden orb charm. She wears an ornate pink lotus hair ornament with golden bead strands and tassels at her right temple and a thin black choker with a small heart charm. Her outfit is a wa-lolita kimono minidress in white and pink lotus-print fabric, featuring a crossover kimono bodice with a frilled neckline, dramatically wide furisode sleeves that spill lotus motifs and pink tassel drops, and a broad pink obi sash centered with a sculpted lotus corsage trailing golden tassels; the skirt blooms into layered tiers of lotus-print ruffles and white lace with a grand pink bow at the back; white thigh-high stockings finish in pink lotus-lace tops with tasseled bows; and she wears white-and-pink platform Mary-Jane heels with bows and tassel-charmed ankle straps. Her expression is a delighted, open-mouthed smile, posed with both hands raised beside her shoulders in playful cat-claw gestures.
+ 1. Base Anatomy: Renge is a petite, delicate girl. Wide eyes are a striking ruby-red. Her expression is a delighted, open-mouthed smile.
+
+ 2. Hair & Head: Long pale blush-pink hair worn in soft tousled waves over her shoulders and back, with feathery parted bangs. She wears an ornate pink lotus hair ornament with golden bead strands and tassels at her right temple and a thin black choker with a small heart charm.
+
+ 3. Species Traits: Cat Logic — Her animal features include small pointed cat ears in the same pale pink as her hair, and a slender cream-pink cat tail of even thickness that arcs upward, tied with a large rosy bow crowned by a lotus blossom and a golden orb charm.
+
+ 4. Upper Body: She wears an ornate pink lotus hair ornament with golden bead strands and tassels at her right temple and a thin black choker with a small heart charm. Her outfit is a wa-lolita kimono minidress in white and pink lotus-print fabric, featuring a crossover kimono bodice with a frilled neckline, dramatically wide furisode sleeves that spill lotus motifs and pink tassel drops, and a broad pink obi sash centered with a sculpted lotus corsage trailing golden tassels.
+
+ 5. Lower Body & Feet: The skirt blooms into layered tiers of lotus-print ruffles and white lace with a grand pink bow at the back; white thigh-high stockings finish in pink lotus-lace tops with tasseled bows; and she wears white-and-pink platform Mary-Jane heels with bows and tassel-charmed ankle straps.
+
+ 6. Pose: Posed with both hands raised beside her shoulders in playful cat-claw gestures.
 
 Physical Appearance Prompt Style 2b — Renge
 
-Renge has a petite build with fair skin, bright ruby-red eyes, and a joyful open-mouthed smile revealing small fangs. Her long, pale blush-pink hair falls in soft, slightly tousled waves past her waist, ornamented above one ear with a large pink lotus blossom trailing golden beaded tassels. Sleek cream-pink cat ears sit atop her head, and a slender, pale pink tail hooks upward behind her, tied with a generous pink bow and a golden drop charm. She wears a thin black choker with a pink heart pendant, and her outfit is a kimono-inspired lolita dress built from a white crossover bodice with frilled trim and ornate coral knot fastenings, enormous sheer furisode sleeves printed with pink lotus flowers and finished with tassels, a wide pink obi sash centered on an elaborate lotus corsage with hanging cords, and a short layered skirt of pink lotus-printed tiers over white petticoat frills, completed by a huge pink bow at the back of the waist; the prints are floral only, with no written characters. Her legs wear white thigh-high stockings with pink lotus-lace tops and side bows dripping tassels, ending in white-and-pink platform Mary Jane heels with ankle straps, bows, and tassel charms. She poses with both hands raised in open, clawed paw gestures at shoulder height.
+ 1. Base Anatomy: Renge has a petite build with fair skin. Bright ruby-red eyes, and a joyful open-mouthed smile revealing small fangs.
+
+ 2. Hair & Head: Her long, pale blush-pink hair falls in soft, slightly tousled waves past her waist, ornamented above one ear with a large pink lotus blossom trailing golden beaded tassels.
+
+ 3. Species Traits: Cat Logic — Sleek cream-pink cat ears sit atop her head, and a slender, pale pink tail hooks upward behind her, tied with a generous pink bow and a golden drop charm.
+
+ 4. Upper Body: She wears a thin black choker with a pink heart pendant, and her outfit is a kimono-inspired lolita dress built from a white crossover bodice with frilled trim and ornate coral knot fastenings, enormous sheer furisode sleeves printed with pink lotus flowers and finished with tassels, a wide pink obi sash centered on an elaborate lotus corsage with hanging cords.
+
+ 5. Lower Body & Feet: A short layered skirt of pink lotus-printed tiers over white petticoat frills, completed by a huge pink bow at the back of the waist; the prints are floral only, with no written characters. Her legs wear white thigh-high stockings with pink lotus-lace tops and side bows dripping tassels, ending in white-and-pink platform Mary Jane heels with ankle straps, bows, and tassel charms.
+
+ 6. Pose: She poses with both hands raised in open, clawed paw gestures at shoulder height.
 
 Physical Appearance Prompt Style 3 — Renge
 
-Renge is a petite girl with long, pastel pink hair styled with soft side layers, a traditional straight-cut fringe, and vibrant ruby-red eyes. Her animal features include small, pointed pink cat ears and a slender, flexible pink cat tail adorned with a large pink bow and hanging golden bells. She wears a large pink lotus flower hairpiece tucked behind her left ear, a simple black choker, and matching pink floral thigh bands. Her outfit is a white wrap-around kimono-style top with wide, trailing sleeves printed with lotus patterns, secured at the waist by a wide pink obi belt with a central lotus emblem, a tiered pink ruffled miniskirt, opaque white thigh-high stockings, and pink platform sandals wrapped with ribbons. Her expression is a cheerful, open-mouthed grin with both hands raised in front of her in a classic cat claw pose.
+ 1. Base Anatomy: Renge is a petite girl. Vibrant ruby-red eyes. Her expression is a cheerful, open-mouthed grin.
+
+ 2. Hair & Head: Long, pastel pink hair styled with soft side layers, a traditional straight-cut fringe. She wears a large pink lotus flower hairpiece tucked behind her left ear.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed pink cat ears and a slender, flexible pink cat tail adorned with a large pink bow and hanging golden bells.
+
+ 4. Upper Body: She wears a large pink lotus flower hairpiece tucked behind her left ear, a simple black choker, and matching pink floral thigh bands. Her outfit is a white wrap-around kimono-style top with wide, trailing sleeves printed with lotus patterns.
+
+ 5. Lower Body & Feet: Secured at the waist by a wide pink obi belt with a central lotus emblem, a tiered pink ruffled miniskirt, opaque white thigh-high stockings, and pink platform sandals wrapped with ribbons.
+
+ 6. Pose: With both hands raised in front of her in a classic cat claw pose.
 
 Physical Appearance Prompt Style 4 — Renge
 
-Renge is a slender girl with voluminous, wavy light pink hair featuring face-framing bangs and large pink lotus hair clips, and striking red eyes. Her animal features include sleek, pointed light pink cat ears and a long, slender, flexible pink cat tail decorated with a pink bow and dangling charm. She wears a thin black choker with a pink gem, intricate lotus flower hair accessories, and a large pink bow at the back of her waist. Her outfit is a pale pink kimono-style top with wide, flowing sleeves adorned with lotus patterns layered over a pink ruffled bodice, a tiered pink ruffled mini skirt with matching floral motifs, sheer white thigh-high stockings with pink ribbon garters and hanging tassels, and pink platform heels with wraparound ankle ribbons and lotus hardware. Her expression is an excited, open-mouthed smile with both hands raised in playful, curled paw gestures.
+ 1. Base Anatomy: Renge is a slender girl. Striking red eyes. Her expression is an excited, open-mouthed smile.
+
+ 2. Hair & Head: Voluminous, wavy light pink hair featuring face-framing bangs and large pink lotus hair clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed light pink cat ears and a long, slender, flexible pink cat tail decorated with a pink bow and dangling charm.
+
+ 4. Upper Body: She wears a thin black choker with a pink gem, intricate lotus flower hair accessories. Her outfit is a pale pink kimono-style top with wide, flowing sleeves adorned with lotus patterns layered over a pink ruffled bodice.
+
+ 5. Lower Body & Feet: A large pink bow at the back of her waist. A tiered pink ruffled mini skirt with matching floral motifs, sheer white thigh-high stockings with pink ribbon garters and hanging tassels, and pink platform heels with wraparound ankle ribbons and lotus hardware.
+
+ 6. Pose: With both hands raised in playful, curled paw gestures.
 
 Physical Appearance Prompt Style 4b — Renge
 
-Renge is a slender girl with bright red eyes and long, wavy pastel pink hair styled with a large pink lotus flower hairpin and dangling golden tassels on the left side. Based on cat logic, she features moderately sized pink feline ears and a slender, curving light pink tail adorned with a prominent pink bow and hanging gold charms. She wears a thin black choker with a small gem, complementing a pale pink, short-sleeved kimono-style dress layered with soft ruffles, featuring elaborate lotus flower prints, a wide pink obi sash with a large lotus accessory, and trailing kimono sleeves. Her legs are covered by sheer white thigh-high stockings with pink ruffled garters, paired with chunky pink platform heels featuring delicate strappy details and small gold charms. She exhibits a cheerful, open-mouthed smile, posing dynamically with both hands playfully raised into relaxed paw-like gestures near her chest.
+ 1. Base Anatomy: Renge is a slender girl. Bright red eyes. She exhibits a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy pastel pink hair styled with a large pink lotus flower hairpin and dangling golden tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Based on cat logic, she features moderately sized pink feline ears and a slender, curving light pink tail adorned with a prominent pink bow and hanging gold charms.
+
+ 4. Upper Body: She wears a thin black choker with a small gem, complementing a pale pink, short-sleeved kimono-style dress layered with soft ruffles, featuring elaborate lotus flower prints, a wide pink obi sash with a large lotus accessory, and trailing kimono sleeves.
+
+ 5. Lower Body & Feet: Her legs are covered by sheer white thigh-high stockings with pink ruffled garters, paired with chunky pink platform heels featuring delicate strappy details and small gold charms.
+
+ 6. Pose: Posing dynamically with both hands playfully raised into relaxed paw-like gestures near her chest.
 
 ---
 
@@ -2008,35 +2824,115 @@ Ichika is a quiet, deeply affectionate cat girl whose love language is presence 
 
 Physical Appearance Prompt Style 1 — Ichika
 
-Ichika is a petite, soft-featured girl with very long, wavy strawberry-pink hair that falls past her waist and is threaded with faint lilac-blue undertones, framed by straight bangs and floral strawberry clips, and rosy red eyes with a shy, gentle expression. Her animal features include small, sleek pointed pink cat ears with pale inner fur and a long, flexible pink tail of even slender thickness that curls behind her, finished with a ribbon and dangling strawberry-like bead charms. She wears clustered blossom-and-berry hair ornaments, a pink choker with a heart detail, and small strawberry bows throughout her outfit. Her outfit is an oversized cream cable-knit cardigan with embroidered flower and strawberry trim, layered over a pale pink blouse with a large ribbon bow and strawberry brooch, a short strawberry-print pleated skirt with a ruffled hem, pale pink diamond-pattern fishnet tights with strawberry garter ornaments, and pink lace-up platform ankle boots decorated with bows, flowers, and berry charms. Her expression is a soft open-mouthed smile with both hands hidden inside her oversized sleeves and held demurely together in front of her body.
+ 1. Base Anatomy: Ichika is a petite, soft-featured girl. Rosy red eyes with a shy, gentle expression. Her expression is a soft open-mouthed smile.
+
+ 2. Hair & Head: Very long, wavy strawberry-pink hair that falls past her waist and is threaded with faint lilac-blue undertones, framed by straight bangs and floral strawberry clips. She wears clustered blossom-and-berry hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed pink cat ears with pale inner fur and a long, flexible pink tail of even slender thickness that curls behind her, finished with a ribbon and dangling strawberry-like bead charms.
+
+ 4. Upper Body: She wears clustered blossom-and-berry hair ornaments, a pink choker with a heart detail, and small strawberry bows throughout her outfit. Her outfit is an oversized cream cable-knit cardigan with embroidered flower and strawberry trim, layered over a pale pink blouse with a large ribbon bow and strawberry brooch.
+
+ 5. Lower Body & Feet: A short strawberry-print pleated skirt with a ruffled hem, pale pink diamond-pattern fishnet tights with strawberry garter ornaments, and pink lace-up platform ankle boots decorated with bows, flowers, and berry charms.
+
+ 6. Pose: With both hands hidden inside her oversized sleeves and held demurely together in front of her body.
 
 Physical Appearance Prompt Style 1b — Ichika
 
-Ichika is a slim, petite girl with deep rose-red eyes and a bright, friendly gaze, paired with extremely long bubblegum-pink hair that flows in loose waves past her waist and is threaded with visible lavender-blue streaks, with soft bangs and strawberry-and-blossom hair clusters accented by ribbons, beads, and hanging chains. She has small, sleek pink cat ears with pale inner tufts and one slender, flexible pink tail curved upward, decorated by a large pink bow centered with a strawberry and finished with dangling heart-shaped gems. A lavender choker with a small heart pendant sits above a pink sailor-inspired bodice with a ruffled neckline and a large strawberry-centered chest bow, layered beneath an oversized white cable-knit cardigan with dropped shoulders, balloon sleeves, ribbed cuffs, and strawberry-blossom embroidery. The outfit continues into a short pink pleated skirt bordered with repeating strawberry motifs and a white ruffled hem. Pale pink diamond-mesh thigh-high stockings are secured by white frilled garter tops and strawberry charms. Chunky pink lace-up ankle boots have thick platform soles, white ruffled cuffs, side bows, and strawberry-flower decorations. She ends with a cheerful open-mouthed smile, standing squarely forward with her knees and feet held close together and both hands clasped low in front of her body, mostly enveloped by the cardigan’s oversized sleeves.
+ 1. Base Anatomy: Ichika is a slim, petite girl. Deep rose-red eyes. She ends with a cheerful open-mouthed smile.
+
+ 2. Hair & Head: A bright, friendly gaze, paired with extremely long bubblegum-pink hair that flows in loose waves past her waist and is threaded with visible lavender-blue streaks, with soft bangs and strawberry-and-blossom hair clusters accented by ribbons, beads, and hanging chains.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pink cat ears with pale inner tufts and one slender, flexible pink tail curved upward, decorated by a large pink bow centered with a strawberry and finished with dangling heart-shaped gems.
+
+ 4. Upper Body: A lavender choker with a small heart pendant sits above a pink sailor-inspired bodice with a ruffled neckline and a large strawberry-centered chest bow, layered beneath an oversized white cable-knit cardigan with dropped shoulders, balloon sleeves, ribbed cuffs, and strawberry-blossom embroidery.
+
+ 5. Lower Body & Feet: The outfit continues into a short pink pleated skirt bordered with repeating strawberry motifs and a white ruffled hem. Pale pink diamond-mesh thigh-high stockings are secured by white frilled garter tops and strawberry charms. Chunky pink lace-up ankle boots have thick platform soles, white ruffled cuffs, side bows, and strawberry-flower decorations.
+
+ 6. Pose: Standing squarely forward with her knees and feet held close together and both hands clasped low in front of her body, mostly enveloped by the cardigan’s oversized sleeves.
 
 Physical Appearance Prompt Style 1c — Ichika
 
-Ichika has a slim, sweetly youthful build, soft raspberry-pink eyes, and a bright little smile that makes her look gentle and approachable. Her hair is long and flowing, pastel pink with cool lavender-blue streaks peeking through the underlayers, and it falls in loose waves around her shoulders and down her back while floral-and-strawberry ornaments decorate the sides of her head beneath her neat bangs. She has upright pink animal ears and a slender pink tail tied with a bow and dangling strawberry charms, so the animal features stay graceful and dessert-like rather than wild. Her upper body layers a pink blouse and oversized bow beneath a roomy cream knit cardigan embroidered with flowers and strawberries, and the hem of her skirt repeats a strawberry print all the way around with no readable text anywhere on the outfit. Her lower half is completed by a short ruffled skirt, pale pink fishnet thigh-high stockings with strawberry garter motifs, and pink platform lace-up ankle boots crowded with bows, strawberries, and floral trims. She stands squarely forward with her oversized sleeves pulled together so her hands meet shyly in front of her body, while her feet stay close and parallel beneath her.
+ 1. Base Anatomy: Ichika has a slim, sweetly youthful build. Soft raspberry-pink eyes, and a bright little smile that makes her look gentle and approachable.
+
+ 2. Hair & Head: Her hair is long and flowing, pastel pink with cool lavender-blue streaks peeking through the underlayers, and it falls in loose waves around her shoulders and down her back while floral-and-strawberry ornaments decorate the sides of her head beneath her neat bangs.
+
+ 3. Species Traits: Cat Logic — She has upright pink animal ears and a slender pink tail tied with a bow and dangling strawberry charms, so the animal features stay graceful and dessert-like rather than wild.
+
+ 4. Upper Body: Her upper body layers a pink blouse and oversized bow beneath a roomy cream knit cardigan embroidered with flowers and strawberries.
+
+ 5. Lower Body & Feet: The hem of her skirt repeats a strawberry print all the way around with no readable text anywhere on the outfit. Her lower half is completed by a short ruffled skirt, pale pink fishnet thigh-high stockings with strawberry garter motifs, and pink platform lace-up ankle boots crowded with bows, strawberries, and floral trims.
+
+ 6. Pose: She stands squarely forward with her oversized sleeves pulled together so her hands meet shyly in front of her body, while her feet stay close and parallel beneath her.
 
 Physical Appearance Prompt Style 2 — Ichika
 
-Ichika is a petite, sweet-looking girl with very long bubblegum-pink hair threaded with pastel periwinkle-lavender streaks, falling in loose gentle waves with soft parted bangs, and her round eyes are a warm strawberry-red. Her animal features include small pointed pink cat ears, and a slender rose-pink cat tail of even thickness that curls upward, tied with a pink bow set with a strawberry-and-blossom centerpiece trailing tiny heart beads. She wears matching strawberry-and-white-blossom hair ornaments with long pink ribbon streamers on both sides of her head, a pale pink sailor collar at her shoulders, and a pink choker with a small heart charm. Her outfit is a pink sailor-style dress fronted by a large pink polka-dot bow with a strawberry brooch, its white tiered skirt printed with rows of strawberries and edged in frills, worn under an oversized cream cable-knit cardigan patterned with strawberry-and-floral intarsia along the sleeves and hem and closed with pearly buttons; her legs wear pink diamond-net tights layered with white lace-frilled thigh bands hung with strawberry charms and white ruffled ankle socks; and she stands in pink platform lace-up boots trimmed with bows, ribbons, and strawberry accents. Her expression is a sweet, open-mouthed smile with a light blush, posed bashfully with both sweater-covered hands clasped together in front of her skirt.
+ 1. Base Anatomy: Ichika is a petite, sweet-looking girl. Round eyes are a warm strawberry-red. Her expression is a sweet, open-mouthed smile with a light blush.
+
+ 2. Hair & Head: Very long bubblegum-pink hair threaded with pastel periwinkle-lavender streaks, falling in loose gentle waves with soft parted bangs. She wears matching strawberry-and-white-blossom hair ornaments with long pink ribbon streamers on both sides of her head.
+
+ 3. Species Traits: Cat Logic — Her animal features include small pointed pink cat ears, and a slender rose-pink cat tail of even thickness that curls upward, tied with a pink bow set with a strawberry-and-blossom centerpiece trailing tiny heart beads.
+
+ 4. Upper Body: She wears matching strawberry-and-white-blossom hair ornaments with long pink ribbon streamers on both sides of her head, a pale pink sailor collar at her shoulders, and a pink choker with a small heart charm. Her outfit is a pink sailor-style dress fronted by a large pink polka-dot bow with a strawberry brooch.
+
+ 5. Lower Body & Feet: Its white tiered skirt printed with rows of strawberries and edged in frills, worn under an oversized cream cable-knit cardigan patterned with strawberry-and-floral intarsia along the sleeves and hem and closed with pearly buttons; her legs wear pink diamond-net tights layered with white lace-frilled thigh bands hung with strawberry charms and white ruffled ankle socks; and she stands in pink platform lace-up boots trimmed with bows, ribbons, and strawberry accents.
+
+ 6. Pose: Posed bashfully with both sweater-covered hands clasped together in front of her skirt.
 
 Physical Appearance Prompt Style 2b — Ichika
 
-Ichika has a petite, gentle build with fair skin, soft rose-red eyes, and a sweet, open smile. Her long candy-pink hair is streaked with ribbons of lavender-purple and falls in loose waves beneath airy bangs, dressed with white blossom-and-strawberry clusters trailing pink ribbons at the sides of her head. Sleek rose-pink cat ears rise from her hair, and a slender pink tail curls upward behind her, tied with a pink bow holding a tiny strawberry-and-flower posy. She wears a pink choker with a heart charm, a white sailor-collar blouse edged in pink with a strawberry-charmed pink bow at the chest, and over it an oversized ivory cable-knit cardigan whose cuffs and hem are knitted with strawberry-and-blossom bands, the long sleeves drooping until they half-swallow her hands; the knitwear is patterned only, with no text. Her high-waisted pink skirt flares into white frilled tiers printed with strawberries, worn with pale pink diamond-net stockings topped by white frilled garter bands hung with strawberry charms, and pink platform lace-up ankle boots with white ruffle socks peeking out and strawberry-accented bows at the heels. She stands shyly with her shoulders soft and both sleeve-covered hands gathered together low in front of her skirt.
+ 1. Base Anatomy: Ichika has a petite, gentle build with fair skin. Soft rose-red eyes, and a sweet, open smile.
+
+ 2. Hair & Head: Her long candy-pink hair is streaked with ribbons of lavender-purple and falls in loose waves beneath airy bangs, dressed with white blossom-and-strawberry clusters trailing pink ribbons at the sides of her head.
+
+ 3. Species Traits: Cat Logic — Sleek rose-pink cat ears rise from her hair, and a slender pink tail curls upward behind her, tied with a pink bow holding a tiny strawberry-and-flower posy.
+
+ 4. Upper Body: She wears a pink choker with a heart charm, a white sailor-collar blouse edged in pink with a strawberry-charmed pink bow at the chest, and over it an oversized ivory cable-knit cardigan whose cuffs and hem are knitted with strawberry-and-blossom bands, the long sleeves drooping until they half-swallow her hands; the knitwear is patterned only, with no text.
+
+ 5. Lower Body & Feet: Her high-waisted pink skirt flares into white frilled tiers printed with strawberries, worn with pale pink diamond-net stockings topped by white frilled garter bands hung with strawberry charms, and pink platform lace-up ankle boots with white ruffle socks peeking out and strawberry-accented bows at the heels.
+
+ 6. Pose: She stands shyly with her shoulders soft and both sleeve-covered hands gathered together low in front of her skirt.
 
 Physical Appearance Prompt Style 3 — Ichika
 
-Ichika is a sweet girl with long, wavy bubblegum-pink hair accented by subtle blue highlights running through the strands, featuring neat bangs and dark pink eyes. Her animal features include small, pointed pink cat ears and a slender, flexible pink cat tail decorated with a strawberry-accented pink bow. She wears a floral and strawberry hairpiece on her left side, a pink ribbon choker, and white lace thigh bands attached to small dangling strawberry charms. Her outfit is a pink plaid-patterned dress featuring a large pink bow at the collar, layered under a chunky, oversized cream-colored knit cardigan embroidered with strawberry details, white fishnet thigh-high stockings, and pink lace-up platform boots trimmed with white ruffles. Her expression is a soft, happy smile with her hands clasped gently together in front of her skirt.
+ 1. Base Anatomy: Ichika is a sweet girl. Dark pink eyes. Her expression is a soft, happy smile.
+
+ 2. Hair & Head: Long, wavy bubblegum-pink hair accented by subtle blue highlights running through the strands, featuring neat bangs. She wears a floral and strawberry hairpiece on her left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed pink cat ears and a slender, flexible pink cat tail decorated with a strawberry-accented pink bow.
+
+ 4. Upper Body: She wears a floral and strawberry hairpiece on her left side, a pink ribbon choker, and white lace thigh bands attached to small dangling strawberry charms. Her outfit is a pink plaid-patterned dress featuring a large pink bow at the collar, layered under a chunky, oversized cream-colored knit cardigan embroidered with strawberry details.
+
+ 5. Lower Body & Feet: White fishnet thigh-high stockings, and pink lace-up platform boots trimmed with white ruffles.
+
+ 6. Pose: With her hands clasped gently together in front of her skirt.
 
 Physical Appearance Prompt Style 4 — Ichika
 
-Ichika is a petite girl with long, wavy pink hair highlighted with subtle blue streaks, straight bangs decorated with strawberry and floral hair clips, and bright magenta eyes. Her animal features include sleek, pointed pink cat ears and a long, flexible pink cat tail detailed with a pink bow and strawberry charm. She wears a thin pink choker with a strawberry pendant, matching fruit-themed hair accessories, and a large pink back bow. Her outfit is an oversized, cozy cream-colored cardigan with strawberry embroidery layered over a pink ruffled blouse with a front ribbon, a tiered pink mini skirt featuring a prominent strawberry border print, white fishnet tights with pink ruffled thigh garters and strawberry charms, and chunky pink platform boots with ribbon laces and strawberry accents. Her expression is a sweet, gentle open-mouthed smile with her hands clasped softly together in front of her waist.
+ 1. Base Anatomy: Ichika is a petite girl. Bright magenta eyes. Her expression is a sweet, gentle open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy pink hair highlighted with subtle blue streaks, straight bangs decorated with strawberry and floral hair clips.
+
+ 3. Species Traits: Cat Logic — Her animal features include sleek, pointed pink cat ears and a long, flexible pink cat tail detailed with a pink bow and strawberry charm.
+
+ 4. Upper Body: She wears a thin pink choker with a strawberry pendant, matching fruit-themed hair accessories, and a large pink back bow. Her outfit is an oversized, cozy cream-colored cardigan with strawberry embroidery layered over a pink ruffled blouse with a front ribbon.
+
+ 5. Lower Body & Feet: A tiered pink mini skirt featuring a prominent strawberry border print, white fishnet tights with pink ruffled thigh garters and strawberry charms, and chunky pink platform boots with ribbon laces and strawberry accents.
+
+ 6. Pose: With her hands clasped softly together in front of her waist.
 
 Physical Appearance Prompt Style 4b — Ichika
 
-Ichika has a delicate, slender build with striking crimson eyes and long, flowing pink hair with subtle blue undertones, heavily decorated with a floral and strawberry themed hairpin cluster on the left side. Adhering to cat logic, she sports sleek pink feline ears and a slender, curving pink tail finished with a pink bow and strawberry charms near the base. Her outfit begins with a pink ribbon choker holding a small strawberry charm, layered under an oversized, chunky cream-colored cardigan with floral and strawberry embroidery, worn over a ruffled pink collared shirt. She wears a white and pink pleated miniskirt featuring a strawberry print along the hem, paired with sheer white fishnet thigh-high stockings featuring strawberry-adorned garters, and chunky pink platform boots laced with pink ribbons and matching strawberry accessories. She maintains a sweet, gentle smile, posing demurely with both hands clasped together softly in front of her waist.
+ 1. Base Anatomy: Ichika has a delicate, slender build. Striking crimson eyes. She maintains a sweet, gentle smile.
+
+ 2. Hair & Head: Long, flowing pink hair with subtle blue undertones, heavily decorated with a floral and strawberry themed hairpin cluster on the left side.
+
+ 3. Species Traits: Cat Logic — Adhering to cat logic, she sports sleek pink feline ears and a slender, curving pink tail finished with a pink bow and strawberry charms near the base.
+
+ 4. Upper Body: Her outfit begins with a pink ribbon choker holding a small strawberry charm, layered under an oversized, chunky cream-colored cardigan with floral and strawberry embroidery, worn over a ruffled pink collared shirt.
+
+ 5. Lower Body & Feet: She wears a white and pink pleated miniskirt featuring a strawberry print along the hem, paired with sheer white fishnet thigh-high stockings featuring strawberry-adorned garters, and chunky pink platform boots laced with pink ribbons and matching strawberry accessories.
+
+ 6. Pose: Posing demurely with both hands clasped together softly in front of her waist.
 
 ---
 
@@ -2186,6 +3082,21 @@ Likes:
 * Small elegant gestures — handwritten notes, saved seats, perfect timing
 * Flower arranging, pretty hairpins, and things chosen with care
 
+Favorite Color:
+Dawn Lavender
+
+Favorite Foods:
+
+* Kakinoha-zushi
+* Miwa somen
+* Nara chagayu
+
+Favorite Snacks:
+
+* Kuzu mochi
+* Persimmon yokan
+* Sakura monaka
+
 Dislikes:
 
 * Rushed, careless treatment of people or beautiful things
@@ -2215,35 +3126,115 @@ Ayaka is an elegant, dawn-colored cat girl whose affection is warm and genuine b
 
 Physical Appearance Prompt Style 1 — Ayaka
 
-Ayaka is a petite, slim girl with very long, densely wavy azure-blue hair that fades through lilac into soft pink at the ends, framed by smooth bangs and sakura clips at one side, and bright blue eyes with a cool, self-assured expression. Her animal features include small, sleek pointed blue cat ears with pink inner fur and a long, flexible tail of even slender thickness that transitions from pale blue into pink and ends in a light blue tip, tied with a small bow and blossom charm. She wears sakura hair ornaments with dangling rings and ribbons, a black choker layered with delicate harness straps, fingerless gloves, and numerous utility straps, chains, and floral charms. Her outfit is a cropped black camisole layered beneath an oversized hooded bomber jacket printed with blue-and-pink cloud gradients and scattered sakura blossoms, finished with pink trim, straps, buckles, and hanging tags, paired with fitted black utility shorts featuring belts, chains, side straps, and a decorative thigh band, short black paw-print socks, and tall navy platform combat boots with pink straps, floral appliqués, and thick lug soles. Her expression is a faint closed-mouth smile with both arms relaxed at her sides in a straight, confident stance.
+ 1. Base Anatomy: Ayaka is a petite, slim girl. Bright blue eyes with a cool, self-assured expression. Her expression is a faint closed-mouth smile.
+
+ 2. Hair & Head: Very long, densely wavy azure-blue hair that fades through lilac into soft pink at the ends, framed by smooth bangs and sakura clips at one side. She wears sakura hair ornaments with dangling rings and a long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed blue cat ears with pink inner fur and a long, flexible tail of even slender thickness that transitions from pale blue into pink and ends in a light blue tip, tied with a small bow and blossom charm.
+
+ 4. Upper Body: She wears sakura hair ornaments with dangling rings and a long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka, a black choker layered with delicate harness straps, fingerless gloves, and numerous utility straps, chains, and floral charms. Her outfit is a cropped black camisole layered beneath an oversized hooded bomber jacket printed with blue-and-pink cloud gradients and scattered sakura blossoms, finished with pink trim, straps, buckles, and hanging tags.
+
+ 5. Lower Body & Feet: Paired with fitted black utility shorts featuring belts, chains, side straps, and a decorative thigh band, short black paw-print socks, and tall navy platform combat boots with pink straps, floral appliqués, and thick lug soles.
+
+ 6. Pose: With both arms relaxed at her sides in a straight, confident stance.
 
 Physical Appearance Prompt Style 1b — Ayaka
 
-Ayaka is a slim, petite girl with luminous cobalt-blue eyes and a gentle, attentive gaze, framed by extraordinarily long and voluminous wavy hair that falls to her hips in a vivid periwinkle-blue crown fading through lavender into pastel pink tips, with side-swept bangs and a pink cherry-blossom hairpiece fitted with a circular ornament, ribbon cords, beads, and tassels. She has medium-sized, sleek blue cat ears with pink inner fur and white tufts and one slender, flexible tail carrying a blue-lavender-to-pink gradient and a lightly fluffy tip, tied with a pink bow and small blossom charms. A black floral choker and crisscross chest harness with a small pink-white pendant sit above a cropped black V-neck camisole, layered beneath an oversized navy bomber jacket with pink lining, cherry-blossom and cloud graphics, utility straps, rings, buckles, and wide gradient sleeves. High-waisted fitted black shorts are secured by a belt with a pink blossom-bow buckle and decorated with gold chains, dark hanging straps, blue-pink sash tabs, and one pink panel bearing stylized white kanji-like glyphs that are not cleanly legible. A black floral thigh garter with a blue tassel accents one bare leg, while short black socks carry pink paw-print emblems. Navy-black chunky high-top platform boots use blue laces, pink buckled straps, and sakura-colored accents. She finishes with a soft closed-mouth smile, standing directly front-facing with both legs straight and slightly apart and her arms resting naturally at her sides.
+ 1. Base Anatomy: Ayaka is a slim, petite girl. Luminous cobalt-blue eyes and a gentle, attentive gaze, framed by extraordinarily long. She finishes with a soft closed-mouth smile.
+
+ 2. Hair & Head: Voluminous wavy hair that falls to her hips in a vivid periwinkle-blue crown fading through lavender into pastel pink tips, with side-swept bangs and a pink cherry-blossom hairpiece fitted with a circular ornament, a long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka, beads, and tassels.
+
+ 3. Species Traits: Cat Logic — She has medium-sized, sleek blue cat ears with pink inner fur and white tufts and one slender, flexible tail carrying a blue-lavender-to-pink gradient and a lightly fluffy tip, tied with a pink bow and small blossom charms.
+
+ 4. Upper Body: A black floral choker and crisscross chest harness with a small pink-white pendant sit above a cropped black V-neck camisole, layered beneath an oversized navy bomber jacket with pink lining, cherry-blossom and cloud graphics, utility straps, rings, buckles, and wide gradient sleeves. Navy-black chunky high-top platform.
+
+ 5. Lower Body & Feet: High-waisted fitted black shorts are secured by a belt with a pink blossom-bow buckle and decorated with gold chains, dark hanging straps, blue-pink sash tabs, and one pink panel bearing stylized white kanji-like glyphs that are not cleanly legible. A black floral thigh garter with a blue tassel accents one bare leg, while short black socks carry pink paw-print emblems. Boots use blue laces, pink buckled straps, and sakura-colored accents.
+
+ 6. Pose: Standing directly front-facing with both legs straight and slightly apart and her arms resting naturally at her sides.
 
 Physical Appearance Prompt Style 1c — Ayaka
 
-Ayaka has a slim, athletic build, clear blue eyes, and a small composed smile that feels cool and self-possessed rather than overtly cute. Her hair is very long and thick, bright blue at the crown and gradually shifting through lavender into pink at the ends, with soft bangs framing her face and a cherry-blossom ornament with rings and dangling tassels pinned to one side. She has upright blue animal ears with pale inner fur and a fluffy tail that fades from pink into powder blue at the tip, tied with a large pink bow and a small blossom charm. Her upper body begins with a black cropped camisole crossed by thin harness straps and a black choker, then layers into a short navy jacket with pink trim, sakura motifs, cloudlike gradients, hanging belts, and one long vertical tag that appears to read 「氷見彩花」, which would most naturally be understood as the name “Himi Ayaka,” although the stylization is slightly soft. Her lower half is made of fitted black shorts with belts and chain attachments, a single thigh garter with a blossom-and-tassel charm, short black socks bearing paw motifs, and tall blue-pink lace-up boots with buckle straps and floral accents. She stands straight with both arms relaxed at her sides, her hands open and loose, and her weight distributed evenly so the pose reads calm, centered, and confident.
+ 1. Base Anatomy: Ayaka has a slim, athletic build. Clear blue eyes, and a small composed smile that feels cool and self-possessed rather than overtly cute.
+
+ 2. Hair & Head: Her hair is very long and thick, bright blue at the crown and gradually shifting through lavender into pink at the ends, with soft bangs framing her face and a cherry-blossom ornament with rings and dangling tassels pinned to one side.
+
+ 3. Species Traits: Cat Logic — She has upright blue animal ears with pale inner fur and a fluffy tail that fades from pink into powder blue at the tip, tied with a large pink bow and a small blossom charm.
+
+ 4. Upper Body: Her upper body begins with a black cropped camisole crossed by thin harness straps and a black choker, then layers into a short navy jacket with pink trim, sakura motifs, cloudlike gradients, hanging belts, and one long vertical tag that appears to read 「東雲彩花」 — her full name, Shinonome Ayaka, which would most naturally be understood as the name “Himi Ayaka,” although the stylization is slightly soft.
+
+ 5. Lower Body & Feet: Her lower half is made of fitted black shorts with belts and chain attachments, a single thigh garter with a blossom-and-tassel charm, short black socks bearing paw motifs, and tall blue-pink lace-up boots with buckle straps and floral accents.
+
+ 6. Pose: She stands straight with both arms relaxed at her sides, her hands open and loose, and her weight distributed evenly so the pose reads calm, centered, and confident.
 
 Physical Appearance Prompt Style 2 — Ayaka
 
-Ayaka is a slender, leggy girl with extremely long hair in a spectacular gradient flowing from vivid cobalt-blue at the crown through periwinkle-violet into pastel pink at the tips, worn in tumbling waves with pink-streaked bangs, and her clear eyes are a bright sapphire-blue. Her animal features include pointed steel-blue cat ears lined with pale pinkish-white inner fur, and a long, slender cat tail of even thickness shifting from powder-blue to soft pink, tied near the tip with a pink sakura bow. She wears a pink cherry-blossom hair ornament with a golden ring and tassel dangles at her left temple, and a black harness-style choker with a blossom charm whose straps run down into her neckline. Her outfit is a black cropped halter camisole with a strappy chest harness and sakura accent that bares her midriff, layered under a navy-black cropped bomber hoodie printed with dreamy pastel-pink clouds and cherry blossoms, fitted with buckled shoulder straps and banded cuffs over black fingerless-glove sleeves; black high-waisted cargo shorts carry a buckled belt, O-rings, gold chains, a thigh garter strap with a white blossom charm, and long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka — accompanied by sakura motifs and finished with tassels; black crew socks stamped with pink paw prints rise from chunky black lace-up combat boots with buckled straps and pink blossom accents. Her expression is a gentle, composed closed-lip smile, posed standing relaxed with both arms resting naturally at her sides.
+ 1. Base Anatomy: Ayaka is a slender, leggy girl. Clear eyes are a bright sapphire-blue. Her expression is a gentle, composed closed-lip smile.
+
+ 2. Hair & Head: Extremely long hair in a spectacular gradient flowing from vivid cobalt-blue at the crown through periwinkle-violet into pastel pink at the tips, worn in tumbling waves with pink-streaked bangs. She wears a pink cherry-blossom hair ornament with a golden ring and tassel dangles at her left temple.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed steel-blue cat ears lined with pale pinkish-white inner fur, and a long, slender cat tail of even thickness shifting from powder-blue to soft pink, tied near the tip with a pink sakura bow.
+
+ 4. Upper Body: She wears a pink cherry-blossom hair ornament with a golden ring and tassel dangles at her left temple, and a black harness-style choker with a blossom charm whose straps run down into her neckline. Her outfit is a black cropped halter camisole with a strappy chest harness and sakura accent that bares her midriff, layered under a navy-black cropped bomber hoodie printed with dreamy pastel-pink clouds and cherry blossoms, fitted with buckled shoulder straps and banded cuffs over black fingerless-glove sleeves.
+
+ 5. Lower Body & Feet: Black high-waisted cargo shorts carry a buckled belt, O-rings, gold chains, a thigh garter strap with a white blossom charm, and long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka — accompanied by sakura motifs and finished with tassels; black crew socks stamped with pink paw prints rise from chunky black lace-up combat boots with buckled straps and pink blossom accents.
+
+ 6. Pose: Posed standing relaxed with both arms resting naturally at her sides.
 
 Physical Appearance Prompt Style 2b — Ayaka
 
-Ayaka has a slender build with a bared midriff, fair skin, clear cornflower-blue eyes, and a gentle, closed-lip smile. Her extra-long hair flows in dense waves through a striking vertical gradient, from vivid blue at the crown through periwinkle and lavender into bubblegum pink at the tips, framed by blunt bangs and a pink sakura ornament with a golden ring and tassel strands above her ear. Sleek blue cat ears with pink inner tufts top her head, and a slim, flexible tail shifts from blue to pink toward its end, tied with a pink bow and blossom. She wears a black choker with a cherry-blossom charm that anchors criss-crossing harness straps over her chest, a black cropped camisole with a small sakura accent, and a cropped navy-black jacket whose sleeves are printed with dreamy pastel-pink clouds and drifting sakura, finished with buckled straps, pink lining, and black fingerless gloves; long ribbon streamers hanging from her waist are printed with vertical kanji-style lettering that is stylized and ornamental rather than clearly legible. Her high-waisted black shorts carry a belt, chains, and buckled straps, paired with a black garter strap on one thigh bearing a white blossom charm and tassel, black crew socks stamped with pink paw prints, and heavy black lace-up combat boots with buckles, pink accents, and sakura details. She stands straight and calm with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Ayaka has a slender build with a bared midriff, fair skin. Clear cornflower-blue eyes, and a gentle, closed-lip smile.
+
+ 2. Hair & Head: Her extra-long hair flows in dense waves through a striking vertical gradient, from vivid blue at the crown through periwinkle and lavender into bubblegum pink at the tips, framed by blunt bangs and a pink sakura ornament with a golden ring and tassel strands above her ear.
+
+ 3. Species Traits: Cat Logic — Sleek blue cat ears with pink inner tufts top her head, and a slim, flexible tail shifts from blue to pink toward its end, tied with a pink bow and blossom.
+
+ 4. Upper Body: She wears a black choker with a cherry-blossom charm that anchors criss-crossing harness straps over her chest, a black cropped camisole with a small sakura accent, and a cropped navy-black jacket whose sleeves are printed with dreamy pastel-pink clouds and drifting sakura, finished with buckled straps, pink lining, and black fingerless gloves; long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka.
+
+ 5. Lower Body & Feet: Her high-waisted black shorts carry a belt, chains, and buckled straps, paired with a black garter strap on one thigh bearing a white blossom charm and tassel, black crew socks stamped with pink paw prints, and heavy black lace-up combat boots with buckles, pink accents, and sakura details.
+
+ 6. Pose: She stands straight and calm with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 3 — Ayaka
 
-Ayaka is a cool girl with long, flowing blue hair that transitions into a vibrant purple and pastel pink gradient at the wavy tips, featuring blunt bangs and deep blue eyes. Her animal features include small, pointed blue cat ears and a long, slender cat tail that mirrors her hair's blue-to-pink gradient, tipped with a pink bow. She wears a pink cherry blossom hair clip, a black multi-strap choker, and buckled black leather thigh straps holding hanging talismans. Her outfit is a black crop top beneath an oversized bomber jacket printed with a pastel pink sky and cloud pattern, black high-waisted denim shorts held up by a buckled belt with hanging text-printed ribbons, black crew socks, and chunky black combat boots. Her expression is a calm, neutral smile, standing relaxed with her hands resting naturally by her sides.
+ 1. Base Anatomy: Ayaka is a cool girl. Deep blue eyes. Her expression is a calm, neutral smile.
+
+ 2. Hair & Head: Long, flowing blue hair that transitions into a vibrant purple and pastel pink gradient at the wavy tips, featuring blunt bangs. She wears a pink cherry blossom hair clip.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, pointed blue cat ears and a long, slender cat tail that mirrors her hair's blue-to-pink gradient, tipped with a pink bow.
+
+ 4. Upper Body: She wears a pink cherry blossom hair clip, a black multi-strap choker, and buckled black leather thigh straps holding hanging talismans. Her outfit is a black crop top beneath an oversized bomber jacket printed with a pastel pink sky and cloud pattern.
+
+ 5. Lower Body & Feet: Black high-waisted denim shorts held up by a buckled belt with long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka, black crew socks, and chunky black combat boots.
+
+ 6. Pose: Standing relaxed with her hands resting naturally by her sides.
 
 Physical Appearance Prompt Style 4 — Ayaka
 
-Ayaka is a slim girl with long, textured light blue hair that forms a gradient into soft pink tips, styled with neat bangs and pink floral hair clips, and brilliant blue eyes. Her animal features include pointed, sleek blue cat ears and a slender, flexible blue-to-pink gradient cat tail decorated with a pink bow. She wears a black strappy choker, sakura hair ornaments, and black fingerless gloves. Her outfit is a stylish black jacket featuring a vibrant blue and pink sunset cloud pattern layered over a black strappy crop top, black denim shorts with hanging utility straps and a pink ribbon printed with Japanese characters, black thigh-high stockings with buckled garters and paw-print details, and black chunky combat boots with pink laces and cloud motifs. Her expression is a calm, pleasant closed-mouth smile with her arms resting naturally at her sides.
+ 1. Base Anatomy: Ayaka is a slim girl. Brilliant blue eyes. Her expression is a calm, pleasant closed-mouth smile.
+
+ 2. Hair & Head: Long, textured light blue hair that forms a gradient into soft pink tips, styled with neat bangs and pink floral hair clips. She wears a black strappy choker, sakura hair ornaments.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek blue cat ears and a slender, flexible blue-to-pink gradient cat tail decorated with a pink bow.
+
+ 4. Upper Body: She wears a black strappy choker, sakura hair ornaments, and black fingerless gloves. Her outfit is a stylish black jacket featuring a vibrant blue and pink sunset cloud pattern layered over a black strappy crop top.
+
+ 5. Lower Body & Feet: Black denim shorts with hanging utility straps and a pink long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka, black thigh-high stockings with buckled garters and paw-print details, and black chunky combat boots with pink laces and cloud motifs.
+
+ 6. Pose: With her arms resting naturally at her sides.
 
 Physical Appearance Prompt Style 4b — Ayaka
 
-Ayaka is a slender young girl with bright blue eyes and incredibly long, wavy hair that gradients dramatically from light blue at the roots to pastel pink at the tips, accented by a pink floral hairpin on the left side. Following cat logic, she features sleek blue feline ears with pink inner fluff and a slender tail that mimics her hair's gradient from blue to pink, adorned with a pink bow. Her attire includes a black strappy choker worn under a cropped black top, paired with an oversized dark blue jacket featuring a vibrant pink and blue sunset cloud pattern, multiple buckle straps, and hanging pink ribbons featuring white stylized kanji characters. She wears black denim cutoff shorts detailed with a black belt, silver chains, and dangling blue ribbons, alongside black thigh-high stockings with a strappy garter on the right leg, and black combat boots laced with pink strings and decorated with paw print motifs. She gazes forward with a soft, closed-mouth smile, standing casually with her arms resting loosely down by her sides.
+ 1. Base Anatomy: Ayaka is a slender young girl. Bright blue eyes. She gazes forward with a soft, closed-mouth smile.
+
+ 2. Hair & Head: Incredibly long, wavy hair that gradients dramatically from light blue at the roots to pastel pink at the tips, accented by a pink floral hairpin on the left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she features sleek blue feline ears with pink inner fluff and a slender tail that mimics her hair's gradient from blue to pink, adorned with a pink bow.
+
+ 4. Upper Body: Her attire includes a black strappy choker worn under a cropped black top, paired with an oversized dark blue jacket featuring a vibrant pink and blue sunset cloud pattern, multiple buckle straps, and hanging pink long hanging ribbon sashes inscribed vertically with the kanji 東雲彩花 — her full name, Shinonome Ayaka.
+
+ 5. Lower Body & Feet: She wears black denim cutoff shorts detailed with a black belt, silver chains, and dangling blue ribbons, alongside black thigh-high stockings with a strappy garter on the right leg, and black combat boots laced with pink strings and decorated with paw print motifs.
+
+ 6. Pose: Standing casually with her arms resting loosely down by her sides.
 
 ---
 
@@ -2442,35 +3433,115 @@ Haruka is a bright, sunshine-colored cat girl whose affection is immediately vis
 
 Physical Appearance Prompt Style 1 — Haruka
 
-Haruka is a petite, compactly built girl with short, fluffy orange hair cut into a tousled layered bob with softly flipped ends and light uneven bangs, and bright amber-orange eyes with an exuberant, youthful expression. Her animal features include small, sleek pointed orange cat ears with white inner fur and a long, flexible orange tail of even slender thickness that curves behind her, decorated near its lower section with a large red bow centered by a white flower. She wears a cluster of white and orange blossoms with green leaves beside one ear, a black choker with a round gold bell, and small floral ribbon charms throughout her clothing. Her outfit is a cropped cream hooded jacket with orange lining, blossom embroidery, scalloped floral trim, and oversized balloon sleeves layered over a white ruffled blouse with an orange ribbon bow, paired with a high-waisted orange skirt composed of scalloped floral panels, white ruffle edging, a citrus-slice waist ornament, and trailing green-and-orange ribbons, white thigh-high stockings with orange double stripes, paw-print details, and a ribbon garter, and white high-top platform sneakers with orange laces, black ankle panels, and flower decorations. Her expression is a wide open-mouthed smile with both fists lifted beside her shoulders in an energetic double paw pose..
+ 1. Base Anatomy: Haruka is a petite, compactly built girl. Bright amber-orange eyes with an exuberant, youthful expression. Her expression is a wide open-mouthed smile.
+
+ 2. Hair & Head: Short, fluffy orange hair cut into a tousled layered bob with softly flipped ends and light uneven bangs.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed orange cat ears with white inner fur and a long, flexible orange tail of even slender thickness that curves behind her, decorated near its lower section with a large red bow centered by a white flower.
+
+ 4. Upper Body: She wears a cluster of white and orange blossoms with green leaves beside one ear, a black choker with a round gold bell, and small floral ribbon charms throughout her clothing. Her outfit is a cropped cream hooded jacket with orange lining, blossom embroidery, scalloped floral trim, and oversized balloon sleeves layered over a white ruffled blouse with an orange ribbon bow.
+
+ 5. Lower Body & Feet: Paired with a high-waisted orange skirt composed of scalloped floral panels, white ruffle edging, a citrus-slice waist ornament, and trailing green-and-orange ribbons, white thigh-high stockings with orange double stripes, paw-print details, and a ribbon garter, and white high-top platform sneakers with orange laces, black ankle panels, and flower decorations.
+
+ 6. Pose: With both fists lifted beside her shoulders in an energetic double paw pose.
 
 Physical Appearance Prompt Style 1b — Haruka
 
-Haruka is a petite, slim girl with vivid amber-orange eyes held in a lively, excited gaze and short, choppy orange hair cut into a tousled chin-length bob with brighter golden highlights, layered bangs, a small crown ahoge, and a side cluster of white-and-orange blossoms with green leaves and tiny decorative ribbons. She has large, wide-based orange fox ears with white inner tufts and one thick, fluffy orange tail with lighter golden shading, curved behind her and decorated with a large red bow centered by a white flower. A black choker with a small gold bell-like pendant circles her neck above a frilled cream blouse with an orange ribbon bow, ruffled placket, and orange trim, layered beneath a cropped ivory hooded jacket with orange lining, floral embroidery, scalloped accents, black cuffs, and small bow-and-flower ornaments along the sleeves. A black waistband and belt sit above a short layered orange skirt composed of scalloped flower-patterned panels and a white ruffled underskirt, with a green sash, flowing orange ribbons, white blossoms, and an orange-slice medallion decorating one hip. White thigh-high stockings feature double orange bands, an orange paw-print motif, asymmetric green-orange piping, and small floral bow details. White-and-orange high-top platform sneakers have black ankle collars, orange laces, flower charms, and paw-print heel graphics. She ends with a wide open-mouthed smile, standing directly front-facing with her feet slightly apart and both elbows bent as she raises two small clenched fists beside her shoulders in an energetic double paw pose.
+ 1. Base Anatomy: Haruka is a petite, slim girl. Vivid amber-orange eyes held in a lively, excited gaze. She ends with a wide open-mouthed smile.
+
+ 2. Hair & Head: Short, choppy orange hair cut into a tousled chin-length bob with brighter golden highlights, layered bangs, a small crown ahoge, and a side cluster of white-and-orange blossoms with green leaves and tiny decorative ribbons.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed orange cat ears with white inner tufts and one long, flexible orange cat tail of even slender thickness with lighter golden shading, curved behind her and decorated with a large red bow centered by a white flower.
+
+ 4. Upper Body: A black choker with a small gold bell-like pendant circles her neck above a frilled cream blouse with an orange ribbon bow, ruffled placket, and orange trim, layered beneath a cropped ivory hooded jacket with orange lining, floral embroidery, scalloped accents, black cuffs, and small bow-and-flower ornaments along the sleeves. White-and-orange high-top platform.
+
+ 5. Lower Body & Feet: A black waistband and belt sit above a short layered orange skirt composed of scalloped flower-patterned panels and a white ruffled underskirt, with a green sash, flowing orange ribbons, white blossoms, and an orange-slice medallion decorating one hip. White thigh-high stockings feature double orange bands, an orange paw-print motif, asymmetric green-orange piping, and small floral bow details. Sneakers have black ankle collars, orange laces, flower charms, and paw-print heel graphics.
+
+ 6. Pose: Standing directly front-facing with her feet slightly apart and both elbows bent as she raises two small clenched fists beside her shoulders in an energetic double paw pose.
 
 Physical Appearance Prompt Style 1c — Haruka
 
-Haruka has a petite, youthful build, bright amber-orange eyes, and an eager open-mouthed smile that makes her look lively and playful. Her hair is a short, tousled bob in vivid tangerine orange, with soft layered ends, parted bangs, and a tiny ahoge at the crown, and one side is decorated with a cluster of white blossoms, green leaves, and orange-toned ribbon details. She has large orange ears with pale inner fur and a thick, fluffy orange tail tied with a large red bow and white flower accent. Her upper half is layered with a frilled white blouse trimmed in orange and fastened with a ribbon bow at the chest, a black choker with a small gold ornament at the throat, and a cropped cream hooded jacket covered in floral and vine motifs, scalloped edging, and orange lining, with the hood finished by a large flower applique on the back. She wears an orange skirt with petal-like overskirt panels, a white ruffled underskirt, a large side sash embellished with an orange-slice ornament, mismatched white thigh-high stockings decorated with stripes, floral accents, and paw-print motifs, and chunky white-and-orange platform sneakers with flower details and paw-print markings on the back. In the front pose she stands straight with her feet slightly apart, both elbows bent, and both hands raised near shoulder height with curled fingers in a paw-like gesture.
+ 1. Base Anatomy: Haruka has a petite, youthful build. Bright amber-orange eyes, and an eager open-mouthed smile that makes her look lively and playful.
+
+ 2. Hair & Head: Her hair is a short, tousled bob in vivid tangerine orange, with soft layered ends, parted bangs, and a tiny ahoge at the crown, and one side is decorated with a cluster of white blossoms, green leaves, and orange-toned ribbon details.
+
+ 3. Species Traits: Cat Logic — She has small, pointed orange cat ears with pale inner fur and a long, flexible orange cat tail of even slender thickness tied with a large red bow and white flower accent.
+
+ 4. Upper Body: Her upper half is layered with a frilled white blouse trimmed in orange and fastened with a ribbon bow at the chest, a black choker with a small gold ornament at the throat, and a cropped cream hooded jacket covered in floral and vine motifs, scalloped edging, and orange lining, with the hood finished by a large flower applique on the back.
+
+ 5. Lower Body & Feet: She wears an orange skirt with petal-like overskirt panels, a white ruffled underskirt, a large side sash embellished with an orange-slice ornament, mismatched white thigh-high stockings decorated with stripes, floral accents, and paw-print motifs, and chunky white-and-orange platform sneakers with flower details and paw-print markings on the back.
+
+ 6. Pose: In the front pose she stands straight with her feet slightly apart, both elbows bent, and both hands raised near shoulder height with curled fingers in a paw-like gesture.
 
 Physical Appearance Prompt Style 2 — Haruka
 
-Haruka is a petite, lively girl with short, choppy tangerine-orange hair that flips out in tousled layers with a few flyaway strands at the crown, dressed at one side with a white flower ornament on a striped orange-and-cream ribbon bow, and her warm amber-orange eyes sparkle above an open, delighted smile. Her animal features include compact, sleekly pointed orange ears with white inner tufts and a single long, slender orange tail of even thickness that curls upward behind her, tied near the tip with a red polka-dot bow bearing a tiny white paw print. She wears a black choker with a golden bell at her throat and black knit cuffs peeking from beneath her sleeves. Her outfit is a white frill-front camisole blouse with tiny buttons and an orange ribbon bow layered under a cream cropped zip-up hoodie whose hood is lined in orange and printed with white blossoms, its details purely decorative with no legible text, paired with an orange white-flower-printed skirt over a frilled white underlayer cinched by a black waistband and a green-striped bow holding an orange-slice charm at the hip, white thigh-high stockings with orange-striped tops, a small orange paw print, flower ribbons, and a thin green seam running down each leg, and white-and-orange high-top platform sneakers with black collars, orange laces, flower charms, and paw prints stamped on the heels. Her expression is an open-mouthed, beaming grin, and she raises both hands as curled fists in a double paw pose at chest height.
+ 1. Base Anatomy: Haruka is a petite, lively girl. Warm amber-orange eyes sparkle above an open, delighted smile. Her expression is an open-mouthed, beaming grin, and she raises both hands as curled fists in a double paw pose at chest height.
+
+ 2. Hair & Head: Short, choppy tangerine-orange hair that flips out in tousled layers with a few flyaway strands at the crown, dressed at one side with a white flower ornament on a striped orange-and-cream ribbon bow.
+
+ 3. Species Traits: Cat Logic — Her animal features include compact, sleekly pointed orange ears with white inner tufts and a single long, slender orange tail of even thickness that curls upward behind her, tied near the tip with a red polka-dot bow bearing a tiny white paw print.
+
+ 4. Upper Body: She wears a black choker with a golden bell at her throat and black knit cuffs peeking from beneath her sleeves. Her outfit is a white frill-front camisole blouse with tiny buttons and an orange ribbon bow layered under a cream cropped zip-up hoodie whose hood is lined in orange and printed with white blossoms, its details purely decorative with no legible text.
+
+ 5. Lower Body & Feet: Paired with an orange white-flower-printed skirt over a frilled white underlayer cinched by a black waistband and a green-striped bow holding an orange-slice charm at the hip, white thigh-high stockings with orange-striped tops, a small orange paw print, flower ribbons, and a thin green seam running down each leg, and white-and-orange high-top platform sneakers with black collars, orange laces, flower charms, and paw prints stamped on the heels.
+
+ 6. Pose: Her expression is an open-mouthed, beaming grin, and she raises both hands as curled fists in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 2b — Haruka
 
-Haruka has a petite, energetic build with fair skin, warm amber-orange eyes, and a huge open-mouthed grin. Her bright tangerine hair is cut short and choppy with tousled flyaway strands, pinned at the side with a white flower ornament trailing striped orange ribbons. Sleek orange cat ears with white inner fluff rise from her hair, and a slender orange tail flecked with darker tabby speckles curls behind her, tied near the tip with a red polka-dot bow bearing a tiny white paw print. She wears a black choker with a golden bell, a white frilled button-front blouse with an orange striped ribbon bow at the chest, and over it a cropped cream zip-up hoodie with an orange blossom-lined hood, puffy floral-printed sleeves ending in black knit under-cuffs, small bow toggles, and a large white flower emblem spread across the back of the hood; aside from a tiny abstract zipper-pull mark, the outfit carries no legible text. Her high-waisted orange skirt is printed with white flowers above a scalloped, white-frilled hem, cinched by a black waistband with an orange-slice corsage spilling green striped ribbons at the hip, and worn with white thigh-high stockings featuring orange stripe tops, a paw print, a flower garter ribbon, and a thin green side seam, finished by white-and-orange platform sneaker boots with black collars, orange laces, flower charms, and paw prints stamped on the black heel panels. She poses with both fists raised in a cheerful double paw pose at shoulder height.
+ 1. Base Anatomy: Haruka has a petite, energetic build with fair skin. Warm amber-orange eyes, and a huge open-mouthed grin. She poses with both fists raised in a cheerful double paw pose at shoulder height.
+
+ 2. Hair & Head: Her bright tangerine hair is cut short and choppy with tousled flyaway strands, pinned at the side with a white flower ornament trailing striped orange ribbons.
+
+ 3. Species Traits: Cat Logic — Sleek orange cat ears with white inner fluff rise from her hair, and a slender orange tail flecked with darker tabby speckles curls behind her, tied near the tip with a red polka-dot bow bearing a tiny white paw print.
+
+ 4. Upper Body: She wears a black choker with a golden bell, a white frilled button-front blouse with an orange striped ribbon bow at the chest, and over it a cropped cream zip-up hoodie with an orange blossom-lined hood, puffy floral-printed sleeves ending in black knit under-cuffs, small bow toggles, and a large white flower emblem spread across the back of the hood; aside from a tiny abstract zipper-pull mark, the outfit carries no legible text.
+
+ 5. Lower Body & Feet: Her high-waisted orange skirt is printed with white flowers above a scalloped, white-frilled hem, cinched by a black waistband with an orange-slice corsage spilling green striped ribbons at the hip, and worn with white thigh-high stockings featuring orange stripe tops, a paw print, a flower garter ribbon, and a thin green side seam, finished by white-and-orange platform sneaker boots with black collars, orange laces, flower charms, and paw prints stamped on the black heel panels.
+
+ 6. Pose: She poses with both fists raised in a cheerful double paw pose at shoulder height.
 
 Physical Appearance Prompt Style 3 — Haruka
 
-Haruka is petite and slender with short, choppy orange hair styled with bright yellow highlights, wispy bangs, and a white flower hair clip with golden tassels on the left side, and warm orange-brown eyes with a cheerful expression. Her animal features include smaller, pointed orange cat ears with white inner fur and a long, flexible, slender orange cat tail that maintains an even thickness, adorned with a large red ribbon bow and a small white paw-print charm near the middle. She wears a black collar with a golden bell, a green and orange ribbon sash with a citrus orange slice wheel motif worn diagonally across her hip, and a floral garter on her left thigh. Her outfit is a cream-colored cropped hoodie jacket decorated with orange cherry blossom patterns and ruffles, layered over a white frilled sleeveless top with a dark high-waist band, an orange pleated mini skirt with a white ruffled hem and floral prints, white thigh-high socks featuring orange stripes, flower ornaments, and a small orange paw print on the right leg, and cream and orange high-top platform sneakers with orange laces and white flower details. Her expression is a bright, open-mouthed smile with both hands raised at chest level in a cute double cat-paw fist gesture.
+ 1. Base Anatomy: Haruka is petite and slender. Warm orange-brown eyes with a cheerful expression. Her expression is a bright, open-mouthed smile.
+
+ 2. Hair & Head: Short, choppy orange hair styled with bright yellow highlights, wispy bangs, and a white flower hair clip with golden tassels on the left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, pointed orange cat ears with white inner fur and a long, flexible, slender orange cat tail that maintains an even thickness, adorned with a large red ribbon bow and a small white paw-print charm near the middle.
+
+ 4. Upper Body: She wears a black collar with a golden bell, a green and orange ribbon sash with a citrus orange slice wheel motif worn diagonally across her hip. Her outfit is a cream-colored cropped hoodie jacket decorated with orange cherry blossom patterns and ruffles.
+
+ 5. Lower Body & Feet: A floral garter on her left thigh. Layered over a white frilled sleeveless top with a dark high-waist band, an orange pleated mini skirt with a white ruffled hem and floral prints, white thigh-high socks featuring orange stripes, flower ornaments, and a small orange paw print on the right leg, and cream and orange high-top platform sneakers with orange laces and white flower details.
+
+ 6. Pose: With both hands raised at chest level in a cute double cat-paw fist gesture.
 
 Physical Appearance Prompt Style 4 — Haruka
 
-Haruka is a petite girl with short, vibrant orange bob-length hair, straight bangs, and white floral clips, and warm brown eyes. Her animal features include small, sleek pointed orange cat ears and a long, slender, flexible orange cat tail of even thickness decorated with a red bow. She wears a black bell choker and prominent white floral hairpieces. Her outfit is a white zip-up jacket with orange floral patterns layered over a ruffled white corset top, a scalloped orange mini skirt, white thigh-high stockings with orange garters, and chunky white platform sneakers with floral details. Her expression is a cheerful open-mouthed smile with both hands raised to her chest in curled, paw-like fists.
+ 1. Base Anatomy: Haruka is a petite girl. Warm brown eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Short, vibrant orange bob-length hair, straight bangs, and white floral clips. She wears a black bell choker and prominent white floral hairpieces.
+
+ 3. Species Traits: Cat Logic — Her animal features include small, sleek pointed orange cat ears and a long, slender, flexible orange cat tail of even thickness decorated with a red bow.
+
+ 4. Upper Body: She wears a black bell choker and prominent white floral hairpieces. Her outfit is a white zip-up jacket with orange floral patterns layered over a ruffled white corset top.
+
+ 5. Lower Body & Feet: A scalloped orange mini skirt, white thigh-high stockings with orange garters, and chunky white platform sneakers with floral details.
+
+ 6. Pose: With both hands raised to her chest in curled, paw-like fists.
 
 Physical Appearance Prompt Style 4b — Haruka
 
-Haruka is a slender young girl with warm amber eyes and short, bob-length bright orange hair accented by a cluster of white floral and ribbon hairpins on her left side. Following cat logic, she possesses sleek orange feline ears and a slender, flexible orange tail adorned with a red ribbon bow near its base. Her outfit begins with a black bell choker worn underneath a white ruffled corset-style blouse, layered beneath a cream-colored zip-up hooded jacket featuring orange floral prints and a prominent flower motif on the back of the hood. She wears a pleated orange miniskirt with a white scalloped hemline, heavily decorated on the right hip with a large green and orange ribbon bow featuring an orange slice charm. Her legs are clad in white thigh-high stockings with orange stripes and a subtle paw print on the right thigh, leading down to chunky white sneakers detailed with black accents, orange laces, and paw print outsoles. She displays a cheerful, open-mouthed smile, posing brightly with both hands raised into playful, curled paw gestures near her chest.
+ 1. Base Anatomy: Haruka is a slender young girl. Warm amber eyes. She displays a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, bob-length bright orange hair accented by a cluster of white floral and ribbon hairpins on her left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she possesses sleek orange feline ears and a slender, flexible orange tail adorned with a red ribbon bow near its base.
+
+ 4. Upper Body: Her outfit begins with a black bell choker worn underneath a white ruffled corset-style blouse, layered beneath a cream-colored zip-up hooded jacket featuring orange floral prints and a prominent flower motif on the back of the hood.
+
+ 5. Lower Body & Feet: She wears a pleated orange miniskirt with a white scalloped hemline, heavily decorated on the right hip with a large green and orange ribbon bow featuring an orange slice charm. Her legs are clad in white thigh-high stockings with orange stripes and a subtle paw print on the right thigh, leading down to chunky white sneakers detailed with black accents, orange laces, and paw print outsoles.
+
+ 6. Pose: Posing brightly with both hands raised into playful, curled paw gestures near her chest.
 
 ---
 
@@ -2699,35 +3770,115 @@ Kikyo is a calm and observant cat girl who hides a powerful desire for closeness
 
 Physical Appearance Prompt Style 1 — Kikyo
 
-Kikyo is a petite, slim-built girl with shoulder-length, heavily layered hair that transitions from deep indigo and violet at the crown to vivid cyan and pale blue at the feathered ends, styled with soft face-framing locks, neat parted bangs, and a cascading cluster of blue-purple flowers, beads, and ribbonlike ornaments above her left ear, and she has large turquoise-blue eyes with a bright, gentle gaze. Her fox features include large, wide-based triangular ears covered in dark violet fur with pale lavender inner tufts, along with a single thick, bushy tail that emerges from her lower back and fades from dark purple through saturated blue and cyan to an icy blue tip, decorated near its base with a black bow, crescent-moon charm, and dangling crystal ornaments. She wears a black choker with a silver ring and crescent accent, multiple floral hairpins, small metallic piercings, belts, chains, buckles, star charms, crescent pendants, and faceted blue crystal drops. Her outfit is an oversized black cropped zip-up hoodie with voluminous sleeves, a structured hood, violet and cobalt utility straps, metal hardware, delicate blue floral-vine embroidery, and a large nocturnal back design featuring a crescent moon, hanging stars and crystals, and a luminous blue city skyline, layered over a dark fitted inner top, paired with high-waisted black utility shorts detailed with a belted waistband, side straps, D-rings, chains, zippered pockets, and a dangling paw-print tag, short black ankle socks, and chunky mid-calf platform combat boots with heavy lug soles, front lacing, multiple buckle straps, crescent-and-star appliqués, and dangling celestial charms. Her expression is softly cheerful, with a small closed-mouth smile and faintly flushed cheeks, while she stands upright facing forward with her feet set slightly apart, shoulders relaxed, both arms hanging naturally at her sides, and her open hands resting loosely beside her thighs.
+ 1. Base Anatomy: Kikyo is a petite, slim-built girl. She has large turquoise-blue eyes with a bright, gentle gaze. Her expression is softly cheerful, with a small closed-mouth smile and faintly flushed cheeks,.
+
+ 2. Hair & Head: Shoulder-length, heavily layered hair that transitions from deep indigo and violet at the crown to vivid cyan and pale blue at the feathered ends, styled with soft face-framing locks, neat parted bangs, and a cascading cluster of blue-purple flowers, beads, and ribbonlike ornaments above her left ear. She wears a black choker with a silver ring and crescent accent, multiple floral hairpins.
+
+ 3. Species Traits: Cat Logic — Her cat features include small, sleek pointed ears covered in dark violet fur with pale lavender inner tufts, along with a single long, flexible cat tail of even slender thickness that emerges from her lower back and fades from dark purple through saturated blue and cyan to an icy blue tip, decorated near its base with a black bow, crescent-moon charm, and dangling crystal ornaments.
+
+ 4. Upper Body: She wears a black choker with a silver ring and crescent accent, multiple floral hairpins, small metallic piercings, belts, chains, buckles, star charms, crescent pendants, and faceted blue crystal drops. Her outfit is an oversized black cropped zip-up hoodie with voluminous sleeves, a structured hood, violet and cobalt utility straps, metal hardware, delicate blue floral-vine embroidery, and a large nocturnal back design featuring a crescent moon, hanging stars and crystals, and a luminous blue city skyline, layered over a dark fitted inner top.
+
+ 5. Lower Body & Feet: Paired with high-waisted black utility shorts detailed with a belted waistband, side straps, D-rings, chains, zippered pockets, and a dangling paw-print tag, short black ankle socks, and chunky mid-calf platform combat boots with heavy lug soles, front lacing, multiple buckle straps, crescent-and-star appliqués, and dangling celestial charms.
+
+ 6. Pose: She stands upright facing forward with her feet set slightly apart, shoulders relaxed, both arms hanging naturally at her sides, and her open hands resting loosely beside her thighs.
 
 Physical Appearance Prompt Style 1b — Kikyo
 
-Kikyo is a petite, slim-built girl with vivid cyan-blue eyes, a gentle, slightly cheerful expression, and short, tousled bob-length hair that fades from deep indigo-violet at the crown to bright turquoise and icy blue at the tips, styled with layered bangs, loose side strands, and an ornate cluster of blue-violet flowers, beads, and dangling crystal ornaments above her left ear. She has large, wide-based triangular fox ears covered in dark violet fur with pale lavender inner tufts, along with one thick, bushy tail that transitions from deep purple through electric blue to pale cyan, decorated near the base with a black bow, crescent-moon ornament, and hanging blue crystal. Around her neck she wears a black choker with a silver ring and a small star-shaped pendant, while her main garment is an oversized black cropped zip-up hoodie with a broad hood, voluminous sleeves, purple-blue floral embroidery, multiple buckled utility straps, metal rings, chains, crescent and star charms, and a large celestial back design featuring a purple crescent moon above a luminous blue city skyline and dangling constellation-like ornaments. Beneath it she wears fitted black high-waisted shorts secured with layered belts, straps, silver rings, and draped chains, including a small black paw-print charm hanging at the front; her legs are otherwise bare above short black socks. Her footwear consists of heavy black platform combat boots with thick lug soles, front lacing, broad ankle straps, silver buckles, blue-violet star and crescent emblems, and dangling crystal charms. Across the turnaround views, she maintains a calm, friendly smile and stands upright in a neutral model-sheet pose with both arms relaxed at her sides, both legs straight and slightly apart in the front and back views, and her body shown in a clean side profile for the lateral view.
+ 1. Base Anatomy: Kikyo is a petite, slim-built girl. Vivid cyan-blue eyes, a gentle, slightly cheerful expression. Across the turnaround views, she maintains a calm, friendly smile.
+
+ 2. Hair & Head: Short, tousled bob-length hair that fades from deep indigo-violet at the crown to bright turquoise and icy blue at the tips, styled with layered bangs, loose side strands, and an ornate cluster of blue-violet flowers, beads, and dangling crystal ornaments above her left ear.
+
+ 3. Species Traits: Cat Logic — She has small, sleek pointed dark-violet cat ears with pale lavender inner tufts, along with one long, flexible cat tail of even slender thickness that transitions from deep purple through electric blue to pale cyan, decorated near the base with a black bow, crescent-moon ornament, and hanging blue crystal.
+
+ 4. Upper Body: Around her neck she wears a black choker with a silver ring and a small star-shaped pendant, while her main garment is an oversized black cropped zip-up hoodie with a broad hood, voluminous sleeves, purple-blue floral embroidery, multiple buckled utility straps, metal rings, chains, crescent and star charms, and a large celestial back design featuring a purple crescent moon above a luminous blue city skyline and dangling constellation-like ornaments.
+
+ 5. Lower Body & Feet: Beneath it she wears fitted black high-waisted shorts secured with layered belts, straps, silver rings, and draped chains, including a small black paw-print charm hanging at the front; her legs are otherwise bare above short black socks. Her footwear consists of heavy black platform combat boots with thick lug soles, front lacing, broad ankle straps, silver buckles, blue-violet star and crescent emblems, and dangling crystal charms.
+
+ 6. Pose: Stands upright in a neutral model-sheet pose with both arms relaxed at her sides, both legs straight and slightly apart in the front and back views, and her body shown in a clean side profile for the lateral view.
 
 Physical Appearance Prompt Style 1c — Kikyo
 
-Kikyo has a slim, youthful build, bright cyan-blue eyes, and a calm, gentle smile that gives her a composed, nocturnal presence. Her hair is a shoulder-length, softly layered bob that shifts from deep indigo at the crown into electric blue and turquoise at the ends, with long side pieces framing her face and a large violet-blue flower ornament with dangling crystal strands pinned beside her right ear. She has tall triangular ears with pale inner fur, and a full plume-like tail that darkens from blue-violet at the base into vivid cyan and icy pale blue at the tip, finished with black ribbon bows and moon-and-crystal charms. At the neck she wears a black choker with a silver crescent moon, and beneath her outerwear there is only a narrow glimpse of a black inner top, mostly covered by a cropped black hooded jacket trimmed in blue-violet, decorated with moon charms, hanging gemstone tassels, and blue floral illustrations across the chest, sleeves, and hood, while the back features a crescent moon suspended over a stylized city skyline with dangling star and crystal ornaments. Her lower half is dressed in fitted black shorts with layered belts, straps, rings, and silver chains, paired with plain black socks and chunky black lace-up platform boots marked with stars, moons, and dangling crystal accents. She stands upright and front-facing with her weight centered, both arms relaxed at her sides, her hands open and slightly turned inward, and her feet planted evenly apart.
+ 1. Base Anatomy: Kikyo has a slim, youthful build. Bright cyan-blue eyes, and a calm, gentle smile that gives her a composed, nocturnal presence.
+
+ 2. Hair & Head: Her hair is a shoulder-length, softly layered bob that shifts from deep indigo at the crown into electric blue and turquoise at the ends, with long side pieces framing her face and a large violet-blue flower ornament with dangling crystal strands pinned beside her right ear.
+
+ 3. Species Traits: Cat Logic — She has tall triangular ears with pale inner fur, and a full plume-like tail that darkens from blue-violet at the base into vivid cyan and icy pale blue at the tip, finished with black ribbon bows and moon-and-crystal charms.
+
+ 4. Upper Body: At the neck she wears a black choker with a silver crescent moon, and beneath her outerwear there is only a narrow glimpse of a black inner top, mostly covered by a cropped black hooded jacket trimmed in blue-violet, decorated with moon charms, hanging gemstone tassels, and blue floral illustrations across the chest, sleeves, and hood, while the back features a crescent moon suspended over a stylized city skyline with dangling star and crystal ornaments.
+
+ 5. Lower Body & Feet: Her lower half is dressed in fitted black shorts with layered belts, straps, rings, and silver chains, paired with plain black socks and chunky black lace-up platform boots marked with stars, moons, and dangling crystal accents.
+
+ 6. Pose: She stands upright and front-facing with her weight centered, both arms relaxed at her sides, her hands open and slightly turned inward, and her feet planted evenly apart.
 
 Physical Appearance Prompt Style 2 — Kikyo
 
-Kikyo is a petite, slender girl with hair falling just past her shoulders in softly layered strands that pour in a vivid gradient from deep indigo-violet at the crown into bright cyan-blue at the tips, styled with wispy bangs and a violet bellflower ornament trailing ribbons and beaded strands above her ear, and she has clear sky-blue eyes paired with a gentle, closed-lip smile. Her animal features include pointed, sleek cat ears in deep indigo with soft lavender inner fur, and a single long, flexible tail of even plushness that fades from dark violet into icy blue, tied near the tip with a black bow carrying a crescent-moon charm. She wears a black choker with a silver crescent moon, a small star stud at her shirt collar, and a slim silver ring on one finger. Her outfit is a black collared shirt layered beneath a cropped indigo-trimmed zip jacket embroidered with bellflowers, all swallowed by an oversized black hooded jacket detailed with buckled sleeve pockets, blue straps, chains, dangling crystal drops, bellflower vines across the hood, and a large back print of a violet crescent moon hanging above a midnight city skyline mirrored in water, paired with black cuffed shorts crossed by harness straps, chains, and a paw-print tag, bare legs, and chunky black platform combat boots hung with buckles, star-and-crescent studs, and tiny bellflower charms. Her expression is a soft, serene smile with her arms hanging relaxed at her sides, held just slightly away from her body.
+ 1. Base Anatomy: Kikyo is a petite, slender girl. She has clear sky-blue eyes paired with a gentle, closed-lip smile. Her expression is a soft, serene smile.
+
+ 2. Hair & Head: Hair falling just past her shoulders in softly layered strands that pour in a vivid gradient from deep indigo-violet at the crown into bright cyan-blue at the tips, styled with wispy bangs and a violet bellflower ornament trailing ribbons and beaded strands above her ear.
+
+ 3. Species Traits: Cat Logic — Her animal features include pointed, sleek cat ears in deep indigo with soft lavender inner fur, and a single long, flexible tail of even plushness that fades from dark violet into icy blue, tied near the tip with a black bow carrying a crescent-moon charm.
+
+ 4. Upper Body: She wears a black choker with a silver crescent moon, a small star stud at her shirt collar, and a slim silver ring on one finger. Her outfit is a black collared shirt layered beneath a cropped indigo-trimmed zip jacket embroidered with bellflowers, all swallowed by an oversized black hooded jacket detailed with buckled sleeve pockets, blue straps, chains, dangling crystal drops, bellflower vines across the hood, and a large back print of a violet crescent moon hanging above a midnight city skyline mirrored in water.
+
+ 5. Lower Body & Feet: Paired with black cuffed shorts crossed by harness straps, chains, and a paw-print tag, bare legs, and chunky black platform combat boots hung with buckles, star-and-crescent studs, and tiny bellflower charms.
+
+ 6. Pose: With her arms hanging relaxed at her sides, held just slightly away from her body.
 
 Physical Appearance Prompt Style 2b — Kikyo
 
-Kikyo has a petite, slender build with fair skin, bright cerulean-blue eyes, and a serene closed-lip smile. Her tousled hair falls just past her shoulders in a rich gradient from deep indigo-violet at the crown into vivid cyan at the ends, pinned above one ear with a purple bellflower ornament trailing ribbons and beaded strands. Sleek deep-violet cat ears with pale lavender inner fur rise from her head, and a single slender, softly furred tail sweeps behind her, shading from dark indigo at the base to icy blue at the tip and tied with a black bow holding a crescent-moon charm. She wears a black choker with a silver crescent moon, a black collared shirt fastened with a small star at the throat, and a cropped black zip jacket trimmed in blue-violet with bellflower embroidery, all layered beneath an oversized black hooded jacket whose sleeves trail painted indigo bellflowers and whose body hangs with chains, crystal drops, buckled straps, and a crescent-marked sleeve pocket; the back displays bellflower vines across the hood above a large violet crescent moon draped in charm chains over a midnight city skyline reflected in water, and the outfit carries no written text. Her black rolled shorts sit beneath a violet belt with harness straps, silver chains, and a hanging black strap tagged with a purple paw print, worn with bare legs, black slouched socks, and chunky black lace-up platform boots buckled and studded with stars, crescents, and dangling bellflower charms. She stands square to the viewer with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Kikyo has a petite, slender build with fair skin. Bright cerulean-blue eyes, and a serene closed-lip smile.
+
+ 2. Hair & Head: Her tousled hair falls just past her shoulders in a rich gradient from deep indigo-violet at the crown into vivid cyan at the ends, pinned above one ear with a purple bellflower ornament trailing ribbons and beaded strands.
+
+ 3. Species Traits: Cat Logic — Sleek deep-violet cat ears with pale lavender inner fur rise from her head, and a single slender, softly furred tail sweeps behind her, shading from dark indigo at the base to icy blue at the tip and tied with a black bow holding a crescent-moon charm.
+
+ 4. Upper Body: She wears a black choker with a silver crescent moon, a black collared shirt fastened with a small star at the throat, and a cropped black zip jacket trimmed in blue-violet with bellflower embroidery, all layered beneath an oversized black hooded jacket whose sleeves trail painted indigo bellflowers and whose body hangs with chains, crystal drops, buckled straps, and a crescent-marked sleeve pocket; the back displays bellflower vines across the hood above a large violet crescent moon draped in charm chains over a midnight city skyline reflected in water, and the outfit carries no written text.
+
+ 5. Lower Body & Feet: Her black rolled shorts sit beneath a violet belt with harness straps, silver chains, and a hanging black strap tagged with a purple paw print, worn with bare legs, black slouched socks, and chunky black lace-up platform boots buckled and studded with stars, crescents, and dangling bellflower charms.
+
+ 6. Pose: She stands square to the viewer with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 3 — Kikyo
 
-Kikyo is slender with short, layered shoulder-length hair that gradients from deep purple to vibrant cyan at the tips, styled with textured wispy bangs and a large purple bellflower hair clip with dangling tassel beads on the left side, and bright blue eyes with a cheerful, warm expression. Her animal features include smaller, pointed deep purple cat ears with soft purple inner fur and a long, flexible, slender cat tail that gradients from deep purple to cyan-blue, maintaining an even thickness and decorated with a black ribbon bow featuring a silver crescent moon and blue crystal charm. She wears a thin black leather collar with a silver star pendant, a black belt with a silver buckle, and a silver hip chain adorned with a hanging black strap featuring a pink paw print icon. Her outfit is a black cropped zip-up hooded jacket decorated with purple bellflower embroidery, a blue inner lining, and a detailed blue moonlit city skyline graphic on the back under a crescent moon, layered over a dark grey high-neck top, black high-waisted utility shorts, bare legs, and chunky high-top black platform combat boots detailed with silver buckles, dangling purple flower charms, and a silver star and crescent moon motif on the heels. Her expression is a gentle, soft-lipped smile with both arms resting naturally down at her sides in a casual, front-facing standing posture.
+ 1. Base Anatomy: Kikyo is slender. Bright blue eyes with a cheerful, warm expression. Her expression is a gentle, soft-lipped smile.
+
+ 2. Hair & Head: Short, layered shoulder-length hair that gradients from deep purple to vibrant cyan at the tips, styled with textured wispy bangs and a large purple bellflower hair clip with dangling tassel beads on the left side.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, pointed deep purple cat ears with soft purple inner fur and a long, flexible, slender cat tail that gradients from deep purple to cyan-blue, maintaining an even thickness and decorated with a black ribbon bow featuring a silver crescent moon and blue crystal charm.
+
+ 4. Upper Body: She wears a thin black leather collar with a silver star pendant. Her outfit is a black cropped zip-up hooded jacket decorated with purple bellflower embroidery, a blue inner lining, and a detailed blue moonlit city skyline graphic on the back under a crescent moon, layered over a dark grey high-neck top.
+
+ 5. Lower Body & Feet: A black belt with a silver buckle, and a silver hip chain adorned with a hanging black strap featuring a pink paw print icon. Black high-waisted utility shorts, bare legs, and chunky high-top black platform combat boots detailed with silver buckles, dangling purple flower charms, and a silver star and crescent moon motif on the heels.
+
+ 6. Pose: With both arms resting naturally down at her sides in a casual, front-facing standing posture.
 
 Physical Appearance Prompt Style 4 — Kikyo
 
-Kikyo is a slim girl with shoulder-length dark purple hair that transitions into a bright cyan gradient, blunt bangs, and an elaborate purple bellflower hair clip with dangling starry tassels, and bright cyan eyes. Her animal features include smaller, sleek pointed dark purple cat ears and a long, flexible cat tail featuring a dark purple to bright cyan gradient, maintaining an even thickness and decorated with a black bow and a crescent moon charm. She wears a black choker with a silver crescent moon and star pendant. Her outfit is a black zip-up hooded jacket decorated with blue bellflower embroidery and a back graphic featuring a glowing blue city skyline under a starry night and a crescent moon layered over a black undershirt, black shorts with a belt, silver chains, and a hanging utility strap featuring a pink paw print logo, bare legs, and chunky black combat boots adorned with star hardware, crescent moons, and dangling blue floral charms. Her expression is a gentle open-mouthed smile with her arms resting straight down casually at her sides.
+ 1. Base Anatomy: Kikyo is a slim girl. Bright cyan eyes. Her expression is a gentle open-mouthed smile.
+
+ 2. Hair & Head: Shoulder-length dark purple hair that transitions into a bright cyan gradient, blunt bangs, and an elaborate purple bellflower hair clip with dangling starry tassels.
+
+ 3. Species Traits: Cat Logic — Her animal features include smaller, sleek pointed dark purple cat ears and a long, flexible cat tail featuring a dark purple to bright cyan gradient, maintaining an even thickness and decorated with a black bow and a crescent moon charm.
+
+ 4. Upper Body: She wears a black choker with a silver crescent moon and star pendant. Her outfit is a black zip-up hooded jacket decorated with blue bellflower embroidery and a back graphic featuring a glowing blue city skyline under a starry night and a crescent moon layered over a black undershirt.
+
+ 5. Lower Body & Feet: Black shorts with a belt, silver chains, and a hanging utility strap featuring a pink paw print logo, bare legs, and chunky black combat boots adorned with star hardware, crescent moons, and dangling blue floral charms.
+
+ 6. Pose: With her arms resting straight down casually at her sides.
 
 Physical Appearance Prompt Style 4b — Kikyo
 
-Kikyo is a slender young girl with bright blue eyes and short, messy hair that dramatically gradients from deep indigo at the roots to vibrant cyan at the tips, beautifully adorned with a cluster of purple flowers and hanging crystal tassels on her left side. Following cat logic, she possesses sleek, pointed dark indigo ears with pink inner fluff and a long, slender, flexible tail that gradients from dark blue to bright cyan, elegantly detailed with a black ribbon bow and a dangling crescent moon charm. Her outfit begins with a black choker holding a silver crescent moon pendant, layered over a black inner top and a cropped black zip-up hooded jacket decorated with delicate bluebell floral embroidery, dangling blue utility straps, crescent moon charms, and an elaborate back design featuring a glowing purple crescent moon over a blue nighttime city skyline. She pairs this with black shorts secured by a matching belt, heavily accessorized with silver hip chains and a dangling black strap displaying a pink paw print emblem on her left side. She wears no visible socks, finishing her look with bare legs and chunky black platform lace-up boots intricately detailed with buckling straps, silver star and moon emblems, and dangling blue bellflower charms. She displays a gentle, closed-mouth smile, standing casually with her arms resting straight down at her sides.
+ 1. Base Anatomy: Kikyo is a slender young girl. Bright blue eyes. She displays a gentle, closed-mouth smile.
+
+ 2. Hair & Head: Short, messy hair that dramatically gradients from deep indigo at the roots to vibrant cyan at the tips, beautifully adorned with a cluster of purple flowers and hanging crystal tassels on her left side.
+
+ 3. Species Traits: Cat Logic — Following cat logic, she possesses sleek, pointed dark indigo ears with pink inner fluff and a long, slender, flexible tail that gradients from dark blue to bright cyan, elegantly detailed with a black ribbon bow and a dangling crescent moon charm.
+
+ 4. Upper Body: Her outfit begins with a black choker holding a silver crescent moon pendant, layered over a black inner top and a cropped black zip-up hooded jacket decorated with delicate bluebell floral embroidery, dangling blue utility straps, crescent moon charms, and an elaborate back design featuring a glowing purple crescent moon over a blue nighttime city skyline.
+
+ 5. Lower Body & Feet: She pairs this with black shorts secured by a matching belt, heavily accessorized with silver hip chains and a dangling black strap displaying a pink paw print emblem on her left side. She wears no visible socks, finishing her look with bare legs and chunky black platform lace-up boots intricately detailed with buckling straps, silver star and moon emblems, and dangling blue bellflower charms.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
 
 ---
 
@@ -2915,35 +4066,115 @@ Kohaku is a gentle, sunlit fox girl who expresses devotion through quiet service
 
 Physical Appearance Prompt Style 1 — Kohaku
 
-Kohaku is a petite, softly proportioned girl with very long, thick chestnut-brown hair that falls past her waist in loose natural waves, framed by smooth bangs and gently curved face-framing strands, and warm amber-brown eyes with a bright, welcoming expression. Her animal features include large, wide-based brown fox ears with pale cream inner fur and one thick, bushy brown fox tail that extends prominently behind her, tapering into a broad cream-white tip. She wears a sunflower-and-daisy hair arrangement with orange ribbons at one side, a slim brown bow at the collar of her blouse, and a small ribbon securing part of her hair at the back. Her outfit is a cream cable-knit cardigan with brown buttons, patch pockets, ribbed trim, and tiny embroidered bow accents layered over a warm ochre collared blouse, paired with a dark chocolate-brown high-waisted pleated skirt featuring a subtle geometric border and cream ruffled hem, dark brown knee-high socks with scalloped edging, and cream ankle boots with low block heels and small brown ribbon ornaments. Her expression is a cheerful open-mouthed smile with both hands raised close to her chest in a small double paw pose.
+ 1. Base Anatomy: Kohaku is a petite, softly proportioned girl. Warm amber-brown eyes with a bright, welcoming expression. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Very long, thick chestnut-brown hair that falls past her waist in loose natural waves, framed by smooth bangs and gently curved face-framing strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based brown fox ears with pale cream inner fur and one thick, bushy brown fox tail that extends prominently behind her, tapering into a broad cream-white tip.
+
+ 4. Upper Body: She wears a sunflower-and-daisy hair arrangement with orange ribbons at one side, a slim brown bow at the collar of her blouse, and a small ribbon securing part of her hair at the back. Her outfit is a cream cable-knit cardigan with brown buttons, patch pockets, ribbed trim, and tiny embroidered bow accents layered over a warm ochre collared blouse.
+
+ 5. Lower Body & Feet: Paired with a dark chocolate-brown high-waisted pleated skirt featuring a subtle geometric border and cream ruffled hem, dark brown knee-high socks with scalloped edging, and cream ankle boots with low block heels and small brown ribbon ornaments.
+
+ 6. Pose: With both hands raised close to her chest in a small double paw pose.
 
 Physical Appearance Prompt Style 1b — Kohaku
 
-Kohaku is a petite, slender girl with warm amber-gold eyes and a bright, cheerful gaze, framed by extremely long chocolate-brown hair that falls past her waist in thick loose waves with full layered bangs, softly braided side sections, a small orange bow at the back, and a prominent sunflower-and-daisy hair cluster with orange ribbon tails. She has large, wide-based dark-brown fox ears with pale peach-white inner tufts and one exceptionally thick, bushy brown tail that sweeps behind her and fades into a creamy white tip. A mustard-gold blouse with a ruffled collar, dark buttons, and a deep brown-orange ribbon bow forms the inner layer beneath a long ivory cable-knit cardigan with brown buttons, ribbed edging, patch pockets, tiny bow appliqués, and delicate orange floral embroidery near the hem. Her high-waisted dark-brown pleated A-line skirt is secured by a slim black belt and finished with an ornate golden geometric border and a cream ruffled underskirt. Dark-brown knee-high socks have scalloped lace tops and tiny gold butterfly-like motifs, while cream ankle boots feature low block heels, side buckles, stitched paneling, and orange ribbon bows at the outer ankles. She finishes with a delighted open-mouthed smile, facing straight forward with her feet set slightly apart and both hands raised beside her chest as softly clenched fists in a playful paw-like pose.
+ 1. Base Anatomy: Kohaku is a petite, slender girl. Warm amber-gold eyes. She finishes with a delighted open-mouthed smile.
+
+ 2. Hair & Head: A bright, cheerful gaze, framed by extremely long chocolate-brown hair that falls past her waist in thick loose waves with full layered bangs, softly braided side sections, a small orange bow at the back, and a prominent sunflower-and-daisy hair cluster with orange ribbon tails.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based dark-brown fox ears with pale peach-white inner tufts and one exceptionally thick, bushy brown tail that sweeps behind her and fades into a creamy white tip.
+
+ 4. Upper Body: A mustard-gold blouse with a ruffled collar, dark buttons, and a deep brown-orange ribbon bow forms the inner layer beneath a long ivory cable-knit cardigan with brown buttons, ribbed edging, patch pockets, tiny bow appliqués, and delicate orange floral embroidery near the hem.
+
+ 5. Lower Body & Feet: Her high-waisted dark-brown pleated A-line skirt is secured by a slim black belt and finished with an ornate golden geometric border and a cream ruffled underskirt. Dark-brown knee-high socks have scalloped lace tops and tiny gold butterfly-like motifs, while cream ankle boots feature low block heels, side buckles, stitched paneling, and orange ribbon bows at the outer ankles.
+
+ 6. Pose: Facing straight forward with her feet set slightly apart and both hands raised beside her chest as softly clenched fists in a playful paw-like pose.
 
 Physical Appearance Prompt Style 1c — Kohaku
 
-Kohaku has a slim, softly youthful build, warm golden-brown eyes, and a bright open smile that gives her a gentle, cheerful presence. Her hair is very long and chestnut brown, falling in loose waves well past her waist, with full bangs framing her face, a sunflower-and-daisy hairpiece pinned to one side, and the back gathered into a half-up braided arrangement tied with a ribbon. She has large brown ears with cream inner fur and a full, bushy brown tail that fades to a pale cream tip. Her outfit begins with a tan collared blouse fastened with buttons and a narrow ribbon tie, layered under a thick cream cable-knit cardigan with brown buttons, patch pockets, small bow accents, and warm orange embroidery near the hem and cuffs. Below that she wears a dark chocolate pleated skirt with a gold geometric border and cream ruffle trim, dark brown knee socks with delicate lace edging and tiny leaf-like motifs, and cream ankle boots with low block heels, buckle straps, and ribbon tassels at the sides. In the front view she faces forward with a straight posture, feet set evenly apart, and both hands lifted beside her chest in a small pawing pose.
+ 1. Base Anatomy: Kohaku has a slim, softly youthful build. Warm golden-brown eyes, and a bright open smile that gives her a gentle, cheerful presence.
+
+ 2. Hair & Head: Her hair is very long and chestnut brown, falling in loose waves well past her waist, with full bangs framing her face, a sunflower-and-daisy hairpiece pinned to one side, and the back gathered into a half-up braided arrangement tied with a ribbon.
+
+ 3. Species Traits: Fox Logic — She has large brown ears with cream inner fur and a full, bushy brown tail that fades to a pale cream tip.
+
+ 4. Upper Body: Her outfit begins with a tan collared blouse fastened with buttons and a narrow ribbon tie, layered under a thick cream cable-knit cardigan with brown buttons, patch pockets, small bow accents, and warm orange embroidery near the hem and cuffs.
+
+ 5. Lower Body & Feet: Below that she wears a dark chocolate pleated skirt with a gold geometric border and cream ruffle trim, dark brown knee socks with delicate lace edging and tiny leaf-like motifs, and cream ankle boots with low block heels, buckle straps, and ribbon tassels at the sides.
+
+ 6. Pose: In the front view she faces forward with a straight posture, feet set evenly apart, and both hands lifted beside her chest in a small pawing pose.
 
 Physical Appearance Prompt Style 2 — Kohaku
 
-Kohaku is a petite, warmly cheerful girl with extremely long chestnut-brown hair falling in soft, voluminous waves to her hips, gathered at the back into a braided half-crown tied with an orange ribbon and adorned above her ear with a sunflower cluster trailing orange ribbons, and her large amber-brown eyes glow above a fanged, open smile. Her animal features include tall, wide-based chocolate-brown ears filled with pale cream fluff and one enormous, thick, bushy brown tail whose plush fur sweeps low behind her and finishes in a soft white tip. She wears a chocolate-brown neck ribbon fastened with a small golden brooch at her collar. Her outfit is a mustard-yellow button-up blouse with a pointed collar layered under an oversized cream cable-knit cardigan with round wooden buttons, patch pockets embroidered with little ribbon motifs, and delicate orange floral stitching along the hem, worn with a high-waisted dark brown pleated skirt featuring a slim belt, folk-style geometric embroidery, and a cream frilled underlayer, dark brown lace-topped knee socks, and ivory mid-calf boots on block heels with buckled straps and orange ribbon bows at the backs; every textile is pattern-only, with no lettering. Her expression is a bright open-mouthed smile showing a small fang, and she lifts both hands in soft fists held up in a double paw pose at chest height.
+ 1. Base Anatomy: Kohaku is a petite, warmly cheerful girl. Large amber-brown eyes glow above a fanged, open smile. Her expression is a bright open-mouthed smile showing a small fang, and she lifts both hands in soft fists held up in a double paw pose at chest height.
+
+ 2. Hair & Head: Extremely long chestnut-brown hair falling in soft, voluminous waves to her hips, gathered at the back into a braided half-crown tied with an orange ribbon and adorned above her ear with a sunflower cluster trailing orange ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include tall, wide-based chocolate-brown ears filled with pale cream fluff and one enormous, thick, bushy brown tail whose plush fur sweeps low behind her and finishes in a soft white tip.
+
+ 4. Upper Body: She wears a chocolate-brown neck ribbon fastened with a small golden brooch at her collar. Her outfit is a mustard-yellow button-up blouse with a pointed collar layered under an oversized cream cable-knit cardigan with round wooden buttons, patch pockets embroidered with little ribbon motifs, and delicate orange floral stitching along the hem.
+
+ 5. Lower Body & Feet: Worn with a high-waisted dark brown pleated skirt featuring a slim belt, folk-style geometric embroidery, and a cream frilled underlayer, dark brown lace-topped knee socks, and ivory mid-calf boots on block heels with buckled straps and orange ribbon bows at the backs; every textile is pattern-only, with no lettering.
+
+ 6. Pose: Her expression is a bright open-mouthed smile showing a small fang, and she lifts both hands in soft fists held up in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 2b — Kohaku
 
-Kohaku has a petite, lively build with fair skin, warm chestnut-brown eyes, and an open fanged smile. Her chocolate-brown hair falls in loose, voluminous waves to her hips, gathered at the back into a small half-up braid tied with an orange ribbon and adorned at the side with a sunflower-and-daisy cluster trailing orange ribbons. Tall, dark cocoa-brown ears with pale cream tufts stand wide atop her head, and a single enormous, bushy brown tail sweeps behind her, its fur breaking into a soft white tip. She wears a mustard-amber button-up blouse with a pointed collar, pin-tucked front, and a brown ribbon tie fastened by a golden brooch, layered under a slouchy cream cable-knit cardigan with round brown buttons, patch pockets decorated with embroidered ribbon-tied motifs, and bands of orange floral embroidery along the hem and cuffs; the knitwear is pattern-only, with no visible lettering. Her dark brown high-waisted pleated skirt is belted in brown, bordered with folk-style geometric embroidery, and edged in a cream frill, worn above chocolate lace-topped knee socks and cream mid-calf boots with block heels, buckled straps, and orange ribbon bows at the backs. She poses with both fists lifted in a double paw pose at chest height.
+ 1. Base Anatomy: Kohaku has a petite, lively build with fair skin. Warm chestnut-brown eyes, and an open fanged smile.
+
+ 2. Hair & Head: Her chocolate-brown hair falls in loose, voluminous waves to her hips, gathered at the back into a small half-up braid tied with an orange ribbon and adorned at the side with a sunflower-and-daisy cluster trailing orange ribbons.
+
+ 3. Species Traits: Fox Logic — Tall, dark cocoa-brown ears with pale cream tufts stand wide atop her head, and a single enormous, bushy brown tail sweeps behind her, its fur breaking into a soft white tip.
+
+ 4. Upper Body: She wears a mustard-amber button-up blouse with a pointed collar, pin-tucked front, and a brown ribbon tie fastened by a golden brooch, layered under a slouchy cream cable-knit cardigan with round brown buttons, patch pockets decorated with embroidered ribbon-tied motifs, and bands of orange floral embroidery along the hem and cuffs; the knitwear is pattern-only, with no visible lettering.
+
+ 5. Lower Body & Feet: Her dark brown high-waisted pleated skirt is belted in brown, bordered with folk-style geometric embroidery, and edged in a cream frill, worn above chocolate lace-topped knee socks and cream mid-calf boots with block heels, buckled straps, and orange ribbon bows at the backs.
+
+ 6. Pose: She poses with both fists lifted in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Kohaku
 
-Kohaku is slender with long, wavy dark brown hair styled with a braided crown around the back, straight bangs, side-framing layers, and a cluster of sunflowers and autumn leaves behind her left ear, and bright amber eyes with a warm, happy expression. Her animal features include large, wide-based dark brown fox ears with white fluffy inner fur and a thick, bushy, fluffy brown fox tail with a distinct white tip. She wears a dark brown ribbon tied at the collar and a thin brown belt around her waist. Her outfit is an oversized cream-colored cable-knit cardigan with embroidered brown floral borders and ribbon pockets, layered over a mustard yellow button-up collared blouse, a dark brown pleated mini skirt with a gold geometric pattern and white ruffled trim, dark brown calf-high socks with a gold butterfly emblem and lace trim, and cream-colored ankle boots with low chunky heels, buckled straps, and brown ribbons on the back. Her expression is a cheerful, open-mouthed smile with both hands raised playfully in front of her chest in a double paw gesture.
+ 1. Base Anatomy: Kohaku is slender. Bright amber eyes with a warm, happy expression. Her expression is a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy dark brown hair styled with a braided crown around the back, straight bangs, side-framing layers, and a cluster of sunflowers and autumn leaves behind her left ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based dark brown fox ears with white fluffy inner fur and a thick, bushy, fluffy brown fox tail with a distinct white tip.
+
+ 4. Upper Body: She wears a dark brown ribbon tied at the collar and a thin brown. Her outfit is an oversized cream-colored cable-knit cardigan with embroidered brown floral borders and ribbon pockets, layered over a mustard yellow button-up collared blouse.
+
+ 5. Lower Body & Feet: Belt around her waist. A dark brown pleated mini skirt with a gold geometric pattern and white ruffled trim, dark brown calf-high socks with a gold butterfly emblem and lace trim, and cream-colored ankle boots with low chunky heels, buckled straps, and brown ribbons on the back.
+
+ 6. Pose: With both hands raised playfully in front of her chest in a double paw gesture.
 
 Physical Appearance Prompt Style 4 — Kohaku
 
-Kohaku is a slim girl with long, wavy brown hair, straight bangs, braided crown details, and sunflower clips, and warm amber eyes. Her animal features include large, wide-based brown fox ears and a thick, bushy brown fox tail with a white tip. She wears sunflower hair ornaments and a brown back ribbon. Her outfit is a cream-colored knit cardigan with leaf embroidery layered over a yellow collared blouse, a pleated dark brown mini skirt with gold borders, dark brown calf socks, and cream heeled ankle boots with floral charms. Her expression is a bright open-mouthed smile with both hands raised near her chest in soft paw poses.
+ 1. Base Anatomy: Kohaku is a slim girl. Warm amber eyes. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy brown hair, straight bangs, braided crown details, and sunflower clips. She wears sunflower hair ornaments and a brown back ribbon.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based brown fox ears and a thick, bushy brown fox tail with a white tip.
+
+ 4. Upper Body: Her outfit is a cream-colored knit cardigan with leaf embroidery layered over a yellow collared blouse.
+
+ 5. Lower Body & Feet: A pleated dark brown mini skirt with gold borders, dark brown calf socks, and cream heeled ankle boots with floral charms.
+
+ 6. Pose: With both hands raised near her chest in soft paw poses.
 
 Physical Appearance Prompt Style 4b — Kohaku
 
-Kohaku features a slender build, bright amber eyes, and long, voluminous dark brown hair that lightens towards the tips, partially braided in the back and adorned with sunflower and daisy hairpins on her left side. Applying fox logic, she has large, wide-based dark brown ears with white inner fluff and a thick, bushy dark brown tail that gradients to a striking white tip. Her outfit starts with a mustard yellow collared button-up shirt featuring a neat brown ribbon tie, layered beneath a chunky cream-colored knit cardigan detailed with wooden buttons and subtle brown leaf embroidery. She pairs this with a brown pleated miniskirt sporting a decorative geometric hemline and a simple brown belt. Her legwear consists of brown calf-high socks featuring small bows at the top edge, matched with cream-colored heeled ankle boots accented by brown straps, buckles, and delicate floral charms. She wears a bright, open-mouthed smile, standing cheerfully with both hands raised in relaxed, curled paw gestures.
+ 1. Base Anatomy: Kohaku features a slender build. Bright amber eyes. She wears a bright, open-mouthed smile.
+
+ 2. Hair & Head: Long, voluminous dark brown hair that lightens towards the tips, partially braided in the back and adorned with sunflower and daisy hairpins on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she has large, wide-based dark brown ears with white inner fluff and a thick, bushy dark brown tail that gradients to a striking white tip.
+
+ 4. Upper Body: Her outfit starts with a mustard yellow collared button-up shirt featuring a neat brown ribbon tie, layered beneath a chunky cream-colored knit cardigan detailed with wooden buttons and subtle brown leaf embroidery. The top edge.
+
+ 5. Lower Body & Feet: She pairs this with a brown pleated miniskirt sporting a decorative geometric hemline and a simple brown belt. Her legwear consists of brown calf-high socks featuring small bows at the top edge, matched with cream-colored heeled ankle boots accented by brown straps, buckles, and delicate floral charms.
+
+ 6. Pose: Standing cheerfully with both hands raised in relaxed, curled paw gestures.
 
 ---
 
@@ -3133,35 +4364,115 @@ Himari is a warm, golden fox girl who confidently approaches others, creates an 
 
 Physical Appearance Prompt Style 1 — Himari
 
-Himari is a petite, slim girl with very long, flowing golden-orange hair that reaches past her waist in soft waves, framed by airy bangs and gently curved face-framing locks, and glowing amber-gold eyes with a sunny, enthusiastic expression. Her animal features include large, wide-based golden fox ears with cream inner fur and one thick, bushy golden-orange fox tail that sweeps outward behind her and fades into a broad creamy-white tip. She wears a sunflower hairpiece surrounded by small white blossoms and green leaves, a sunflower-and-ribbon ornament at her neckline, and matching floral accents at her socks and shoes. Her outfit is a white short-sleeved blouse with puffed sleeves, ruffled cuffs, and a rounded lace-trimmed neckline layered beneath a golden-yellow suspender dress with a fitted high waist, decorative buttons, a broad front bow, sunflower embroidery near the hem, and a white ruffled underskirt, paired with short white ruffled bloomers visible beneath the skirt, cream knee-high ribbed socks with sunflower appliqués, and cream lace-up ankle boots with low heels and sunflower decorations. Her expression is a joyful open-mouthed smile with both fists lifted beside her chest in a lively double paw pose.
+ 1. Base Anatomy: Himari is a petite, slim girl. Glowing amber-gold eyes with a sunny, enthusiastic expression. Her expression is a joyful open-mouthed smile.
+
+ 2. Hair & Head: Very long, flowing golden-orange hair that reaches past her waist in soft waves, framed by airy bangs and gently curved face-framing locks. She wears a sunflower hairpiece surrounded by small white blossoms and green leaves, a sunflower-and-ribbon ornament at her neckline, and matching floral accents at her socks and shoes.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based golden fox ears with cream inner fur and one thick, bushy golden-orange fox tail that sweeps outward behind her and fades into a broad creamy-white tip.
+
+ 4. Upper Body: Her outfit is a white short-sleeved blouse with puffed sleeves, ruffled cuffs.
+
+ 5. Lower Body & Feet: A rounded lace-trimmed neckline layered beneath a golden-yellow suspender dress with a fitted high waist, decorative buttons, a broad front bow, sunflower embroidery near the hem, and a white ruffled underskirt, paired with short white ruffled bloomers visible beneath the skirt, cream knee-high ribbed socks with sunflower appliqués, and cream lace-up ankle boots with low heels and sunflower decorations.
+
+ 6. Pose: With both fists lifted beside her chest in a lively double paw pose.
 
 Physical Appearance Prompt Style 1b — Himari
 
-Himari is a slim, petite girl with luminous golden-amber eyes and an openly joyful gaze, accompanied by very long honey-orange hair that reaches past her waist in soft flowing waves with layered bangs and a large sunflower, white-blossom, green-leaf, and orange-ribbon arrangement clipped beside one ear. She has large, wide-based golden-orange fox ears with fluffy white inner fur and one enormous bushy orange-gold tail that curves prominently behind her and transitions into a broad creamy-white tip. A white short-sleeved blouse with a lace-edged rounded neckline, puff sleeves, and a sunflower-centered orange ribbon bow is worn beneath narrow golden suspender straps. A fitted golden-orange waistband with decorative buttons and a large side bow supports a flared knee-above pinafore skirt decorated with sunflower bouquets near the hem, fine white stripe trim, and a full white ruffled underskirt, with frilled white bloomers subtly visible beneath the short silhouette. Cream rib-knit knee-high socks have scalloped tops and small sunflower rosettes at the outer calves. White lace-up ankle boots use warm gold piping, low block heels, ruffled collars, and sunflower ornaments at the sides. She ends with a happy open-mouthed smile, standing front-facing with her feet comfortably apart and both elbows bent, holding two lightly clenched fists beside her shoulders in an enthusiastic double paw pose.
+ 1. Base Anatomy: Himari is a slim, petite girl. Luminous golden-amber eyes. She ends with a happy open-mouthed smile.
+
+ 2. Hair & Head: An openly joyful gaze, accompanied by very long honey-orange hair that reaches past her waist in soft flowing waves with layered bangs and a large sunflower, white-blossom, green-leaf, and orange-ribbon arrangement clipped beside one ear.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based golden-orange fox ears with fluffy white inner fur and one enormous bushy orange-gold tail that curves prominently behind her and transitions into a broad creamy-white tip.
+
+ 4. Upper Body: A white short-sleeved blouse with a lace-edged rounded neckline, puff sleeves, and a sunflower-centered orange ribbon bow is worn beneath narrow golden suspender straps.
+
+ 5. Lower Body & Feet: A fitted golden-orange waistband with decorative buttons and a large side bow supports a flared knee-above pinafore skirt decorated with sunflower bouquets near the hem, fine white stripe trim, and a full white ruffled underskirt, with frilled white bloomers subtly visible beneath the short silhouette. Cream rib-knit knee-high socks have scalloped tops and small sunflower rosettes at the outer calves. White lace-up ankle boots use warm gold piping, low block heels, ruffled collars, and sunflower ornaments at the sides.
+
+ 6. Pose: Standing front-facing with her feet comfortably apart and both elbows bent, holding two lightly clenched fists beside her shoulders in an enthusiastic double paw pose.
 
 Physical Appearance Prompt Style 1c — Himari
 
-Himari has a petite, lightly built frame, golden amber eyes, and an upbeat open smile that feels sunny and inviting. Her hair is long, soft, and wavy in a honey-blonde to warm apricot tone, reaching to her lower back, with smooth bangs and a large sunflower cluster with small white blossoms pinned at one side. She has wide golden ears with pale inner fur and a broad, feathery tail in warm orange-gold that fades to white at the tip. Her top is a cream short-sleeved blouse with a modest frilled collar and a floral ribbon brooch at the throat, over which sit structured orange suspender straps and a high waist panel that flow into a simple pinafore-style dress. The lower half consists of a marigold skirt embroidered with sunflowers near the hem, soft white ruffled bloomers peeking underneath, cream knee socks finished with sunflower decorations, and cream lace-up ankle boots with small sunflower ornaments. In the front pose she stands upright with both feet planted, both elbows bent, and both hands lifted near shoulder level with the fingers curled like paws.
+ 1. Base Anatomy: Himari has a petite, lightly built frame. Golden amber eyes, and an upbeat open smile that feels sunny and inviting.
+
+ 2. Hair & Head: Her hair is long, soft, and wavy in a honey-blonde to warm apricot tone, reaching to her lower back, with smooth bangs and a large sunflower cluster with small white blossoms pinned at one side.
+
+ 3. Species Traits: Fox Logic — She has wide golden ears with pale inner fur and a broad, feathery tail in warm orange-gold that fades to white at the tip.
+
+ 4. Upper Body: Her top is a cream short-sleeved blouse with a modest frilled collar and a floral ribbon brooch at the throat.
+
+ 5. Lower Body & Feet: Over which sit structured orange suspender straps and a high waist panel that flow into a simple pinafore-style dress. The lower half consists of a marigold skirt embroidered with sunflowers near the hem, soft white ruffled bloomers peeking underneath, cream knee socks finished with sunflower decorations, and cream lace-up ankle boots with small sunflower ornaments.
+
+ 6. Pose: In the front pose she stands upright with both feet planted, both elbows bent, and both hands lifted near shoulder level with the fingers curled like paws.
 
 Physical Appearance Prompt Style 2 — Himari
 
-Himari is a slender, sunny girl with very long honey-gold hair tumbling in loose, airy waves past her waist beneath softly parted bangs, decorated above one ear with a sunflower-and-daisy cluster trailing orange ribbons, and her bright amber-orange eyes shine above a fanged open smile. Her animal features include large, wide-based golden ears tufted with white inner fluff and one huge, thick, bushy cream-gold tail whose dense fur pales toward a soft ivory tip. She wears a sunflower brooch pinned to the orange ribbon bow at her collar as her main accessory. Her outfit is a white short-puff-sleeved blouse with a lace-edged rounded collar and button placket layered beneath a marigold-yellow high-waisted suspender skirt tied with an orange waist bow, embroidered with sunflowers above its frilled cream hem, and worn over lace-trimmed cream bloomers that peek out below, with cream ribbed knee socks topped by scalloped lace and small sunflower ribbon charms, and cream lace-up ankle boots on low stacked heels with sunflower accents; all fabrics are pattern-only, with no text. Her expression is a wide, joyful open-mouthed smile, and she holds both hands up in loose fists in a double paw pose at chest level.
+ 1. Base Anatomy: Himari is a slender, sunny girl. Bright amber-orange eyes shine above a fanged open smile. Her expression is a wide, joyful open-mouthed smile, and she holds both hands up in loose fists in a double paw pose at chest level.
+
+ 2. Hair & Head: Very long honey-gold hair tumbling in loose, airy waves past her waist beneath softly parted bangs, decorated above one ear with a sunflower-and-daisy cluster trailing orange ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based golden ears tufted with white inner fluff and one huge, thick, bushy cream-gold tail whose dense fur pales toward a soft ivory tip.
+
+ 4. Upper Body: She wears a sunflower brooch pinned to the orange ribbon bow at her collar as her main accessory. Her outfit is a white short-puff-sleeved blouse with a lace-edged rounded collar and button placket layered beneath a marigold-yellow high-waisted suspender.
+
+ 5. Lower Body & Feet: Skirt tied with an orange waist bow, embroidered with sunflowers above its frilled cream hem, and worn over lace-trimmed cream bloomers that peek out below, with cream ribbed knee socks topped by scalloped lace and small sunflower ribbon charms, and cream lace-up ankle boots on low stacked heels with sunflower accents; all fabrics are pattern-only, with no text.
+
+ 6. Pose: Her expression is a wide, joyful open-mouthed smile, and she holds both hands up in loose fists in a double paw pose at chest level.
 
 Physical Appearance Prompt Style 2b — Himari
 
-Himari has a slender, petite build with fair skin, honey-gold eyes, and a bright open-mouthed smile showing a small fang. Her golden-orange hair flows in long, loose waves past her waist beneath soft parted bangs, crowned at the side with a sunflower-and-daisy ornament trailing orange ribbons. Large amber-orange ears with white inner tufts stand wide atop her head, and one huge, plush tail in pale apricot-cream billows behind her, brightening to a lighter feathered tip. She wears a white short-sleeved blouse with puffed, frill-cuffed sleeves and a lace-edged rounded collar, buttoned down the front and finished with a sunflower brooch tied in striped orange ribbon. Her marigold-yellow suspender skirt sits high on the waist with a wide orange bow at the front and another at the back, sunflower embroidery scattered near the pleated, cream-frilled hem, and white lace-trimmed bloomers peeking out beneath, worn with cream ribbed knee socks bearing scalloped tops and sunflower charms, and cream lace-up ankle boots with low stacked heels and sunflower accents. She poses with both fists raised in a double paw pose on either side of her chest.
+ 1. Base Anatomy: Himari has a slender, petite build with fair skin. Honey-gold eyes, and a bright open-mouthed smile showing a small fang.
+
+ 2. Hair & Head: Her golden-orange hair flows in long, loose waves past her waist beneath soft parted bangs, crowned at the side with a sunflower-and-daisy ornament trailing orange ribbons.
+
+ 3. Species Traits: Fox Logic — Large amber-orange ears with white inner tufts stand wide atop her head, and one huge, plush tail in pale apricot-cream billows behind her, brightening to a lighter feathered tip.
+
+ 4. Upper Body: She wears a white short-sleeved blouse with puffed, frill-cuffed sleeves and a lace-edged rounded collar, buttoned down the front and finished with a sunflower brooch tied in striped orange ribbon.
+
+ 5. Lower Body & Feet: Her marigold-yellow suspender skirt sits high on the waist with a wide orange bow at the front and another at the back, sunflower embroidery scattered near the pleated, cream-frilled hem, and white lace-trimmed bloomers peeking out beneath, worn with cream ribbed knee socks bearing scalloped tops and sunflower charms, and cream lace-up ankle boots with low stacked heels and sunflower accents.
+
+ 6. Pose: She poses with both fists raised in a double paw pose on either side of her chest.
 
 Physical Appearance Prompt Style 3 — Himari
 
-Himari is slender with long, wavy golden-blonde hair featuring soft orange shading at the tips, styled with neat bangs, long face-framing strands, and a large sunflower ornament with green leaves and orange ribbons on the left side of her head, and warm orange eyes with a bright, enthusiastic expression. Her animal features include large, wide-based golden-orange fox ears with white tufted inner fur and a thick, bushy, fluffy orange fox tail that gradients into a white tip. She wears an orange ribbon bow with a sunflower center at her neck and a matching orange ribbon tied in a large bow at the back of her waist. Her outfit is a light yellow pinafore dress with overall shoulder straps and a buttoned waistband featuring sunflower embroidery along the hem, layered over a short-sleeved white blouse with puffy sleeves and a frilled collar, matching light yellow ruffled bloomers peeking out from beneath the dress, cream-colored knee-high socks adorned with a yellow sunflower ribbon rosette on the side and a scalloped lace trim, and cream-colored lace-up ankle boots with a modest block heel and a sunflower accessory on the outer ankle. Her expression is a joyful, wide open-mouthed smile with both hands curled into fists near her shoulders in an adorable double paw pose.
+ 1. Base Anatomy: Himari is slender. Warm orange eyes with a bright, enthusiastic expression. Her expression is a joyful, wide open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy golden-blonde hair featuring soft orange shading at the tips, styled with neat bangs, long face-framing strands, and a large sunflower ornament with green leaves and orange ribbons on the left side of her head.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based golden-orange fox ears with white tufted inner fur and a thick, bushy, fluffy orange fox tail that gradients into a white tip.
+
+ 4. Upper Body: Her outfit is a light yellow pinafore dress with overall shoulder straps and a buttoned waistband featuring sunflower embroidery along the hem, layered over a short-sleeved white blouse with puffy sleeves and a frilled collar.
+
+ 5. Lower Body & Feet: She wears an orange ribbon bow with a sunflower center at her neck and a matching orange ribbon tied in a large bow at the back of her waist. Matching light yellow ruffled bloomers peeking out from beneath the dress, cream-colored knee-high socks adorned with a yellow sunflower ribbon rosette on the side and a scalloped lace trim, and cream-colored lace-up ankle boots with a modest block heel and a sunflower accessory on the outer ankle.
+
+ 6. Pose: With both hands curled into fists near her shoulders in an adorable double paw pose.
 
 Physical Appearance Prompt Style 4 — Himari
 
-Himari is a slender girl with long, flowing orange hair, parted bangs, and large sunflower clips, and warm amber eyes. Her animal features include large, wide-based orange fox ears and a thick, fluffy orange fox tail ending in a white tip. She wears sunflower hair ornaments and an orange back ribbon. Her outfit is a yellow suspender skirt with sunflower embroidery layered over a ruffled white blouse, ruffled white bloomers, cream knee-high socks with orange ribbons, and cream lace-up ankle boots with sunflower accents. Her expression is a joyful open-mouthed smile with both hands raised playfully in curled paw gestures.
+ 1. Base Anatomy: Himari is a slender girl. Warm amber eyes. Her expression is a joyful open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing orange hair, parted bangs, and large sunflower clips. She wears sunflower hair ornaments and an orange back ribbon.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based orange fox ears and a thick, fluffy orange fox tail ending in a white tip.
+
+ 4. Upper Body: A ruffled white blouse.
+
+ 5. Lower Body & Feet: Her outfit is a yellow suspender skirt with sunflower embroidery layered over a ruffled white blouse, ruffled white bloomers, cream knee-high socks with orange ribbons, and cream lace-up ankle boots with sunflower accents.
+
+ 6. Pose: With both hands raised playfully in curled paw gestures.
 
 Physical Appearance Prompt Style 4b — Himari
 
-Himari is a slender girl with bright amber eyes and long, wavy light orange hair adorned with a prominent sunflower hairpin cluster on the left side. Based on fox logic, she sports large, wide-based orange ears with white inner fluff and a thick, bushy orange tail that gradients to a soft white tip. She wears a white short-sleeved blouse with ruffled cuffs and a small sunflower ribbon tie at the collar, neatly tucked into a light orange pleated suspender skirt. The skirt features a central orange waist bow, sunflower embroidery near the hemline, and a white scalloped underskirt layer revealing ruffled white bloomers beneath, finished with a large orange bow tied at the lower back. Her legwear includes cream-colored knee-high socks accented with small sunflower ribbons, paired with cream-colored lace-up heeled ankle boots detailed with matching sunflower charms. She exhibits an energetic, open-mouthed smile, posing playfully with both hands raised into soft, curled paw gestures.
+ 1. Base Anatomy: Himari is a slender girl. Bright amber eyes. She exhibits an energetic, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light orange hair adorned with a prominent sunflower hairpin cluster on the left side.
+
+ 3. Species Traits: Fox Logic — Based on fox logic, she sports large, wide-based orange ears with white inner fluff and a thick, bushy orange tail that gradients to a soft white tip.
+
+ 4. Upper Body: She wears a white short-sleeved blouse with ruffled cuffs and a small sunflower ribbon tie at the collar.
+
+ 5. Lower Body & Feet: Neatly tucked into a light orange pleated suspender skirt. The skirt features a central orange waist bow, sunflower embroidery near the hemline, and a white scalloped underskirt layer revealing ruffled white bloomers beneath, finished with a large orange bow tied at the lower back. Her legwear includes cream-colored knee-high socks accented with small sunflower ribbons, paired with cream-colored lace-up heeled ankle boots detailed with matching sunflower charms.
+
+ 6. Pose: Posing playfully with both hands raised into soft, curled paw gestures.
 
 ---
 
@@ -3359,67 +4670,227 @@ Shiroha is a silver-white fox girl with a genuinely warm heart that she repeated
 
 Physical Appearance Prompt Style 1 — Shiroha
 
-Shiroha is a petite, slender girl with very long, silky silver-white hair that falls well past her waist in smooth layers, styled with a heavy side-swept fringe covering left eye and a few small gold hairpins securing the bangs, and one visible vivid blue eye with a bright, gentle expression. Her animal features include large, wide-based white fox ears with soft pale inner fur and one thick, fluffy white fox tail with subtle cream shading that fans outward behind her. She wears an elaborate white floral hair arrangement with gold bead chains and tassels, a white-and-gold choker with a crescent pendant, and multiple fine cords, bows, tassels, and moon-themed charms. Her outfit is an elegant white kimono-inspired mini dress with an off-the-shoulder neckline, long draped sleeves, delicate gold floral embroidery, pale gray-lavender panels, and a wide slate-gray obi-style sash tied with an ornate bow and flower ornament, paired with a decorative white thigh garter with gold chains and ribbon ties, otherwise bare legs, and white heeled ankle boots with folded cuffs, gold piping, tassels, and bow details. Her expression is an open-mouthed, softly delighted smile with both hands held delicately near her chest in a restrained paw pose.
+ 1. Base Anatomy: Shiroha is a petite, slender girl. One visible vivid blue eye with a bright, gentle expression. Her expression is an open-mouthed, softly delighted smile.
+
+ 2. Hair & Head: Very long, silky silver-white hair that falls well past her waist in smooth layers, styled with a heavy side-swept fringe covering left eye and a few small gold hairpins securing the bangs.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears with soft pale inner fur and one thick, fluffy white fox tail with subtle cream shading that fans outward behind her.
+
+ 4. Upper Body: She wears an elaborate white floral hair arrangement with gold bead chains and tassels, a white-and-gold choker with a crescent pendant, and multiple fine cords, bows, tassels, and moon-themed charms. Her outfit is an elegant white kimono-inspired mini dress with an off-the-shoulder neckline, long draped sleeves, delicate gold floral embroidery, pale gray-lavender panels, and a wide slate-gray obi-style sash tied with an ornate bow and flower ornament.
+
+ 5. Lower Body & Feet: Paired with a decorative white thigh garter with gold chains and ribbon ties, otherwise bare legs, and white heeled ankle boots with folded cuffs, gold piping, tassels, and bow details.
+
+ 6. Pose: With both hands held delicately near her chest in a restrained paw pose.
 
 Physical Appearance Prompt Style 1b — Shiroha
 
-Shiroha is a slim, elegant girl with one clearly visible brilliant cyan-blue eye held in a gentle, joyful gaze while the opposite eye is concealed beneath heavy side-swept bangs; her extraordinarily long snow-white hair falls in smooth, softly waved layers past her waist with cool silver-lavender shading, two small gold hairpins, and an elaborate white floral headpiece accented by gold sprigs, bead chains, and hanging tassels. She has large, wide-based white fox ears with pale gray outer shading and soft pink-white inner tufts, together with one thick, luxurious white tail whose fluffy fur carries faint warm cream and silver undertones. A pale gray-white choker with a gold setting and crescent-like pendant rests above a white kimono-inspired wrap bodice patterned with fine gold florals, accompanied by off-shoulder fittings and dramatically long detached bell sleeves edged in gold and gray, embroidered with botanical motifs, and hung with cords, beads, and tassels. A broad slate-gray obi-style waist sash is fastened by ornate gold cordwork, a central white blossom, and layered bows, leading into a short white layered skirt with pale-gray panels, a ruffled hem, and long asymmetric draped side panels bearing gold floral linework and crescent-moon motifs. Her mostly bare legs are accented by a delicate white-and-gray floral thigh garter with ribbon cords and dangling gold ornaments. White heeled ankle boots have sculpted folded cuffs, large gray-white bows, gold trim, floral knots, and fine tassel charms. She finishes with a cheerful open-mouthed smile, standing directly forward with her feet slightly apart and both elbows bent as her lightly curled hands are held close to the upper bodice in a soft, demure paw-like gesture.
+ 1. Base Anatomy: Shiroha is a slim, elegant girl. One clearly visible brilliant cyan-blue eye held in a gentle, joyful gaze while the opposite eye is concealed beneath heavy side-swept bangs. She finishes with a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Her extraordinarily long snow-white hair falls in smooth, softly waved layers past her waist with cool silver-lavender shading, two small gold hairpins, and an elaborate white floral headpiece accented by gold sprigs, bead chains, and hanging tassels.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based white fox ears with pale gray outer shading and soft pink-white inner tufts, together with one thick, luxurious white tail whose fluffy fur carries faint warm cream and silver undertones.
+
+ 4. Upper Body: A pale gray-white choker with a gold setting and crescent-like pendant rests above a white kimono-inspired wrap bodice patterned with fine gold florals, accompanied by off-shoulder fittings and dramatically long detached bell sleeves edged in gold and gray, embroidered with botanical motifs, and hung with cords, beads, and tassels.
+
+ 5. Lower Body & Feet: A broad slate-gray obi-style waist sash is fastened by ornate gold cordwork, a central white blossom, and layered bows, leading into a short white layered skirt with pale-gray panels, a ruffled hem, and long asymmetric draped side panels bearing gold floral linework and crescent-moon motifs. Her mostly bare legs are accented by a delicate white-and-gray floral thigh garter with ribbon cords and dangling gold ornaments. White heeled ankle boots have sculpted folded cuffs, large gray-white bows, gold trim, floral knots, and fine tassel charms.
+
+ 6. Pose: Standing directly forward with her feet slightly apart and both elbows bent as her lightly curled hands are held close to the upper bodice in a soft, demure paw-like gesture.
 
 Physical Appearance Prompt Style 1c — Shiroha
 
-Shiroha has a slender, elegant build, one visible icy blue eye, and a small, cheerful open smile that softens her refined silhouette. Her hair is very long, silky, and white with a faint pearly sheen, falling in loose waves to her thighs, with heavy bangs sweeping across and fully covering one eye, a small gold hairpin on one side, and a floral arrangement of white blossoms and dangling ornaments framing the other side. She has tall pale ears with soft blush-gray shading and a large, luxurious white tail with a full plume. Her upper body is wrapped in a kimono-inspired layered ensemble made from a fitted off-shoulder inner dress in white and cool pale gray, cinched by a wide obi-like sash adorned with flowers, cords, tassels, and crescent-moon ornaments, while long flowing detached sleeve-panels drape from her arms and trail downward with floral patterns and gold edging. Below, the outfit shortens into a structured mini-length skirt with pleated white layers, a decorative garter and ribbon around one thigh, and white heeled ankle boots covered in bows, tassels, and flower clusters. In the front view she stands square to the viewer with her hands held delicately near her collar and upper sleeves, lightly gripping the fabric as if gathering it toward her chest.
+ 1. Base Anatomy: Shiroha has a slender, elegant build. One visible icy blue eye, and a small, cheerful open smile that softens her refined silhouette.
+
+ 2. Hair & Head: Her hair is very long, silky, and white with a faint pearly sheen, falling in loose waves to her thighs, with heavy bangs sweeping across and fully covering one eye, a small gold hairpin on one side, and a floral arrangement of white blossoms and dangling ornaments framing the other side.
+
+ 3. Species Traits: Fox Logic — She has tall pale ears with soft blush-gray shading and a large, luxurious white tail with a full plume.
+
+ 4. Upper Body: Her upper body is wrapped in a kimono-inspired layered ensemble made from a fitted off-shoulder inner dress in white and cool pale gray, cinched by a wide obi-like sash adorned with flowers, cords, tassels, and crescent-moon ornaments, while long flowing detached sleeve-panels drape from her arms and trail downward with floral patterns and gold edging.
+
+ 5. Lower Body & Feet: Below, the outfit shortens into a structured mini-length skirt with pleated white layers, a decorative garter and ribbon around one thigh, and white heeled ankle boots covered in bows, tassels, and flower clusters.
+
+ 6. Pose: In the front view she stands square to the viewer with her hands held delicately near her collar and upper sleeves, lightly gripping the fabric as if gathering it toward her chest.
 
 Physical Appearance Prompt Style 2 — Shiroha
 
-Shiroha is a graceful, softly curvaceous girl with floor-length silky white hair that drapes straight and smooth, its long sweeping bangs veiling her right eye and pinned with small golden clips beside a white flower ornament hung with golden bead tassels, and her single visible eye is a clear sapphire blue above a happy open smile. Her animal features include tall, broad-based snowy ears lined with dense white fluff and one grand, thick, luxuriously fluffy cream-white tail that plumes out behind her like a soft cloud. She wears a white standing collar-choker holding a round golden pendant at her throat and a sheer ribbon garter with pearl and tassel drops on her left thigh. Her outfit is a white kimono-style halter minidress with a gold-trimmed crossover bodice and bared shoulders, layered with detached wide sleeves and a long, sheer white outer robe patterned in golden florals and crescent moons that falls past her knees with tasseled edges, cinched by a slate-black obi sash bound in golden cords and centered on a white flower knot with trailing ribbons, its short skirt ending in white frills over bare legs, and finished with white heeled ankle boots wrapped in oversized white-and-gold bows with hanging tassels; the patterning is purely ornamental, with no written characters. Her expression is a radiant open-mouthed smile, and she stands with both hands raised in gentle fists held close to her collarbone in a paw pose.
+ 1. Base Anatomy: Shiroha is a graceful, softly curvaceous girl. Single visible eye is a clear sapphire blue above a happy open smile. Her expression is a radiant open-mouthed smile,.
+
+ 2. Hair & Head: Floor-length silky white hair that drapes straight and smooth, its long sweeping bangs veiling her right eye and pinned with small golden clips beside a white flower ornament hung with golden bead tassels.
+
+ 3. Species Traits: Fox Logic — Her animal features include tall, broad-based snowy ears lined with dense white fluff and one grand, thick, luxuriously fluffy cream-white tail that plumes out behind her like a soft cloud.
+
+ 4. Upper Body: She wears a white standing collar-choker holding a round golden pendant at her throat and a sheer ribbon. Her outfit is a white kimono-style halter minidress with a gold-trimmed crossover bodice and bared shoulders, layered with detached wide sleeves and a long, sheer white outer robe patterned in golden florals and crescent moons that falls past her knees with tasseled edges, cinched by a slate-black obi sash bound in golden cords and centered on a white flower knot with trailing ribbons.
+
+ 5. Lower Body & Feet: Garter with pearl and tassel drops on her left thigh. Its short skirt ending in white frills over bare legs, and finished with white heeled ankle boots wrapped in oversized white-and-gold bows with hanging tassels; the patterning is purely ornamental, with no written characters.
+
+ 6. Pose: She stands with both hands raised in gentle fists held close to her collarbone in a paw pose.
 
 Physical Appearance Prompt Style 2b — Shiroha
 
-Shiroha has a graceful, womanly build with fair skin, clear sapphire-blue eyes, and a joyful open smile. Her snow-white hair falls long and sleek past her waist, with heavy bangs sweeping completely over her right eye, gold x-shaped hairpins at the fringe, a white flower ornament dripping golden bead strands at her temple, and a white tasseled bow nestled at the back of her head. Large white ears with feathery inner fur stand broad atop her head, and a single immense, cloud-like white tail plumes out behind her. A high white collar circled with a golden ring pendant sits at her throat, above a white kimono-style minidress with a gold-trimmed crossover bodice, bared shoulders, and detached, voluminous white sleeves gathered by ribbon ties, all cinched with a charcoal-gray obi sash wrapped in gold cords and centered on a white flower knot; over this drape long, sheer white side panels edged in gold, patterned with delicate floral filigree and golden crescent moons, and weighted with tassels, while the skirt ends in a short white frilled hem; the garment bears no written text. A ribbon garter with hanging tassels wraps her left thigh, and her feet are set in white heeled ankle boots trimmed with gold-edged bows and dangling tassels. She poses with both hands raised as soft fists in a paw pose before her chest.
+ 1. Base Anatomy: Shiroha has a graceful, womanly build with fair skin. Clear sapphire-blue eyes, and a joyful open smile.
+
+ 2. Hair & Head: Her snow-white hair falls long and sleek past her waist, with heavy bangs sweeping completely over her right eye, gold x-shaped hairpins at the fringe, a white flower ornament dripping golden bead strands at her temple, and a white tasseled bow nestled at the back of her head.
+
+ 3. Species Traits: Fox Logic — Large white ears with feathery inner fur stand broad atop her head, and a single immense, cloud-like white tail plumes out behind her.
+
+ 4. Upper Body: A high white collar circled with a golden ring pendant sits at her throat, above a white kimono-style minidress with a gold-trimmed crossover bodice, bared shoulders, and detached, voluminous white sleeves gathered by ribbon ties, all cinched with a charcoal-gray obi sash wrapped in gold cords and centered on a white flower knot; over this drape long, sheer white side panels edged in gold, patterned with delicate floral filigree and golden crescent moons, and weighted with tassels.
+
+ 5. Lower Body & Feet: The skirt ends in a short white frilled hem; the garment bears no written text. A ribbon garter with hanging tassels wraps her left thigh, and her feet are set in white heeled ankle boots trimmed with gold-edged bows and dangling tassels.
+
+ 6. Pose: She poses with both hands raised as soft fists in a paw pose before her chest.
 
 Physical Appearance Prompt Style 3 — Shiroha
 
-Shiroha is slender with long, flowing silver-white hair styled with straight bangs, a deep fringe sweeping over left eye and loose strands framing her face, and a beautiful arrangement of white cosmos flowers, golden ornaments, and dangling tassels on the left side of her head, and deep blue eyes with a serene yet cheerful expression. Her animal features include large, wide-based white fox ears with soft inner fur and a thick, bushy, fluffy white fox tail. She wears a golden choker with a heart pendant, a detailed blue and gold obi belt with a central white flower, and a white thigh garter with a gold crescent moon charm on her left leg. Her outfit is a white traditional kimono-style dress with elegant gold floral embroidery and wide, trailing sleeves that feature a gold crescent moon pattern near the hem, a multi-layered white pleated underskirt with a fine ruffled edge, bare legs, and white ankle boots with chunky heels, decorated with prominent gold ribbons, bows, and dangling beads. Her expression is a bright, friendly smile with her hands held up to her chest, curled slightly inward in a gentle gesture.
+ 1. Base Anatomy: Shiroha is slender. Deep blue eyes with a serene yet cheerful expression. Her expression is a bright, friendly smile.
+
+ 2. Hair & Head: Long, flowing silver-white hair styled with straight bangs, a deep fringe sweeping over left eye and loose strands framing her face, and a beautiful arrangement of white cosmos flowers, golden ornaments, and dangling tassels on the left side of her head.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears with soft inner fur and a thick, bushy, fluffy white fox tail.
+
+ 4. Upper Body: She wears a golden choker with a heart pendant. Her outfit is a white traditional kimono-style dress with elegant gold floral embroidery and wide, trailing sleeves that feature a gold crescent moon pattern near the hem, a multi-layered white pleated underskirt with a fine ruffled edge, bare legs.
+
+ 5. Lower Body & Feet: A detailed blue and gold obi belt with a central white flower, and a white thigh garter with a gold crescent moon charm on her left leg. White ankle boots with chunky heels, decorated with prominent gold ribbons, bows, and dangling beads.
+
+ 6. Pose: With her hands held up to her chest, curled slightly inward in a gentle gesture.
 
 Physical Appearance Prompt Style 4 — Shiroha
 
-Shiroha is a petite girl with extremely long, straight white hair, blunt bangs, and elaborate white floral clips, and striking blue eyes. Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail. She wears a gold moon choker, tassel hairpieces, and a large white back bow. Her outfit is a white off-the-shoulder kimono-style top with wide sleeves and subtle moon patterns layered over a navy blue obi sash and a white mini skirt, a single white thigh garter, and white heeled ankle boots with gold accents. Her expression is a soft open-mouthed smile with both hands gently curled into delicate paw poses.
+ 1. Base Anatomy: Shiroha is a petite girl. Striking blue eyes. Her expression is a soft open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, straight white hair, blunt bangs, and elaborate white floral clips. She wears a gold moon choker, tassel hairpieces.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail.
+
+ 4. Upper Body: She wears a gold moon choker, tassel hairpieces, and a large white back bow. Her outfit is a white off-the-shoulder kimono-style top with wide sleeves and subtle moon patterns layered over a navy blue obi sash and a white mini.
+
+ 5. Lower Body & Feet: Skirt, a single white thigh garter, and white heeled ankle boots with gold accents.
+
+ 6. Pose: With both hands gently curled into delicate paw poses.
 
 Physical Appearance Prompt Style 4b — Shiroha
 
-Shiroha has a slender, elegant build, striking bright blue eyes, and exceptionally long, flowing pure white hair styled with intricate white floral hairpieces and dangling gold tassels on her left side. Adhering to fox logic, she features large, wide-based white ears and an incredibly thick, bushy pure white tail. Her accessories include a white choker with a gold crescent moon pendant, complementing a beautiful white, short-cut kimono-style dress heavily detailed with gold floral and crescent moon patterns. The dress features off-the-shoulder draped, wide kimono sleeves and is cinched at the waist by a contrasting dark blue obi sash tied with gold cords and a large back bow. She leaves her legs mostly bare save for a delicate, strappy white garter with gold tassels on her left thigh, finishing the ensemble with white heeled ankle boots adorned with gold trim, prominent white ribbon bows, and hanging pearl-like charms. She displays a gentle, open-mouthed smile, posing sweetly with both hands curled into small, soft paw gestures near her collarbone.
+ 1. Base Anatomy: Shiroha has a slender, elegant build. Striking bright blue eyes. She displays a gentle, open-mouthed smile.
+
+ 2. Hair & Head: Exceptionally long, flowing pure white hair styled with intricate white floral hairpieces and dangling gold tassels on her left side.
+
+ 3. Species Traits: Fox Logic — Adhering to fox logic, she features large, wide-based white ears and an incredibly thick, bushy pure white tail.
+
+ 4. Upper Body: Her accessories include a white choker with a gold crescent moon pendant, complementing a beautiful white, short-cut kimono-style dress heavily detailed with gold floral and crescent moon patterns. The dress features off-the-shoulder draped.
+
+ 5. Lower Body & Feet: Wide kimono sleeves and is cinched at the waist by a contrasting dark blue obi sash tied with gold cords and a large back bow. She leaves her legs mostly bare save for a delicate, strappy white garter with gold tassels on her left thigh, finishing the ensemble with white heeled ankle boots adorned with gold trim, prominent white ribbon bows, and hanging pearl-like charms.
+
+ 6. Pose: Posing sweetly with both hands curled into small, soft paw gestures near her collarbone.
 
 Physical Appearance Prompt Style 1 — Shiroha Alt Style 1
 
-Shiroha is a petite, slender girl with extremely long, silky silver-white hair that falls past her waist in smooth, softly layered waves, styled with a heavy side-swept fringe that completely covers left eye and a small gold hairpin near the temple, and one visible vivid blue eye with a bright, gentle expression. Her animal features include large, wide-based white fox ears with soft pale-gray inner fur and one thick, luxuriantly bushy white fox tail that extends from the base of her spine, curves outward behind her, and carries faint cool-gray shading through the inner layers without a sharply contrasting tip. She wears a large white flower hairpiece with gold-edged petals, bead chains, tassels, and small bow ornaments, a narrow white-and-gold choker with a crescent-moon pendant, and numerous coordinated crescent, fox-mask, flower, bow, cord, and tassel accessories. Her outfit is an elegant white kimono-inspired mini dress with pale gray-blue panels, subtle botanical patterns, fine gold piping, wide draped sleeves, crescent-moon appliqués, and a fitted obi-style waist panel secured with a structured white-and-gold bow, layered over a short pleated skirt with a ruffled hem and finished with hanging fox-mask and tassel charms, paired with short white socks decorated with tiny gold motifs and white heeled ankle boots featuring folded kimono-like cuffs, gold trim, crescent emblems, bows, and tassels. Her expression is a delighted open-mouthed smile with both hands raised close to her chest, fingers gently curled into a restrained double paw pose.
+ 1. Base Anatomy: Shiroha is a petite, slender girl. One visible vivid blue eye with a bright, gentle expression. Her expression is a delighted open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, silky silver-white hair that falls past her waist in smooth, softly layered waves, styled with a heavy side-swept fringe that completely covers left eye and a small gold hairpin near the temple. She wears a large white flower hairpiece with gold-edged petals.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears with soft pale-gray inner fur and one thick, luxuriantly bushy white fox tail that extends from the base of her spine, curves outward behind her, and carries faint cool-gray shading through the inner layers without a sharply contrasting tip.
+
+ 4. Upper Body: She wears a large white flower hairpiece with gold-edged petals, bead chains, tassels, and small bow ornaments, a narrow white-and-gold choker with a crescent-moon pendant, and numerous coordinated crescent, fox-mask, flower, bow, cord, and tassel accessories. Her outfit is an elegant white kimono-inspired mini dress with pale gray-blue panels, subtle botanical patterns, fine gold piping, wide draped sleeves, crescent-moon appliqués.
+
+ 5. Lower Body & Feet: A fitted obi-style waist panel secured with a structured white-and-gold bow, layered over a short pleated skirt with a ruffled hem and finished with hanging fox-mask and tassel charms, paired with short white socks decorated with tiny gold motifs and white heeled ankle boots featuring folded kimono-like cuffs, gold trim, crescent emblems, bows, and tassels.
+
+ 6. Pose: With both hands raised close to her chest, fingers gently curled into a restrained double paw pose.
 
 Physical Appearance Prompt Style 1b — Shiroha Alt Style 1
 
-Shiroha is a slim, delicate girl with one visible bright cyan-blue eye and a sweet, cheerful expression, while her other eye is covered by long side-swept bangs; her hair is very long, silky, and softly wavy, colored snowy white with a faint silvery-lavender cast, and adorned with a white floral clip, gold pins, and dangling tassel ornaments. She has large, wide-based white fox ears with pale pink-white inner fur and one thick, luxurious white fox tail that fans out behind her. She wears a white choker with a gold crescent motif and a matching crescent pendant over a pale silver-white kimono-inspired dress with subtle floral patterning, gold trim, long flowing sleeves, and crescent-and-tassel ornaments hanging from the cuffs and hem, along with a decorative waist bow and a small fox charm tied at the front. The lower half is a short layered skirt in pale silver-lilac with ruffled hems, and her bare legs are paired with white ankle socks and white heeled boots trimmed in gold, decorated with bows, tassels, and crescent emblems. She ends with an open-mouthed smile, standing front-facing with both elbows bent and both hands lifted near her chest in a shy, symmetrical paw-like pose.
+ 1. Base Anatomy: Shiroha is a slim, delicate girl. One visible bright cyan-blue eye and a sweet, cheerful expression, while her other eye is covered by long side-swept bangs. She ends with an open-mouthed smile.
+
+ 2. Hair & Head: Her hair is very long, silky, and softly wavy, colored snowy white with a faint silvery-lavender cast, and adorned with a white floral clip, gold pins, and dangling tassel ornaments.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based white fox ears with pale pink-white inner fur and one thick, luxurious white fox tail that fans out behind her.
+
+ 4. Upper Body: She wears a white choker with a gold crescent motif and a matching crescent pendant over a pale silver-white kimono-inspired dress with subtle floral patterning, gold trim, long flowing sleeves, and crescent-and-tassel ornaments hanging from the cuffs and hem.
+
+ 5. Lower Body & Feet: Along with a decorative waist bow and a small fox charm tied at the front. The lower half is a short layered skirt in pale silver-lilac with ruffled hems, and her bare legs are paired with white ankle socks and white heeled boots trimmed in gold, decorated with bows, tassels, and crescent emblems.
+
+ 6. Pose: Standing front-facing with both elbows bent and both hands lifted near her chest in a shy, symmetrical paw-like pose.
 
 Physical Appearance Prompt Style 1c — Shiroha Alt Style 1
 
-Shiroha has a delicate, graceful build, luminous light blue eyes, and a bright open smile that gives her an airy, ceremonial elegance. Her hair is very long, smooth, and full, in snowy white with faint silver shading, styled with a thick side fringe that veils her left eye, crossed gold hairpins at the front, and layered white blossoms with gold tassels beside her right ear. Her ears rise high and wide with soft inner fur, and her tail is broad, plush, and cloudlike, matching her white hair with a soft silvery sheen. Under her outer layers she wears a white cross-wrapped bodice with pale silver floral patterning and gold piping, accented by crescent moon ornaments at the collar and chest, then a short kimono-inspired overskirt and long draped sleeves lined with the same silver floral jacquard, gathered by a central bow at the waist and a hanging fox-mask charm tied at one side; there is no visible text, only moon, floral, and tassel motifs throughout. Below, she has a short layered skirt with a ruffled underskirt, bare legs, white socks, and white heeled ankle boots decorated with bows, tassels, stars, and crescent moon emblems. She stands upright and facing forward with both elbows bent, both hands lifted in front of her chest in small loose fists, and her feet aligned neatly under her.
+ 1. Base Anatomy: Shiroha has a delicate, graceful build. Luminous light blue eyes, and a bright open smile that gives her an airy, ceremonial elegance.
+
+ 2. Hair & Head: Her hair is very long, smooth, and full, in snowy white with faint silver shading, styled with a thick side fringe that veils her left eye, crossed gold hairpins at the front, and layered white blossoms with gold tassels beside her right ear.
+
+ 3. Species Traits: Fox Logic — Her ears rise high and wide with soft inner fur, and her tail is broad, plush, and cloudlike, matching her white hair with a soft silvery sheen.
+
+ 4. Upper Body: Under her outer layers she wears a white cross-wrapped bodice with pale silver floral patterning and gold piping, accented by crescent moon ornaments at the collar and chest.
+
+ 5. Lower Body & Feet: Then a short kimono-inspired overskirt and long draped sleeves lined with the same silver floral jacquard, gathered by a central bow at the waist and a hanging fox-mask charm tied at one side; there is no visible text, only moon, floral, and tassel motifs throughout. Below, she has a short layered skirt with a ruffled underskirt, bare legs, white socks, and white heeled ankle boots decorated with bows, tassels, stars, and crescent moon emblems.
+
+ 6. Pose: She stands upright and facing forward with both elbows bent, both hands lifted in front of her chest in small loose fists, and her feet aligned neatly under her.
 
 Physical Appearance Prompt Style 2 — Shiroha Alt Style 1
 
-Shiroha is a graceful, womanly girl with sleek snow-white hair flowing far past her waist, her heavy bangs swept entirely over her right eye and pinned with golden x-shaped clips beside a white flower ornament trailing gold-tasseled strands, and she has clear sapphire-blue eyes — one hidden beneath the fringe — and a joyful open-mouthed smile. Her animal features include large, wide-based white ears with feathery inner fur, and a single immense, thick and cloud-soft white tail pluming out behind her. She wears a fitted white choker collar accented with a golden crescent moon. Her outfit is a white kimono-style minidress whose gold-trimmed crossover bodice is patterned with crescent moons, layered beneath a long sheer white haori printed with pale botanical leaves, edged in gold, and hung with crescent-and-tassel charms from its wide sleeves, cinched at the waist by a pale silver-white obi tied in a striped ribbon knot from which a white kitsune fox-mask charm dangles on golden cords, and crowned at the back by an enormous white bow with a gilded flower knot, paired with a matching pleated skirt over frilled bloomer ruffles, white crew socks dotted in gold, and white heeled boots wrapped in ribbons with golden crescents, tassels, and a star charm. Her expression is a radiant, open-mouthed smile with both hands raised as soft fists in a double paw pose before her chest.
+ 1. Base Anatomy: Shiroha is a graceful, womanly girl. She has clear sapphire-blue eyes — one hidden beneath the fringe — and a joyful open-mouthed smile. Her expression is a radiant, open-mouthed smile.
+
+ 2. Hair & Head: Sleek snow-white hair flowing far past her waist, her heavy bangs swept entirely over her right eye and pinned with golden x-shaped clips beside a white flower ornament trailing gold-tasseled strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white ears with feathery inner fur, and a single immense, thick and cloud-soft white tail pluming out behind her.
+
+ 4. Upper Body: She wears a fitted white choker collar accented with a golden crescent moon. Her outfit is a white kimono-style minidress whose gold-trimmed crossover bodice is patterned with crescent moons, layered beneath a long sheer white haori printed with pale botanical leaves, edged in gold, and hung with crescent-and-tassel charms from its wide sleeves.
+
+ 5. Lower Body & Feet: Cinched at the waist by a pale silver-white obi tied in a striped ribbon knot from which a white kitsune fox-mask charm dangles on golden cords, and crowned at the back by an enormous white bow with a gilded flower knot, paired with a matching pleated skirt over frilled bloomer ruffles, white crew socks dotted in gold, and white heeled boots wrapped in ribbons with golden crescents, tassels, and a star charm.
+
+ 6. Pose: With both hands raised as soft fists in a double paw pose before her chest.
 
 Physical Appearance Prompt Style 2b — Shiroha Alt Style 1
 
-Shiroha has a slender, graceful build with fair skin, clear sapphire-blue eyes, and a joyful open smile. Her silver-white hair falls long and sleek past her waist, with heavy bangs sweeping over her right eye, small gold x-shaped pins at the fringe, and a white flower ornament trailing golden bead tassels at her temple. Large white ears with feathery inner fur stand broad atop her head, and a single immense, cloud-like white tail plumes out behind her. A white choker collar marked with a golden crescent moon circles her throat, above a white kimono-style dress whose gold-trimmed crossover bodice is scattered with golden crescents and tied at the chest with a striped silver bow; over it drapes a translucent white haori-style layer patterned with silvery leaves and botanical filigree, its wide sleeves edged in gold and hung with crescent-moon and tassel charms, while a pale gray obi-style waistband carries a white kitsune fox-mask charm suspended from knotted golden cords, and the garments bear decorative motifs only, with no written text. Her layered silver-white pleated skirt falls over soft white frills, flanked by long sheer side panels traced with leaf patterns and a faint white fox silhouette, weighted with golden crescents and tassels. Her feet are dressed in white gold-dotted socks and white heeled boots with fold-over cuffs, ribbon ties, and small crescent and star accents. She poses with both hands raised as soft fists in a paw pose before her chest.
+ 1. Base Anatomy: Shiroha has a slender, graceful build with fair skin. Clear sapphire-blue eyes, and a joyful open smile.
+
+ 2. Hair & Head: Her silver-white hair falls long and sleek past her waist, with heavy bangs sweeping over her right eye, small gold x-shaped pins at the fringe, and a white flower ornament trailing golden bead tassels at her temple.
+
+ 3. Species Traits: Fox Logic — Large white ears with feathery inner fur stand broad atop her head, and a single immense, cloud-like white tail plumes out behind her.
+
+ 4. Upper Body: A white choker collar marked with a golden crescent moon circles her throat, above a white kimono-style dress whose gold-trimmed crossover bodice is scattered with golden crescents and tied at the chest with a striped silver bow; over it drapes a translucent white haori-style layer patterned with silvery leaves and botanical filigree, its wide sleeves edged in gold and hung with crescent-moon and tassel charms, while a pale gray obi-style waistband carries a white kitsune fox-mask charm suspended from knotted golden cords, and the garments bear decorative motifs only, with no written text.
+
+ 5. Lower Body & Feet: Her layered silver-white pleated skirt falls over soft white frills, flanked by long sheer side panels traced with leaf patterns and a faint white fox silhouette, weighted with golden crescents and tassels. Her feet are dressed in white gold-dotted socks and white heeled boots with fold-over cuffs, ribbon ties, and small crescent and star accents.
+
+ 6. Pose: She poses with both hands raised as soft fists in a paw pose before her chest.
 
 Physical Appearance Prompt Style 3 — Shiroha Alt Style 1
 
-Shiroha is slender with long, flowing silver-white hair styled with a neat fringe, a deep fringe sweeping over left eye, and a cluster of white flowers with gold ornaments and dangling tassels on the left side, and bright blue eyes. Her animal features include large, wide-based white fox ears with soft inner fur and a thick, bushy, fluffy white fox tail. She wears a white choker with a gold crescent moon pendant, a gold-rimmed white floral obi bow at the back of her waist, and a miniature white kitsune mask accessory hanging from her hip sash. Her outfit is a white traditional kimono-style dress featuring silver floral patterns and wide, trailing sleeves with gold crescent moon accents with a multi-layered white pleated underskirt with a fine ruffled edge, bare legs, and white ankle boots with low chunky heels, decorated with gold bows, ribbons, and a gold crescent moon emblem on the toe. Her expression is a gentle, bright open-mouthed smile with both hands lifted to her chest, curled inward in a cute double paw gesture.
+ 1. Base Anatomy: Shiroha is slender. Bright blue eyes. Her expression is a gentle, bright open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing silver-white hair styled with a neat fringe, a deep fringe sweeping over left eye, and a cluster of white flowers with gold ornaments and dangling tassels on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears with soft inner fur and a thick, bushy, fluffy white fox tail.
+
+ 4. Upper Body: She wears a white choker with a gold crescent moon pendant. Her outfit is a white traditional kimono-style dress featuring silver floral patterns and wide, trailing sleeves with gold crescent moon accents with a multi-layered white pleated underskirt with a fine ruffled edge, bare legs.
+
+ 5. Lower Body & Feet: A gold-rimmed white floral obi bow at the back of her waist, and a miniature white kitsune mask accessory hanging from her hip sash. White ankle boots with low chunky heels, decorated with gold bows, ribbons, and a gold crescent moon emblem on the toe.
+
+ 6. Pose: With both hands lifted to her chest, curled inward in a cute double paw gesture.
 
 Physical Appearance Prompt Style 4 — Shiroha Alt Style 1
 
-Shiroha is a petite girl with extremely long, straight white hair, blunt bangs, and elaborate white floral clips, and striking blue eyes. Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail. She wears a delicate gold crescent moon choker and hanging tassel ornaments. Her outfit is a white off-the-shoulder kimono-style jacket with subtle leaf patterns layered over a white mini skirt with gold accents, white thigh-high socks, and white heeled ankle boots adorned with gold moon charms and ribbons. Her expression is a sweet open-mouthed smile with both hands gently curled into delicate paw poses near her chest.
+ 1. Base Anatomy: Shiroha is a petite girl. Striking blue eyes. Her expression is a sweet open-mouthed smile.
+
+ 2. Hair & Head: Extremely long, straight white hair, blunt bangs, and elaborate white floral clips.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail.
+
+ 4. Upper Body: She wears a delicate gold crescent moon choker and hanging tassel ornaments. Her outfit is a white off-the-shoulder kimono-style jacket with subtle leaf patterns layered over a white mini.
+
+ 5. Lower Body & Feet: Skirt with gold accents, white thigh-high socks, and white heeled ankle boots adorned with gold moon charms and ribbons.
+
+ 6. Pose: With both hands gently curled into delicate paw poses near her chest.
 
 Physical Appearance Prompt Style 4b — Shiroha Alt Style 1
 
-Shiroha is a slender young girl with bright blue eyes and long, flowing pure white hair beautifully adorned with a cluster of delicate white flowers and dangling gold tassels on her left side. Following fox logic, she features large, wide-based white ears with pink inner fluff and a gorgeously thick, bushy pure white tail. She wears a thin gold choker with a crescent moon pendant, layered over a white kimono-style dress decorated with subtle floral and leaf patterns, featuring a wide matching obi sash tied with a beautiful gold floral knot on the back. Over this, she wears a loose, ethereal white haori jacket with draped wide sleeves, adorned with gold crescent moons, star motifs, hanging gold tassels, and a white fox mask charm tied at her left waist, accompanied by a long trailing ribbon on the back illustrating a delicate white fox. Her legwear consists of simple white ankle socks tucked into white heeled ankle boots, heavily detailed with gold crescent moon accents, matching trim, hanging star charms, and elegant ribbon bows on the back heels. She displays a cheerful, open-mouthed smile, posing playfully with both hands raised into soft, curled paw gestures near her chest.
+ 1. Base Anatomy: Shiroha is a slender young girl. Bright blue eyes. She displays a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing pure white hair beautifully adorned with a cluster of delicate white flowers and dangling gold tassels on her left side.
+
+ 3. Species Traits: Fox Logic — Following fox logic, she features large, wide-based white ears with pink inner fluff and a gorgeously thick, bushy pure white tail.
+
+ 4. Upper Body: She wears a thin gold choker with a crescent moon pendant, layered over a white kimono-style dress decorated with subtle floral and leaf patterns, featuring a wide matching obi sash tied with a beautiful gold floral knot on the back. Over this, she wears a loose, ethereal white haori jacket with draped wide sleeves, adorned with gold crescent moons, star motifs, hanging gold tassels.
+
+ 5. Lower Body & Feet: A white fox mask charm tied at her left waist, accompanied by a long trailing ribbon on the back illustrating a delicate white fox. Her legwear consists of simple white ankle socks tucked into white heeled ankle boots, heavily detailed with gold crescent moon accents, matching trim, hanging star charms, and elegant ribbon bows on the back heels.
+
+ 6. Pose: Posing playfully with both hands raised into soft, curled paw gestures near her chest.
 
 ---
 
@@ -3621,35 +5092,115 @@ Sakumi is a gentle, sakura-pink fox girl whose affection develops gradually, dee
 
 Physical Appearance Prompt Style 1 — Sakumi
 
-Sakumi is a petite, slim girl with very long, softly wavy rose-pink hair that falls past her waist with warm coral undertones through the lengths, framed by straight bangs and blossom ornaments, and clear blue eyes with an affectionate, upbeat expression. Her animal features include large, wide-based pink fox ears with pale inner fur and one thick, bushy fox tail that blends from warm pink through pale peach into a creamy-white tip, with sakura blossoms clustered near its base. She wears pink cherry-blossom hair ornaments with green leaves, dangling red cherry charms, a black choker with a small gold bell, and coordinated cherry and floral charms at her neckline and waist. Her outfit is a cream cardigan with pink floral embroidery, scalloped trim, and ribbed cuffs layered over a pale blouse tied with a large pink bow and cherry ornament, paired with a high-waisted pink skirt printed with scattered blossoms and finished with a white ruffled hem, sheer black thigh-high stockings patterned with small pink flowers and suspended from delicate garter accents, and pale pink ankle boots with block heels, floral appliqués, and ribbon details. Her expression is a bright open-mouthed smile with both fists raised near her shoulders in a playful double paw pose.
+ 1. Base Anatomy: Sakumi is a petite, slim girl. Clear blue eyes with an affectionate, upbeat expression. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Very long, softly wavy rose-pink hair that falls past her waist with warm coral undertones through the lengths, framed by straight bangs and blossom ornaments. She wears pink cherry-blossom hair ornaments with green leaves.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pink fox ears with pale inner fur and one thick, bushy fox tail that blends from warm pink through pale peach into a creamy-white tip, with sakura blossoms clustered near its base.
+
+ 4. Upper Body: She wears pink cherry-blossom hair ornaments with green leaves, dangling red cherry charms, a black choker with a small gold bell. Her outfit is a cream cardigan with pink floral embroidery, scalloped trim, and ribbed cuffs layered over a pale blouse tied with a large pink bow and cherry ornament.
+
+ 5. Lower Body & Feet: Coordinated cherry and floral charms at her neckline and waist. Paired with a high-waisted pink skirt printed with scattered blossoms and finished with a white ruffled hem, sheer black thigh-high stockings patterned with small pink flowers and suspended from delicate garter accents, and pale pink ankle boots with block heels, floral appliqués, and ribbon details.
+
+ 6. Pose: With both fists raised near her shoulders in a playful double paw pose.
 
 Physical Appearance Prompt Style 1b — Sakumi
 
-Sakumi is a petite, slim girl with clear sky-blue eyes and a sparkling, delighted gaze, framed by very long rose-pink hair that flows past her waist in loose silky waves with rounded layered bangs, a pink cherry-blossom cluster with green leaves and gold hairpins, and a pair of glossy red cherry charms hanging beside her face. She has large, wide-based pink fox ears with pale inner tufts and one exceptionally full, fluffy pink tail that curves behind her and gradually fades through blush peach into a creamy pale tip, with additional blossom decoration near its base. A black choker with a small gold bell sits above a white blouse with a pink ribbon bow, front buttons, delicate cherry-and-blossom accents, and two dangling red cherry ornaments, layered beneath a soft ivory-pink cardigan with balloon sleeves, ribbed cuffs and hem, small pockets, buttons, and scattered sakura appliqués. A slim belt defines the waist of her flared pink miniskirt, which is printed with large pale cherry blossoms, edged with a white ruffled hem, and finished at the back with a broad pink bow centered by a flower. Semi-sheer black thigh-high stockings have scalloped tops and trails of tiny pink blossoms, with slender garter straps and flower charms descending from the skirt hem. Pale blush-pink ankle boots feature low block heels, petal-shaped folded cuffs, floral embroidery, and large blossom-and-ribbon ornaments at the outer ankles. She ends with an exuberant open-mouthed smile, facing directly forward with her feet slightly apart and both fists lifted beside her shoulders in an animated double paw pose.
+ 1. Base Anatomy: Sakumi is a petite, slim girl. Clear sky-blue eyes. She ends with an exuberant open-mouthed smile.
+
+ 2. Hair & Head: A sparkling, delighted gaze, framed by very long rose-pink hair that flows past her waist in loose silky waves with rounded layered bangs, a pink cherry-blossom cluster with green leaves and gold hairpins, and a pair of glossy red cherry charms hanging beside her face.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based pink fox ears with pale inner tufts and one exceptionally full, fluffy pink tail that curves behind her and gradually fades through blush peach into a creamy pale tip, with additional blossom decoration near its base.
+
+ 4. Upper Body: A black choker with a small gold bell sits above a white blouse with a pink ribbon bow, front buttons, delicate cherry-and-blossom accents, and two dangling red cherry ornaments, layered beneath a soft ivory-pink cardigan with balloon sleeves, ribbed cuffs and hem, small pockets, buttons, and scattered sakura appliqués.
+
+ 5. Lower Body & Feet: A slim belt defines the waist of her flared pink miniskirt, which is printed with large pale cherry blossoms, edged with a white ruffled hem, and finished at the back with a broad pink bow centered by a flower. Semi-sheer black thigh-high stockings have scalloped tops and trails of tiny pink blossoms, with slender garter straps and flower charms descending from the skirt hem. Pale blush-pink ankle boots feature low block heels, petal-shaped folded cuffs, floral embroidery, and large blossom-and-ribbon ornaments at the outer ankles.
+
+ 6. Pose: Facing directly forward with her feet slightly apart and both fists lifted beside her shoulders in an animated double paw pose.
 
 Physical Appearance Prompt Style 1b — Sakumi
 
-Sakumi has a petite, softly rounded build, bright sky-blue eyes, and a lively open smile with a cute, slightly mischievous sweetness. Her hair is very long and pastel pink, falling in glossy waves well past her waist, with smooth bangs, two small gold hairpins, and a floral cherry-blossom cluster on one side from which a pair of bright red cherries dangles. She has pink ears with pale inner fur and a plush, oversized tail that blends from candy pink into creamy white. Her upper body starts with a white blouse tied with a pink bow and cherry charm, layered under a blush cardigan decorated with sakura motifs, pockets, and matching trim, along with a black choker carrying a gold bell at the neck. Her lower half features a pink floral skirt with a white ruffled underskirt, sheer black thigh-high stockings scattered with blossom and diamond motifs, a floral garter strap on one leg, and pale pink ankle boots finished with blossoms and ribbon details. In the front pose she faces forward with her feet apart, both forearms lifted, and both hands tucked into a small paw-like pose near her shoulders.
+ 1. Base Anatomy: Sakumi has a petite, softly rounded build. Bright sky-blue eyes, and a lively open smile with a cute, slightly mischievous sweetness.
+
+ 2. Hair & Head: Her hair is very long and pastel pink, falling in glossy waves well past her waist, with smooth bangs, two small gold hairpins, and a floral cherry-blossom cluster on one side from which a pair of bright red cherries dangles.
+
+ 3. Species Traits: Fox Logic — She has pink ears with pale inner fur and a plush, oversized tail that blends from candy pink into creamy white.
+
+ 4. Upper Body: Her upper body starts with a white blouse tied with a pink bow and cherry charm, layered under a blush cardigan decorated with sakura motifs, pockets, and matching trim, along with a black choker carrying a gold bell at the neck.
+
+ 5. Lower Body & Feet: Her lower half features a pink floral skirt with a white ruffled underskirt, sheer black thigh-high stockings scattered with blossom and diamond motifs, a floral garter strap on one leg, and pale pink ankle boots finished with blossoms and ribbon details.
+
+ 6. Pose: In the front pose she faces forward with her feet apart, both forearms lifted, and both hands tucked into a small paw-like pose near her shoulders.
 
 Physical Appearance Prompt Style 2 — Sakumi
 
-Sakumi is a slender, sweet-faced girl with very long rose-pink hair that falls sleek from wispy bangs into soft waves at the ends, clipped with a golden hairpin and a cherry-blossom ornament dangling a pair of glossy red cherries beside her ear, and her round cornflower-blue eyes gleam above a fanged open smile. Her animal features include large, wide-based pink ears marked with star-shaped white inner fluff and one sumptuous, thick, bushy rose-pink tail whose fur lightens to a creamy tip, accented with pink blossoms near its base. She wears a black choker with a golden bell and a slim brown waist cord strung with cherry charms. Her outfit is a white button-front blouse with a pink lace-edged sailor collar and a pink bow hung with a cherry charm, layered under a blush-cream cardigan sprinkled with sakura embroidery and finished with a large pink blossom bow at the back waist, paired with a pink sakura-print pleated skirt over a white frilled underlayer, garter straps descending to sheer black thigh-high stockings printed with drifting pink petals, and pale pink block-heeled mid-calf boots adorned with cherry-blossom clusters and ribbons at the cuffs; every print is floral, with no lettering anywhere. Her expression is a bright open smile revealing a tiny fang, and she raises both hands as soft fists in a double paw pose at chest height.
+ 1. Base Anatomy: Sakumi is a slender, sweet-faced girl. Round cornflower-blue eyes gleam above a fanged open smile. Her expression is a bright open smile revealing a tiny fang, and she raises both hands as soft fists in a double paw pose at chest height.
+
+ 2. Hair & Head: Very long rose-pink hair that falls sleek from wispy bangs into soft waves at the ends, clipped with a golden hairpin and a cherry-blossom ornament dangling a pair of glossy red cherries beside her ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pink ears marked with star-shaped white inner fluff and one sumptuous, thick, bushy rose-pink tail whose fur lightens to a creamy tip, accented with pink blossoms near its base.
+
+ 4. Upper Body: She wears a black choker with a golden bell and a slim brown. Her outfit is a white button-front blouse with a pink lace-edged sailor collar and a pink bow hung with a cherry charm.
+
+ 5. Lower Body & Feet: Waist cord strung with cherry charms. Layered under a blush-cream cardigan sprinkled with sakura embroidery and finished with a large pink blossom bow at the back waist, paired with a pink sakura-print pleated skirt over a white frilled underlayer, garter straps descending to sheer black thigh-high stockings printed with drifting pink petals, and pale pink block-heeled mid-calf boots adorned with cherry-blossom clusters and ribbons at the cuffs; every print is floral, with no lettering anywhere.
+
+ 6. Pose: Her expression is a bright open smile revealing a tiny fang, and she raises both hands as soft fists in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 2b — Sakumi
 
-Sakumi has a slender build with fair skin, bright cornflower-blue eyes, and an open fanged smile. Her soft rose-pink hair streams long and wavy past her waist, pinned with gold hairpins and a sakura cluster ornament from which a pair of glossy red cherries dangles beside her cheek. Large rosy-pink ears with white inner tufts stand wide on her head, and one full, fluffy pink tail fans out behind her, fading to a creamy tip and dressed with a pink sakura corsage. She wears a black choker with a golden bell, a white button-front blouse with a pink-trimmed sailor-style collar and a pink bow hung with a cherry charm, and over it a pale cream cardigan patterned with tiny pink blossoms, scalloped edging, and a small front pocket. Her high-waisted pink skirt is printed with drifting cherry blossoms above a white frilled hem, tied at the waist with brown cords ending in cherry charms and finished at the back with a large pink bow and trailing ornaments, worn with garter-clipped black thigh-high stockings printed with falling pink petals and topped by flower charms, and pale pink heeled mid-calf boots decorated with sakura corsages and ribbons. She poses with both fists raised in a double paw pose at chest height.
+ 1. Base Anatomy: Sakumi has a slender build with fair skin. Bright cornflower-blue eyes, and an open fanged smile.
+
+ 2. Hair & Head: Her soft rose-pink hair streams long and wavy past her waist, pinned with gold hairpins and a sakura cluster ornament from which a pair of glossy red cherries dangles beside her cheek.
+
+ 3. Species Traits: Fox Logic — Large rosy-pink ears with white inner tufts stand wide on her head, and one full, fluffy pink tail fans out behind her, fading to a creamy tip and dressed with a pink sakura corsage.
+
+ 4. Upper Body: She wears a black choker with a golden bell, a white button-front blouse with a pink-trimmed sailor-style collar and a pink bow hung with a cherry charm, and over it a pale cream cardigan patterned with tiny pink blossoms, scalloped edging, and a small front pocket.
+
+ 5. Lower Body & Feet: Her high-waisted pink skirt is printed with drifting cherry blossoms above a white frilled hem, tied at the waist with brown cords ending in cherry charms and finished at the back with a large pink bow and trailing ornaments, worn with garter-clipped black thigh-high stockings printed with falling pink petals and topped by flower charms, and pale pink heeled mid-calf boots decorated with sakura corsages and ribbons.
+
+ 6. Pose: She poses with both fists raised in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Sakumi
 
-Sakumi is slender with long, flowing pastel pink hair styled with straight bangs, side tendrils, and a decorative arrangement of pink cherry blossoms, green leaves, and dangling cherry charms above her left ear, and striking blue eyes with a sweet, playful expression. Her animal features include large, wide-based pink fox ears with white inner fur and a thick, bushy, fluffy pink fox tail featuring a soft cream-colored tip and a cluster of pink blossoms with a ribbon tied around its base. She wears a black leather choker with a golden bell, dangling cherry charms hanging from her blouse bow and skirt waist, and a black garter strap on her left thigh with a hanging floral charm. Her outfit is a cream-colored knit cardigan embellished with pink embroidered cherry blossoms along the borders, layered over a white collared blouse with a pink ribbon bow at the neck, a pink high-waisted pleated mini skirt with a white lace hem and printed cherry blossom petals, sheer black thigh-high stockings detailed with vertical climbing pink floral patterns, and pastel pink ankle boots with a short heel, featuring small pink flower decorations on the back. Her expression is a happy, open-mouthed smile showing a cute fang, with both hands raised to chest level in a double paw gesture.
+ 1. Base Anatomy: Sakumi is slender. Striking blue eyes with a sweet, playful expression. Her expression is a happy, open-mouthed smile showing a cute fang.
+
+ 2. Hair & Head: Long, flowing pastel pink hair styled with straight bangs, side tendrils, and a decorative arrangement of pink cherry blossoms, green leaves, and dangling cherry charms above her left ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pink fox ears with white inner fur and a thick, bushy, fluffy pink fox tail featuring a soft cream-colored tip and a cluster of pink blossoms with a ribbon tied around its base.
+
+ 4. Upper Body: She wears a black leather choker with a golden bell. Her outfit is a cream-colored knit cardigan embellished with pink embroidered cherry blossoms along the borders, layered over a white collared blouse with a pink ribbon bow at the neck.
+
+ 5. Lower Body & Feet: Dangling cherry charms hanging from her blouse bow and skirt waist, and a black garter strap on her left thigh with a hanging floral charm. A pink high-waisted pleated mini skirt with a white lace hem and printed cherry blossom petals, sheer black thigh-high stockings detailed with vertical climbing pink floral patterns, and pastel pink ankle boots with a short heel, featuring small pink flower decorations on the back.
+
+ 6. Pose: With both hands raised to chest level in a double paw gesture.
 
 Physical Appearance Prompt Style 4 — Sakumi
 
-Sakumi is a slim girl with long, flowing pastel pink hair, neat bangs, and cherry blossom clips, and bright blue eyes. Her animal features include large, wide-based pink fox ears and a thick, bushy pink fox tail transitioning to a pale tip. She wears a black bell choker, sakura hair ornaments, and hanging cherry charms. Her outfit is a soft pink knit cardigan with cherry blossom embroidery layered over a white collared blouse, a pleated pink mini skirt with a large back bow, sheer black thigh-high stockings with pink floral garters, and pale pink heeled ankle boots with ribbon details. Her expression is a cheerful open-mouthed smile with both hands held up in small paw-like fists.
+ 1. Base Anatomy: Sakumi is a slim girl. Bright blue eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing pastel pink hair, neat bangs, and cherry blossom clips. She wears a black bell choker, sakura hair ornaments.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pink fox ears and a thick, bushy pink fox tail transitioning to a pale tip.
+
+ 4. Upper Body: She wears a black bell choker, sakura hair ornaments, and hanging cherry charms. Her outfit is a soft pink knit cardigan with cherry blossom embroidery layered over a white collared blouse.
+
+ 5. Lower Body & Feet: A pleated pink mini skirt with a large back bow, sheer black thigh-high stockings with pink floral garters, and pale pink heeled ankle boots with ribbon details.
+
+ 6. Pose: With both hands held up in small paw-like fists.
 
 Physical Appearance Prompt Style 4b — Sakumi
 
-Sakumi is a slender girl with vibrant blue eyes and long, flowing pastel pink hair decorated with a cluster of cherry blossom and red cherry hairpins on her left side. Applying fox logic, she possesses large, wide-based pink ears with white inner fluff and a thick, bushy pink tail that gradients to a lighter creamy tip, accented with a cherry blossom floral arrangement near its base. She wears a black choker with a small gold bell, layered under a cream-colored cardigan worn over a white ruffled blouse featuring a pink ribbon tie and hanging cherry charms. Her lower half consists of a pleated pastel pink miniskirt adorned with white cherry blossom prints, a scalloped white hem, and a prominent pink ribbon bow tied at the lower back. Her legs are clad in sheer black pantyhose detailed with trailing pink cherry blossom patterns and a strapped garter with cherry charms on the left thigh, paired with pale pink heeled ankle boots decorated with subtle floral accents. She maintains a cheerful, open-mouthed smile, standing playfully with both hands softly curled into paw gestures near her chest.
+ 1. Base Anatomy: Sakumi is a slender girl. Vibrant blue eyes. She maintains a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing pastel pink hair decorated with a cluster of cherry blossom and red cherry hairpins on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she possesses large, wide-based pink ears with white inner fluff and a thick, bushy pink tail that gradients to a lighter creamy tip, accented with a cherry blossom floral arrangement near its base.
+
+ 4. Upper Body: She wears a black choker with a small gold bell, layered under a cream-colored cardigan worn over a white ruffled blouse featuring a pink ribbon tie and hanging cherry charms.
+
+ 5. Lower Body & Feet: Her lower half consists of a pleated pastel pink miniskirt adorned with white cherry blossom prints, a scalloped white hem, and a prominent pink ribbon bow tied at the lower back. Her legs are clad in sheer black pantyhose detailed with trailing pink cherry blossom patterns and a strapped garter with cherry charms on the left thigh, paired with pale pink heeled ankle boots decorated with subtle floral accents.
+
+ 6. Pose: Standing playfully with both hands softly curled into paw gestures near her chest.
 
 ---
 
@@ -3843,35 +5394,115 @@ Aomi is a bright, ocean-blue fox girl whose natural warmth is shaped by pride, e
 
 Physical Appearance Prompt Style 1 — Aomi
 
-Aomi is a petite, slim girl with long, flowing ice-blue hair that falls to her lower back in smooth loose waves, framed by soft bangs and a large blue hydrangea-like floral ornament at one side, and warm amber-gold eyes with a serene, cheerful expression. Her animal features include large, wide-based pale-blue fox ears with white inner fur and one very thick, luxuriantly bushy pale-blue fox tail that curves behind her and fades into a broad white tip. She wears a blue floral hairpiece accented with small white blossoms, seashell-like ornaments, and hanging ribbons, a blue choker with a jewel pendant, and delicate pearl-and-gold chains draped around her waist. Her outfit is an elegant ocean-themed pale-blue dress with a fitted white-and-blue bodice, sailor-inspired neckline, blue ribbon bow, sheer detached sleeves, gold buttons and piping, and an asymmetrical high-low overskirt printed with waves, stars, and shell motifs, layered over a short white ruffled skirt and finished with a large navy bow at the back, paired with decorative thigh straps and otherwise bare legs, and white mid-calf heeled boots with blue bows, gold trim, and shell ornaments. Her expression is a happy open-mouthed smile with both hands raised near her chest in a soft double paw pose.
+ 1. Base Anatomy: Aomi is a petite, slim girl. Warm amber-gold eyes with a serene, cheerful expression. Her expression is a happy open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing ice-blue hair that falls to her lower back in smooth loose waves, framed by soft bangs and a large blue hydrangea-like floral ornament at one side. She wears a blue floral hairpiece accented with small white blossoms.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pale-blue fox ears with white inner fur and one very thick, luxuriantly bushy pale-blue fox tail that curves behind her and fades into a broad white tip.
+
+ 4. Upper Body: She wears a blue floral hairpiece accented with small white blossoms, seashell-like ornaments, and hanging ribbons, a blue choker with a jewel pendant. Her outfit is an elegant ocean-themed pale-blue dress with a fitted white-and-blue bodice, sailor-inspired neckline, blue ribbon bow, sheer detached sleeves, gold buttons and piping.
+
+ 5. Lower Body & Feet: Delicate pearl-and-gold chains draped around her waist. An asymmetrical high-low overskirt printed with waves, stars, and shell motifs, layered over a short white ruffled skirt and finished with a large navy bow at the back, paired with decorative thigh straps and otherwise bare legs, and white mid-calf heeled boots with blue bows, gold trim, and shell ornaments.
+
+ 6. Pose: With both hands raised near her chest in a soft double paw pose.
 
 Physical Appearance Prompt Style 1b — Aomi
 
-Aomi is a slim, petite girl with rich golden-amber eyes and a bright, enthusiastic gaze, accompanied by very long icy sky-blue hair that reaches her waist in smooth, loose waves with soft bangs and a large blue hydrangea-like floral arrangement embellished with white shell-shaped petals, gold details, and long blue ribbon strands. She has large, wide-based pale-blue fox ears with fluffy white inner fur and one thick, bushy sky-blue tail that curves outward behind her and fades into a broad snowy-white tip. A pale-blue ribbon choker with a faceted blue pendant rests above a fitted white sailor-inspired bodice with a deep navy collar, gold piping, a large royal-blue chest bow, and a gold central ornament, while a structured powder-blue corset waist panel uses paired gold buttons and blue-gold edging; detached sheer white bishop sleeves are secured at the upper arms by blue-and-white bows and terminate in fitted decorated cuffs. Her layered high-low skirt combines a short white-and-blue front with a sweeping translucent powder-blue overskirt, royal-blue panels, gold piping, wave and star motifs, and an ornate blue waist bow centered by a shell-like brooch, with draped pearl chains and dangling star charms crossing the hips. A delicate blue-white floral garter with a hanging star ornament circles one thigh, while patterned white mid-calf stockings have scalloped lace tops. White heeled ankle boots are trimmed in gold and decorated with navy bows, blue shell motifs, tassels, and small gold ornaments. She finishes with a joyful open-mouthed smile, standing front-facing with her legs slightly apart and both lightly clenched fists raised near her shoulders in a symmetrical paw-like pose.
+ 1. Base Anatomy: Aomi is a slim, petite girl. Rich golden-amber eyes. She finishes with a joyful open-mouthed smile.
+
+ 2. Hair & Head: A bright, enthusiastic gaze, accompanied by very long icy sky-blue hair that reaches her waist in smooth, loose waves with soft bangs and a large blue hydrangea-like floral arrangement embellished with white shell-shaped petals, gold details, and long blue ribbon strands.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based pale-blue fox ears with fluffy white inner fur and one thick, bushy sky-blue tail that curves outward behind her and fades into a broad snowy-white tip.
+
+ 4. Upper Body: A pale-blue ribbon choker with a faceted blue pendant rests above a fitted white sailor-inspired bodice with a deep navy collar, gold piping, a large royal-blue chest bow, and a gold central ornament.
+
+ 5. Lower Body & Feet: A structured powder-blue corset waist panel uses paired gold buttons and blue-gold edging; detached sheer white bishop sleeves are secured at the upper arms by blue-and-white bows and terminate in fitted decorated cuffs. Her layered high-low skirt combines a short white-and-blue front with a sweeping translucent powder-blue overskirt, royal-blue panels, gold piping, wave and star motifs, and an ornate blue waist bow centered by a shell-like brooch, with draped pearl chains and dangling star charms crossing the hips. A delicate blue-white floral garter with a hanging star ornament circles one thigh, while patterned white mid-calf stockings have scalloped lace tops. White heeled ankle boots are trimmed in gold and decorated with navy bows, blue shell motifs, tassels, and small gold ornaments.
+
+ 6. Pose: Standing front-facing with her legs slightly apart and both lightly clenched fists raised near her shoulders in a symmetrical paw-like pose.
 
 Physical Appearance Prompt Style 1c — Aomi
 
-Aomi has a slim, graceful build, warm amber-gold eyes, and an open, friendly smile that balances elegance with cuteness. Her hair is very long, silky, and pale ice blue, flowing in soft waves to the small of her back, with neat bangs and a dense blue hydrangea arrangement tied with ribbons at one side of her head. She has tall pale blue ears and a full, fluffy tail in powder blue fading softly toward white. Her outfit is a sailor-inspired dress built from a white fitted bodice with pale blue panels, double rows of gold buttons, and a navy-trimmed sailor collar, accented by a blue bow at the chest, a marine-style choker, and detached translucent sleeves secured with ribboned arm bands. The skirt layers into a pale blue asymmetrical overskirt decorated with wave and star motifs, pearl-chain drapes, and a large navy bow with shell ornaments at the waist and back, paired with a thigh garter on one leg, sheer patterned stockings, and white heeled boots trimmed in blue bows and shell-like details. In the front view she stands upright with her legs slightly apart and both hands raised near chest level, fingers curled in a pawing gesture.
+ 1. Base Anatomy: Aomi has a slim, graceful build. Warm amber-gold eyes, and an open, friendly smile that balances elegance with cuteness.
+
+ 2. Hair & Head: Her hair is very long, silky, and pale ice blue, flowing in soft waves to the small of her back, with neat bangs and a dense blue hydrangea arrangement tied with ribbons at one side of her head.
+
+ 3. Species Traits: Fox Logic — She has tall pale blue ears and a full, fluffy tail in powder blue fading softly toward white.
+
+ 4. Upper Body: Her outfit is a sailor-inspired dress built from a white fitted bodice with pale blue panels, double rows of gold buttons, and a navy-trimmed sailor collar, accented by a blue bow at the chest, a marine-style choker, and detached translucent sleeves secured with ribboned arm bands.
+
+ 5. Lower Body & Feet: The skirt layers into a pale blue asymmetrical overskirt decorated with wave and star motifs, pearl-chain drapes, and a large navy bow with shell ornaments at the waist and back, paired with a thigh garter on one leg, sheer patterned stockings, and white heeled boots trimmed in blue bows and shell-like details.
+
+ 6. Pose: In the front view she stands upright with her legs slightly apart and both hands raised near chest level, fingers curled in a pawing gesture.
 
 Physical Appearance Prompt Style 2 — Aomi
 
-Aomi is a graceful, gently curvaceous girl with very long powder-blue hair flowing straight past her hips beneath soft center-parted bangs, adorned above one ear with a blue hydrangea-and-shell cluster trailing white ribbons, and her warm amber-orange eyes form a striking contrast above her open, happy smile. Her animal features include tall, wide-based ice-blue ears filled with white fluff and one voluminous, thick, plush pale-blue tail whose dense fur frosts to white at the tip. She wears a blue lace-edged choker centered on a teardrop aqua jewel and a white lace thigh garter hung with a shell and starfish charm. Her outfit is a sailor-idol dress built from a white ruched bodice under a navy gold-trimmed sailor collar with a blue striped bow, sheer white detached puff sleeves with buttoned cuffs, and a pale blue underbust corset panel with golden buttons, flowing into a white pleated miniskirt edged in blue wave embroidery beneath a long, sheer ocean-blue high-low overskirt patterned with waves and sparkles, draped in pearl chains and gathered at the hip by a large navy bow crowned with a scallop shell, worn with sheer white lace knee socks with scalloped tops and white heeled ankle boots trimmed in gold with blue ribbon bows and tiny shells; the motifs are purely maritime, with no text. Her expression is a delighted open-mouthed smile, and she lifts both hands in loose fists to chest height in a double paw pose.
+ 1. Base Anatomy: Aomi is a graceful, gently curvaceous girl. Warm amber-orange eyes form a striking contrast above her open, happy smile. Her expression is a delighted open-mouthed smile, and she lifts both hands in loose fists to chest height in a double paw pose.
+
+ 2. Hair & Head: Very long powder-blue hair flowing straight past her hips beneath soft center-parted bangs, adorned above one ear with a blue hydrangea-and-shell cluster trailing white ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include tall, wide-based ice-blue ears filled with white fluff and one voluminous, thick, plush pale-blue tail whose dense fur frosts to white at the tip.
+
+ 4. Upper Body: She wears a blue lace-edged choker centered on a teardrop aqua jewel and a white lace thigh. Her outfit is a sailor-idol dress built from a white ruched bodice under a navy gold-trimmed sailor collar with a blue striped bow, sheer white detached puff sleeves with buttoned cuffs, and a pale blue underbust corset panel with golden buttons.
+
+ 5. Lower Body & Feet: Garter hung with a shell and starfish charm. Flowing into a white pleated miniskirt edged in blue wave embroidery beneath a long, sheer ocean-blue high-low overskirt patterned with waves and sparkles, draped in pearl chains and gathered at the hip by a large navy bow crowned with a scallop shell, worn with sheer white lace knee socks with scalloped tops and white heeled ankle boots trimmed in gold with blue ribbon bows and tiny shells; the motifs are purely maritime, with no text.
+
+ 6. Pose: Her expression is a delighted open-mouthed smile, and she lifts both hands in loose fists to chest height in a double paw pose.
 
 Physical Appearance Prompt Style 2b — Aomi
 
-Aomi has a graceful, elegant build with fair skin, warm amber-orange eyes, and a delighted open smile. Her pale ice-blue hair flows long and smooth past her hips beneath soft bangs, adorned at the side with a blue hydrangea-and-seashell ornament trailing white and blue ribbons. Large powder-blue ears rise wide from her head, and a single luxuriant, thickly plumed tail in frosted blue sweeps behind her, tipped in white. At her throat sits a white choker with a blue teardrop gem, above a dress built from a white sweetheart bodice under a navy-and-white sailor collar, a striped blue chest bow pinned with a scallop shell, a pale blue double-breasted corset waist with gold buttons, and detached sheer white balloon sleeves gathered into cuffs with small bows. Her skirt layers a white pleated underskirt edged in blue wave-lace and frills beneath a sheer high-low organza overskirt printed with white sea-foam patterns, trimmed in gold, draped with pearl strands and shell charms, and gathered by a large navy-striped bow with a seashell center; a lace garter with shell and starfish charms circles her thigh above white openwork lace socks with scalloped tops and white heeled ankle boots detailed with gold trim, blue bows, and shell motifs, and the ensemble carries no written text. She poses with both fists raised in a double paw pose beside her shoulders.
+ 1. Base Anatomy: Aomi has a graceful, elegant build with fair skin. Warm amber-orange eyes, and a delighted open smile.
+
+ 2. Hair & Head: Her pale ice-blue hair flows long and smooth past her hips beneath soft bangs, adorned at the side with a blue hydrangea-and-seashell ornament trailing white and blue ribbons.
+
+ 3. Species Traits: Fox Logic — Large powder-blue ears rise wide from her head, and a single luxuriant, thickly plumed tail in frosted blue sweeps behind her, tipped in white.
+
+ 4. Upper Body: At her throat sits a white choker with a blue teardrop gem, above a dress built from a white sweetheart bodice under a navy-and-white sailor collar, a striped blue chest bow pinned with a scallop shell.
+
+ 5. Lower Body & Feet: A pale blue double-breasted corset waist with gold buttons, and detached sheer white balloon sleeves gathered into cuffs with small bows. Her skirt layers a white pleated underskirt edged in blue wave-lace and frills beneath a sheer high-low organza overskirt printed with white sea-foam patterns, trimmed in gold, draped with pearl strands and shell charms, and gathered by a large navy-striped bow with a seashell center; a lace garter with shell and starfish charms circles her thigh above white openwork lace socks with scalloped tops and white heeled ankle boots detailed with gold trim, blue bows, and shell motifs, and the ensemble carries no written text.
+
+ 6. Pose: She poses with both fists raised in a double paw pose beside her shoulders.
 
 Physical Appearance Prompt Style 3 — Aomi
 
-Aomi is slender with long, flowing sky-blue hair featuring soft lavender highlights, styled with straight bangs, face-framing layers, and a cluster of blue hydrangeas and white ribbons on the left side of her head, and warm amber-orange eyes with a bright, cheerful expression. Her animal features include large, wide-based light blue fox ears with white tufted inner fur and a thick, bushy, fluffy light blue fox tail that ends in a white tip. She wears a blue collar with a golden star charm, a white lace thigh garter with a seashell and star pendant on her left leg, and a large blue ribbon bow with a golden seashell center at the back of her waist. Her outfit is a blue sailor-style dress featuring a white collar with navy stripes, transparent puffy long sleeves with white cuffs, and a gold-buttoned double-breasted bodice adorned with a striped blue bow, an asymmetrical multi-layered blue skirt with wave patterns, a gold star-studded rim, and a white ruffled underskirt, white knee-high socks with a subtle diamond knit pattern and lace borders, and white high-heeled ankle boots decorated with blue ribbons and a seashell ornament on the toe. Her expression is a happy, open-mouthed smile with both hands lifted to her chest in a playful double-fist pose.
+ 1. Base Anatomy: Aomi is slender. Warm amber-orange eyes with a bright, cheerful expression. Her expression is a happy, open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing sky-blue hair featuring soft lavender highlights, styled with straight bangs, face-framing layers, and a cluster of blue hydrangeas and white ribbons on the left side of her head.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears with white tufted inner fur and a thick, bushy, fluffy light blue fox tail that ends in a white tip.
+
+ 4. Upper Body: She wears a blue collar with a golden star charm. Her outfit is a blue sailor-style dress featuring a white collar with navy stripes, transparent puffy long sleeves with white cuffs, and a gold-buttoned double-breasted bodice adorned with a striped blue bow.
+
+ 5. Lower Body & Feet: A white lace thigh garter with a seashell and star pendant on her left leg, and a large blue ribbon bow with a golden seashell center at the back of her waist. An asymmetrical multi-layered blue skirt with wave patterns, a gold star-studded rim, and a white ruffled underskirt, white knee-high socks with a subtle diamond knit pattern and lace borders, and white high-heeled ankle boots decorated with blue ribbons and a seashell ornament on the toe.
+
+ 6. Pose: With both hands lifted to her chest in a playful double-fist pose.
 
 Physical Appearance Prompt Style 4 — Aomi
 
-Aomi is a slender girl with long, wavy light blue hair, parted bangs, and elaborate blue hydrangea clips, and warm amber eyes. Her animal features include large, wide-based light blue fox ears and a thick, fluffy light blue fox tail with a white tip. She wears a blue jeweled choker, floral hairpieces, and a blue back bow with a seashell. Her outfit is a white and blue sailor-style bodice with sheer sleeves layered over a high-low ocean wave and starry sky patterned skirt, a blue thigh garter, sheer white diamond-patterned socks, and white heeled ankle boots adorned with seashells. Her expression is a bright open-mouthed smile with both hands raised to chest level in curled paw gestures.
+ 1. Base Anatomy: Aomi is a slender girl. Warm amber eyes. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light blue hair, parted bangs, and elaborate blue hydrangea clips. She wears a blue jeweled choker, floral hairpieces.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, fluffy light blue fox tail with a white tip.
+
+ 4. Upper Body: She wears a blue jeweled choker, floral hairpieces, and a blue back bow with a seashell. Her outfit is a white and blue sailor-style bodice with sheer sleeves layered over a high-low ocean wave and starry sky patterned.
+
+ 5. Lower Body & Feet: Skirt, a blue thigh garter, sheer white diamond-patterned socks, and white heeled ankle boots adorned with seashells.
+
+ 6. Pose: With both hands raised to chest level in curled paw gestures.
 
 Physical Appearance Prompt Style 4b — Aomi
 
-Aomi features a delicate, slender build with warm amber eyes and long, flowing light blue hair adorned with an elaborate cluster of blue hydrangea hairpieces and white ribbons on her left side. Following fox logic, she has large, wide-based light blue ears with prominent white inner fluff and a thick, bushy light blue tail that gracefully gradients to a pure white tip. She wears a delicate blue jeweled choker that complements an elegant, nautical-inspired off-the-shoulder dress featuring a white bodice, a navy sailor collar, gold buttons, and a central blue ribbon tie. The dress includes sheer, detached long sleeves and transitions into an asymmetrical, high-low gradient blue skirt beautifully decorated with oceanic wave and star patterns, draped pearl chains, and a large blue back bow anchored by a seashell clasp. She wears a strappy blue and white garter on her right thigh over sheer white diamond-patterned calf socks, finishing the look with white heeled ankle boots tied with blue ribbons and shell charms. She displays a bright, open-mouthed smile, posing cheerfully with both hands raised in soft, curled paw gestures.
+ 1. Base Anatomy: Aomi features a delicate, slender build. Warm amber eyes. She displays a bright, open-mouthed smile.
+
+ 2. Hair & Head: Long, flowing light blue hair adorned with an elaborate cluster of blue hydrangea hairpieces and white ribbons on her left side.
+
+ 3. Species Traits: Fox Logic — Following fox logic, she has large, wide-based light blue ears with prominent white inner fluff and a thick, bushy light blue tail that gracefully gradients to a pure white tip.
+
+ 4. Upper Body: She wears a delicate blue jeweled choker that complements an elegant, nautical-inspired off-the-shoulder dress featuring a white bodice, a navy sailor collar, gold buttons, and a central blue ribbon tie. The dress includes sheer, detached long sleeves and transitions into an asymmetrical.
+
+ 5. Lower Body & Feet: High-low gradient blue skirt beautifully decorated with oceanic wave and star patterns, draped pearl chains, and a large blue back bow anchored by a seashell clasp. She wears a strappy blue and white garter on her right thigh over sheer white diamond-patterned calf socks, finishing the look with white heeled ankle boots tied with blue ribbons and shell charms.
+
+ 6. Pose: Posing cheerfully with both hands raised in soft, curled paw gestures.
 
 ---
 
@@ -4065,99 +5696,339 @@ Nijika is a vivid, forward-moving fox girl whose affection is expressed through 
 
 Physical Appearance Prompt Style 1 — Nijika
 
-Nijika is a petite, slim girl with short, tousled sky-blue hair cut into a layered shaggy bob with choppy bangs and a vivid pastel-pink underlayer visible along the sides and nape, and clear blue eyes with a calm, confident expression. Her animal features include large, wide-based blue fox ears with pale pink-white inner fur and one thick, bushy fox tail extending behind her in a smooth gradient from sky blue through white into soft pink at the tip. She wears a multicolored rainbow flower hair clip with hanging bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous straps, chains, clips, and small paw motifs. Her outfit is a cropped black top layered under an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining, multicolored piping, patch pockets, utility straps, floral and paw-print appliqués, and a large rainbow fox-face graphic across the back; a small label across the back of the collar reads 「西川ニジカ」, “Nishikawa Nijika” in Japanese. She pairs it with fitted black utility shorts with a belt, chains, dangling gradient straps, and a thigh band, black slouch socks, and chunky black platform sneakers with oversized tread and pink-and-blue paw-print accents. Her expression is a small closed-mouth smile with both arms relaxed naturally at her sides in a straight, self-assured stance.
+ 1. Base Anatomy: Nijika is a petite, slim girl. Clear blue eyes with a calm, confident expression. Her expression is a small closed-mouth smile.
+
+ 2. Hair & Head: Short, tousled sky-blue hair cut into a layered shaggy bob with choppy bangs and a vivid pastel-pink underlayer visible along the sides and nape. She wears a multicolored rainbow flower hair clip with hanging bead strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with pale pink-white inner fur and one thick, bushy fox tail extending behind her in a smooth gradient from sky blue through white into soft pink at the tip.
+
+ 4. Upper Body: She wears a multicolored rainbow flower hair clip with hanging bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous straps, chains, clips, and small paw motifs. Her outfit is a cropped black top layered under an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining, multicolored piping, patch pockets, utility straps, floral and paw-print appliqués, and a large rainbow fox-face graphic across the back; a small label across the back of the collar reads 「西川ニジカ」, “Nishikawa Nijika” in Japanese.
+
+ 5. Lower Body & Feet: She pairs it with fitted black utility shorts with a belt, chains, dangling gradient straps, and a thigh band, black slouch socks, and chunky black platform sneakers with oversized tread and pink-and-blue paw-print accents.
+
+ 6. Pose: With both arms relaxed naturally at her sides in a straight, self-assured stance.
 
 Physical Appearance Prompt Style 1b — Nijika
 
-Nijika is a slim, petite girl with clear cool-blue eyes and a calm, friendly gaze, framed by short, tousled sky-blue hair cut into a choppy neck-length bob that fades into pastel pink and lilac at the ends, with uneven layered bangs and a multicolored rainbow flower clip accompanied by bead strands and narrow hanging ribbons. She has large, wide-based blue fox ears with pale pink-and-white inner tufts and one thick, fluffy tail that transitions from sky blue through nearly white fur into a soft pastel-pink tip. A black collar and crisscross chest harness with a small gold paw-like ornament sit above a fitted black cropped top, layered beneath an oversized cropped black hooded utility jacket with rainbow-gradient lining and piping, multicolored buckled straps, zip pockets, paw and flower patches, and vivid gradient hardware; the back carries a large rainbow fox-head emblem surrounded by small paw and flower graphics, while the hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ.” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems. She ends with a small closed-mouth smile, standing directly front-facing with her feet set shoulder-width apart and both arms hanging naturally at her sides with relaxed open hands.
+ 1. Base Anatomy: Nijika is a slim, petite girl. Clear cool-blue eyes. She ends with a small closed-mouth smile.
+
+ 2. Hair & Head: A calm, friendly gaze, framed by short, tousled sky-blue hair cut into a choppy neck-length bob that fades into pastel pink and lilac at the ends, with uneven layered bangs and a multicolored rainbow flower clip accompanied by bead strands and narrow hanging ribbons.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based blue fox ears with pale pink-and-white inner tufts and one thick, fluffy tail that transitions from sky blue through nearly white fur into a soft pastel-pink tip.
+
+ 4. Upper Body: A black collar and crisscross chest harness with a small gold paw-like ornament sit above a fitted black cropped top, layered beneath an oversized cropped black hooded utility jacket with rainbow-gradient lining and piping, multicolored buckled straps, zip pockets, paw and flower patches, and vivid gradient hardware; the back carries a large rainbow fox-head emblem surrounded by small paw and flower graphics.
+
+ 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ.” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
+
+ 6. Pose: Standing directly front-facing with her feet set shoulder-width apart and both arms hanging naturally at her sides with relaxed open hands.
 
 Physical Appearance Prompt Style 1c — Nijika
 
-Nijika has a slim, slightly athletic build, pale blue eyes, and a composed little smile that feels cool rather than bubbly. Her hair is cut in a short, choppy bob in light sky blue with pink and lilac tones melting into the lower layers, and one side is dressed with a rainbow flower ornament and dangling beads. She has large blue ears with soft pink inner fur and a long, thick tail that shifts from sky blue into white and pink near the tip. Her upper half consists of a black cropped inner top with crossed straps at the neckline, layered beneath a cropped black hooded jacket covered in holographic rainbow trim, paw-print motifs, multi-strap hardware, and a large multicolored fox-head logo on the back ringed by paw prints and flowers; the front hanging tag and the back collar patch both read “西川ニジカ,” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints. In the front pose her body faces straight ahead, her feet are planted shoulder-width apart, and both arms hang relaxed at her sides with her fingers slightly open.
+ 1. Base Anatomy: Nijika has a slim, slightly athletic build. Pale blue eyes, and a composed little smile that feels cool rather than bubbly.
+
+ 2. Hair & Head: Her hair is cut in a short, choppy bob in light sky blue with pink and lilac tones melting into the lower layers, and one side is dressed with a rainbow flower ornament and dangling beads.
+
+ 3. Species Traits: Fox Logic — She has large blue ears with soft pink inner fur and a long, thick tail that shifts from sky blue into white and pink near the tip.
+
+ 4. Upper Body: Her upper half consists of a black cropped inner top with crossed straps at the neckline, layered beneath a cropped black hooded jacket covered in holographic rainbow trim, paw-print motifs, multi-strap hardware, and a large multicolored fox-head logo on the back ringed by paw prints and flowers.
+
+ 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ,” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
+
+ 6. Pose: In the front pose her body faces straight ahead, her feet are planted shoulder-width apart, and both arms hang relaxed at her sides with her fingers slightly open.
 
 Physical Appearance Prompt Style 2 — Nijika
 
-Nijika is a petite, coolly cheerful girl with shaggy, shoulder-length powder-blue hair whose choppy under-layers melt into pastel pink and rainbow tints, accented above one ear by a rainbow-gradient flower ornament with hanging ribbons, and her pale blue eyes rest above a soft, closed-lip smile. Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and pink into a frosted white tip. She wears an O-ring collar harness topped with a small orange blossom, black fingerless long gloves, and a black thigh strap carrying a pink paw-print charm. Her outfit is a black high-neck halter crop top under a cropped black hooded jacket edged in holographic rainbow trim and covered with iridescent zippers, buckled sleeve straps bearing small katakana lettering, pastel paw prints, and rainbow blossoms, while a rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika," above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels. Her expression is a serene closed-mouth smile, and she stands squarely with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Nijika is a petite, coolly cheerful girl. Pale blue eyes rest above a soft, closed-lip smile. Her expression is a serene closed-mouth smile,.
+
+ 2. Hair & Head: Shaggy, shoulder-length powder-blue hair whose choppy under-layers melt into pastel pink and rainbow tints, accented above one ear by a rainbow-gradient flower ornament with hanging ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and pink into a frosted white tip.
+
+ 4. Upper Body: She wears an O-ring collar harness topped with a small orange blossom, black fingerless long gloves, and a black thigh strap carrying a pink paw-print charm. Her outfit is a black high-neck halter crop top under a cropped black hooded jacket edged in holographic rainbow trim and covered with iridescent zippers, buckled sleeve straps bearing small katakana lettering, pastel paw prints, and rainbow blossoms.
+
+ 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika," above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
+
+ 6. Pose: She stands squarely with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 2b — Nijika
 
-Nijika has a petite, slight build with fair skin, pale glacier-blue eyes, and a gentle closed-lip smile. Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons. Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip. Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap. Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering hanging at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints. She stands squarely with her arms relaxed at her sides, held slightly away from her body.
+ 1. Base Anatomy: Nijika has a petite, slight build with fair skin. Pale glacier-blue eyes, and a gentle closed-lip smile.
+
+ 2. Hair & Head: Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
+
+ 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip.
+
+ 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
+
+ 5. Lower Body & Feet: Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering hanging at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints.
+
+ 6. Pose: She stands squarely with her arms relaxed at her sides, held slightly away from her body.
 
 Physical Appearance Prompt Style 3 — Nijika
 
-Nijika is slender with short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side, and bright blue eyes with a cheerful, friendly expression. Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy light blue fox tail that smoothly gradients into a soft pink tip. She wears a black choker with a golden bell and overlapping straps, a black thigh garter on her right leg with a hanging tag, and a black belt with a rainbow buckle and dangling chain links. Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, and a prominent rainbow fox emblem on the back with the text "西川ニジカ" on the hood label, black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides. Her expression is a wide, happy smile with both arms resting naturally down at her sides in a casual, standing posture, with long rainbow ribbons hanging from her waist, one inscribed with "西川ニジカ".
+ 1. Base Anatomy: Nijika is slender. Bright blue eyes with a cheerful, friendly expression. Her expression is a wide, happy smile.
+
+ 2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy light blue fox tail that smoothly gradients into a soft pink tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell and overlapping straps. Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, and a prominent rainbow fox emblem on the back with the text "西川ニジカ" on the hood label.
+
+ 5. Lower Body & Feet: A black thigh garter on her right leg with a hanging tag, and a black belt with a rainbow buckle and dangling chain links. Black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides.
+
+ 6. Pose: With both arms resting naturally down at her sides in a casual, standing posture, with long rainbow ribbons hanging from her waist, one inscribed with "西川ニジカ".
 
 Physical Appearance Prompt Style 4 — Nijika
 
-Nijika is a petite girl with short, messy light blue to pink gradient hair, blunt bangs, and rainbow floral clips, and vivid blue eyes. Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail fading from light blue to pale pink. She wears a black bell choker and colorful floral hairpieces. Her outfit is a black cropped jacket with holographic trim and a rainbow fox graphic reading "西川ニジカ" (Nishikawa Nijika) layered over a black strappy crop top, black shorts with chains and a hanging strap, black slouched socks with a paw-print thigh garter, and chunky black platform sneakers. Her expression is a soft closed-mouth smile with her arms resting casually downward at her sides.
+ 1. Base Anatomy: Nijika is a petite girl. Vivid blue eyes. Her expression is a soft closed-mouth smile.
+
+ 2. Hair & Head: Short, messy light blue to pink gradient hair, blunt bangs, and rainbow floral clips. She wears a black bell choker and colorful floral hairpieces.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail fading from light blue to pale pink.
+
+ 4. Upper Body: She wears a black bell choker and colorful floral hairpieces. Her outfit is a black cropped jacket with holographic trim and a rainbow fox graphic reading "西川ニジカ" (Nishikawa Nijika) layered over a black strappy crop top.
+
+ 5. Lower Body & Feet: Black shorts with chains and a hanging strap, black slouched socks with a paw-print thigh garter, and chunky black platform sneakers.
+
+ 6. Pose: With her arms resting casually downward at her sides.
 
 Physical Appearance Prompt Style 4b — Nijika
 
-Nijika is a slender young girl with bright blue eyes and short light blue hair fading to pink at the tips, accessorized with a colorful floral clip on her left side. Applying fox logic, she features large, wide-based light blue ears with white inner fluff and a thick, bushy tail gradienting from light blue to white before finishing with a bright pink tip. She wears a black crisscross bell choker under a black crop top and a black cropped jacket detailed with iridescent rainbow trim, hanging straps, and a back graphic featuring a colorful fox head and pink kanji reading "西川ニジカ" (Nishikawa Nijika) on the hood. She pairs this with black shorts, a holographic-buckle belt, silver hip chains, a matching kanji hanging strap, and a right thigh garter, completed by slouchy black socks and chunky black sneakers displaying mismatched pink and blue paw prints. She exhibits a gentle smile, standing casually with her arms resting straight down at her sides.
+ 1. Base Anatomy: Nijika is a slender young girl. Bright blue eyes. She exhibits a gentle smile.
+
+ 2. Hair & Head: Short light blue hair fading to pink at the tips, accessorized with a colorful floral clip on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she features large, wide-based light blue ears with white inner fluff and a thick, bushy tail gradienting from light blue to white before finishing with a bright pink tip.
+
+ 4. Upper Body: She wears a black crisscross bell choker under a black crop top and a black cropped jacket detailed with iridescent rainbow trim, hanging straps, and a back graphic featuring a colorful fox head and pink kanji reading "西川ニジカ" (Nishikawa Nijika) on the hood.
+
+ 5. Lower Body & Feet: She pairs this with black shorts, a holographic-buckle belt, silver hip chains, a matching kanji hanging strap, and a right thigh garter, completed by slouchy black socks and chunky black sneakers displaying mismatched pink and blue paw prints.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
 
 Physical Appearance Prompt Style 1 — Nijika Alt Style 1
 
-Nijika is a petite, slim girl with short, tousled sky-blue hair cut into a layered shaggy bob with choppy bangs, softly feathered ends, and prominent pastel-pink underlayers visible around the sides and nape, and clear blue eyes with a calm, self-assured expression. Her animal features include large, wide-based blue fox ears with soft pale pink-and-white inner fur and one thick, bushy fox tail extending from the base of her spine, its dense fur transitioning from sky blue through pale mint and creamy yellow into peach-pink and soft lavender at the tip. She wears a multicolored flower hair clip with dangling bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous decorative chains, utility straps, clips, floral patches, and paw-print accents; the label across the back of her collar reads 「西川ニジカ」, “Nishikawa Nijika” Her outfit is a cropped black fitted top with geometric neckline straps layered beneath an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining and piping, multicolored buckled tabs, patch pockets, flower and paw appliqués, and a large rainbow-gradient fox-face graphic across the back, paired with fitted black high-waisted utility shorts featuring a belt, hanging chains, gradient straps, and a black thigh band, black slouch socks, and chunky black platform sneakers with heavy tread and pink-and-blue paw-print details. Her expression is a small closed-mouth smile with both arms relaxed naturally at her sides in a straight, composed stance.
+ 1. Base Anatomy: Nijika is a petite, slim girl. Clear blue eyes with a calm, self-assured expression. Her expression is a small closed-mouth smile.
+
+ 2. Hair & Head: Short, tousled sky-blue hair cut into a layered shaggy bob with choppy bangs, softly feathered ends, and prominent pastel-pink underlayers visible around the sides and nape. She wears a multicolored flower hair clip with dangling bead strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with soft pale pink-and-white inner fur and one thick, bushy fox tail extending from the base of her spine, its dense fur transitioning from sky blue through pale mint and creamy yellow into peach-pink and soft lavender at the tip.
+
+ 4. Upper Body: She wears a multicolored flower hair clip with dangling bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous decorative chains, utility straps, clips, floral patches, and paw-print accents; the label across the back of her collar reads 「西川ニジカ」, “Nishikawa Nijika” Her outfit is a cropped black fitted top with geometric neckline straps layered beneath an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining and piping, multicolored buckled tabs, patch pockets, flower and paw appliqués, and a large rainbow-gradient fox-face graphic across the back.
+
+ 5. Lower Body & Feet: Paired with fitted black high-waisted utility shorts featuring a belt, hanging chains, gradient straps, and a black thigh band, black slouch socks, and chunky black platform sneakers with heavy tread and pink-and-blue paw-print details.
+
+ 6. Pose: With both arms relaxed naturally at her sides in a straight, composed stance.
 
 Physical Appearance Prompt Style 1b — Nijika Alt Style 1
 
-Nijika is a slim, petite girl with clear light-blue eyes and a calm, friendly expression, wearing a short choppy bob of sky-blue hair with soft pink and lilac tints at the ends, tousled bangs, and a rainbow flower hair clip with dangling beads and ribbons at one side. She has large, wide-based blue fox ears with pale inner fur and one thick, bushy fox tail that sweeps behind her in a full pastel rainbow gradient from blue through yellow and pink to lavender. She wears a black choker with a gold paw-like ornament over a fitted black cropped top, layered beneath a cropped black hooded utility jacket trimmed with iridescent rainbow piping, colorful buckles, paw-and-flower patches, and a large rainbow fox-head graphic on the back; a small rear hood label and a long hanging front strap both display stylized Japanese text. Her bottom garment is a pair of high-waisted black utility shorts with a belt, chain drapes, hanging straps, a thigh band, paw-print patches, and additional multicolored hardware. She wears short black socks and heavy black platform sneakers with paw-print accents on the tongues and soles. She ends with a small, composed smile, standing squarely front-facing with her feet slightly apart and both arms hanging naturally at her sides.
+ 1. Base Anatomy: Nijika is a slim, petite girl. Clear light-blue eyes. She ends with a small, composed smile.
+
+ 2. Hair & Head: A calm, friendly expression, wearing a short choppy bob of sky-blue hair with soft pink and lilac tints at the ends, tousled bangs, and a rainbow flower hair clip with dangling beads and ribbons at one side.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based blue fox ears with pale inner fur and one thick, bushy fox tail that sweeps behind her in a full pastel rainbow gradient from blue through yellow and pink to lavender.
+
+ 4. Upper Body: She wears a black choker with a gold paw-like ornament over a fitted black cropped top, layered beneath a cropped black hooded utility jacket trimmed with iridescent rainbow piping, colorful buckles, paw-and-flower patches, and a large rainbow fox-head graphic on the back; a small rear hood label and a long hanging front strap both display stylized Japanese text.
+
+ 5. Lower Body & Feet: Her bottom garment is a pair of high-waisted black utility shorts with a belt, chain drapes, hanging straps, a thigh band, paw-print patches, and additional multicolored hardware. She wears short black socks and heavy black platform sneakers with paw-print accents on the tongues and soles.
+
+ 6. Pose: Standing squarely front-facing with her feet slightly apart and both arms hanging naturally at her sides.
 
 Physical Appearance Prompt Style 1c — Nijika Alt Style 1
 
-Nijika has a slim, compact build, pale icy-blue eyes, and a quiet, self-assured smile. Her hair is cut into a tousled short bob in bright sky blue, with soft cotton-candy pink and lilac peeking through the underside and side strands, and a rainbow-toned flower cluster with dangling beads fixed near her right ear. Her ears are broad and upright with white inner fur, and her tail is thick and plush, fading from blue at the base through mint, lemon yellow, peach, pink, and lavender toward the tip. She wears a black choker with a small gold bell and flower motif over a black wrap-style crop top crossed by thin harness straps, then layers a cropped black hooded jacket over it, the jacket lined and trimmed in iridescent rainbow colors and decorated with floral paw prints, metallic straps, and neon piping; a small nameplate on the hem, collar, and sleeve reads “西川ニジカ,” which transliterates to “Nishikawa Nijika,” and the back carries a large stylized fox-face logo framed by floral paw elements. Her lower half consists of black shorts with an iridescent belt buckle, hanging chain loops, utility straps, and a thigh band on one leg, paired with black ankle socks and chunky black sneakers marked with pink and blue paw prints. She stands neutrally with her shoulders level, both arms hanging straight down, her hands open beside her hips, and her feet placed a comfortable distance apart.
+ 1. Base Anatomy: Nijika has a slim, compact build. Pale icy-blue eyes, and a quiet, self-assured smile.
+
+ 2. Hair & Head: Her hair is cut into a tousled short bob in bright sky blue, with soft cotton-candy pink and lilac peeking through the underside and side strands, and a rainbow-toned flower cluster with dangling beads fixed near her right ear.
+
+ 3. Species Traits: Fox Logic — Her ears are broad and upright with white inner fur, and her tail is thick and plush, fading from blue at the base through mint, lemon yellow, peach, pink, and lavender toward the tip.
+
+ 4. Upper Body: She wears a black choker with a small gold bell and flower motif over a black wrap-style crop top crossed by thin harness straps, then layers a cropped black hooded jacket over it, the jacket lined and trimmed in iridescent rainbow colors and decorated with floral paw prints, metallic straps, and neon piping; a small nameplate on the hem, collar, and sleeve reads “西川ニジカ,” which transliterates to “Nishikawa Nijika,” and the back carries a large stylized fox-face logo framed by floral paw elements.
+
+ 5. Lower Body & Feet: Her lower half consists of black shorts with an iridescent belt buckle, hanging chain loops, utility straps, and a thigh band on one leg, paired with black ankle socks and chunky black sneakers marked with pink and blue paw prints.
+
+ 6. Pose: She stands neutrally with her shoulders level, both arms hanging straight down, her hands open beside her hips, and her feet placed a comfortable distance apart.
 
 Physical Appearance Prompt Style 2 — Nijika Alt Style 1
 
-Nijika is a petite, slight girl with shaggy, layered sky-blue hair brushing her shoulders, its underlayer glowing pastel pink and rainbow at the nape, pinned with a rainbow-gradient flower ornament trailing thin ribbons, and she has pale glacier-blue eyes and a gentle, closed-lip smile. Her animal features include large, wide-based fluffy blue ears with white-and-pink inner fur, and a single big, plush and bushy tail that melts from cornflower blue through teal and gold into a rosy pink tip. She wears a black harness-style halter collar with a golden ring and bell-flower centerpiece, plus black fingerless gloves. Her outfit is a black strappy crop top beneath a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps and scattered with pastel flowers and paw prints, its back panel bearing a large rainbow-gradient fox head ringed by blossoms beneath a rectangular patch printed 西川ニジカ — read "Nishikawa Nijika," her own name, whose given name echoes niji, the Japanese word for rainbow — with matching lettering running down a sleeve strap, paired with black cuffed shorts on a rainbow-buckled belt hung with silver chains, harness straps, a long iridescent thigh ribbon repeating the 西川ニジカ print, and a black thigh strap with a pink paw charm, black slouched socks, and chunky black platform sneakers stamped with pastel pink and blue paw prints. Her expression is a calm, friendly smile with her arms hanging relaxed at her sides, held slightly away from her body.
+ 1. Base Anatomy: Nijika is a petite, slight girl. She has pale glacier-blue eyes and a gentle, closed-lip smile. Her expression is a calm, friendly smile.
+
+ 2. Hair & Head: Shaggy, layered sky-blue hair brushing her shoulders, its underlayer glowing pastel pink and rainbow at the nape, pinned with a rainbow-gradient flower ornament trailing thin ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based fluffy blue ears with white-and-pink inner fur, and a single big, plush and bushy tail that melts from cornflower blue through teal and gold into a rosy pink tip.
+
+ 4. Upper Body: She wears a black harness-style halter collar with a golden ring and bell-flower centerpiece, plus black fingerless gloves. Her outfit is a black strappy crop top beneath a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps and scattered with pastel flowers and paw prints, its back panel bearing a large rainbow-gradient fox head ringed by blossoms beneath a rectangular patch printed 西川ニジカ — read "Nishikawa Nijika," her own name, whose given name echoes niji, the Japanese word for rainbow — with matching lettering running down a sleeve strap.
+
+ 5. Lower Body & Feet: Paired with black cuffed shorts on a rainbow-buckled belt hung with silver chains, harness straps, a long iridescent thigh ribbon repeating the 西川ニジカ print, and a black thigh strap with a pink paw charm, black slouched socks, and chunky black platform sneakers stamped with pastel pink and blue paw prints.
+
+ 6. Pose: With her arms hanging relaxed at her sides, held slightly away from her body.
 
 Physical Appearance Prompt Style 2b — Nijika Alt Style 1
 
-Nijika has a petite, slight build with fair skin, pale glacier-blue eyes, and a gentle closed-lip smile. Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons. Fluffy blue ears with pale inner fur perch on her head, and one large, plush tail flows behind her in a full prismatic gradient, shifting from sky blue at the base through mint and gold into rose pink at the tip. Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap. Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering falling at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints. She stands squarely with her arms relaxed at her sides, held slightly away from her body.
+ 1. Base Anatomy: Nijika has a petite, slight build with fair skin. Pale glacier-blue eyes, and a gentle closed-lip smile.
+
+ 2. Hair & Head: Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
+
+ 3. Species Traits: Fox Logic — Fluffy blue ears with pale inner fur perch on her head, and one large, plush tail flows behind her in a full prismatic gradient, shifting from sky blue at the base through mint and gold into rose pink at the tip.
+
+ 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
+
+ 5. Lower Body & Feet: Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering falling at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints.
+
+ 6. Pose: She stands squarely with her arms relaxed at her sides, held slightly away from her body.
 
 Physical Appearance Prompt Style 3 — Nijika Alt Style 1
 
-Nijika is slender with short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side, and bright blue eyes with a cheerful, friendly expression. Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that beautifully displays a smooth rainbow gradient from blue to yellow, orange, and ending in a soft pink tip. She wears a black choker with a golden bell and overlapping straps, a black thigh garter on her right leg with a hanging tag, and a black belt with a rainbow buckle, dangling chain links, and long hanging rainbow ribbons inscribed with the text "西川ニジカ". Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, a prominent rainbow fox emblem on the back, and a hood label inscribed with "西川ニジカ", paired with black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides. Her expression is a wide, happy smile with both arms resting naturally down at her sides in a casual, front-facing standing posture.
+ 1. Base Anatomy: Nijika is slender. Bright blue eyes with a cheerful, friendly expression. Her expression is a wide, happy smile.
+
+ 2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that beautifully displays a smooth rainbow gradient from blue to yellow, orange, and ending in a soft pink tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell and overlapping straps. Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, a prominent rainbow fox emblem on the back, and a hood label inscribed with "西川ニジカ".
+
+ 5. Lower Body & Feet: A black thigh garter on her right leg with a hanging tag, and a black belt with a rainbow buckle, dangling chain links, and long hanging rainbow ribbons inscribed with the text "西川ニジカ". Paired with black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides.
+
+ 6. Pose: With both arms resting naturally down at her sides in a casual, front-facing standing posture.
 
 Physical Appearance Prompt Style 4 — Nijika Alt Style 1
 
-Nijika is a petite girl with short, messy blue hair featuring pink-tinted tips, blunt bangs, and rainbow floral hair clips, and vivid blue eyes. Her animal features include large, wide-based blue fox ears and a thick, bushy fox tail with a rainbow-colored gradient transitioning from blue to yellow and pink. She wears a black choker with a golden bell. Her outfit is a black zip-up jacket with iridescent rainbow trim and a large colorful fox graphic on the back layered over a black crop top, black shorts with chains and a strap reading "西川ニジカ" (Nishikawa Nijika), black socks, and black chunky sneakers with colorful paw-print accents. Her expression is a cheerful open-mouthed smile with her arms resting casually at her sides.
+ 1. Base Anatomy: Nijika is a petite girl. Vivid blue eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Short, messy blue hair featuring pink-tinted tips, blunt bangs, and rainbow floral hair clips.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears and a thick, bushy fox tail with a rainbow-colored gradient transitioning from blue to yellow and pink.
+
+ 4. Upper Body: She wears a black choker with a golden bell. Her outfit is a black zip-up jacket with iridescent rainbow trim and a large colorful fox graphic on the back layered over a black crop top.
+
+ 5. Lower Body & Feet: Black shorts with chains and a strap reading "西川ニジカ" (Nishikawa Nijika), black socks, and black chunky sneakers with colorful paw-print accents.
+
+ 6. Pose: With her arms resting casually at her sides.
 
 Physical Appearance Prompt Style 4b — Nijika Alt Style 1
 
-Nijika is a slender young girl with bright blue eyes and short, messy light blue hair that gradients into a soft pink at the tips, accessorized with a colorful pink, orange, and blue floral hair clip on her left side. Adhering to fox logic, she possesses large, wide-based light blue ears with white inner fluff and a thick, bushy tail that vibrantly gradients from light blue at the base to yellow, finishing with a bright pink tip. Her attire starts with a black crisscross choker holding a gold bell, layered under a black crop top featuring a small paw and flower print, worn beneath a black cropped zip-up jacket heavily accented with iridescent rainbow trim, dangling straps, and a striking back design featuring a colorful gradient fox head, paw prints, flowers, and pink kanji reading "西川ニジカ" (Nishikawa Nijika) on the hood. She pairs this with black shorts secured by a belt with a holographic buckle, accessorized with silver hip chains, a long hanging strap displaying the same kanji fading from cyan to pink, and a black strapped garter on her right thigh. Her lower half is completed with black slouchy crew socks and chunky black sneakers displaying mismatched pink and blue paw print emblems on the heels. She wears a gentle, friendly smile, standing casually with her arms resting straight down at her sides.
+ 1. Base Anatomy: Nijika is a slender young girl. Bright blue eyes. She wears a gentle, friendly smile.
+
+ 2. Hair & Head: Short, messy light blue hair that gradients into a soft pink at the tips, accessorized with a colorful pink, orange, and blue floral hair clip on her left side.
+
+ 3. Species Traits: Fox Logic — Adhering to fox logic, she possesses large, wide-based light blue ears with white inner fluff and a thick, bushy tail that vibrantly gradients from light blue at the base to yellow, finishing with a bright pink tip.
+
+ 4. Upper Body: Her attire starts with a black crisscross choker holding a gold bell, layered under a black crop top featuring a small paw and flower print, worn beneath a black cropped zip-up jacket heavily accented with iridescent rainbow trim, dangling straps, and a striking back design featuring a colorful gradient fox head, paw prints, flowers, and pink kanji reading "西川ニジカ" (Nishikawa Nijika) on the hood.
+
+ 5. Lower Body & Feet: She pairs this with black shorts secured by a belt with a holographic buckle, accessorized with silver hip chains, a long hanging strap displaying the same kanji fading from cyan to pink, and a black strapped garter on her right thigh. Her lower half is completed with black slouchy crew socks and chunky black sneakers displaying mismatched pink and blue paw print emblems on the heels.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
 
 Physical Appearance Prompt Style 1 — Nijika Alt Style 2
 
-Nijika is a petite, slim girl with short, tousled sky-blue hair cut into a choppy layered bob with feathered ends, soft uneven bangs, and vivid pastel-pink underlayers visible around her cheeks and nape, and clear blue eyes with a calm, self-assured expression. Her animal features include large, wide-based blue fox ears with pale pink-and-white inner fur and one thick, bushy fox tail extending from the base of her spine, its dense fur transitioning from sky blue through a broad white section into a soft pink tip. She wears a multicolored flower hair clip with dangling bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous chains, buckled straps, clips, floral patches, and paw-print charms. Her outfit is a fitted black cropped top with angular neckline straps layered beneath an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining and piping, multicolored utility tabs, patch pockets, flower and paw appliqués, and a large rainbow-gradient fox-face graphic across the back; the collar label reads 「西川ニジカ」, “Nishikawa Nijika” She pairs it with fitted black high-waisted utility shorts featuring a belt, silver chains, gradient hanging straps, and a black thigh band, black slouch socks, and chunky black platform sneakers with heavy lug soles and pink-and-blue paw-print accents. Her expression is a small closed-mouth smile with both arms relaxed naturally at her sides in a straight, composed stance.
+ 1. Base Anatomy: Nijika is a petite, slim girl. Clear blue eyes with a calm, self-assured expression. Her expression is a small closed-mouth smile.
+
+ 2. Hair & Head: Short, tousled sky-blue hair cut into a choppy layered bob with feathered ends, soft uneven bangs, and vivid pastel-pink underlayers visible around her cheeks and nape. She wears a multicolored flower hair clip with dangling bead strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with pale pink-and-white inner fur and one thick, bushy fox tail extending from the base of her spine, its dense fur transitioning from sky blue through a broad white section into a soft pink tip.
+
+ 4. Upper Body: She wears a multicolored flower hair clip with dangling bead strands, a black choker with a gold paw-shaped ornament, fingerless black gloves, and numerous chains, buckled straps, clips, floral patches, and paw-print charms. Her outfit is a fitted black cropped top with angular neckline straps layered beneath an oversized black cyber-streetwear hooded jacket with rainbow-gradient lining and piping, multicolored utility tabs, patch pockets, flower and paw appliqués, and a large rainbow-gradient fox-face graphic across the back; the collar label reads 「西川ニジカ」.
+
+ 5. Lower Body & Feet: “Nishikawa Nijika” She pairs it with fitted black high-waisted utility shorts featuring a belt, silver chains, gradient hanging straps, and a black thigh band, black slouch socks, and chunky black platform sneakers with heavy lug soles and pink-and-blue paw-print accents.
+
+ 6. Pose: With both arms relaxed naturally at her sides in a straight, composed stance.
 
 Physical Appearance Prompt Style 1b — Nijika Alt Style 2
 
-Nijika is a slim, petite girl with clear light-blue eyes and a calm, friendly expression, framed by a short, layered sky-blue bob softly tipped with pink and lavender and decorated with a rainbow flower clip and dangling bead ornaments at one side. She has large, wide-based blue fox ears with pale inner fur and one thick, fluffy fox tail that curves behind her, colored blue at the base and fading through white into a soft pink-lavender tip. Around her neck is a black choker with a gold paw-like charm, and she wears a fitted black cropped top under a cropped black hooded jacket detailed with iridescent rainbow trim, colorful strap hardware, paw-and-flower patches, and a bold rainbow fox-head emblem on the back; both the back hood tab and a long hanging front strap carry stylized Japanese text. Her shorts are black utility cutoffs with a belt, side chains, dangling tabs, paw-print motifs, and a strapped thigh band. Short black socks lead into bulky black platform sneakers with paw accents and thick soles. She finishes with a gentle closed-mouth smile, standing straight and front-facing with both legs relaxed and both arms resting naturally at her sides.
+ 1. Base Anatomy: Nijika is a slim, petite girl. Clear light-blue eyes. She finishes with a gentle closed-mouth smile.
+
+ 2. Hair & Head: A calm, friendly expression, framed by a short, layered sky-blue bob softly tipped with pink and lavender and decorated with a rainbow flower clip and dangling bead ornaments at one side.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based blue fox ears with pale inner fur and one thick, fluffy fox tail that curves behind her, colored blue at the base and fading through white into a soft pink-lavender tip.
+
+ 4. Upper Body: Around her neck is a black choker with a gold paw-like charm, and she wears a fitted black cropped top under a cropped black hooded jacket detailed with iridescent rainbow trim, colorful strap hardware, paw-and-flower patches, and a bold rainbow fox-head emblem on the back; both the back hood tab and a long hanging front strap carry stylized Japanese text.
+
+ 5. Lower Body & Feet: Her shorts are black utility cutoffs with a belt, side chains, dangling tabs, paw-print motifs, and a strapped thigh band. Short black socks lead into bulky black platform sneakers with paw accents and thick soles.
+
+ 6. Pose: Standing straight and front-facing with both legs relaxed and both arms resting naturally at her sides.
 
 Physical Appearance Prompt Style 1c — Nijika Alt Style 2
 
-Nijika has a similarly slim, youthful build, pale blue eyes, and a mild composed smile, but this version reads cooler and softer in color. Her short layered bob is powder blue with gentler pink-lilac undertones tucked beneath the ends, and the same rainbow flower-and-bead ornament decorates the right side of her head. Her ears remain tall and wide with white inner fur, while her tail is still plush and full but now fades more cleanly from blue into white and then blush pink at the tip, making the gradient feel lighter than the earlier version. She wears the same black wrap crop top beneath a cropped black hoodie-jacket with an oversized iridescent rainbow-lined hood, floral paw-print motifs, metallic strap details, and neon trim, with the small labels again reading “西川ニジカ,” or “Nishikawa Nijika,” and the back displaying the large multicolored fox-face logo framed by floral paw symbols. Her lower half repeats the black shorts with chain loops, hanging straps, and a single thigh band, together with black ankle socks and heavy black sneakers decorated by pink and blue paw prints. She stands in the same neutral turnaround pose with both arms relaxed straight down, hands lightly open beside her thighs, and her feet set evenly under her shoulders.
+ 1. Base Anatomy: Nijika has a similarly slim, youthful build. Pale blue eyes, and a mild composed smile, but this version reads cooler and softer in color.
+
+ 2. Hair & Head: Her short layered bob is powder blue with gentler pink-lilac undertones tucked beneath the ends, and the same rainbow flower-and-bead ornament decorates the right side of her head.
+
+ 3. Species Traits: Fox Logic — Her ears remain tall and wide with white inner fur, while her tail is still plush and full but now fades more cleanly from blue into white and then blush pink at the tip, making the gradient feel lighter than the earlier version.
+
+ 4. Upper Body: She wears the same black wrap crop top beneath a cropped black hoodie-jacket with an oversized iridescent rainbow-lined hood, floral paw-print motifs, metallic strap details, and neon trim, with the small labels again reading “西川ニジカ,” or “Nishikawa Nijika,” and the back displaying the large multicolored fox-face logo framed by floral paw symbols.
+
+ 5. Lower Body & Feet: Her lower half repeats the black shorts with chain loops, hanging straps, and a single thigh band, together with black ankle socks and heavy black sneakers decorated by pink and blue paw prints.
+
+ 6. Pose: She stands in the same neutral turnaround pose with both arms relaxed straight down, hands lightly open beside her thighs, and her feet set evenly under her shoulders.
 
 Physical Appearance Prompt Style 2 — Nijika Alt Style 2
 
-Nijika is a petite, slight girl with shaggy, layered sky-blue hair falling to her shoulders over a pastel pink-and-rainbow underlayer, decorated with a rainbow-gradient flower ornament and slim trailing ribbons, and she has pale glacier-blue eyes and a soft, closed-lip smile. Her animal features include large, wide-based fluffy blue ears with pale pink-and-white inner tufts, and a single grand, thick and bushy tail that shifts from cornflower blue through frosty white into a bubblegum-pink tip. She wears a black harness-style halter collar centered on a golden ring and bell-flower ornament, along with black fingerless gloves. Her outfit is a black strappy crop top under a cropped black hooded moto jacket outlined in iridescent rainbow-holographic trim across the lapels, zippers, pocket flaps, and buckled sleeve straps and dotted with pastel flowers and paw prints, its back carrying a large rainbow-gradient fox head wreathed in blossoms below a rectangular patch printed 西川ニジカ — "Nishikawa Nijika," her own name, its given name echoing niji, Japanese for rainbow — echoed again down a sleeve strap, paired with black cuffed shorts on a rainbow-buckled belt draped with chains, harness straps, a long iridescent thigh ribbon repeating the same lettering, and a black thigh strap with a pink paw charm, black slouched socks, and chunky black platform sneakers marked with pastel pink and blue paw prints. Her expression is a mellow, friendly smile with her arms hanging relaxed at her sides, held just off her body.
+ 1. Base Anatomy: Nijika is a petite, slight girl. She has pale glacier-blue eyes and a soft, closed-lip smile. Her expression is a mellow, friendly smile.
+
+ 2. Hair & Head: Shaggy, layered sky-blue hair falling to her shoulders over a pastel pink-and-rainbow underlayer, decorated with a rainbow-gradient flower ornament and slim trailing ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based fluffy blue ears with pale pink-and-white inner tufts, and a single grand, thick and bushy tail that shifts from cornflower blue through frosty white into a bubblegum-pink tip.
+
+ 4. Upper Body: She wears a black harness-style halter collar centered on a golden ring and bell-flower ornament, along with black fingerless gloves. Her outfit is a black strappy crop top under a cropped black hooded moto jacket outlined in iridescent rainbow-holographic trim across the lapels, zippers, pocket flaps, and buckled sleeve straps and dotted with pastel flowers and paw prints, its back carrying a large rainbow-gradient fox head wreathed in blossoms below a rectangular patch printed 西川ニジカ — "Nishikawa Nijika," her own name, its given name echoing niji, Japanese for rainbow — echoed again down a sleeve strap.
+
+ 5. Lower Body & Feet: Paired with black cuffed shorts on a rainbow-buckled belt draped with chains, harness straps, a long iridescent thigh ribbon repeating the same lettering, and a black thigh strap with a pink paw charm, black slouched socks, and chunky black platform sneakers marked with pastel pink and blue paw prints.
+
+ 6. Pose: With her arms hanging relaxed at her sides, held just off her body.
 
 Physical Appearance Prompt Style 2b — Nijika Alt Style 2
 
-Nijika has a petite, slight build with fair skin, pale glacier-blue eyes, and a gentle closed-lip smile. Her shaggy sky-blue hair falls to her shoulders in tousled layers over a pastel pink-and-rainbow underlayer at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons. Fluffy blue ears with soft white inner fur perch on her head, and one large, plush tail sweeps behind her, its fur blending from sky blue at the base through frosty white into rose pink at the tip. Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats along a sleeve strap and the jacket hem. Her black cuffed shorts are cinched by a rainbow-buckled belt hung with silver chains and harness straps, a long iridescent ribbon printed with the matching 西川ニジカ lettering hanging at her left thigh beside a black thigh strap with a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel pink and blue paw prints. She stands square to the viewer with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Nijika has a petite, slight build with fair skin. Pale glacier-blue eyes, and a gentle closed-lip smile.
+
+ 2. Hair & Head: Her shaggy sky-blue hair falls to her shoulders in tousled layers over a pastel pink-and-rainbow underlayer at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
+
+ 3. Species Traits: Fox Logic — Fluffy blue ears with soft white inner fur perch on her head, and one large, plush tail sweeps behind her, its fur blending from sky blue at the base through frosty white into rose pink at the tip.
+
+ 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats along a sleeve strap and the jacket hem.
+
+ 5. Lower Body & Feet: Her black cuffed shorts are cinched by a rainbow-buckled belt hung with silver chains and harness straps, a long iridescent ribbon printed with the matching 西川ニジカ lettering hanging at her left thigh beside a black thigh strap with a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel pink and blue paw prints.
+
+ 6. Pose: She stands square to the viewer with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 3 — Nijika Alt Style 2
 
-Nijika is slender with short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side, and bright blue eyes with a cheerful, friendly expression. Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients from light blue at the base to a white middle section and ends in a soft pink tip. She wears a black choker with a golden bell and overlapping straps, a black thigh garter on her right leg with a hanging tag, a black belt with a rainbow buckle and dangling chain links, and long rainbow ribbons hanging from her waist, one inscribed with "西川ニジカ". Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, a prominent rainbow fox emblem on the back, and the text "西川ニジカ" on the hood label, black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides. Her expression is a wide, happy smile with both arms resting naturally down at her sides in a casual, standing posture.
+ 1. Base Anatomy: Nijika is slender. Bright blue eyes with a cheerful, friendly expression. Her expression is a wide, happy smile.
+
+ 2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients from light blue at the base to a white middle section and ends in a soft pink tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell and overlapping straps. Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, a prominent rainbow fox emblem on the back, and the text "西川ニジカ" on the hood label.
+
+ 5. Lower Body & Feet: A black thigh garter on her right leg with a hanging tag, a black belt with a rainbow buckle and dangling chain links, and long rainbow ribbons hanging from her waist, one inscribed with "西川ニジカ". Black high-waisted denim shorts with frayed edges, black ankle-length socks decorated with a pink paw print icon, and chunky black platform sneakers with black laces and a pink paw print emblem on the sides.
+
+ 6. Pose: With both arms resting naturally down at her sides in a casual, standing posture.
 
 Physical Appearance Prompt Style 4 — Nijika Alt Style 2
 
-Nijika is a petite girl with short, messy blue hair featuring pink-tinted tips, blunt bangs, and rainbow floral hair clips, and vivid blue eyes. Her animal features include large, wide-based blue fox ears and a thick, bushy fox tail with a clear blue, white, and pink gradient. She wears a black choker with a golden bell. Her outfit is a black zip-up jacket with iridescent rainbow trim and a large colorful fox graphic on the back layered over a black crop top, black shorts with chains and a strap reading "西川ニジカ" (Nishikawa Nijika), black socks, and black chunky sneakers with colorful paw-print accents. Her expression is a cheerful open-mouthed smile with her arms resting casually at her sides.
+ 1. Base Anatomy: Nijika is a petite girl. Vivid blue eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Short, messy blue hair featuring pink-tinted tips, blunt bangs, and rainbow floral hair clips.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears and a thick, bushy fox tail with a clear blue, white, and pink gradient.
+
+ 4. Upper Body: She wears a black choker with a golden bell. Her outfit is a black zip-up jacket with iridescent rainbow trim and a large colorful fox graphic on the back layered over a black crop top.
+
+ 5. Lower Body & Feet: Black shorts with chains and a strap reading "西川ニジカ" (Nishikawa Nijika), black socks, and black chunky sneakers with colorful paw-print accents.
+
+ 6. Pose: With her arms resting casually at her sides.
 
 Physical Appearance Prompt Style 4b — Nijika Alt Style 2
 
-Nijika is a slender young girl with bright blue eyes and short, messy light blue hair that elegantly gradients into a soft pink at the tips, accented by a vibrant floral hair clip on her left side. Applying fox logic, she possesses large, wide-based light blue ears with white inner fluff and a thick, bushy tail that smoothly gradients from light blue at the base to white, finishing with a bright pink tip. Her outfit begins with a black crisscross choker attached to a gold bell, layered beneath a black crop top displaying a small floral and paw print design, worn under a black cropped zip-up jacket detailed with striking iridescent rainbow trim down the sleeves, dangling straps, and a vibrant back graphic showing a colorful fox head, paw prints, flowers, and pink kanji reading "西川ニジカ" (Nishikawa Nijika) across the hood. She wears black shorts cinched by a belt with a holographic buckle, accessorized with silver hip chains, a hanging strap with matching kanji fading from cyan to pink, and a single black garter strap on her right thigh. Her legwear features black slouchy crew socks paired with chunky black sneakers that sport mismatched pink and blue paw print motifs on the heels. She exhibits a gentle, friendly smile, standing casually with her arms resting straight down at her sides.
+ 1. Base Anatomy: Nijika is a slender young girl. Bright blue eyes. She exhibits a gentle, friendly smile.
+
+ 2. Hair & Head: Short, messy light blue hair that elegantly gradients into a soft pink at the tips, accented by a vibrant floral hair clip on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she possesses large, wide-based light blue ears with white inner fluff and a thick, bushy tail that smoothly gradients from light blue at the base to white, finishing with a bright pink tip.
+
+ 4. Upper Body: Her outfit begins with a black crisscross choker attached to a gold bell, layered beneath a black crop top displaying a small floral and paw print design, worn under a black cropped zip-up jacket detailed with striking iridescent rainbow trim down the sleeves, dangling straps, and a vibrant back graphic showing a colorful fox head, paw prints, flowers, and pink kanji reading "西川ニジカ" (Nishikawa Nijika) across the hood.
+
+ 5. Lower Body & Feet: She wears black shorts cinched by a belt with a holographic buckle, accessorized with silver hip chains, a hanging strap with matching kanji fading from cyan to pink, and a single black garter strap on her right thigh. Her legwear features black slouchy crew socks paired with chunky black sneakers that sport mismatched pink and blue paw print motifs on the heels.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
 
 ---
 
@@ -4351,35 +6222,115 @@ Yuuhi is a radiant, sunset-colored fox girl whose affection arrives with exubera
 
 Physical Appearance Prompt Style 1 — Yuuhi
 
-Yuuhi is a petite, slim girl with very long, voluminous wavy hair that begins as warm orange at the crown and gradually transitions through coral into rich sunset pink along the lower lengths, framed by soft bangs and a large sakura-and-ribbon ornament, and pinkish-red eyes with a bright, spirited expression. Her animal features include large, wide-based orange fox ears with pale inner fur and one exceptionally thick, flowing fox tail that mirrors her sunset palette, blending from orange through pink into a luminous white tip. She wears a pink cherry-blossom ornament with a large ribbon and dangling floral charms, a black choker with a small gold flower pendant, and subtle chain and strap accessories at her shorts. Her outfit is a white cropped tank top printed with a minimalist coral sunset motif layered beneath an oversized white-and-salmon zip hoodie with floral prints, gradient sleeves, and a warm coral hood, paired with high-waisted black utility shorts featuring a belt, side straps, chains, and a small dangling paw tag, black slouch socks, and chunky black platform sneakers with colored paw-print details. Her expression is a lively open-mouthed smile with both arms hanging loosely and comfortably at her sides in a relaxed, upbeat stance.
+ 1. Base Anatomy: Yuuhi is a petite, slim girl. Pinkish-red eyes with a bright, spirited expression. Her expression is a lively open-mouthed smile.
+
+ 2. Hair & Head: Very long, voluminous wavy hair that begins as warm orange at the crown and gradually transitions through coral into rich sunset pink along the lower lengths, framed by soft bangs and a large sakura-and-ribbon ornament.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based orange fox ears with pale inner fur and one exceptionally thick, flowing fox tail that mirrors her sunset palette, blending from orange through pink into a luminous white tip.
+
+ 4. Upper Body: She wears a pink cherry-blossom ornament with a large ribbon and dangling floral charms, a black choker with a small gold flower pendant. Her outfit is a white cropped tank top printed with a minimalist coral sunset motif layered beneath an oversized white-and-salmon zip hoodie with floral prints, gradient sleeves, and a warm coral hood.
+
+ 5. Lower Body & Feet: Subtle chain and strap accessories at her shorts. Paired with high-waisted black utility shorts featuring a belt, side straps, chains, and a small dangling paw tag, black slouch socks, and chunky black platform sneakers with colored paw-print details.
+
+ 6. Pose: With both arms hanging loosely and comfortably at her sides in a relaxed, upbeat stance.
 
 Physical Appearance Prompt Style 1b — Yuuhi
 
-Yuuhi is a slim, petite girl with vivid pink-magenta eyes and a warmly excited gaze, surrounded by exceptionally long orange-coral hair that falls in voluminous waves past her waist and gradually shifts through salmon and rose pink toward the lower lengths, with layered bangs and a large pink cherry-blossom bow ornament trailing ribbons, tiny flowers, and star-shaped charms. She has large, wide-based orange fox ears with pale pink-white inner tufts and one enormous, densely bushy tail that begins warm orange, transitions into rose pink, and finishes in a broad white-tipped gradient. A black choker with a small gold floral pendant circles her neck above a cropped white camisole printed with a stylized coral-orange sunset emblem showing a half sun over horizontal reflective brushstrokes, layered beneath an oversized white zip-front hooded jacket with a coral-pink hood, long drawstrings, peach-to-pink gradient balloon sleeves, and large sakura motifs near the cuffs. High-waisted black utility shorts are held by a black belt and decorated with gold rings, fine chains, side straps, and a hanging black tab bearing a pink paw-print badge. Her bare legs lead into short black scrunched socks and chunky black platform lace-up sneakers with heavy tread soles and asymmetric colored paw-print emblems in pink and cyan-blue. She finishes with a wide open-mouthed smile, facing directly forward with her feet comfortably apart and both arms resting straight and relaxed at her sides.
+ 1. Base Anatomy: Yuuhi is a slim, petite girl. Vivid pink-magenta eyes. She finishes with a wide open-mouthed smile.
+
+ 2. Hair & Head: A warmly excited gaze, surrounded by exceptionally long orange-coral hair that falls in voluminous waves past her waist and gradually shifts through salmon and rose pink toward the lower lengths, with layered bangs and a large pink cherry-blossom bow ornament trailing ribbons, tiny flowers, and star-shaped charms.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based orange fox ears with pale pink-white inner tufts and one enormous, densely bushy tail that begins warm orange, transitions into rose pink, and finishes in a broad white-tipped gradient.
+
+ 4. Upper Body: A black choker with a small gold floral pendant circles her neck above a cropped white camisole printed with a stylized coral-orange sunset emblem showing a half sun over horizontal reflective brushstrokes, layered beneath an oversized white zip-front hooded jacket with a coral-pink hood, long drawstrings, peach-to-pink gradient balloon sleeves, and large sakura motifs near the cuffs.
+
+ 5. Lower Body & Feet: High-waisted black utility shorts are held by a black belt and decorated with gold rings, fine chains, side straps, and a hanging black tab bearing a pink paw-print badge. Her bare legs lead into short black scrunched socks and chunky black platform lace-up sneakers with heavy tread soles and asymmetric colored paw-print emblems in pink and cyan-blue.
+
+ 6. Pose: Facing directly forward with her feet comfortably apart and both arms resting straight and relaxed at her sides.
 
 Physical Appearance Prompt Style 1c — Yuuhi
 
-Yuuhi has a slim, youthful build, soft rose-pink eyes, and a bright open smile that makes her read as warm and approachable. Her hair is extremely long and wavy, starting in light apricot orange and melting into coral pink through the lengths, with straight bangs and a large pink bow and sakura ornament pinned to one side with dangling flower charms. She has orange ears with pale inner fur and a long, thick tail that moves from orange through peach and pink to a white tip. Her upper body is dressed in a white cropped top printed with a stylized sunset graphic in peach-pink, layered under a short white hoodie with a coral hood, peach gradient cuffs and hem, and floral prints blooming across the sleeves, with a black choker and small floral charm at the neck. Her lower half is made up of black high-waisted shorts with straps, clips, and a belt, black slouch socks, and heavy black platform boots with paw-print motifs worked into the soles and heel details. In the front view she stands upright with her torso square to the viewer, both arms relaxed straight down, and both hands hanging loosely beside her hips.
+ 1. Base Anatomy: Yuuhi has a slim, youthful build. Soft rose-pink eyes, and a bright open smile that makes her read as warm and approachable.
+
+ 2. Hair & Head: Her hair is extremely long and wavy, starting in light apricot orange and melting into coral pink through the lengths, with straight bangs and a large pink bow and sakura ornament pinned to one side with dangling flower charms.
+
+ 3. Species Traits: Fox Logic — She has orange ears with pale inner fur and a long, thick tail that moves from orange through peach and pink to a white tip.
+
+ 4. Upper Body: Her upper body is dressed in a white cropped top printed with a stylized sunset graphic in peach-pink, layered under a short white hoodie with a coral hood, peach gradient cuffs and hem, and floral prints blooming across the sleeves, with a black choker and small floral charm at the neck.
+
+ 5. Lower Body & Feet: Her lower half is made up of black high-waisted shorts with straps, clips, and a belt, black slouch socks, and heavy black platform boots with paw-print motifs worked into the soles and heel details.
+
+ 6. Pose: In the front view she stands upright with her torso square to the viewer, both arms relaxed straight down, and both hands hanging loosely beside her hips.
 
 Physical Appearance Prompt Style 2 — Yuuhi
 
-Yuuhi is a slender, easygoing girl with extraordinarily long hair cascading in dense mermaid waves from warm tangerine at the crown through coral into soft pink at the ends, pinned above one ear with a pink cherry-blossom bow ornament trailing ribbon streamers and tiny star charms, and her rosy magenta eyes sit above a wide open smile. Her animal features include large, wide-based orange ears tufted with white fluff and one immense, thick, bushy floor-length tail that flows from orange through deep pink into a snowy white tip. She wears a black choker with a small golden pendant at her throat. Her outfit is a white crop top printed with a wordless pictorial graphic of a pink-and-orange sun setting over reflecting water, layered under an oversized white zip hoodie with a pink-lined hood, peach pockets, and sleeves that blush into orange-pink cuffs scattered with white sakura, paired with black belted cargo shorts hung with loose suspender straps, gold zips, and a paw-print charm strap, slouchy black socks, and heavy black platform sneakers marked with pastel pink and blue paw prints. Her expression is a carefree open-mouthed smile, and she stands at ease with both arms hanging loosely at her sides.
+ 1. Base Anatomy: Yuuhi is a slender, easygoing girl. Rosy magenta eyes sit above a wide open smile. Her expression is a carefree open-mouthed smile,.
+
+ 2. Hair & Head: Extraordinarily long hair cascading in dense mermaid waves from warm tangerine at the crown through coral into soft pink at the ends, pinned above one ear with a pink cherry-blossom bow ornament trailing ribbon streamers and tiny star charms.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based orange ears tufted with white fluff and one immense, thick, bushy floor-length tail that flows from orange through deep pink into a snowy white tip.
+
+ 4. Upper Body: She wears a black choker with a small golden pendant at her throat. Her outfit is a white crop top printed with a wordless pictorial graphic of a pink-and-orange sun setting over reflecting water, layered under an oversized white zip hoodie with a pink-lined hood, peach pockets, and sleeves that blush into orange-pink cuffs scattered with white sakura.
+
+ 5. Lower Body & Feet: Paired with black belted cargo shorts hung with loose suspender straps, gold zips, and a paw-print charm strap, slouchy black socks, and heavy black platform sneakers marked with pastel pink and blue paw prints.
+
+ 6. Pose: She stands at ease with both arms hanging loosely at her sides.
 
 Physical Appearance Prompt Style 2b — Yuuhi
 
-Yuuhi has a slender build with fair skin, soft rose-pink eyes, and a bright open smile. Her extraordinarily long, wavy hair pours past her knees in a warm gradient from vivid orange at the crown through coral into pink, decorated with a pink sakura bow ornament trailing ribbons and tiny star charms. Large orange ears with white inner fluff stand wide atop her head, and one enormous, sweeping tail cascades nearly to the floor, its thick fur blending from orange through rosy pink to a white tip. She wears a black choker with a small golden pendant, a white crop tee printed with a pictorial graphic of an orange sun setting over rippling water that contains no text, and an oversized zip-up hoodie in white with a pink-lined hood and drawstrings, its sleeves melting into peach and pink with white sakura prints and its pockets accented in orange. Her black high-waisted belted shorts carry gold zips, dangling suspender-style straps, and a black strap with a paw-print charm, worn with black slouchy loose socks and chunky black platform sneaker-boots marked with pastel pink and blue paw prints at the toes and heels. She stands calmly with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Yuuhi has a slender build with fair skin. Soft rose-pink eyes, and a bright open smile.
+
+ 2. Hair & Head: Her extraordinarily long, wavy hair pours past her knees in a warm gradient from vivid orange at the crown through coral into pink, decorated with a pink sakura bow ornament trailing ribbons and tiny star charms.
+
+ 3. Species Traits: Fox Logic — Large orange ears with white inner fluff stand wide atop her head, and one enormous, sweeping tail cascades nearly to the floor, its thick fur blending from orange through rosy pink to a white tip.
+
+ 4. Upper Body: She wears a black choker with a small golden pendant, a white crop tee printed with a pictorial graphic of an orange sun setting over rippling water that contains no text, and an oversized zip-up hoodie in white with a pink-lined hood and drawstrings, its sleeves melting into peach and pink with white sakura prints and its pockets accented in orange.
+
+ 5. Lower Body & Feet: Her black high-waisted belted shorts carry gold zips, dangling suspender-style straps, and a black strap with a paw-print charm, worn with black slouchy loose socks and chunky black platform sneaker-boots marked with pastel pink and blue paw prints at the toes and heels.
+
+ 6. Pose: She stands calmly with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 3 — Yuuhi
 
-Yuuhi is slender with long, voluminous peach-orange hair that transitions into an extensive pink gradient at the ends, styled with straight bangs, side layers, and a large pink ribbon bow with a cherry blossom center on the left side of her head, and warm pinkish-purple eyes with a bright, lively expression. Her animal features include large, wide-based orange fox ears with soft inner fur and a thick, bushy, fluffy orange fox tail that beautifully gradients into a vibrant pink and white tip. She wears a black choker with a golden star charm and double black buckled straps hanging from her shorts with pink paw-print tags. Her outfit is a white cropped tank top featuring a graphic of a pink sunset over water, layered under an oversized white streetwear zip-up hoodie with a pink sunset gradient and cherry blossom motifs on the hem and wide sleeves, black high-waisted shorts with a silver buckled belt, black crew-length socks, and black chunky platform sneakers with black laces and a pink paw print design on the outer side. Her expression is a cheerful, wide open-mouthed smile with her arms hanging relaxed down by her sides in a straightforward, standing presentation.
+ 1. Base Anatomy: Yuuhi is slender. Warm pinkish-purple eyes with a bright, lively expression. Her expression is a cheerful, wide open-mouthed smile.
+
+ 2. Hair & Head: Long, voluminous peach-orange hair that transitions into an extensive pink gradient at the ends, styled with straight bangs, side layers, and a large pink ribbon bow with a cherry blossom center on the left side of her head.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based orange fox ears with soft inner fur and a thick, bushy, fluffy orange fox tail that beautifully gradients into a vibrant pink and white tip.
+
+ 4. Upper Body: She wears a black choker with a golden star charm and double black buckled straps hanging from her. Her outfit is a white cropped tank top featuring a graphic of a pink sunset over water, layered under an oversized white streetwear zip-up hoodie with a pink sunset gradient and cherry blossom motifs on the hem and wide sleeves.
+
+ 5. Lower Body & Feet: Shorts with pink paw-print tags. Black high-waisted shorts with a silver buckled belt, black crew-length socks, and black chunky platform sneakers with black laces and a pink paw print design on the outer side.
+
+ 6. Pose: With her arms hanging relaxed down by her sides in a straightforward, standing presentation.
 
 Physical Appearance Prompt Style 4 — Yuuhi
 
-Yuuhi is a slim girl with highly voluminous orange hair fading into pink ends, straight bangs, and pink floral clips, and bright magenta eyes. Her animal features include large, wide-based orange fox ears and a thick, bushy fox tail with an orange to pink gradient and white tip. She wears a black sun choker and a large pink ribbon hairpiece. Her outfit is an oversized white zip-up hoodie with sunset-gradient sleeves layered over a white crop top, black shorts with hanging utility straps and gold chains, black slouched socks, and chunky black platform sneakers with asymmetrical paw prints. Her expression is a cheerful open-mouthed smile with her arms resting naturally down at her sides.
+ 1. Base Anatomy: Yuuhi is a slim girl. Bright magenta eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Highly voluminous orange hair fading into pink ends, straight bangs, and pink floral clips. She wears a black sun choker and a large pink ribbon hairpiece.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based orange fox ears and a thick, bushy fox tail with an orange to pink gradient and white tip.
+
+ 4. Upper Body: She wears a black sun choker and a large pink ribbon hairpiece. Her outfit is an oversized white zip-up hoodie with sunset-gradient sleeves layered over a white crop top.
+
+ 5. Lower Body & Feet: Black shorts with hanging utility straps and gold chains, black slouched socks, and chunky black platform sneakers with asymmetrical paw prints.
+
+ 6. Pose: With her arms resting naturally down at her sides.
 
 Physical Appearance Prompt Style 4b — Yuuhi
 
-Yuuhi has a slender build, bright pinkish-purple eyes, and incredibly long, wavy orange hair that gradients beautifully into pastel pink at the ends, adorned with a pink floral and ribbon hairpiece on her left side. Applying fox logic, she features large, wide-based orange ears and a massive, thick, bushy tail that transitions from vibrant orange to pink before finishing with a pure white tip. Her attire includes a thin black choker with a sun charm, worn underneath a white crop top displaying a minimalist orange sunset graphic, layered with a loose, cropped white and orange gradient zip-up hoodie featuring subtle cherry blossom patterns on the flared sleeves. She pairs this with black high-waisted shorts secured by a black belt, accessorized with silver hip chains and dangling black straps featuring a small paw print motif. Her lower half is completed with simple black crew socks and chunky black platform sneakers decorated with contrasting blue and pink paw prints on the heels. She wears a cheerful, open-mouthed smile, posing casually with her arms resting loosely down by her sides.
+ 1. Base Anatomy: Yuuhi has a slender build. Bright pinkish-purple eyes. She wears a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Incredibly long, wavy orange hair that gradients beautifully into pastel pink at the ends, adorned with a pink floral and ribbon hairpiece on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she features large, wide-based orange ears and a massive, thick, bushy tail that transitions from vibrant orange to pink before finishing with a pure white tip.
+
+ 4. Upper Body: Her attire includes a thin black choker with a sun charm, worn underneath a white crop top displaying a minimalist orange sunset graphic, layered with a loose, cropped white and orange gradient zip-up hoodie featuring subtle cherry blossom patterns on the flared sleeves.
+
+ 5. Lower Body & Feet: She pairs this with black high-waisted shorts secured by a black belt, accessorized with silver hip chains and dangling black straps featuring a small paw print motif. Her lower half is completed with simple black crew socks and chunky black platform sneakers decorated with contrasting blue and pink paw prints on the heels.
+
+ 6. Pose: Posing casually with her arms resting loosely down by her sides.
 
 ---
 
@@ -4573,35 +6524,115 @@ Yurine is a lily-white fox girl whose affection is expressed through a radiant s
 
 Physical Appearance Prompt Style 1 — Yurine
 
-Yurine is a petite, delicate girl with shoulder-length silvery-white hair cut into a softly rounded bob with faint lavender-blue shading, side-swept bangs, and a large white lily ornament tucked beside one ear, and warm amber-gold eyes with a sweet, animated expression. Her animal features include large, wide-based pale-white fox ears with soft inner fur and one thick, plush white fox tail with a subtle lavender cast that curves outward behind her. She wears a clustered white lily hairpiece with green leaves, gold chains, and dangling petals, a delicate gold-trimmed collar necklace, and additional lily, bow, and tassel ornaments throughout her dress. Her outfit is a white and pale-lavender fantasy dress with an off-the-shoulder bodice, long flared sleeves, gold floral embroidery, layered petal-shaped skirt panels, lavender ruffle layers, and a large lavender bow at the back centered by a white lily, paired with decorative white thigh straps and otherwise bare legs, and white heeled ankle boots with folded ruffled cuffs, lavender bows, gold trim, and lily ornaments. Her expression is a cheerful open-mouthed smile with both hands lifted near her chest in a gentle double paw pose.
+ 1. Base Anatomy: Yurine is a petite, delicate girl. Warm amber-gold eyes with a sweet, animated expression. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Shoulder-length silvery-white hair cut into a softly rounded bob with faint lavender-blue shading, side-swept bangs, and a large white lily ornament tucked beside one ear. She wears a clustered white lily hairpiece with green leaves.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pale-white fox ears with soft inner fur and one thick, plush white fox tail with a subtle lavender cast that curves outward behind her.
+
+ 4. Upper Body: She wears a clustered white lily hairpiece with green leaves, gold chains, and dangling petals, a delicate gold-trimmed collar necklace, and additional lily, bow, and tassel ornaments throughout her dress. Her outfit is a white and pale-lavender fantasy dress with an off-the-shoulder bodice, long flared sleeves, gold floral embroidery.
+
+ 5. Lower Body & Feet: Layered petal-shaped skirt panels, lavender ruffle layers, and a large lavender bow at the back centered by a white lily, paired with decorative white thigh straps and otherwise bare legs, and white heeled ankle boots with folded ruffled cuffs, lavender bows, gold trim, and lily ornaments.
+
+ 6. Pose: With both hands lifted near her chest in a gentle double paw pose.
 
 Physical Appearance Prompt Style 1b — Yurine
 
 Physical Appearance Prompt Style 1b — Yurine
 
-Yurine has a petite, delicate build, warm amber-gold eyes, and an open, happy smile that suits her soft pastel palette. Her hair is a short, silky bob in white with the faintest lavender-blue cast toward the ends, with smooth bangs and a large white lily ornament on one side accented by hanging gold and pearl-like strands. She has pale white ears with a cool lilac tint and a fluffy, rounded tail in soft lavender-white. Her upper outfit is a white off-shoulder dress with gold-edged floral motifs, a central lilac bow crowned by a white flower at the chest, and detached bell sleeves ornamented with lilac ribbon bands and dangling charms, while the back is tied with a large lilac bow that frames the base of the tail. The lower portion includes layered white ruffles and short bloomers beneath the dress, a floral garter winding around one thigh, long draped back panels lined in lilac, and white ankle boots with ruffled tops and floral ribbon decorations. In the front pose she stands facing forward with both feet evenly placed and both hands raised beside her chest in a neat pawing gesture.
+ 1. Base Anatomy: Yurine has a petite, delicate build. Warm amber-gold eyes, and an open, happy smile that suits her soft pastel palette.
 
-Yurine is a petite, slender girl with warm golden-amber eyes and a radiant, cheerful gaze, paired with a short chin-length icy-white bob shaded faintly in pale lavender-blue, shaped with smooth inward-curving ends and soft straight bangs, and decorated at one side with a large cluster of white lilies, green leaves, and fine gold bead chains. She has large, wide-based white fox ears with cool lavender shading at the outer tips and pale pink-white inner tufts, plus one thick, plush tail in snowy white and soft lavender that curves prominently behind her. A white-and-gold collar with a delicate floral pendant rests above an empire-waisted white dress bodice centered by a sculpted white lily over a broad lavender bow, with fine gold edging and botanical embroidery; long off-shoulder bell sleeves are secured by lavender-and-white bows and decorated with gold floral linework. The dress opens into layered petal-shaped white skirt panels over pale lavender ruffles and extends into two long split side drapes lined in lavender, edged in gold, and finished with hanging white lily tassels, while a large lavender back bow and central lily frame the base of her tail. One thigh carries a delicate white floral garter with fine gold chains and suspended botanical charms. White high-heeled ankle boots feature ruffled cuffs, gold piping, large white lily ornaments, lavender ribbon bows, and dangling gold details. She ends with a delighted open-mouthed smile, standing front-facing with her feet slightly apart and both elbows bent as she raises two small fists beside her shoulders in a playful double paw pose.
+ 2. Hair & Head: Her hair is a short, silky bob in white with the faintest lavender-blue cast toward the ends, with smooth bangs and a large white lily ornament on one side accented by hanging gold and pearl-like strands.
+
+ 3. Species Traits: Fox Logic — She has pale white ears with a cool lilac tint and a fluffy, rounded tail in soft lavender-white.
+
+ 4. Upper Body: Her upper outfit is a white off-shoulder dress with gold-edged floral motifs, a central lilac bow crowned by a white flower at the chest, and detached bell sleeves ornamented with lilac ribbon bands and dangling charms, while the back is tied with a large lilac bow that frames the base of the tail.
+
+ 5. Lower Body & Feet: The lower portion includes layered white ruffles and short bloomers beneath the dress, a floral garter winding around one thigh, long draped back panels lined in lilac, and white ankle boots with ruffled tops and floral ribbon decorations.
+
+ 6. Pose: In the front pose she stands facing forward with both feet evenly placed and both hands raised beside her chest in a neat pawing gesture.
+
+ 1. Base Anatomy: Yurine is a petite, slender girl. Warm golden-amber eyes. She ends with a delighted open-mouthed smile.
+
+ 2. Hair & Head: A radiant, cheerful gaze, paired with a short chin-length icy-white bob shaded faintly in pale lavender-blue, shaped with smooth inward-curving ends and soft straight bangs, and decorated at one side with a large cluster of white lilies, green leaves, and fine gold bead chains.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based white fox ears with cool lavender shading at the outer tips and pale pink-white inner tufts, plus one thick, plush tail in snowy white and soft lavender that curves prominently behind her.
+
+ 4. Upper Body: A white-and-gold collar with a delicate floral pendant rests above an empire-waisted white dress bodice centered by a sculpted white lily over a broad lavender bow, with fine gold edging and botanical embroidery; long off-shoulder bell sleeves are secured by lavender-and-white bows and decorated with gold floral linework. The dress opens into layered petal-shaped white.
+
+ 5. Lower Body & Feet: Skirt panels over pale lavender ruffles and extends into two long split side drapes lined in lavender, edged in gold, and finished with hanging white lily tassels, while a large lavender back bow and central lily frame the base of her tail. One thigh carries a delicate white floral garter with fine gold chains and suspended botanical charms. White high-heeled ankle boots feature ruffled cuffs, gold piping, large white lily ornaments, lavender ribbon bows, and dangling gold details.
+
+ 6. Pose: Standing front-facing with her feet slightly apart and both elbows bent as she raises two small fists beside her shoulders in a playful double paw pose.
 
 Physical Appearance Prompt Style 2 — Yurine
 
-Yurine is a petite, delicate girl with a sleek chin-length silvery-white bob brushed with lavender undertones beneath straight bangs, adorned above one ear with a white lily ornament shedding slender petal charms and golden bead strands, and her warm amber-orange eyes shine above an open, joyful smile. Her animal features include tall, wide-based pale lavender-white ears lined with soft fluff and one generous, thick, plush periwinkle-lavender tail that fans out behind her in a dense plume. She wears a gold-trimmed lily emblem at her standing collar and a white lace thigh garter with a hanging lily charm. Her outfit is a white lily-princess dress with a high gold-edged collar, open shoulders, and sheer detached sleeves flaring into wide frilled bell cuffs tied with lavender ribbons, its bodice centered on a large lavender bow with a lily corsage, its gold-embroidered scalloped hem worn over white lace-trimmed bloomers with lavender bows, and long white side drapes embroidered with golden lilies and tipped in tassels falling from the waist past her knees, echoed by a matching lavender lily bow at the back waist, finished with white block-heeled ankle boots collared in ruffles and dressed with lilies and purple ribbons over bare legs; the embroidery is purely floral, with no text. Her expression is a bright open-mouthed smile, and she raises both hands in soft fists to chest height in a double paw pose.
+ 1. Base Anatomy: Yurine is a petite, delicate girl. Warm amber-orange eyes shine above an open, joyful smile. Her expression is a bright open-mouthed smile, and she raises both hands in soft fists to chest height in a double paw pose.
+
+ 2. Hair & Head: A sleek chin-length silvery-white bob brushed with lavender undertones beneath straight bangs, adorned above one ear with a white lily ornament shedding slender petal charms and golden bead strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include tall, wide-based pale lavender-white ears lined with soft fluff and one generous, thick, plush periwinkle-lavender tail that fans out behind her in a dense plume.
+
+ 4. Upper Body: She wears a gold-trimmed lily emblem at her standing collar and a white lace thigh. Her outfit is a white lily-princess dress with a high gold-edged collar, open shoulders, and sheer detached sleeves flaring into wide frilled bell cuffs tied with lavender ribbons, its bodice centered on a large lavender bow with a lily corsage.
+
+ 5. Lower Body & Feet: Garter with a hanging lily charm. Its gold-embroidered scalloped hem worn over white lace-trimmed bloomers with lavender bows, and long white side drapes embroidered with golden lilies and tipped in tassels falling from the waist past her knees, echoed by a matching lavender lily bow at the back waist, finished with white block-heeled ankle boots collared in ruffles and dressed with lilies and purple ribbons over bare legs; the embroidery is purely floral, with no text.
+
+ 6. Pose: Her expression is a bright open-mouthed smile, and she raises both hands in soft fists to chest height in a double paw pose.
 
 Physical Appearance Prompt Style 2b — Yurine
 
-Yurine has a petite, dainty build with fair skin, warm amber-orange eyes, and a joyful open-mouthed smile. Her pale silver-lavender hair is cut in a soft, rounded bob at her shoulders with wispy bangs, adorned above one ear with a white lily ornament shedding petal strands and ribbons. Large pale periwinkle ears with white inner tufts stand wide on her head, and a single generously plumed tail in frosted lavender-white curls behind her. Her dress is a white high-collared confection, beginning with a gold-trimmed stand collar fastened by a lily clasp, open at the shoulders and joined to detached sheer bell sleeves with embroidered lily hems, frilled cuffs, and lavender bows, while the empire bodice carries a lavender ribbon bow centered on a white lily corsage. The A-line skirt is embroidered with golden lilies above a scalloped gold-trimmed hem and worn over white lace-edged bloomers with lavender bows, flanked by long white side drape panels embroidered with lilies and tipped with tassels and bell-flower charms, with a large lavender bow and lily crowning the back waist; a white garter band with a hanging lily charm circles her left thigh, and her feet are set in white heeled ankle boots with frilled fold-over cuffs, lily corsages, and ribbons, the entire outfit free of any lettering. She poses with both hands lifted in soft fists in a double paw pose beside her chest.
+ 1. Base Anatomy: Yurine has a petite, dainty build with fair skin. Warm amber-orange eyes, and a joyful open-mouthed smile.
+
+ 2. Hair & Head: Her pale silver-lavender hair is cut in a soft, rounded bob at her shoulders with wispy bangs, adorned above one ear with a white lily ornament shedding petal strands and ribbons.
+
+ 3. Species Traits: Fox Logic — Large pale periwinkle ears with white inner tufts stand wide on her head, and a single generously plumed tail in frosted lavender-white curls behind her.
+
+ 4. Upper Body: Her dress is a white high-collared confection, beginning with a gold-trimmed stand collar fastened by a lily clasp, open at the shoulders and joined to detached sheer bell sleeves with embroidered lily hems, frilled cuffs, and lavender bows, while the empire bodice carries a lavender ribbon bow centered on a white lily corsage.
+
+ 5. Lower Body & Feet: The A-line skirt is embroidered with golden lilies above a scalloped gold-trimmed hem and worn over white lace-edged bloomers with lavender bows, flanked by long white side drape panels embroidered with lilies and tipped with tassels and bell-flower charms, with a large lavender bow and lily crowning the back waist; a white garter band with a hanging lily charm circles her left thigh, and her feet are set in white heeled ankle boots with frilled fold-over cuffs, lily corsages, and ribbons, the entire outfit free of any lettering.
+
+ 6. Pose: She poses with both hands lifted in soft fists in a double paw pose beside her chest.
 
 Physical Appearance Prompt Style 3 — Yurine
 
-Yurine is petite and slender with short, straight silver-white hair featuring a soft lavender tint, styled with a neat fringe, face-framing bobs, and a pristine white lily flower ornament with green leaves and golden tassels behind her left ear, and bright amber-orange eyes with a joyful expression. Her animal features include large, wide-based white fox ears with soft lavender-tipped edges and a thick, bushy, fluffy white fox tail with a faint lavender hue. She wears a white thigh garter adorned with dangling golden ornaments and flower charms on her left leg, and a large lavender ribbon bow at the back of her waist centered with a white lily. Her outfit is a white off-the-shoulder dress with gold filigree patterns, flared sleeves with ruffled cuffs, and a purple ribbon lace-up detail at the chest accented by a white flower, matching white ruffled bloomers visible beneath the short skirt hem, white frilled ankle socks, and white high-heeled ankle boots decorated with a lavender ribbon and a white lily flower on the outer side. Her expression is a cheerful, open-mouthed smile with both hands brought up to her chest in a classic, cute double-paw fist gesture.
+ 1. Base Anatomy: Yurine is petite and slender. Bright amber-orange eyes with a joyful expression. Her expression is a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, straight silver-white hair featuring a soft lavender tint, styled with a neat fringe, face-framing bobs, and a pristine white lily flower ornament with green leaves and golden tassels behind her left ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears with soft lavender-tipped edges and a thick, bushy, fluffy white fox tail with a faint lavender hue.
+
+ 4. Upper Body: Her outfit is a white off-the-shoulder dress with gold filigree patterns, flared sleeves with ruffled cuffs, and a purple ribbon lace-up detail at the chest accented by a white flower.
+
+ 5. Lower Body & Feet: She wears a white thigh garter adorned with dangling golden ornaments and flower charms on her left leg, and a large lavender ribbon bow at the back of her waist centered with a white lily. Matching white ruffled bloomers visible beneath the short skirt hem, white frilled ankle socks, and white high-heeled ankle boots decorated with a lavender ribbon and a white lily flower on the outer side.
+
+ 6. Pose: With both hands brought up to her chest in a classic, cute double-paw fist gesture.
 
 Physical Appearance Prompt Style 4 — Yurine
 
-Yurine is a petite girl with medium-length, straight pale lavender-white hair, blunt bangs, and large white lily clips, and warm amber eyes. Her animal features include large, wide-based white fox ears and a thick, fluffy pure white fox tail. She wears a delicate white choker, elegant lily hairpieces with tassels, and a prominent lavender back bow. Her outfit is a white off-the-shoulder blouse with flared sleeves and gold embroidery layered over a ruffled white mini skirt and bloomers, a strappy white thigh garter, and white heeled ankle boots decorated with lilies. Her expression is a sweet open-mouthed smile with both hands softly curled into paw gestures near her chest.
+ 1. Base Anatomy: Yurine is a petite girl. Warm amber eyes. Her expression is a sweet open-mouthed smile.
+
+ 2. Hair & Head: Medium-length, straight pale lavender-white hair, blunt bangs, and large white lily clips. She wears a delicate white choker, elegant lily hairpieces with tassels.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, fluffy pure white fox tail.
+
+ 4. Upper Body: She wears a delicate white choker, elegant lily hairpieces with tassels, and a prominent lavender back bow. Her outfit is a white off-the-shoulder blouse with flared sleeves and gold embroidery layered over a ruffled white mini.
+
+ 5. Lower Body & Feet: Skirt and bloomers, a strappy white thigh garter, and white heeled ankle boots decorated with lilies.
+
+ 6. Pose: With both hands softly curled into paw gestures near her chest.
 
 Physical Appearance Prompt Style 4b — Yurine
 
-Yurine is a slender girl with warm amber eyes and a chic, short white bob with slightly longer framing strands, elegantly styled with large white lily hairpieces on her left side. Adhering to fox logic, she possesses large, wide-based white ears and a thick, bushy pure white tail. She wears a highly elegant, angelic white off-the-shoulder dress featuring a halter-style neckline, delicate sheer puffy sleeves with flared bell cuffs, intricate gold embroidery, and a prominent pale purple ribbon bow on the chest. The dress drops into a tiered, petal-like skirt over ruffled white shorts, dramatically accented by long trailing fabric tails on the sides and a large matching purple bow at the lower back. Her bare legs are adorned with a delicate white strappy garter featuring hanging lily charms on the left thigh, paired perfectly with white heeled ankle boots decorated with matching lilies and purple ribbons. She exhibits a bright, open-mouthed smile, posing energetically with both hands raised into soft, curled paw gestures near her collarbone.
+ 1. Base Anatomy: Yurine is a slender girl. Warm amber eyes. She exhibits a bright, open-mouthed smile.
+
+ 2. Hair & Head: A chic, short white bob with slightly longer framing strands, elegantly styled with large white lily hairpieces on her left side.
+
+ 3. Species Traits: Fox Logic — Adhering to fox logic, she possesses large, wide-based white ears and a thick, bushy pure white tail.
+
+ 4. Upper Body: She wears a highly elegant, angelic white off-the-shoulder dress featuring a halter-style neckline, delicate sheer puffy sleeves with flared bell cuffs, intricate gold embroidery, and a prominent pale purple ribbon bow on the chest. The dress drops into a tiered.
+
+ 5. Lower Body & Feet: Petal-like skirt over ruffled white shorts, dramatically accented by long trailing fabric tails on the sides and a large matching purple bow at the lower back. Her bare legs are adorned with a delicate white strappy garter featuring hanging lily charms on the left thigh, paired perfectly with white heeled ankle boots decorated with matching lilies and purple ribbons.
+
+ 6. Pose: Posing energetically with both hands raised into soft, curled paw gestures near her collarbone.
 
 ---
 
@@ -4790,35 +6821,115 @@ Yuuha is a composed fox girl whose deep loyalty is hidden beneath a still, contr
 
 Physical Appearance Prompt Style 1 — Yuuha
 
-Yuuha is a petite, slim girl with very long, heavily layered hair that begins as deep midnight violet at the crown, shifts into saturated teal through the middle, and fades to pale icy blue at the ends, framed by textured bangs and long feathered side layers, and striking cyan eyes with a quiet, composed expression. Her animal features include large, wide-based dark-violet fox ears with soft lavender inner fur and one enormous, dense bushy fox tail that flows from deep purple through vivid teal into a pale blue tip. She wears an elaborate blue-and-violet floral hair ornament with dangling bead chains, a black choker layered with a silver crescent-moon pendant and geometric charms, and multiple metallic chains, belts, straps, and celestial trinkets. Her outfit is a black cropped top layered beneath an oversized black celestial streetwear jacket with a tall structured collar, star-map linework, purple-blue gradient panels, feather motifs, buckles, and hanging utility straps, paired with fitted black shorts with a wide belt, layered chains, thigh straps, and dangling gradient accessories, black slouch socks, and heavy black platform combat boots with moon-and-star accents, purple-blue embellishments, and thick lug soles. Her expression is a restrained closed-mouth smile with both arms relaxed at her sides in a straight, cool, self-possessed stance.
+ 1. Base Anatomy: Yuuha is a petite, slim girl. Striking cyan eyes with a quiet, composed expression. Her expression is a restrained closed-mouth smile.
+
+ 2. Hair & Head: Very long, heavily layered hair that begins as deep midnight violet at the crown, shifts into saturated teal through the middle, and fades to pale icy blue at the ends, framed by textured bangs and long feathered side layers. She wears an elaborate blue-and-violet floral hair ornament with dangling bead chains.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based dark-violet fox ears with soft lavender inner fur and one enormous, dense bushy fox tail that flows from deep purple through vivid teal into a pale blue tip.
+
+ 4. Upper Body: She wears an elaborate blue-and-violet floral hair ornament with dangling bead chains, a black choker layered with a silver crescent-moon pendant and geometric charms, and multiple metallic chains, belts, straps, and celestial trinkets. Her outfit is a black cropped top layered beneath an oversized black celestial streetwear jacket with a tall structured collar, star-map linework, purple-blue gradient panels, feather motifs, buckles, and hanging utility straps.
+
+ 5. Lower Body & Feet: Paired with fitted black shorts with a wide belt, layered chains, thigh straps, and dangling gradient accessories, black slouch socks, and heavy black platform combat boots with moon-and-star accents, purple-blue embellishments, and thick lug soles.
+
+ 6. Pose: With both arms relaxed at her sides in a straight, cool, self-possessed stance.
 
 Physical Appearance Prompt Style 1b — Yuuha
 
-Yuuha is a slim, petite girl with striking bright cyan-turquoise eyes and a composed, softly attentive gaze, framed by extraordinarily long, heavily layered hair that falls past her waist in shaggy waves, beginning deep indigo-violet at the crown and transitioning through saturated teal and turquoise into pale periwinkle-blue ends, with choppy bangs and a blue-violet floral jewel cluster fitted with dangling bead chains. She has large, wide-based dark-indigo fox ears with white inner tufts and one thick, luxuriantly bushy tail whose fur graduates from deep violet at the base through vivid turquoise to a pale icy-blue tip. A fitted black high-neck cropped top is accented by a silver crescent-moon pendant and a hanging blue crystal, then layered beneath an oversized cropped black utility jacket with a tall structured collar, wide sleeves, zipper and buckle hardware, violet-blue gradient tabs, starry constellation-like linework, and feather-shaped galaxy motifs in purple, cyan, and blue. High-waisted black utility shorts are secured by an iridescent blue-violet belt and decorated with silver chains, D-rings, hanging galaxy-print straps, narrow buckled tabs, and a black thigh garter carrying tiny blue-purple feather charms. Black scrunched socks rise above massive black platform combat boots with thick lug soles, black laces, crescent and star motifs, violet-blue feather ornaments, and dangling blue crystal details. She finishes with a small closed-mouth smile, standing squarely front-facing with her feet set slightly wider than hip-width and both arms hanging naturally at her sides with relaxed open hands.
+ 1. Base Anatomy: Yuuha is a slim, petite girl. Striking bright cyan-turquoise eyes. She finishes with a small closed-mouth smile.
+
+ 2. Hair & Head: A composed, softly attentive gaze, framed by extraordinarily long, heavily layered hair that falls past her waist in shaggy waves, beginning deep indigo-violet at the crown and transitioning through saturated teal and turquoise into pale periwinkle-blue ends, with choppy bangs and a blue-violet floral jewel cluster fitted with dangling bead chains.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based dark-indigo fox ears with white inner tufts and one thick, luxuriantly bushy tail whose fur graduates from deep violet at the base through vivid turquoise to a pale icy-blue tip.
+
+ 4. Upper Body: A fitted black high-neck cropped top is accented by a silver crescent-moon pendant and a hanging blue crystal, then layered beneath an oversized cropped black utility jacket with a tall structured collar, wide sleeves, zipper and buckle hardware, violet-blue gradient tabs, starry constellation-like linework, and feather-shaped galaxy motifs in purple, cyan, and blue.
+
+ 5. Lower Body & Feet: High-waisted black utility shorts are secured by an iridescent blue-violet belt and decorated with silver chains, D-rings, hanging galaxy-print straps, narrow buckled tabs, and a black thigh garter carrying tiny blue-purple feather charms. Black scrunched socks rise above massive black platform combat boots with thick lug soles, black laces, crescent and star motifs, violet-blue feather ornaments, and dangling blue crystal details.
+
+ 6. Pose: Standing squarely front-facing with her feet set slightly wider than hip-width and both arms hanging naturally at her sides with relaxed open hands.
 
 Physical Appearance Prompt Style 1c — Yuuha
 
-Yuuha has a slim, slightly taller build, vivid cyan-blue eyes, and a calm, confident small smile that makes her feel cooler and more mature than the others. Her hair is extremely long and heavily layered, starting in deep indigo-violet near the crown and blending through teal into pale icy blue at the ends, with shaggy, wolf-cut texturing and a blue floral ornament with bead strands pinned to one side. She has dark violet ears with pale inner fur and a large, sweeping tail that shifts from rich purple into turquoise and then a frosted pale blue tip. Her upper body is built from a black cropped high-neck top under a cropped black jacket with a standing collar, starry galaxy patterning, feather motifs, iridescent blue-violet trim, metallic straps, and a crescent-moon pendant layered with a crystal drop at the throat; one vertical hanging strap is printed with “キツネ,” which translates to “fox,” while the remaining tiny strap markings are too stylized to read cleanly. Her lower half uses black high-waisted shorts with a decorated belt, hanging chains and tassels, thigh straps with moon-and-star motifs, dark slouch socks patterned with tiny constellation-like marks, and chunky black platform boots accented with stars, feathers, and glossy hardware. In the front pose she stands straight and front-facing with her feet apart, both arms relaxed down at her sides, and both hands hanging naturally with gently curved fingers.
+ 1. Base Anatomy: Yuuha has a slim, slightly taller build. Vivid cyan-blue eyes, and a calm, confident small smile that makes her feel cooler and more mature than the others.
+
+ 2. Hair & Head: Her hair is extremely long and heavily layered, starting in deep indigo-violet near the crown and blending through teal into pale icy blue at the ends, with shaggy, wolf-cut texturing and a blue floral ornament with bead strands pinned to one side.
+
+ 3. Species Traits: Fox Logic — She has dark violet ears with pale inner fur and a large, sweeping tail that shifts from rich purple into turquoise and then a frosted pale blue tip.
+
+ 4. Upper Body: Her upper body is built from a black cropped high-neck top under a cropped black jacket with a standing collar, starry galaxy patterning, feather motifs, iridescent blue-violet trim, metallic straps, and a crescent-moon pendant layered with a crystal drop at the throat; one vertical hanging strap is printed with “キツネ,” which translates to “fox,” while the remaining tiny strap markings are too stylized to read cleanly.
+
+ 5. Lower Body & Feet: Her lower half uses black high-waisted shorts with a decorated belt, hanging chains and tassels, thigh straps with moon-and-star motifs, dark slouch socks patterned with tiny constellation-like marks, and chunky black platform boots accented with stars, feathers, and glossy hardware.
+
+ 6. Pose: In the front pose she stands straight and front-facing with her feet apart, both arms relaxed down at her sides, and both hands hanging naturally with gently curved fingers.
 
 Physical Appearance Prompt Style 2 — Yuuha
 
-Yuuha is a slender, quietly confident girl with a huge shaggy mane of hair shifting from deep violet at the crown through teal into pale ice-blue at the tousled ends, accented above one ear by a blue flower cluster with dangling beaded strands, and her luminous cyan eyes rest above a calm, closed-lip smile. Her animal features include large, wide-based deep-purple ears filled with lavender fluff and one massive, thick, extravagantly fluffy tail that pours downward in a gradient from dark violet through teal to frost-blue at the tip. She wears a silver crescent-moon necklace with a teal crystal drop and a black thigh strap hung with slim crystal charms. Her outfit is a black mock-neck crop top beneath a cropped, high-collared black jacket printed with cosmic constellation lines, scattered stars, and violet-teal feather motifs, its sleeves banded with buckled straps and iridescent trim, paired with black shorts on a wide belt draped in silver chains, a crescent-moon charm, and long hanging straps marked with stylized rune-like katakana lettering that reads as ornament rather than legible words, plus slouchy black knit leg warmers etched with faint star lines, and chunky black lace-up platform combat boots decorated with crescent moons, stars, and purple feather details. Her expression is a soft, serene closed-mouth smile, and she stands straight with her arms relaxed at her sides.
+ 1. Base Anatomy: Yuuha is a slender, quietly confident girl. Luminous cyan eyes rest above a calm, closed-lip smile. Her expression is a soft, serene closed-mouth smile,.
+
+ 2. Hair & Head: A huge shaggy mane of hair shifting from deep violet at the crown through teal into pale ice-blue at the tousled ends, accented above one ear by a blue flower cluster with dangling beaded strands.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based deep-purple ears filled with lavender fluff and one massive, thick, extravagantly fluffy tail that pours downward in a gradient from dark violet through teal to frost-blue at the tip.
+
+ 4. Upper Body: She wears a silver crescent-moon necklace with a teal crystal drop and a black thigh strap hung with slim crystal charms. Her outfit is a black mock-neck crop top beneath a cropped, high-collared black jacket printed with cosmic constellation lines, scattered stars, and violet-teal feather motifs, its sleeves banded with buckled straps and iridescent trim.
+
+ 5. Lower Body & Feet: Paired with black shorts on a wide belt draped in silver chains, a crescent-moon charm, and long hanging straps marked with stylized rune-like katakana lettering that reads as ornament rather than legible words, plus slouchy black knit leg warmers etched with faint star lines, and chunky black lace-up platform combat boots decorated with crescent moons, stars, and purple feather details.
+
+ 6. Pose: She stands straight with her arms relaxed at her sides.
 
 Physical Appearance Prompt Style 2b — Yuuha
 
-Yuuha has a slender, long-legged build with fair skin, luminous cyan-teal eyes, and a soft closed-lip smile. Her very long, shaggy layered hair falls in a striking vertical gradient from deep indigo-violet at the crown through teal into pale ice-blue at the tips, pinned above one ear with a blue flower cluster trailing silver beaded strands. Large deep-violet ears with pale lavender inner fluff stand wide atop her head, and one immense, feathery tail flows behind her, shifting from dark violet through teal to a pale blue tip. At the high collar of her outfit hang a silver crescent-moon necklace and a small crystal pendant, worn over a fitted black crop top and a cropped black high-collared hooded jacket speckled with constellation-like stars, trimmed in violet-blue nebula tones, strapped with buckles, and printed with wispy feather motifs along the oversized sleeves. Her black high-waisted shorts are cinched by a constellation-print belt hung with silver chains, harness straps, and a crescent charm, with long strap ribbons falling at her sides printed with faintly glowing, katakana-like glyphs that are stylized and ornamental rather than legible, and a black strap with a hanging crystal circles her right thigh; below, black slouched leg-warmer socks bunch over chunky black lace-up platform boots decorated with crescent moons, stars, and feather charms. She stands square to the viewer with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Yuuha has a slender, long-legged build with fair skin. Luminous cyan-teal eyes, and a soft closed-lip smile.
+
+ 2. Hair & Head: Her very long, shaggy layered hair falls in a striking vertical gradient from deep indigo-violet at the crown through teal into pale ice-blue at the tips, pinned above one ear with a blue flower cluster trailing silver beaded strands.
+
+ 3. Species Traits: Fox Logic — Large deep-violet ears with pale lavender inner fluff stand wide atop her head, and one immense, feathery tail flows behind her, shifting from dark violet through teal to a pale blue tip.
+
+ 4. Upper Body: At the high collar of her outfit hang a silver crescent-moon necklace and a small crystal pendant, worn over a fitted black crop top and a cropped black high-collared hooded jacket speckled with constellation-like stars, trimmed in violet-blue nebula tones, strapped with buckles, and printed with wispy feather motifs along the oversized sleeves.
+
+ 5. Lower Body & Feet: Her black high-waisted shorts are cinched by a constellation-print belt hung with silver chains, harness straps, and a crescent charm, with long strap ribbons falling at her sides printed with faintly glowing, katakana-like glyphs that are stylized and ornamental rather than legible, and a black strap with a hanging crystal circles her right thigh; below, black slouched leg-warmer socks bunch over chunky black lace-up platform boots decorated with crescent moons, stars, and feather charms.
+
+ 6. Pose: She stands square to the viewer with her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 3 — Yuuha
 
-Yuuha is slender with long, heavily layered dark purple hair that transitions into a vivid cyan and light blue gradient at the tips, styled with choppy bangs, spiked side sections, and a blue and violet flower ornament with dangling metallic chains on the left side, and striking cyan-blue eyes with a calm yet welcoming expression. Her animal features include large, wide-based deep purple fox ears with lighter purple inner fur and a thick, bushy, fluffy fox tail that dramatically gradients from deep purple to turquoise and soft sky blue at the tip. She wears a high-neck black collar featuring a silver crescent moon and a hanging crystal pendant, a black double-buckled thigh strap on her left leg with hanging purple feathers, and a silver waist chain with a moon charm. Her outfit is a black sleeveless mock-neck crop top layered under a black cropped streetwear bomber jacket detailed with a purple galaxy and starry sky pattern on the inner lining, collar, and hem, as well as embroidered purple feathers on the sleeves, black high-waisted denim shorts secured with a thick buckled belt, black scrunched crew socks with a small blue crescent moon motif, and heavy-duty black platform combat boots with thick laces, buckles, and purple feather charms attached to the sides. Her expression is a gentle, serene smile with her arms resting straight down at her sides in a static, front-facing stance, accompanied by long black hanging waist ribbons printed with the clear text "ツクヨミ" on the left and right sides.
+ 1. Base Anatomy: Yuuha is slender. Striking cyan-blue eyes with a calm yet welcoming expression. Her expression is a gentle, serene smile.
+
+ 2. Hair & Head: Long, heavily layered dark purple hair that transitions into a vivid cyan and light blue gradient at the tips, styled with choppy bangs, spiked side sections, and a blue and violet flower ornament with dangling metallic chains on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based deep purple fox ears with lighter purple inner fur and a thick, bushy, fluffy fox tail that dramatically gradients from deep purple to turquoise and soft sky blue at the tip.
+
+ 4. Upper Body: She wears a high-neck black collar featuring a silver crescent moon and a hanging crystal pendant, a black double-buckled thigh strap on her left leg with hanging purple feathers. Her outfit is a black sleeveless mock-neck crop top layered under a black cropped streetwear bomber jacket detailed with a purple galaxy and starry sky pattern on the inner lining, collar, and hem, as well as embroidered purple feathers on the sleeves.
+
+ 5. Lower Body & Feet: A silver waist chain with a moon charm. Black high-waisted denim shorts secured with a thick buckled belt, black scrunched crew socks with a small blue crescent moon motif, and heavy-duty black platform combat boots with thick laces, buckles, and purple feather charms attached to the sides.
+
+ 6. Pose: With her arms resting straight down at her sides in a static, front-facing stance, accompanied by long black hanging waist ribbons printed with the clear text "ツクヨミ" on the left and right sides.
 
 Physical Appearance Prompt Style 4 — Yuuha
 
-Yuuha is a slim girl with voluminous dark purple hair transitioning to bright cyan tips, layered bangs, and blue floral clips, and vivid cyan blue eyes. Her animal features include large, wide-based dark purple fox ears and a thick, bushy fox tail featuring a gradient from dark purple to bright cyan. She wears a black crescent moon choker, blue flower hairpieces, and hanging star charms. Her outfit is a black cropped jacket with a starry sky pattern layered over a black crop top, black shorts with chains and a strap reading "ユウハ", black slouched socks with a crystal-dangle thigh garter, and chunky black combat boots accented with cyan feathers. Her expression is a calm closed-mouth smile with her arms resting straight down at her sides.
+ 1. Base Anatomy: Yuuha is a slim girl. Vivid cyan blue eyes. Her expression is a calm closed-mouth smile.
+
+ 2. Hair & Head: Voluminous dark purple hair transitioning to bright cyan tips, layered bangs, and blue floral clips. She wears a black crescent moon choker, blue flower hairpieces.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based dark purple fox ears and a thick, bushy fox tail featuring a gradient from dark purple to bright cyan.
+
+ 4. Upper Body: She wears a black crescent moon choker, blue flower hairpieces, and hanging star charms. Her outfit is a black cropped jacket with a starry sky pattern layered over a black crop top.
+
+ 5. Lower Body & Feet: Black shorts with chains and a strap reading "ユウハ", black slouched socks with a crystal-dangle thigh garter, and chunky black combat boots accented with cyan feathers.
+
+ 6. Pose: With her arms resting straight down at her sides.
 
 Physical Appearance Prompt Style 4b — Yuuha
 
-Yuuha features a slender frame, striking cyan eyes, and wildly voluminous, layered hair that gradients dramatically from deep indigo at the roots to vibrant light blue at the ends, heavily decorated with a cluster of blue floral hairpins on her left side. Based on fox logic, she sports large, wide-based indigo ears with purple inner fluff and an incredibly thick, bushy tail that mirrors her hair's striking indigo-to-cyan color gradient. Her outfit starts with a black high-neck crop top featuring subtle starry patterns and a silver crescent moon pendant, layered beneath a structured black techwear jacket adorned with galaxy prints, silver buckle straps, and hanging blue feather motifs. She wears matching black shorts secured with a silver-buckled belt, accessorized with silver hip chains and dangling straps featuring cosmic designs. Her legwear consists of a black strapped garter on the left thigh over bare legs, leading down to slouchy black socks and chunky black platform combat boots heavily detailed with silver star charms, cyan accents, and feather decorations. She maintains a soft, gentle smile, standing casually with her arms resting straight down by her sides.
+ 1. Base Anatomy: Yuuha features a slender frame. Striking cyan eyes. She maintains a soft, gentle smile.
+
+ 2. Hair & Head: Wildly voluminous, layered hair that gradients dramatically from deep indigo at the roots to vibrant light blue at the ends, heavily decorated with a cluster of blue floral hairpins on her left side.
+
+ 3. Species Traits: Fox Logic — Based on fox logic, she sports large, wide-based indigo ears with purple inner fluff and an incredibly thick, bushy tail that mirrors her hair's striking indigo-to-cyan color gradient.
+
+ 4. Upper Body: Her outfit starts with a black high-neck crop top featuring subtle starry patterns and a silver crescent moon pendant, layered beneath a structured black techwear jacket adorned with galaxy prints, silver buckle straps, and hanging blue feather motifs.
+
+ 5. Lower Body & Feet: She wears matching black shorts secured with a silver-buckled belt, accessorized with silver hip chains and dangling straps featuring cosmic designs. Her legwear consists of a black strapped garter on the left thigh over bare legs, leading down to slouchy black socks and chunky black platform combat boots heavily detailed with silver star charms, cyan accents, and feather decorations.
+
+ 6. Pose: Standing casually with her arms resting straight down by her sides.
 
 ---
 
@@ -4968,6 +7079,21 @@ Likes:
 * Welcoming new people and watching them relax
 * Fair-weather days, simple meals, and small gratitudes
 
+Favorite Color:
+Sunlit Apricot
+
+Favorite Foods:
+
+* Ise udon
+* Tekone-zushi
+* Matsusaka beef sukiyaki
+
+Favorite Snacks:
+
+* Akafuku mochi
+* Henba mochi
+* Ise tea cookies
+
 Dislikes:
 
 * Watching people torment themselves over things already done
@@ -4997,35 +7123,115 @@ Hiyori is a small, sunlit fox girl who naturally approaches others first and cre
 
 Physical Appearance Prompt Style 1 — Hiyori
 
-Hiyori is a petite, slim girl with short honey-blonde hair cut into a softly tousled bob with lightly curled ends and neat side-swept bangs, and warm amber-gold eyes with a bright, gentle expression. Her animal features include large, wide-based cream-beige fox ears with pale inner fur and one thick, fluffy pale-apricot fox tail that extends behind her and fades into a broad creamy-white tip. She wears a clustered pastel flower hairpiece with dangling gold bell ornaments, a reddish-brown choker with a round gold bell, and coordinated floral knots and tassels at her waist and boots. Her outfit is a cream kimono-inspired hooded jacket with wide sleeves, peach floral prints, gold piping, and small corded bow closures, layered over a pale wrap-style top and a short peach skirt with scalloped floral panels, a ruffled white underskirt, and an obi-like waist sash with decorative knots and a hanging charm, paired with short cream ruffled socks and cream ankle boots with low heels, gold trim, bows, tassels, and bell ornaments. Her expression is a cheerful open-mouthed smile with both fists raised close to her chest in a playful double paw pose.
+ 1. Base Anatomy: Hiyori is a petite, slim girl. Warm amber-gold eyes with a bright, gentle expression. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Short honey-blonde hair cut into a softly tousled bob with lightly curled ends and neat side-swept bangs. She wears a clustered pastel flower hairpiece with dangling gold bell ornaments.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based cream-beige fox ears with pale inner fur and one thick, fluffy pale-apricot fox tail that extends behind her and fades into a broad creamy-white tip.
+
+ 4. Upper Body: She wears a clustered pastel flower hairpiece with dangling gold bell ornaments, a reddish-brown choker with a round gold bell. Her outfit is a cream kimono-inspired hooded jacket with wide sleeves, peach floral prints, gold piping, and small corded bow closures.
+
+ 5. Lower Body & Feet: Coordinated floral knots and tassels at her waist and boots. Layered over a pale wrap-style top and a short peach skirt with scalloped floral panels, a ruffled white underskirt, and an obi-like waist sash with decorative knots and a hanging charm, paired with short cream ruffled socks and cream ankle boots with low heels, gold trim, bows, tassels, and bell ornaments.
+
+ 6. Pose: With both fists raised close to her chest in a playful double paw pose.
 
 Physical Appearance Prompt Style 1b — Hiyori
 
-Hiyori is a petite, slim girl with brilliant amber-orange eyes held in a bright, delighted gaze and short honey-peach hair cut into a softly tousled chin-length bob with layered ends, rounded bangs, and a side cluster of peach, white, and lavender blossoms accented by small gold ornaments and a hanging bell. She has large, wide-based pale apricot fox ears with fluffy ivory inner fur and one thick, bushy peach-gold tail that sweeps behind her and fades into a broad creamy-white tip. A dark brown choker with a gold bell rests at her throat above a cream kimono-inspired wrap bodice patterned with delicate orange florals, layered beneath a short ivory hooded haori with broad bell sleeves, gold piping, blossom embroidery, and orange cord-and-tassel knots. A deep terracotta obi-style sash with layered decorative knots and a hanging floral charm defines her waist above a short peach pleated skirt covered in pale blossom motifs and finished with a white lace-and-ruffle hem. Her bare legs lead into short cream frilled socks, and ivory mid-calf boots feature warm gold edging, low block heels, orange bows, bells, and hanging tassels at the outer ankles. She finishes with a joyful open-mouthed smile, standing directly front-facing with her feet slightly apart and both elbows bent as she raises two lightly clenched fists beside her chest in an enthusiastic double paw pose.
+ 1. Base Anatomy: Hiyori is a petite, slim girl. Brilliant amber-orange eyes held in a bright, delighted gaze. She finishes with a joyful open-mouthed smile.
+
+ 2. Hair & Head: Short honey-peach hair cut into a softly tousled chin-length bob with layered ends, rounded bangs, and a side cluster of peach, white, and lavender blossoms accented by small gold ornaments and a hanging bell.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based pale apricot fox ears with fluffy ivory inner fur and one thick, bushy peach-gold tail that sweeps behind her and fades into a broad creamy-white tip.
+
+ 4. Upper Body: A dark brown choker with a gold bell rests at her throat above a cream kimono-inspired wrap bodice patterned with delicate orange florals, layered beneath a short ivory hooded haori with broad bell sleeves, gold piping, blossom embroidery, and orange cord-and-tassel knots.
+
+ 5. Lower Body & Feet: A deep terracotta obi-style sash with layered decorative knots and a hanging floral charm defines her waist above a short peach pleated skirt covered in pale blossom motifs and finished with a white lace-and-ruffle hem. Her bare legs lead into short cream frilled socks, and ivory mid-calf boots feature warm gold edging, low block heels, orange bows, bells, and hanging tassels at the outer ankles.
+
+ 6. Pose: Standing directly front-facing with her feet slightly apart and both elbows bent as she raises two lightly clenched fists beside her chest in an enthusiastic double paw pose.
 
 Physical Appearance Prompt Style 1c — Hiyori
 
-Hiyori has a petite, youthful build with large amber-gold eyes and a bright open-mouthed smile that makes her look sweet and eager. Her hair is a soft apricot-blonde bob that falls to about her shoulders, with airy layered ends, rounded bangs that part lightly at the center, and a clustered floral ornament of peach, cream, and pale lavender blossoms finished with gold tassels and a tiny bell on one side of her head. She has tall, wide fox ears with pale inner fur, and a thick cream tail washed with warm peach that fans out behind her and tapers to a lighter tip. She wears a white wrap-style inner kimono top with delicate floral fastenings beneath a short cream haori patterned with faint sakura branches and edged in gold, and the whole upper silhouette is cinched with a dusty rose obi tied into a flower-knot ornament with dangling decorative tabs. Below that, she wears a pleated peach skirt covered in small blossoms over a white lace ruffle, and she finishes the outfit with bare legs, scrunched white ankle cuffs, and white ankle boots decorated with floral knots, tassels, and little gold bells. In the front pose she stands upright with her feet slightly apart, elbows tucked in, and both hands raised near her chest in small closed fists.
+ 1. Base Anatomy: Hiyori has a petite, youthful build. Large amber-gold eyes and a bright open-mouthed smile that makes her look sweet and eager.
+
+ 2. Hair & Head: Her hair is a soft apricot-blonde bob that falls to about her shoulders, with airy layered ends, rounded bangs that part lightly at the center, and a clustered floral ornament of peach, cream, and pale lavender blossoms finished with gold tassels and a tiny bell on one side of her head.
+
+ 3. Species Traits: Fox Logic — She has tall, wide fox ears with pale inner fur, and a thick cream tail washed with warm peach that fans out behind her and tapers to a lighter tip.
+
+ 4. Upper Body: She wears a white wrap-style inner kimono top with delicate floral fastenings beneath a short cream haori patterned with faint sakura branches and edged in gold, and the whole upper silhouette is cinched with a dusty rose obi tied into a flower-knot ornament with dangling decorative tabs.
+
+ 5. Lower Body & Feet: Below that, she wears a pleated peach skirt covered in small blossoms over a white lace ruffle, and she finishes the outfit with bare legs, scrunched white ankle cuffs, and white ankle boots decorated with floral knots, tassels, and little gold bells.
+
+ 6. Pose: In the front pose she stands upright with her feet slightly apart, elbows tucked in, and both hands raised near her chest in small closed fists.
 
 Physical Appearance Prompt Style 2 — Hiyori
 
-Hiyori is a petite, small-framed girl with shoulder-length sandy-blonde hair falling in soft tousled layers beneath airy bangs, accented by a pastel flower cluster and a golden bell with a red tassel pinned above her ear, and warm amber eyes. Her animal features include large, wide-based tan ears filled with thick cream inner fluff and a single bushy golden-tan tail that finishes in a soft cream tip. She wears a red collar with a golden bell at her throat and a red bow with a second bell perched at her lower back above the tail. Her outfit is a white kimono-wrap bodice patterned with gold florals layered under a hooded cream haori jacket with wide gold-trimmed sleeves, peach blossom prints, red knot ornaments, and a gold quatrefoil crest on the back, cinched by a red obi sash with a golden knot cord and a hanging brocade omamori-style charm, over a peach floral pleated skirt with a sheer lace frill hem, bare legs with slouchy white socks, and cream heeled boots trimmed in gold with red knot-and-bell ornaments. Her expression is a joyful open-mouthed fanged smile brightened by a blush, with both fists raised in a double paw pose at chest height.
+ 1. Base Anatomy: Hiyori is a petite, small-framed girl. Warm amber eyes. Her expression is a joyful open-mouthed fanged smile brightened by a blush.
+
+ 2. Hair & Head: Shoulder-length sandy-blonde hair falling in soft tousled layers beneath airy bangs, accented by a pastel flower cluster and a golden bell with a red tassel pinned above her ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based tan ears filled with thick cream inner fluff and a single bushy golden-tan tail that finishes in a soft cream tip.
+
+ 4. Upper Body: She wears a red collar with a golden bell at her throat and a red bow with a second bell perched at her lower back above the tail. Her outfit is a white kimono-wrap bodice patterned with gold florals layered under a hooded cream haori jacket with wide gold-trimmed sleeves, peach blossom prints, red knot ornaments, and a gold quatrefoil crest on the back, cinched by a red obi sash with a golden knot cord and a hanging brocade omamori-style charm.
+
+ 5. Lower Body & Feet: Over a peach floral pleated skirt with a sheer lace frill hem, bare legs with slouchy white socks, and cream heeled boots trimmed in gold with red knot-and-bell ornaments.
+
+ 6. Pose: With both fists raised in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 2b — Hiyori
 
-Hiyori has a petite, small-statured build with fair skin, warm amber-gold eyes, and an open-mouthed fanged smile brightened by a soft blush. Her honey-blonde hair falls just past her shoulders in soft, tousled layers beneath airy bangs, pinned at the side with a cluster of pink, peach, and lilac blossoms hung with a golden bell and coral tassels. Enormous wide-set ears in golden tan with thick cream inner fur rise high above her head, and a single plush, bushy tail in warm sandy tan sweeps behind her, softening to a pale cream tip. She wears a russet-red choker with a golden bell, a white crossover kimono-style blouse traced with faint golden florals, and a coral-red obi sash knotted with golden cord from which a brocade omamori-style charm pouch dangles, all layered beneath a white hooded haori jacket with wide draping sleeves, gold edging, peach floral lining, small red knot-and-tassel ornaments on the sleeves, and a back crowned by a golden quatrefoil crest above a large coral bow with a bell; the garments carry decorative motifs only, with no written text. Her peach pleated skirt is printed with small white blossoms above a white lace frill, worn with bare legs, slouched white crew socks, and white boots trimmed in gold with red knot-and-bell tassels and low golden block heels. She poses with both fists raised in a cheerful double paw pose at chest height.
+ 1. Base Anatomy: Hiyori has a petite, small-statured build with fair skin. Warm amber-gold eyes, and an open-mouthed fanged smile brightened by a soft blush. She poses with both fists raised in a cheerful double paw pose at chest height.
+
+ 2. Hair & Head: Her honey-blonde hair falls just past her shoulders in soft, tousled layers beneath airy bangs, pinned at the side with a cluster of pink, peach, and lilac blossoms hung with a golden bell and coral tassels.
+
+ 3. Species Traits: Fox Logic — Enormous wide-set ears in golden tan with thick cream inner fur rise high above her head, and a single plush, bushy tail in warm sandy tan sweeps behind her, softening to a pale cream tip.
+
+ 4. Upper Body: She wears a russet-red choker with a golden bell, a white crossover kimono-style blouse traced with faint golden florals, and a coral-red obi sash knotted with golden cord from which a brocade omamori-style charm pouch dangles, all layered beneath a white hooded haori jacket with wide draping sleeves, gold edging, peach floral lining, small red knot-and-tassel ornaments on the sleeves, and a back crowned by a golden quatrefoil crest above a large coral bow with a bell; the garments carry decorative motifs only, with no written text.
+
+ 5. Lower Body & Feet: Her peach pleated skirt is printed with small white blossoms above a white lace frill, worn with bare legs, slouched white crew socks, and white boots trimmed in gold with red knot-and-bell tassels and low golden block heels.
+
+ 6. Pose: She poses with both fists raised in a cheerful double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Hiyori
 
-Hiyori is slender with medium-length, wavy peach-blonde hair styled with straight bangs, side-framing layers, and a multi-colored floral hair clip featuring a golden bell and tassel on the left side, and warm orange-brown eyes with a bright, cheerful expression. Her animal features include large, wide-based light orange fox ears with soft white inner fur and a thick, bushy, fluffy light orange fox tail with a white tip. She wears a brown leather collar with a golden bell around her neck and a decorative red cord belt with a traditional knot and a rectangular pouch at her waist. Her outfit is a cream-colored traditional kimono-style jacket featuring orange cherry blossom prints and wide sleeves, layered over a matching cream wrap top, an orange pleated mini skirt with a white lace hem and floral prints, white ruffled ankle socks, and cream-colored ankle boots decorated with a golden bell and red cords on the outer side. Her expression is a happy, open-mouthed smile with both hands raised to chest level in a cute double paw fist gesture.
+ 1. Base Anatomy: Hiyori is slender. Warm orange-brown eyes with a bright, cheerful expression. Her expression is a happy, open-mouthed smile.
+
+ 2. Hair & Head: Medium-length, wavy peach-blonde hair styled with straight bangs, side-framing layers, and a multi-colored floral hair clip featuring a golden bell and tassel on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light orange fox ears with soft white inner fur and a thick, bushy, fluffy light orange fox tail with a white tip.
+
+ 4. Upper Body: She wears a brown leather collar with a golden bell around her neck and a decorative red cord. Her outfit is a cream-colored traditional kimono-style jacket featuring orange cherry blossom prints and wide sleeves, layered over a matching cream wrap top.
+
+ 5. Lower Body & Feet: Belt with a traditional knot and a rectangular pouch at her waist. An orange pleated mini skirt with a white lace hem and floral prints, white ruffled ankle socks, and cream-colored ankle boots decorated with a golden bell and red cords on the outer side.
+
+ 6. Pose: With both hands raised to chest level in a cute double paw fist gesture.
 
 Physical Appearance Prompt Style 4 — Hiyori
 
-Hiyori is a petite girl with shoulder-length, wavy blonde hair, straight bangs, and floral hair clips adorned with a small bell, and bright amber eyes. Her animal features include large, wide-based blonde fox ears and a thick, bushy blonde fox tail fading to a lighter cream tip. She wears a red ribbon choker with a bell and elaborate floral hair ornaments with tassels. Her outfit is a white kimono-style outer jacket with gold and pink cherry blossom patterns layered over a peach-colored wrap top and a matching pleated mini skirt with white lace trim, white ruffled calf socks, and white heeled ankle boots accented with red ribbons and gold bells. Her expression is a cheerful open-mouthed smile with both hands raised to her chest in curled, paw-like fists.
+ 1. Base Anatomy: Hiyori is a petite girl. Bright amber eyes. Her expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Shoulder-length, wavy blonde hair, straight bangs, and floral hair clips adorned with a small bell. She wears a red ribbon choker with a bell and elaborate floral hair ornaments with tassels.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blonde fox ears and a thick, bushy blonde fox tail fading to a lighter cream tip.
+
+ 4. Upper Body: She wears a red ribbon choker with a bell and elaborate floral hair ornaments with tassels. Her outfit is a white kimono-style outer jacket with gold and pink cherry blossom patterns layered over a peach-colored wrap top and a matching pleated mini.
+
+ 5. Lower Body & Feet: Skirt with white lace trim, white ruffled calf socks, and white heeled ankle boots accented with red ribbons and gold bells.
+
+ 6. Pose: With both hands raised to her chest in curled, paw-like fists.
 
 Physical Appearance Prompt Style 4b — Hiyori
 
-Hiyori is a slender young girl with warm amber eyes and a short, light orange bob decorated with a cluster of pastel pink, white, and purple flowers and a small gold bell on her left side. Applying fox logic, she features large, wide-based pale orange ears with white inner fluff and a thick, bushy pale orange tail that gently gradients to a lighter white tip. Her outfit begins with a simple brown choker holding a gold bell, layered underneath a white kimono-style top worn beneath a loose, cream-colored open haori jacket adorned with orange and pink cherry blossom prints, dangling gold tassel ties, and a back design featuring a gold floral emblem, a large orange ribbon bow, and a hanging gold bell. She pairs this with a pale orange pleated miniskirt sporting matching cherry blossom patterns and a ruffled white hemline, beautifully cinched with an orange obi-style sash and decorative knots. Her legwear consists of white ruffled ankle socks leading down to cream-colored heeled ankle boots detailed with gold trim and matching hanging bell charms. She displays a cheerful, open-mouthed smile, posing brightly with both hands raised into playful, curled paw gestures near her chest.
+ 1. Base Anatomy: Hiyori is a slender young girl. Warm amber eyes. She displays a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: A short, light orange bob decorated with a cluster of pastel pink, white, and purple flowers and a small gold bell on her left side.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, she features large, wide-based pale orange ears with white inner fluff and a thick, bushy pale orange tail that gently gradients to a lighter white tip.
+
+ 4. Upper Body: Her outfit begins with a simple brown choker holding a gold bell, layered underneath a white kimono-style top worn beneath a loose, cream-colored open haori jacket adorned with orange and pink cherry blossom prints, dangling gold tassel ties, and a back design featuring a gold floral emblem, a large orange ribbon bow, and a hanging gold bell.
+
+ 5. Lower Body & Feet: She pairs this with a pale orange pleated miniskirt sporting matching cherry blossom patterns and a ruffled white hemline, beautifully cinched with an orange obi-style sash and decorative knots. Her legwear consists of white ruffled ankle socks leading down to cream-colored heeled ankle boots detailed with gold trim and matching hanging bell charms.
+
+ 6. Pose: Posing brightly with both hands raised into playful, curled paw gestures near her chest.
 
 ---
 
@@ -5226,39 +7432,122 @@ Hinagiku is a cream-gold fox girl whose affection is wrapped in playful teasing,
 
 Physical Appearance Prompt Style 1 — Hinagiku
 
-Hinagiku is a petite, slim girl with very long, softly wavy ash-blonde hair that falls past her waist in loose layered curls, framed by wispy bangs and daisy ornaments on both sides, and golden-amber eyes with a sunny, friendly expression. Her animal features include large, wide-based taupe-brown fox ears with pale cream inner fur and one thick, bushy beige-brown fox tail that sweeps prominently behind her and fades into a broad creamy-white tip. She wears clustered daisy hairpieces with gold ribbon strands, a daisy-trimmed crossbody purse, and matching flower ornaments at her waist, garter, socks, and boots. Her outfit is a soft cream hooded pullover with embroidered daisies, gold drawstrings, and gathered sleeves, layered over a tiered cream ruffle skirt with lace edging, floral appliqués, and a decorative belt tied with a daisy-centered bow, paired with one daisy garter and otherwise bare thighs, ribbed cream slouch socks with flower decorations, and cream ankle boots with block heels, gold embroidery, bows, tassels, and daisy charms. Her expression is a bright open-mouthed smile with both fists lifted beside her chest in a playful double paw pose.
+ 1. Base Anatomy: Hinagiku is a petite, slim girl. Golden-amber eyes with a sunny, friendly expression. Her expression is a bright open-mouthed smile.
+
+ 2. Hair & Head: Very long, softly wavy ash-blonde hair that falls past her waist in loose layered curls, framed by wispy bangs and daisy ornaments on both sides. She wears clustered daisy hairpieces with gold ribbon strands, a daisy-trimmed crossbody purse, and matching flower ornaments at her waist, garter, socks, and boots.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based taupe-brown fox ears with pale cream inner fur and one thick, bushy beige-brown fox tail that sweeps prominently behind her and fades into a broad creamy-white tip.
+
+ 4. Upper Body: Her outfit is a soft cream hooded pullover with embroidered daisies, gold drawstrings, and gathered sleeves.
+
+ 5. Lower Body & Feet: Layered over a tiered cream ruffle skirt with lace edging, floral appliqués, and a decorative belt tied with a daisy-centered bow, paired with one daisy garter and otherwise bare thighs, ribbed cream slouch socks with flower decorations, and cream ankle boots with block heels, gold embroidery, bows, tassels, and daisy charms.
+
+ 6. Pose: With both fists lifted beside her chest in a playful double paw pose.
 
 Physical Appearance Prompt Style 1b — Hinagiku
 
-Hinagiku is a petite, slender girl with luminous golden-amber eyes and an openly cheerful gaze, framed by very long ash-beige hair that falls past her waist in thick, softly tousled waves with layered bangs and a large white daisy hair arrangement accented by smaller blossoms, gold sprigs, and trailing beige ribbons. She has large, wide-based taupe-brown fox ears with creamy inner tufts and one exceptionally thick, bushy warm taupe tail that curves prominently behind her and gradually lightens into a broad ivory tip. A cream hooded blouse with a gathered neckline, gold ribbon tie, daisy ornament, tiny floral embroidery, and full balloon sleeves forms the top layer, accompanied by a small ivory crossbody bag with a gold chain strap and oversized daisy appliqué. A narrow tan waistband and daisy-centered side bow secure a short tiered beige miniskirt constructed from layered pleats, scalloped lace, floral eyelet panels, fine gold trim, and dangling tassel charms. One bare thigh carries a narrow tan garter decorated with a daisy and long gold tassel, while cream ribbed slouch socks rise to the lower calves and are accented by daisy rosettes. Ivory embroidered mid-calf boots have low brown block heels, folded cuffs, gold vine motifs, ribbon bows, and hanging tassels. She ends with a wide open-mouthed smile, facing forward with her feet set slightly apart and both fists raised beside her shoulders in a playful double paw pose.
+ 1. Base Anatomy: Hinagiku is a petite, slender girl. Luminous golden-amber eyes. She ends with a wide open-mouthed smile.
+
+ 2. Hair & Head: An openly cheerful gaze, framed by very long ash-beige hair that falls past her waist in thick, softly tousled waves with layered bangs and a large white daisy hair arrangement accented by smaller blossoms, gold sprigs, and trailing beige ribbons.
+
+ 3. Species Traits: Fox Logic — She has large, wide-based taupe-brown fox ears with creamy inner tufts and one exceptionally thick, bushy warm taupe tail that curves prominently behind her and gradually lightens into a broad ivory tip.
+
+ 4. Upper Body: A cream hooded blouse with a gathered neckline, gold ribbon tie, daisy ornament, tiny floral embroidery, and full balloon sleeves forms the top layer, accompanied by a small ivory crossbody bag with a gold chain strap and oversized daisy appliqué.
+
+ 5. Lower Body & Feet: A narrow tan waistband and daisy-centered side bow secure a short tiered beige miniskirt constructed from layered pleats, scalloped lace, floral eyelet panels, fine gold trim, and dangling tassel charms. One bare thigh carries a narrow tan garter decorated with a daisy and long gold tassel, while cream ribbed slouch socks rise to the lower calves and are accented by daisy rosettes. Ivory embroidered mid-calf boots have low brown block heels, folded cuffs, gold vine motifs, ribbon bows, and hanging tassels.
+
+ 6. Pose: Facing forward with her feet set slightly apart and both fists raised beside her shoulders in a playful double paw pose.
 
 Physical Appearance Prompt Style 1c — Hinagiku
 
-Hinagiku has a slim, delicate build with warm honey-amber eyes and a cheerful open smile. Her hair is long, wavy, and ash-beige with soft cream highlights, falling well past her shoulders in loose curls, while full bangs frame her face and a daisy-and-ribbon arrangement with tassels decorates one side of her head. She has broad fox ears in soft taupe with pale inner fur, and a full fluffy tail that deepens from warm beige near the base to a lighter cream toward the tip. She wears an oversized cream hoodie with gold-tipped drawstrings, tiny bow accents, and daisy appliqués scattered across the fabric, and a small crossbody bag shaped and ornamented to match the daisy theme rests against her side on a gold chain strap. Her lower half is built around a layered cream skirt with pale gold striping, lace-edged tiers, and a large daisy corsage at the waist, paired with a single thigh garter decorated with another flower and tassel, ribbed cream socks, and white mid-calf boots trimmed with bows, daisies, and hanging ornaments. In the front pose she faces forward with her knees softly relaxed, elbows bent, and both hands lifted in front of her chest in neat little fists.
+ 1. Base Anatomy: Hinagiku has a slim, delicate build. Warm honey-amber eyes and a cheerful open smile.
+
+ 2. Hair & Head: Her hair is long, wavy, and ash-beige with soft cream highlights, falling well past her shoulders in loose curls, while full bangs frame her face and a daisy-and-ribbon arrangement with tassels decorates one side of her head.
+
+ 3. Species Traits: Fox Logic — She has broad fox ears in soft taupe with pale inner fur, and a full fluffy tail that deepens from warm beige near the base to a lighter cream toward the tip.
+
+ 4. Upper Body: She wears an oversized cream hoodie with gold-tipped drawstrings, tiny bow accents, and daisy appliqués scattered across the fabric, and a small crossbody bag shaped and ornamented to match the daisy theme rests against her side on a gold chain strap.
+
+ 5. Lower Body & Feet: Her lower half is built around a layered cream skirt with pale gold striping, lace-edged tiers, and a large daisy corsage at the waist, paired with a single thigh garter decorated with another flower and tassel, ribbed cream socks, and white mid-calf boots trimmed with bows, daisies, and hanging ornaments.
+
+ 6. Pose: In the front pose she faces forward with her knees softly relaxed, elbows bent, and both hands lifted in front of her chest in neat little fists.
 
 Physical Appearance Prompt Style 2 — Hinagiku
 
-Hinagiku is a slender girl with very long milk-tea brown hair flowing in loose romantic waves, crowned by a white daisy ornament trailing striped ribbons, and warm amber-orange eyes. Her animal features include large, wide-based chocolate-brown ears tufted with white inner fluff and one enormous plush taupe-brown tail that darkens through the middle before softening into a pale feathered tip. She wears a brown leather belt with a daisy corsage, a small white quilted purse slung on a golden daisy-chain strap, and a brown thigh garter fastened with a daisy button and gold tassel. Her outfit is an ivory hooded sweatshirt with golden ribbon drawstrings, daisy appliqués, fine gold embroidery, and corset lacing with a striped bow at the back, layered over a tiered cream lace miniskirt hung with golden teardrop charms, white ribbed leg warmers dotted with daisy buttons, and ivory lace-up boots with gold ribbons and stacked tan heels. Her expression is a delighted open-mouthed smile, with both fists lifted in a double paw pose beside her chest.
+ 1. Base Anatomy: Hinagiku is a slender girl. Warm amber-orange eyes. Her expression is a delighted open-mouthed smile.
+
+ 2. Hair & Head: Very long milk-tea brown hair flowing in loose romantic waves, crowned by a white daisy ornament trailing striped ribbons.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based chocolate-brown ears tufted with white inner fluff and one enormous plush taupe-brown tail that darkens through the middle before softening into a pale feathered tip.
+
+ 4. Upper Body: Her outfit is an ivory hooded sweatshirt with golden ribbon drawstrings, daisy appliqués, fine gold embroidery, and corset lacing with a striped bow at the back.
+
+ 5. Lower Body & Feet: She wears a brown leather belt with a daisy corsage, a small white quilted purse slung on a golden daisy-chain strap, and a brown thigh garter fastened with a daisy button and gold tassel. Layered over a tiered cream lace miniskirt hung with golden teardrop charms, white ribbed leg warmers dotted with daisy buttons, and ivory lace-up boots with gold ribbons and stacked tan heels.
+
+ 6. Pose: With both fists lifted in a double paw pose beside her chest.
 
 Physical Appearance Prompt Style 2b — Hinagiku
 
-Hinagiku has a slender, petite build with fair skin, warm amber-brown eyes, and a joyful open-mouthed smile. Her milk-tea ash-brown hair tumbles in loose, tousled waves to her waist beneath soft bangs, adorned above one ear with a white daisy cluster tied in cream and gold ribbons. Tall, broad ears in earthy brown with pale inner tufts stand high on her head, and one enormous, bushy taupe-brown tail fans out behind her, its smoky fur paling toward a frosted tip. She wears an ivory hooded pullover with golden ribbon drawstrings ending in tassels, daisy appliqués scattered across the chest and puffed sleeves, fine gold stitching, corset-style lacing down the back, and a gold-striped bow at the back hem, accessorized with a small quilted white handbag on a golden chain fastened by a daisy clasp; the knitwear is pattern-only, with no visible lettering. Her tiered cream lace miniskirt is edged with golden scalloped embroidery and hanging charms, belted in slim brown leather with a daisy corsage and gold-striped ribbons at the hip, while a matching brown garter strap with a daisy charm and gold tassel circles her left thigh above white ribbed leg warmers pinned with daisies and slouched over white lace-up boots with golden ribbon laces and tan block heels. She poses with both fists raised in a double paw pose at chest height.
+ 1. Base Anatomy: Hinagiku has a slender, petite build with fair skin. Warm amber-brown eyes, and a joyful open-mouthed smile.
+
+ 2. Hair & Head: Her milk-tea ash-brown hair tumbles in loose, tousled waves to her waist beneath soft bangs, adorned above one ear with a white daisy cluster tied in cream and gold ribbons.
+
+ 3. Species Traits: Fox Logic — Tall, broad ears in earthy brown with pale inner tufts stand high on her head, and one enormous, bushy taupe-brown tail fans out behind her, its smoky fur paling toward a frosted tip.
+
+ 4. Upper Body: She wears an ivory hooded pullover with golden ribbon drawstrings ending in tassels, daisy appliqués scattered across the chest and puffed sleeves, fine gold stitching, corset-style lacing down the back, and a gold-striped bow at the back hem, accessorized with a small quilted white handbag on a golden chain fastened by a daisy clasp; the knitwear is pattern-only, with no visible lettering.
+
+ 5. Lower Body & Feet: Her tiered cream lace miniskirt is edged with golden scalloped embroidery and hanging charms, belted in slim brown leather with a daisy corsage and gold-striped ribbons at the hip, while a matching brown garter strap with a daisy charm and gold tassel circles her left thigh above white ribbed leg warmers pinned with daisies and slouched over white lace-up boots with golden ribbon laces and tan block heels.
+
+ 6. Pose: She poses with both fists raised in a double paw pose at chest height.
 
 Physical Appearance Prompt Style 3 — Hinagiku
 
-Hinagiku is slender with long, wavy light brown hair styled with straight bangs, wispy side strands, and a large white daisy flower clip with white ribbons on the left side, and warm amber eyes with a happy expression. Her animal features include large, wide-based light brown fox ears with white fluffy inner fur and a thick, bushy, fluffy brown fox tail featuring a distinct cream-white gradient tip. She wears a white thigh garter with a daisy flower on her left leg and a small white quilted crossbody purse with a daisy ornament and a gold chain strap. Her outfit is an oversized cream-colored hoodie decorated with embroidered daisy flowers on the chest and sleeves and featuring a gold ribbon bow at the neckline, a matching cream multi-layered ruffled mini skirt with lace trim, cream-colored ribbed knee-high socks adorned with a single daisy flower at the top, and cream-colored lace-up ankle boots with a medium chunky heel and gold ribbon details. Her expression is a cheerful, open-mouthed smile with both hands raised playfully in front of her chest in a double paw gesture.
+ 1. Base Anatomy: Hinagiku is slender. Warm amber eyes with a happy expression. Her expression is a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light brown hair styled with straight bangs, wispy side strands, and a large white daisy flower clip with white ribbons on the left side.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light brown fox ears with white fluffy inner fur and a thick, bushy, fluffy brown fox tail featuring a distinct cream-white gradient tip.
+
+ 4. Upper Body: Her outfit is an oversized cream-colored hoodie decorated with embroidered daisy flowers on the chest and sleeves and featuring a gold ribbon bow at the neckline.
+
+ 5. Lower Body & Feet: She wears a white thigh garter with a daisy flower on her left leg and a small white quilted crossbody purse with a daisy ornament and a gold chain strap. A matching cream multi-layered ruffled mini skirt with lace trim, cream-colored ribbed knee-high socks adorned with a single daisy flower at the top, and cream-colored lace-up ankle boots with a medium chunky heel and gold ribbon details.
+
+ 6. Pose: With both hands raised playfully in front of her chest in a double paw gesture.
 
 Physical Appearance Prompt Style 4 — Hinagiku
 
-Hinagiku is a slender girl with long, wavy light brown hair, soft parted bangs, and daisy flower clips, and warm golden-amber eyes. Her animal features include large, wide-based brown fox ears and a thick, fluffy brown fox tail that transitions to a white tip. She wears daisy hair ornaments with cascading white ribbons and carries a small white square shoulder bag with a gold chain strap. Her outfit is a loose white hoodie with gold daisy embroidery and a yellow ribbon tie layered over a matching tiered, ruffled mini skirt with a brown belt, a daisy-adorned thigh garter on her left leg, slouched white ribbed socks decorated with daisies, and white heeled ankle boots with gold ribbon bows. Her expression is a bright, joyful open-mouthed smile with both hands gently curled into paw gestures near her chest.
+ 1. Base Anatomy: Hinagiku is a slender girl. Warm golden-amber eyes. Her expression is a bright, joyful open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light brown hair, soft parted bangs, and daisy flower clips. She wears daisy hair ornaments with cascading white ribbons and carries a small white square shoulder bag with a gold chain strap.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based brown fox ears and a thick, fluffy brown fox tail that transitions to a white tip.
+
+ 4. Upper Body: Her outfit is a loose white hoodie with gold daisy embroidery and a yellow ribbon tie layered over a matching tiered.
+
+ 5. Lower Body & Feet: Ruffled mini skirt with a brown belt, a daisy-adorned thigh garter on her left leg, slouched white ribbed socks decorated with daisies, and white heeled ankle boots with gold ribbon bows.
+
+ 6. Pose: With both hands gently curled into paw gestures near her chest.
 
 Physical Appearance Prompt Style 4b — Hinagiku
 
-Hinagiku is a slender young girl with warm amber eyes and long, wavy light brown hair beautifully adorned with a large cluster of white daisies and trailing gold ribbons on her left side. Based on fox logic, she possesses large, wide-based light brown ears with white inner fluff and a thick, bushy brown tail that seamlessly gradients to a soft white tip. She wears a cream-colored, loose-fitting hoodie-style pullover featuring delicate daisy embroidery, a gold ribbon tie at the collar, ruffled cuffs, and a small white square crossbody bag with a prominent daisy motif resting on her hip. Her lower half consists of a cream-colored pleated miniskirt accented with delicate gold patterns, a ruffled hemline, and decorative gold ribbon bows on the front waist and lower back. Her legs are styled with a white strapped garter featuring a daisy charm on the left thigh, paired with slouchy cream-colored socks embellished with small daisies, finishing with cream-colored heeled ankle boots tied with gold ribbons and matching floral charms. She wears a bright, open-mouthed smile, standing gracefully with both hands raised in soft, curled paw gestures.
+ 1. Base Anatomy: Hinagiku is a slender young girl. Warm amber eyes. She wears a bright, open-mouthed smile.
+
+ 2. Hair & Head: Long, wavy light brown hair beautifully adorned with a large cluster of white daisies and trailing gold ribbons on her left side.
+
+ 3. Species Traits: Fox Logic — Based on fox logic, she possesses large, wide-based light brown ears with white inner fluff and a thick, bushy brown tail that seamlessly gradients to a soft white tip.
+
+ 4. Upper Body: She wears a cream-colored, loose-fitting hoodie-style pullover featuring delicate daisy embroidery, a gold ribbon tie at the collar, ruffled cuffs, and a small white square crossbody bag with a prominent daisy motif resting on her hip.
+
+ 5. Lower Body & Feet: Her lower half consists of a cream-colored pleated miniskirt accented with delicate gold patterns, a ruffled hemline, and decorative gold ribbon bows on the front waist and lower back. Her legs are styled with a white strapped garter featuring a daisy charm on the left thigh, paired with slouchy cream-colored socks embellished with small daisies, finishing with cream-colored heeled ankle boots tied with gold ribbons and matching floral charms.
+
+ 6. Pose: Standing gracefully with both hands raised in soft, curled paw gestures.
 
 ---
 
 Name:
+Sango
+
+Japanese Name:
 珊瑚
 
 Name in Hiragana:
@@ -5271,6 +7560,9 @@ Name Reading:
 Sango
 
 Surname:
+Kurohama
+
+Surname in Japanese:
 黒浜
 
 Surname in Hiragana:
@@ -5279,20 +7571,11 @@ Surname in Hiragana:
 Surname in Korean:
 쿠로하마
 
-Surname Reading:
-Kurohama
-
 Full Name:
-黒浜 珊瑚
-
-Full Name in Hiragana:
-くろはま さんご
-
-Full Name in Korean:
-쿠로하마 산고
-
-Full Name Reading:
 Kurohama Sango
+
+Full Name in Japanese:
+黒浜 珊瑚
 
 Descriptive Title:
 The Coral Shore Fox Girl
@@ -5463,35 +7746,115 @@ Sango is a cozy, streetwear-styled fox girl whose affection appears through easy
 
 Physical Appearance Prompt Style 1 — Sango
 
-Sango is a petite, slim fox girl with shoulder-length, heavily layered hair in soft coral pink that transitions into pale lavender-pink at the feathered ends, full wispy bangs, long face-framing locks, and a large coral-colored hibiscus-like flower arrangement accented with small white blossoms, leaves, pearl strands, and dangling shell-shaped ornaments at her left temple, and vivid blue eyes with a calm, friendly gaze. Her animal features include a single pair of large, wide-based upright fox ears covered in matching pink fur with lighter inner tufts, and one thick, exceptionally bushy tail emerging naturally from her lower back, colored warm pink near the base and fading through blush peach into a contrasting creamy-white tip. She wears a fitted black choker with a gold ring and a round peach-toned bell pendant, along with assorted floral, shell, bead, and paw-print charms attached throughout her clothing. Her outfit is an oversized black pullover hoodie with a deep hood, pink drawstrings, ribbed cuffs, balloon sleeves, a front kangaroo pocket, zippered utility compartments, and elaborate coral-reef, ocean-wave, flower, shell, and paw-print motifs; the chest is accurately printed with “Coral Shore” above the smaller name “Kurohama Sango,” while the back displays “Coral Shore” over a large tropical sunset seascape framed by palm trees, coral, shells, and curling waves. She pairs the hoodie with short black utility shorts featuring layered straps, small buckles, decorative chains, and a long dangling paw-print tag, bare legs, scrunched black ankle warmers, and chunky black platform sneakers detailed with pink paw emblems, thick segmented soles, and subtle pink hardware. Her expression is a gentle closed-mouth smile with lightly flushed cheeks, and the turnaround presents her standing upright in a neutral modeling pose, with her shoulders relaxed, arms hanging naturally at her sides, fingers loosely extended, and feet placed slightly apart in the front and rear views while the profile view keeps her body straight and her gaze directed forward.
+ 1. Base Anatomy: Sango is a petite, slim fox girl. Vivid blue eyes with a calm, friendly gaze. Her expression is a gentle closed-mouth smile with lightly flushed cheeks, and the turnaround presents her standing upright in a neutral modeling pose.
+
+ 2. Hair & Head: Shoulder-length, heavily layered hair in soft coral pink that transitions into pale lavender-pink at the feathered ends, full wispy bangs, long face-framing locks, and a large coral-colored hibiscus-like flower arrangement accented with small white blossoms, leaves, pearl strands, and dangling shell-shaped ornaments at her left temple.
+
+ 3. Species Traits: Fox Logic — Her animal features include a single pair of large, wide-based upright fox ears covered in matching pink fur with lighter inner tufts, and one thick, exceptionally bushy tail emerging naturally from her lower back, colored warm pink near the base and fading through blush peach into a contrasting creamy-white tip.
+
+ 4. Upper Body: She wears a fitted black choker with a gold ring and a round peach-toned bell pendant, along with assorted floral, shell, bead, and paw-print charms attached throughout her clothing. Her outfit is an oversized black pullover hoodie with a deep hood, pink drawstrings, ribbed cuffs, balloon sleeves, a front kangaroo pocket, zippered utility compartments, and elaborate coral-reef, ocean-wave, flower, shell, and paw-print motifs; the chest is accurately printed with “Coral Shore” above the smaller name “Kurohama Sango,” while the back displays “Coral Shore” over a large tropical sunset seascape framed by palm trees, coral, shells, and curling waves. She pairs the hoodie with short black utility.
+
+ 5. Lower Body & Feet: Shorts featuring layered straps, small buckles, decorative chains, and a long dangling paw-print tag, bare legs, scrunched black ankle warmers, and chunky black platform sneakers detailed with pink paw emblems, thick segmented soles, and subtle pink hardware.
+
+ 6. Pose: With her shoulders relaxed, arms hanging naturally at her sides, fingers loosely extended, and feet placed slightly apart in the front and rear views while the profile view keeps her body straight and her gaze directed forward.
 
 Physical Appearance Prompt Style 1b — Sango
 
-Sango is a petite, slim-built fox girl with vivid sky-blue eyes set in a soft, friendly gaze, a faint closed-mouth smile, and shoulder-length, heavily layered coral-pink hair that transitions into pale lavender-pink at the feathered tips, with wispy face-framing strands, long bangs, and a coral hibiscus hair clip accented by small white flowers, green leaves, beads, and dangling shell-and-floral ornaments on the left side. She has two large, wide-based pink fox ears with pale inner fur and one thick, luxuriantly bushy tail that fades from blush pink at the base through peach to creamy ivory at the tip. Her accessories include a fitted black choker with a gold ring and round bell-like pendant, while her main garment is an oversized black pullover hoodie with pink drawstrings, ribbed cuffs, utility pockets, zipper tabs, floral and shell charms, paw-print patches, coral-branch embroidery, and curling blue wave motifs; the chest reads “Coral Shore” with “Kurohama Sango” beneath it, and the back displays “Coral Shore” above a large tropical sunset, ocean, palm, coral, and wave illustration, with a small “UwU” tag near the hem. Beneath the hoodie she wears fitted black short shorts detailed with layered straps, metal rings, hanging cords, and a small paw-print charm, followed by scrunched black ankle socks and chunky black platform sneakers with segmented soles, pink paw emblems, laces, and small accent loops. Her expression remains calm, approachable, and slightly bashful throughout the sheet, and she stands in neutral front, left-facing profile, and back turnaround poses with both arms relaxed at her sides, her legs straight and slightly apart, and her single tail hanging in a broad, natural curve behind her.
+ 1. Base Anatomy: Sango is a petite, slim-built fox girl. Vivid sky-blue eyes set in a soft, friendly gaze, a faint closed-mouth smile. Her expression remains calm, approachable, and slightly bashful throughout the sheet,.
+
+ 2. Hair & Head: Shoulder-length, heavily layered coral-pink hair that transitions into pale lavender-pink at the feathered tips, with wispy face-framing strands, long bangs, and a coral hibiscus hair clip accented by small white flowers, green leaves, beads, and dangling shell-and-floral ornaments on the left side.
+
+ 3. Species Traits: Fox Logic — She has two large, wide-based pink fox ears with pale inner fur and one thick, luxuriantly bushy tail that fades from blush pink at the base through peach to creamy ivory at the tip.
+
+ 4. Upper Body: Her accessories include a fitted black choker with a gold ring and round bell-like pendant, while her main garment is an oversized black pullover hoodie with pink drawstrings, ribbed cuffs, utility pockets, zipper tabs, floral and shell charms, paw-print patches, coral-branch embroidery, and curling blue wave motifs; the chest reads “Coral Shore” with “Kurohama Sango” beneath it, and the back displays “Coral Shore” above a large tropical sunset, ocean, palm, coral, and wave illustration, with a small “UwU” tag near the hem. Beneath the hoodie she wears fitted black short.
+
+ 5. Lower Body & Feet: Shorts detailed with layered straps, metal rings, hanging cords, and a small paw-print charm, followed by scrunched black ankle socks and chunky black platform sneakers with segmented soles, pink paw emblems, laces, and small accent loops.
+
+ 6. Pose: She stands in neutral front, left-facing profile, and back turnaround poses with both arms relaxed at her sides, her legs straight and slightly apart, and her single tail hanging in a broad, natural curve behind her.
 
 Physical Appearance Prompt Style 1c — Sango
 
-Sango has a petite, soft-bodied frame, clear sky-blue eyes, and a small closed-lip smile that feels sweet and approachable. Her hair is a fluffy medium-length shag in blush pink with lighter pastel ends, cut with airy layered bangs and slightly tousled cheek pieces, and it is adorned on the right side with a large hibiscus-like pink flower and dangling shell-and-flower ornaments. Her ears are broad and upright with pale inner fur, and her tail is long, very full, and feathery, blending from rosy pink near the base into warm cream at the tip. She wears a black choker with a shell-like pendant and a black hoodie as her main top layer, with pink drawstrings, paw-print motifs, coral branches, seashell accents, and wave graphics; the front chest reads “Coral Shore” with “Kurohama Sango” printed beneath it, while the back repeats “Coral Shore” above a tropical beach-and-ocean illustration, and a tiny shorts tag near the back hem reads “UwU.” Her lower body consists of black short shorts with zippers, small chain details, and a dangling paw-tag strap, followed by slouched black socks and chunky black sneakers with paw-print decorations on both the uppers and heels. She stands squarely facing forward with both arms resting naturally at her sides, her fingers relaxed, and her legs straight and evenly spaced.
+ 1. Base Anatomy: Sango has a petite, soft-bodied frame. Clear sky-blue eyes, and a small closed-lip smile that feels sweet and approachable.
+
+ 2. Hair & Head: Her hair is a fluffy medium-length shag in blush pink with lighter pastel ends, cut with airy layered bangs and slightly tousled cheek pieces, and it is adorned on the right side with a large hibiscus-like pink flower and dangling shell-and-flower ornaments.
+
+ 3. Species Traits: Fox Logic — Her ears are broad and upright with pale inner fur, and her tail is long, very full, and feathery, blending from rosy pink near the base into warm cream at the tip.
+
+ 4. Upper Body: She wears a black choker with a shell-like pendant and a black hoodie as her main top layer, with pink drawstrings, paw-print motifs, coral branches, seashell accents, and wave graphics; the front chest reads “Coral Shore” with “Kurohama Sango” printed beneath it, while the back repeats “Coral Shore” above a tropical beach-and-ocean illustration.
+
+ 5. Lower Body & Feet: A tiny shorts tag near the back hem reads “UwU.” Her lower body consists of black short shorts with zippers, small chain details, and a dangling paw-tag strap, followed by slouched black socks and chunky black sneakers with paw-print decorations on both the uppers and heels.
+
+ 6. Pose: She stands squarely facing forward with both arms resting naturally at her sides, her fingers relaxed, and her legs straight and evenly spaced.
 
 Physical Appearance Prompt Style 2 — Sango
 
-Sango is a slender girl with long, artfully tousled rose-pink hair that melts into soft lilac-purple through the ends, worn loose beneath wispy bangs with a red hibiscus and white blossom ornament trailing pearl strands above her ear, and she has deep blue eyes and a calm, closed-lip smile. Her animal features include large, wide-based rosy-pink ears with pale cream inner fur, and a single enormous, thick and bushy tail in warm pink fur that softens to a creamy blond tip. She wears a black choker with a golden bell at her throat. Her outfit is an oversized black zip-front hoodie printed across the chest with the English script "Coral Shore" above the smaller romanized signature "Kurohama Sango" — her own name, in which sango means coral and Kurohama means black shore — and decorated with pink drawstrings, paw prints, blossom clusters, seashell and coral motifs, blue ocean waves along the sleeves, a zippered sleeve pocket, a shell ornament on the hood, and a large back graphic of a circular sunset lagoon framed by palm trees and coral beneath the same "Coral Shore" lettering, paired with black cuffed shorts carrying a hanging strap with a paw charm and a tiny "UwU" tag on the back pocket, black slouched socks, and chunky black platform sneakers stamped with peach-pink paw prints. Her expression is a serene, contented smile with her arms hanging relaxed at her sides.
+ 1. Base Anatomy: Sango is a slender girl. She has deep blue eyes and a calm, closed-lip smile. Her expression is a serene, contented smile.
+
+ 2. Hair & Head: Long, artfully tousled rose-pink hair that melts into soft lilac-purple through the ends, worn loose beneath wispy bangs with a red hibiscus and white blossom ornament trailing pearl strands above her ear.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based rosy-pink ears with pale cream inner fur, and a single enormous, thick and bushy tail in warm pink fur that softens to a creamy blond tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell at her throat. Her outfit is an oversized black zip-front hoodie printed across the chest with the English script "Coral Shore" above the smaller romanized signature "Kurohama Sango" — her own name, in which sango means coral and Kurohama means black shore — and decorated with pink drawstrings, paw prints, blossom clusters, seashell and coral motifs, blue ocean waves along the sleeves, a zippered sleeve pocket, a shell ornament on the hood, and a large back graphic of a circular sunset lagoon framed by palm trees and coral beneath the same "Coral Shore" lettering.
+
+ 5. Lower Body & Feet: Paired with black cuffed shorts carrying a hanging strap with a paw charm and a tiny "UwU" tag on the back pocket, black slouched socks, and chunky black platform sneakers stamped with peach-pink paw prints.
+
+ 6. Pose: With her arms hanging relaxed at her sides.
 
 Physical Appearance Prompt Style 2b — Sango
 
-Sango has a slender build with fair skin, deep sapphire-blue eyes, and a soft, catlike closed-lip smile. Her long, tousled rose-pink hair falls past her shoulder blades, melting into soft lilac at the tips, and is adorned above one ear with a red hibiscus and white blossom cluster trailing shell-and-bead strands. Tall rosy-pink ears with creamy inner fluff stand on her head, and one enormous, bushy tail sweeps low behind her, its pink fur paling into a sandy cream tip. She wears a black choker with a golden bell and an oversized black zip hoodie printed across the chest with pink script reading "Coral Shore" above smaller lettering "Kurohama Sango," the character's own romanized name, whose surname means "black shore" and whose given name means "coral"; the hoodie is further decorated with pink paw prints, drifting blossoms, coral branches and blue ocean waves along the sleeves, shell-and-tassel charms, a flap sleeve pocket, and a large back graphic of a sunset lagoon with palm trees framed in coral beneath the same "Coral Shore" script, with a seashell ornament pinned near the hood. Her black cuffed shorts carry a hanging strap with a paw-print tag and a small back-pocket tab printed "UwU," a cutesy internet emoticon, worn with bare legs, black slouched socks, and chunky black platform sneakers stamped with pink paw prints at the toes and heels. She stands facing forward with her arms relaxed at her sides, held slightly away from her body.
+ 1. Base Anatomy: Sango has a slender build with fair skin. Deep sapphire-blue eyes, and a soft, catlike closed-lip smile.
+
+ 2. Hair & Head: Her long, tousled rose-pink hair falls past her shoulder blades, melting into soft lilac at the tips, and is adorned above one ear with a red hibiscus and white blossom cluster trailing shell-and-bead strands.
+
+ 3. Species Traits: Fox Logic — Tall rosy-pink ears with creamy inner fluff stand on her head, and one enormous, bushy tail sweeps low behind her, its pink fur paling into a sandy cream tip.
+
+ 4. Upper Body: She wears a black choker with a golden bell and an oversized black zip hoodie printed across the chest with pink script reading "Coral Shore" above smaller lettering "Kurohama Sango," the character's own romanized name, whose surname means "black shore" and whose given name means "coral"; the hoodie is further decorated with pink paw prints, drifting blossoms, coral branches and blue ocean waves along the sleeves, shell-and-tassel charms, a flap sleeve pocket, and a large back graphic of a sunset lagoon with palm trees framed in coral beneath the same "Coral Shore" script, with a seashell ornament pinned near the hood.
+
+ 5. Lower Body & Feet: Her black cuffed shorts carry a hanging strap with a paw-print tag and a small back-pocket tab printed "UwU," a cutesy internet emoticon, worn with bare legs, black slouched socks, and chunky black platform sneakers stamped with pink paw prints at the toes and heels.
+
+ 6. Pose: She stands facing forward with her arms relaxed at her sides, held slightly away from her body.
 
 Physical Appearance Prompt Style 3 — Sango
 
-Sango is a petite, slender girl with shoulder-length, messy pink hair that transitions into a soft purple gradient at the tips, featuring wispy bangs framing her face, and bright blue eyes. Her animal features include large, wide-based furry pink fox ears on top of her head and a thick, fluffy pink fox tail that fades to a lighter, creamy peach color at the tip. She wears a black choker with a small gold bell, a large pink hibiscus flower clip with hanging floral tassels tucked behind her left ear, and a decorative seashell and flower charm hanging on the back of her hood. Her outfit is an oversized black zip-up hoodie over a matching black hoodie underlayer, printed with pink coral branches, ocean waves, paw prints, cherry blossoms, and the English text "Coral Shore" and "Kurohama Sango" on the front, and a circular tropical sunset graphic reading "Coral Shore" on the back, paired with simple black denim shorts adorned with hanging metal chains and straps, mid-calf black crew socks, and chunky black platform sneakers detailed with pink paw print accents. Her expression is a gentle, pleasant smile, shown in a simple three-view turnaround sheet with her hands resting naturally at her sides in a static standing pose.
+ 1. Base Anatomy: Sango is a petite, slender girl. Bright blue eyes. Her expression is a gentle, pleasant smile, shown in a simple three-view turnaround sheet.
+
+ 2. Hair & Head: Shoulder-length, messy pink hair that transitions into a soft purple gradient at the tips, featuring wispy bangs framing her face.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based furry pink fox ears on top of her head and a thick, fluffy pink fox tail that fades to a lighter, creamy peach color at the tip.
+
+ 4. Upper Body: She wears a black choker with a small gold bell, a large pink hibiscus flower clip with hanging floral tassels tucked behind her left ear, and a decorative seashell and flower charm hanging on the back of her hood. Her outfit is an oversized black zip-up hoodie over a matching black hoodie underlayer, printed with pink coral branches, ocean waves, paw prints, cherry blossoms, and the English text "Coral Shore" and "Kurohama Sango" on the front, and a circular tropical sunset graphic reading "Coral Shore" on the back.
+
+ 5. Lower Body & Feet: Paired with simple black denim shorts adorned with hanging metal chains and straps, mid-calf black crew socks, and chunky black platform sneakers detailed with pink paw print accents.
+
+ 6. Pose: With her hands resting naturally at her sides in a static standing pose.
 
 Physical Appearance Prompt Style 4 — Sango
 
-Sango is a petite girl with shoulder-length, wavy pink hair featuring light pink tips, blunt bangs, and large hibiscus floral clips, and bright blue eyes. Her animal features include large, wide-based pink fox ears and a thick, bushy pink fox tail that transitions to a lighter, creamy pink tip. She wears a simple black bell choker. Her outfit is a black "Coral Shore" zip-up hoodie featuring tropical sunset and coral graphics layered over a matching black tank, black shorts with utility chains, black calf-length socks, and black chunky sneakers with pink paw-print details. Her expression is a gentle open-mouthed smile with both hands held up near her chest in playful, curled paw poses.
+ 1. Base Anatomy: Sango is a petite girl. Bright blue eyes. Her expression is a gentle open-mouthed smile.
+
+ 2. Hair & Head: Shoulder-length, wavy pink hair featuring light pink tips, blunt bangs, and large hibiscus floral clips.
+
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based pink fox ears and a thick, bushy pink fox tail that transitions to a lighter, creamy pink tip.
+
+ 4. Upper Body: She wears a simple black bell choker. Her outfit is a black "Coral Shore" zip-up hoodie featuring tropical sunset and coral graphics layered over a matching black tank.
+
+ 5. Lower Body & Feet: Black shorts with utility chains, black calf-length socks, and black chunky sneakers with pink paw-print details.
+
+ 6. Pose: With both hands held up near her chest in playful, curled paw poses.
 
 Physical Appearance Prompt Style 4b — Sango
 
-Sango is a slender young girl with bright blue eyes and mid-length, messy light pink hair that beautifully gradients into a soft purple at the tips. Following fox logic, she features large, wide-based pale pink ears with white inner fluff and a thick, bushy tail that gracefully gradients from pale pink at the base to a lighter peach and white tip. Her outfit begins with a black leather choker holding a gold bell, worn underneath a black oversized hoodie featuring the text "UwU" in a pink-to-peach gradient above the word "UNDERGROUND" in white, accented with small peach paw prints on the lower sleeves and a large, melting peach paw print graphic on the back. She pairs this with black shorts cinched by a black belt, heavily accessorized with a silver hip ring, dangling straps, and a small black strap bearing a pink paw print charm. Her legwear consists of slouchy black crew socks tucked into chunky black sneakers decorated with a peach paw print emblem on the sides. She wears a gentle, closed-mouth smile, standing casually with her arms resting straight down at her sides.
+ 1. Base Anatomy: Sango is a slender young girl. Bright blue eyes. She wears a gentle, closed-mouth smile.
+
+ 2. Hair & Head: Mid-length, messy light pink hair that beautifully gradients into a soft purple at the tips.
+
+ 3. Species Traits: Fox Logic — Following fox logic, she features large, wide-based pale pink ears with white inner fluff and a thick, bushy tail that gracefully gradients from pale pink at the base to a lighter peach and white tip.
+
+ 4. Upper Body: Her outfit begins with a black leather choker holding a gold bell, worn underneath a black oversized hoodie featuring the text "UwU" in a pink-to-peach gradient above the word "UNDERGROUND" in white, accented with small peach paw prints on the lower sleeves and a large, melting peach paw print graphic on the back.
+
+ 5. Lower Body & Feet: She pairs this with black shorts cinched by a black belt, heavily accessorized with a silver hip ring, dangling straps, and a small black strap bearing a pink paw print charm. Her legwear consists of slouchy black crew socks tucked into chunky black sneakers decorated with a peach paw print emblem on the sides.
+
+ 6. Pose: Standing casually with her arms resting straight down at her sides.
 
 ---
 
@@ -5680,35 +8043,115 @@ Hokuto is a composed, moonlit cat boy whose affection is constant but expressed 
 
 Physical Appearance Prompt Style 1 — Hokuto
 
-Hokuto is a slim boy with short, tousled black hair touched by a subtle violet sheen, layered bangs, and bright blue eyes with an energetic, mischievous expression. His animal features include small, sleek pointed black cat ears with soft pink inner fur and a long, flexible black tail of even slender thickness that curves upward behind him. He wears fingerless black gloves, a black choker and layered necklaces with a crescent-moon pendant, and a compact black crossbody bag decorated with constellation lines. His outfit is a black techwear hoodie with subtle navy lining, constellation embroidery, crescent patches, utility pockets, and multiple straps layered over a fitted black high-neck top, paired with black cargo shorts with hanging tabs and silver chains over fitted cropped black leggings, black ankle socks patterned with tiny stars, and black lace-up combat boots with buckle straps, crescent emblems, and small star details. His expression is a broad open-mouthed grin with both hands lifted in front of him, fingers spread in a playful double claw pose.
+ 1. Base Anatomy: Hokuto is a slim boy. Bright blue eyes with an energetic, mischievous expression. His expression is a broad open-mouthed grin.
+
+ 2. Hair & Head: Short, tousled black hair touched by a subtle violet sheen, layered bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include small, sleek pointed black cat ears with soft pink inner fur and a long, flexible black tail of even slender thickness that curves upward behind him.
+
+ 4. Upper Body: He wears fingerless black gloves, a black choker and layered necklaces with a crescent-moon pendant, and a compact black crossbody bag decorated with constellation lines. His outfit is a black techwear hoodie with subtle navy lining, constellation embroidery, crescent patches, utility pockets, and multiple straps layered over a fitted black high-neck top.
+
+ 5. Lower Body & Feet: Paired with black cargo shorts with hanging tabs and silver chains over fitted cropped black leggings, black ankle socks patterned with tiny stars, and black lace-up combat boots with buckle straps, crescent emblems, and small star details.
+
+ 6. Pose: With both hands lifted in front of him, fingers spread in a playful double claw pose.
 
 Physical Appearance Prompt Style 1b — Hokuto
 
-Hokuto is a slim, youthful boy with large vivid sapphire-blue eyes held in an exuberant, wide-eyed gaze and short, heavily tousled black hair with deep violet highlights, shaggy side layers, uneven bangs. He has small, sleek black cat ears with pale pink inner tufts and one slender, flexible black tail that curves upward in a smooth hook behind him. A black studded choker with a hanging silver crescent moon, black fingerless gloves, wrist bands, and a compact constellation-printed crossbody pouch accessorize a fitted black high-neck top beneath a loose black hooded utility jacket with dark navy lining, zipper hardware, strap details, a white constellation graphic on the chest, and a crescent patch on one sleeve. Black cargo shorts carry zip pockets, hanging straps, silver chains, D-rings, and buckled utility panels, layered over fitted black knee-length compression leggings with a strap buckle around one thigh. Short black socks marked with tiny stars disappear into heavy black lace-up combat boots with thick soles, wide ankle straps, buckles, crescent emblems, and subtle blue details. He finishes with a delighted open-mouthed grin, standing directly forward with his feet apart and both hands raised beside his face, fingers spread and curled into an animated double cat-paw gesture.
+ 1. Base Anatomy: Hokuto is a slim, youthful boy. Large vivid sapphire-blue eyes held in an exuberant, wide-eyed gaze. He finishes with a delighted open-mouthed grin.
+
+ 2. Hair & Head: Short, heavily tousled black hair with deep violet highlights, shaggy side layers, uneven bangs.
+
+ 3. Species Traits: Cat Logic — He has small, sleek black cat ears with pale pink inner tufts and one slender, flexible black tail that curves upward in a smooth hook behind him.
+
+ 4. Upper Body: A black studded choker with a hanging silver crescent moon, black fingerless gloves, wrist bands, and a compact constellation-printed crossbody pouch accessorize a fitted black high-neck top beneath a loose black hooded utility jacket with dark navy lining, zipper hardware, strap details, a white constellation graphic on the chest, and a crescent patch on one sleeve.
+
+ 5. Lower Body & Feet: Black cargo shorts carry zip pockets, hanging straps, silver chains, D-rings, and buckled utility panels, layered over fitted black knee-length compression leggings with a strap buckle around one thigh. Short black socks marked with tiny stars disappear into heavy black lace-up combat boots with thick soles, wide ankle straps, buckles, crescent emblems, and subtle blue details.
+
+ 6. Pose: Standing directly forward with his feet apart and both hands raised beside his face, fingers spread and curled into an animated double cat-paw gesture.
 
 Physical Appearance Prompt Style 1c — Hokuto
 
-Hokuto has a small, slender build with vivid sky-blue eyes and an excited open-mouthed grin. His hair is short, tousled, and black with a faint purple sheen through the bangs and crown, and the uneven, fluffy layers make his silhouette feel lively and boyish. He has sleek black cat ears with pale pink inner fur, and a long black tail that curves upward in a flexible arc behind him. He wears a black high-neck inner shirt under a loose black hoodie-style jacket, accessorized with a crescent-moon pendant, fingerless gloves, and a compact crossbody pouch printed with constellation lines that echo the simple star-map embroidery on his chest. His lower half consists of black cargo shorts layered over fitted black capri leggings, strapped utility details at the thigh, and chunky black lace-up boots with subtle blue accents. In the front pose he stands squarely with his feet apart, elbows bent out to the sides, and both hands lifted beside his face with fingers spread in a playful clawing gesture.
+ 1. Base Anatomy: Hokuto has a small, slender build. Vivid sky-blue eyes and an excited open-mouthed grin.
+
+ 2. Hair & Head: His hair is short, tousled, and black with a faint purple sheen through the bangs and crown, and the uneven, fluffy layers make his silhouette feel lively and boyish.
+
+ 3. Species Traits: Cat Logic — He has sleek black cat ears with pale pink inner fur, and a long black tail that curves upward in a flexible arc behind him.
+
+ 4. Upper Body: He wears a black high-neck inner shirt under a loose black hoodie-style jacket, accessorized with a crescent-moon pendant, fingerless gloves, and a compact crossbody pouch printed with constellation lines that echo the simple star-map embroidery on his chest.
+
+ 5. Lower Body & Feet: His lower half consists of black cargo shorts layered over fitted black capri leggings, strapped utility details at the thigh, and chunky black lace-up boots with subtle blue accents.
+
+ 6. Pose: In the front pose he stands squarely with his feet apart, elbows bent out to the sides, and both hands lifted beside his face with fingers spread in a playful clawing gesture.
 
 Physical Appearance Prompt Style 2 — Hokuto
 
-Hokuto is a small, boyish-framed young boy with short, messy black hair streaked with violet and a single stray ahoge springing from his crown, and bright sapphire-blue eyes. His animal features include compact, sleek black ears lined with pale pink inner fur and a long, slender black tail of even thickness that curls upward behind him. He wears a studded black collar, a silver crescent-moon necklace, black fingerless gloves, and a crossbody strap carrying a small black pouch printed with a constellation. His outfit is a black high-collared top layered under a black zip-up hooded jacket with deep-blue lining, silver constellation embroidery across the chest, and a moon-and-stars patch on the sleeve pocket, paired with black cargo shorts wrapped in straps, chains, and a laced thigh belt over knee-length black leggings, black socks flecked with tiny stars, and chunky black lace-up boots decorated with buckles, crescent moons, and stars. His expression is a gleeful, wide-open smile, with both hands raised beside his shoulders in playful clawed paw gestures.
+ 1. Base Anatomy: Hokuto is a small, boyish-framed young boy. Bright sapphire-blue eyes. His expression is a gleeful, wide-open smile.
+
+ 2. Hair & Head: Short, messy black hair streaked with violet and a single stray ahoge springing from his crown.
+
+ 3. Species Traits: Cat Logic — His animal features include compact, sleek black ears lined with pale pink inner fur and a long, slender black tail of even thickness that curls upward behind him.
+
+ 4. Upper Body: He wears a studded black collar, a silver crescent-moon necklace, black fingerless gloves, and a crossbody strap carrying a small black pouch printed with a constellation. His outfit is a black high-collared top layered under a black zip-up hooded jacket with deep-blue lining, silver constellation embroidery across the chest, and a moon-and-stars patch on the sleeve pocket.
+
+ 5. Lower Body & Feet: Paired with black cargo shorts wrapped in straps, chains, and a laced thigh belt over knee-length black leggings, black socks flecked with tiny stars, and chunky black lace-up boots decorated with buckles, crescent moons, and stars.
+
+ 6. Pose: With both hands raised beside his shoulders in playful clawed paw gestures.
 
 Physical Appearance Prompt Style 2b — Hokuto
 
-Hokuto has a small, boyish frame with fair skin, bright cobalt-blue eyes, and a huge open-mouthed grin. His short black hair is messy and windswept, shot through with violet streaks. Fluffy black cat ears with pale pink inner fur perch on his head, and a long, slender black tail with softly ridged fur curls upward in an S behind him. He wears a black high-collared top whose studded collar carries a silver crescent-moon pendant, under an open black zip-up hooded jacket lined in deep blue and embroidered across the chest with a silver constellation of linked stars, finished with a sleeve pocket patch printed with a crescent moon and stars, and a small black crossbody pouch bag speckled with faint constellation markings slung across his torso; his hands are covered by black fingerless gloves, and no legible text appears anywhere on the outfit. His black cargo shorts hang with chains, zippers, and buckled straps, including a thigh strap stitched with a pale X, worn over black knee-length leggings, star-flecked black socks, and chunky black lace-up boots buckled and studded with silver crescent moons and stars. He poses with both hands lifted beside his shoulders in open, clawed paw gestures.
+ 1. Base Anatomy: Hokuto has a small, boyish frame with fair skin. Bright cobalt-blue eyes, and a huge open-mouthed grin.
+
+ 2. Hair & Head: His short black hair is messy and windswept, shot through with violet streaks.
+
+ 3. Species Traits: Cat Logic — Fluffy black cat ears with pale pink inner fur perch on his head, and a long, slender black tail with softly ridged fur curls upward in an S behind him.
+
+ 4. Upper Body: He wears a black high-collared top whose studded collar carries a silver crescent-moon pendant, under an open black zip-up hooded jacket lined in deep blue and embroidered across the chest with a silver constellation of linked stars, finished with a sleeve pocket patch printed with a crescent moon and stars, and a small black crossbody pouch bag speckled with faint constellation markings slung across his torso; his hands are covered by black fingerless gloves, and no legible text appears anywhere on the outfit.
+
+ 5. Lower Body & Feet: His black cargo shorts hang with chains, zippers, and buckled straps, including a thigh strap stitched with a pale X, worn over black knee-length leggings, star-flecked black socks, and chunky black lace-up boots buckled and studded with silver crescent moons and stars.
+
+ 6. Pose: He poses with both hands lifted beside his shoulders in open, clawed paw gestures.
 
 Physical Appearance Prompt Style 3 — Hokuto
 
-Hokuto is slender with short, messy black hair featuring deep purple highlights and spiky bangs, and bright blue eyes with an energetic, cheerful expression. His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness and curves upward at the tip. He wears a black leather collar with a silver crescent moon charm, black fingerless gloves, and a small black rectangular crossbody utility bag with a white constellation pattern. His outfit is a black zip-up hooded jacket featuring a white constellation print on the left chest, layered over a dark grey high-neck t-shirt, black cargo shorts with zipper details and a black buckled thigh strap on his left leg, black opaque athletic leggings under the shorts with black crew socks featuring a blue star pattern, and high-top black combat boots with black laces and a silver crescent moon motif on the heel. His expression is a bright, open-mouthed smile with both hands raised at chest level, fingers splayed out in a playful double-claw pose.
+ 1. Base Anatomy: Hokuto is slender. Bright blue eyes with an energetic, cheerful expression. His expression is a bright, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy black hair featuring deep purple highlights and spiky bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness and curves upward at the tip.
+
+ 4. Upper Body: He wears a black leather collar with a silver crescent moon charm, black fingerless gloves, and a small black rectangular crossbody utility bag with a white constellation pattern. His outfit is a black zip-up hooded jacket featuring a white constellation print on the left chest, layered over a dark grey high-neck t-shirt.
+
+ 5. Lower Body & Feet: Black cargo shorts with zipper details and a black buckled thigh strap on his left leg, black opaque athletic leggings under the shorts with black crew socks featuring a blue star pattern, and high-top black combat boots with black laces and a silver crescent moon motif on the heel.
+
+ 6. Pose: With both hands raised at chest level, fingers splayed out in a playful double-claw pose.
 
 Physical Appearance Prompt Style 4 — Hokuto
 
-Hokuto is a young, athletic boy with short, messy black hair featuring subtle purple highlights, layered bangs, and bright blue eyes. His animal features include smaller, sleek pointed black cat ears with pink inner fluff and a long, slender, flexible black cat tail of even thickness. He wears a black choker with a silver crescent moon pendant and black fingerless gloves. His outfit is a black zip-up hooded jacket with white constellation patterns and a crescent moon patch layered over a black high-neck undershirt, black shorts over black athletic leggings, black mid-calf socks with blue stripes and star motifs, and black high-top sneakers with crescent moon details. His expression is a wide, energetic open-mouthed smile with both hands raised at shoulder height, palms facing forward with fingers spread.
+ 1. Base Anatomy: Hokuto is a young, athletic boy. Bright blue eyes. His expression is a wide, energetic open-mouthed smile.
+
+ 2. Hair & Head: Short, messy black hair featuring subtle purple highlights, layered bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, sleek pointed black cat ears with pink inner fluff and a long, slender, flexible black cat tail of even thickness.
+
+ 4. Upper Body: He wears a black choker with a silver crescent moon pendant and black fingerless gloves. His outfit is a black zip-up hooded jacket with white constellation patterns and a crescent moon patch layered over a black high-neck undershirt.
+
+ 5. Lower Body & Feet: Black shorts over black athletic leggings, black mid-calf socks with blue stripes and star motifs, and black high-top sneakers with crescent moon details.
+
+ 6. Pose: With both hands raised at shoulder height, palms facing forward with fingers spread.
 
 Physical Appearance Prompt Style 4b — Hokuto
 
-Hokuto is a slender young boy with bright blue eyes and short, messy black hair accented with subtle purple highlights. Following cat logic, he has sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail. His attire starts with a black choker featuring a silver crescent moon pendant, layered under a black t-shirt and a black zip-up hooded jacket decorated with silver constellation patterns, subtle blue zipper pulls, a crescent moon patch on the sleeve, and a small black crossbody tech bag worn over his chest. He pairs this with black shorts layered over black knee-length compression leggings, heavily accessorized with a black belt, silver hip chains, dangling utility straps, and black fingerless gloves on his hands. His legwear includes black crew socks patterned with blue constellations, tucked into chunky black high-top sneakers adorned with silver moon and star charms. He exhibits an enthusiastic, open-mouthed smile, posing playfully with both hands raised in open-palmed, paw-like gestures.
+ 1. Base Anatomy: Hokuto is a slender young boy. Bright blue eyes. He exhibits an enthusiastic, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy black hair accented with subtle purple highlights.
+
+ 3. Species Traits: Cat Logic — Following cat logic, he has sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail.
+
+ 4. Upper Body: His attire starts with a black choker featuring a silver crescent moon pendant, layered under a black t-shirt and a black zip-up hooded jacket decorated with silver constellation patterns, subtle blue zipper pulls, a crescent moon patch on the sleeve, and a small black crossbody tech bag worn over his chest.
+
+ 5. Lower Body & Feet: He pairs this with black shorts layered over black knee-length compression leggings, heavily accessorized with a black belt, silver hip chains, dangling utility straps, and black fingerless gloves on his hands. His legwear includes black crew socks patterned with blue constellations, tucked into chunky black high-top sneakers adorned with silver moon and star charms.
+
+ 6. Pose: Posing playfully with both hands raised in open-palmed, paw-like gestures.
 
 ---
 
@@ -5902,35 +8345,115 @@ Tsukito is a warm, mature cat man whose affection appears as stability, patience
 
 Physical Appearance Prompt Style 1 — Tsukito
 
-Tsukito is a slim adult man with short, slightly tousled black hair, a neatly trimmed beard and mustache, and bright blue eyes behind rectangular blue-accented glasses with an upbeat, confident expression. His animal features include small, sleek pointed black cat ears with pale pink inner fur and a long, flexible black tail of even slender thickness that curves outward behind him. He wears rectangular glasses, layered necklaces including a crescent-moon pendant, a black wristwatch, and a compact black crossbody pouch. His outfit is a long black hooded coat with silver zipper lines, crescent-moon patches, and subtle blue trim layered over a gray ribbed turtleneck sweater, paired with fitted black trousers secured by a belt and accented with a hip chain and hanging strap, and black lace-up high-top boots with metallic edging and crescent emblems. His expression is a broad open-mouthed smile with one fist thrust high overhead and the other clenched near his chest in a triumphant pose.
+ 1. Base Anatomy: Tsukito is a slim adult man. Bright blue eyes behind rectangular blue-accented glasses with an upbeat, confident expression. His expression is a broad open-mouthed smile.
+
+ 2. Hair & Head: Short, slightly tousled black hair, a neatly trimmed beard and mustache.
+
+ 3. Species Traits: Cat Logic — His animal features include small, sleek pointed black cat ears with pale pink inner fur and a long, flexible black tail of even slender thickness that curves outward behind him.
+
+ 4. Upper Body: He wears rectangular glasses, layered necklaces including a crescent-moon pendant, a black wristwatch, and a compact black crossbody pouch. His outfit is a long black hooded coat with silver zipper lines, crescent-moon patches, and subtle blue trim layered over a gray ribbed turtleneck sweater.
+
+ 5. Lower Body & Feet: Paired with fitted black trousers secured by a belt and accented with a hip chain and hanging strap, and black lace-up high-top boots with metallic edging and crescent emblems.
+
+ 6. Pose: With one fist thrust high overhead and the other clenched near his chest in a triumphant pose.
 
 Physical Appearance Prompt Style 1b — Tsukito
 
-Tsukito is a lean adult man with clear cyan-blue eyes behind black rectangular glasses and an energetic, warmly amused gaze, accompanied by short, tousled black hair with irregular layered ends and soft bangs, plus a neatly shaped black moustache and short boxed beard. He has small, sleek black cat ears with pale pink inner fur and one slender, flexible black tail that curves outward and downward behind him. A silver crescent pendant hangs over a gray ribbed turtleneck sweater, while a black crossbody utility bag rests against his hip beneath a long black hooded technical coat with dark blue lining, silver zipper tracks, subtle reflective bands, crescent-moon emblems, and streamlined pocket hardware. Straight black trousers are secured by a black belt and decorated with a silver chain, crescent charm, side straps, and narrow hanging utility tabs. Black lace-up high-top combat boots have reinforced soles, silver midsoles, ankle straps, and crescent motifs on the outer shafts. He ends with a broad open-mouthed smile, standing in a confident forward-facing stance with his feet apart, his left fist clenched beside his chest, and his right arm thrust straight upward with a raised celebratory fist.
+ 1. Base Anatomy: Tsukito is a lean adult man. Clear cyan-blue eyes behind black rectangular glasses. He ends with a broad open-mouthed smile.
+
+ 2. Hair & Head: An energetic, warmly amused gaze, accompanied by short, tousled black hair with irregular layered ends and soft bangs, plus a neatly shaped black moustache and short boxed beard.
+
+ 3. Species Traits: Cat Logic — He has small, sleek black cat ears with pale pink inner fur and one slender, flexible black tail that curves outward and downward behind him.
+
+ 4. Upper Body: A silver crescent pendant hangs over a gray ribbed turtleneck sweater, while a black crossbody utility bag rests against his hip beneath a long black hooded technical coat with dark blue lining, silver zipper tracks, subtle reflective bands, crescent-moon emblems, and streamlined pocket hardware. Black lace-up high-top combat.
+
+ 5. Lower Body & Feet: Straight black trousers are secured by a black belt and decorated with a silver chain, crescent charm, side straps, and narrow hanging utility tabs. Boots have reinforced soles, silver midsoles, ankle straps, and crescent motifs on the outer shafts.
+
+ 6. Pose: Standing in a confident forward-facing stance with his feet apart, his left fist clenched beside his chest, and his right arm thrust straight upward with a raised celebratory fist.
 
 Physical Appearance Prompt Style 1c — Tsukito
 
-Tsukito has a lean adult build with bright blue eyes, a broad open smile, and a neatly kept black beard and mustache that give him a mature but approachable look. His hair is short, tousled, and black with a side-swept fringe, and he wears rectangular black glasses that sharpen the face without softening his upbeat expression. He has pointed black cat ears with pale pink inner fur, and a long black tail that hangs behind him with a gentle bend near the tip. He layers a gray ribbed mock-neck knit under a long black hooded coat marked with crescent-moon motifs, and he adds stacked crescent pendants at the throat along with a slim black crossbody bag worn diagonally across the torso. He pairs the top with fitted black trousers, a narrow belt, a hanging moon charm at the hip, and black high-top lace-up boots with glossy trim. In the front pose he stands firmly planted with his right arm thrust high overhead in a triumphant fist while his left arm is bent with a clenched fist held near his chest.
+ 1. Base Anatomy: Tsukito has a lean adult build. Bright blue eyes, a broad open smile, and a neatly kept black beard and mustache that give him a mature but approachable look.
+
+ 2. Hair & Head: His hair is short, tousled, and black with a side-swept fringe, and he wears rectangular black glasses that sharpen the face without softening his upbeat expression.
+
+ 3. Species Traits: Cat Logic — He has pointed black cat ears with pale pink inner fur, and a long black tail that hangs behind him with a gentle bend near the tip.
+
+ 4. Upper Body: He layers a gray ribbed mock-neck knit under a long black hooded coat marked with crescent-moon motifs, and he adds stacked crescent pendants at the throat along with a slim black crossbody bag worn diagonally across the torso. He pairs the top with fitted black.
+
+ 5. Lower Body & Feet: Trousers, a narrow belt, a hanging moon charm at the hip, and black high-top lace-up boots with glossy trim.
+
+ 6. Pose: In the front pose he stands firmly planted with his right arm thrust high overhead in a triumphant fist while his left arm is bent with a clenched fist held near his chest.
 
 Physical Appearance Prompt Style 2 — Tsukito
 
-Tsukito is a tall, lean adult man with short, tousled black hair framing rectangular black glasses and a neatly trimmed dark beard and mustache, and bright cobalt-blue eyes. His animal features include sleek black ears with rosy inner fur and a long, thin black tail that keeps an even width all the way to its tip. He wears a silver crescent-moon necklace, a black wristband watch, and a crossbody strap with a compact black pouch accented by a small crescent. His outfit is a heather-gray ribbed turtleneck layered under a thigh-length black hooded coat with gunmetal zippers, a small crescent at the chest and sleeve, and a silver stripe across the back, paired with black belted slim trousers hung with a crescent-charm chain and zip pockets that taper straight into black high-top sneaker boots with silver-trimmed soles and moon details. His expression is an exuberant open-mouthed laugh, with one arm thrust triumphantly overhead in a fist while the other fist rises at chest height.
+ 1. Base Anatomy: Tsukito is a tall, lean adult man. Bright cobalt-blue eyes. His expression is an exuberant open-mouthed laugh.
+
+ 2. Hair & Head: Short, tousled black hair framing rectangular black glasses and a neatly trimmed dark beard and mustache.
+
+ 3. Species Traits: Cat Logic — His animal features include sleek black ears with rosy inner fur and a long, thin black tail that keeps an even width all the way to its tip.
+
+ 4. Upper Body: He wears a silver crescent-moon necklace, a black wristband watch, and a crossbody strap with a compact black pouch accented by a small crescent. His outfit is a heather-gray ribbed turtleneck layered under a thigh-length black hooded coat with gunmetal zippers, a small crescent at the chest and sleeve, and a silver stripe across the back.
+
+ 5. Lower Body & Feet: Paired with black belted slim trousers hung with a crescent-charm chain and zip pockets that taper straight into black high-top sneaker boots with silver-trimmed soles and moon details.
+
+ 6. Pose: With one arm thrust triumphantly overhead in a fist while the other fist rises at chest height.
 
 Physical Appearance Prompt Style 2b — Tsukito
 
-Tsukito has a tall, lean adult build with fair skin, clear blue eyes behind black rectangular glasses, a short dark beard and mustache, and a wide, open-mouthed cheerful smile. His black hair is cut short and casually tousled. Sleek black cat ears with soft pink inner fur rise from his head, and a single long, slim black tail curves smoothly behind him. He wears a gray ribbed turtleneck sweater with a silver crescent-moon pendant on a cord, layered under a long black hooded parka-style coat with silver-trimmed zippers, a small silver crescent at the chest and another on the sleeve, and a black crossbody strap carrying a zippered pouch stamped with a crescent moon, plus a black wristwatch; the coat's trims are abstract, with no legible text. His slim black trousers are belted in black and hung with a chain bearing a crescent charm, zip pockets, and utility straps, ending in black high-top sneaker boots with silver toe caps, plated sole accents, laces, and crescent-moon details. He stands with his left arm thrust high overhead in a triumphant fist while his right fist is raised at chest height.
+ 1. Base Anatomy: Tsukito has a tall, lean adult build with fair skin. Clear blue eyes behind black rectangular glasses, a short dark beard and mustache, and a wide, open-mouthed cheerful smile.
+
+ 2. Hair & Head: His black hair is cut short and casually tousled.
+
+ 3. Species Traits: Cat Logic — Sleek black cat ears with soft pink inner fur rise from his head, and a single long, slim black tail curves smoothly behind him.
+
+ 4. Upper Body: He wears a gray ribbed turtleneck sweater with a silver crescent-moon pendant on a cord, layered under a long black hooded parka-style coat with silver-trimmed zippers, a small silver crescent at the chest and another on the sleeve, and a black crossbody strap carrying a zippered pouch stamped with a crescent moon, plus a black wristwatch; the coat's trims are abstract, with no legible text.
+
+ 5. Lower Body & Feet: His slim black trousers are belted in black and hung with a chain bearing a crescent charm, zip pockets, and utility straps, ending in black high-top sneaker boots with silver toe caps, plated sole accents, laces, and crescent-moon details.
+
+ 6. Pose: He stands with his left arm thrust high overhead in a triumphant fist while his right fist is raised at chest height.
 
 Physical Appearance Prompt Style 3 — Tsukito
 
-Tsukito is slender with short, messy black hair styled with a side-parted fringe, a short black beard, and bright blue eyes framed by thick black rectangular glasses with a confident, open-mouthed smile. His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, extending downwards and curving up at the end. He wears a silver chain necklace with a dangling silver crescent moon pendant and a black rectangular crossbody bag with a long shoulder strap. His outfit is a long black hooded trench coat featuring silver zipper pockets and a silver crescent moon emblem on the chest, layered over a ribbed grey turtleneck sweater, slim-fit black trousers secured by a black belt, black socks, and black high-top sneakers with silver soles, black laces, and a silver crescent moon emblem on the outer ankle. His expression is a wide, confident smile with his left arm raised straight up in a clenched fist and his right hand held at chest level in a tight fist gesture.
+ 1. Base Anatomy: Tsukito is slender. Bright blue eyes framed by thick black rectangular glasses with a confident, open-mouthed smile. His expression is a wide, confident smile.
+
+ 2. Hair & Head: Short, messy black hair styled with a side-parted fringe, a short black beard.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, extending downwards and curving up at the end.
+
+ 4. Upper Body: He wears a silver chain necklace with a dangling silver crescent moon pendant and a black rectangular crossbody bag with a long shoulder strap. His outfit is a long black hooded trench coat featuring silver zipper pockets and a silver crescent moon emblem on the chest, layered over a ribbed grey turtleneck sweater.
+
+ 5. Lower Body & Feet: Slim-fit black trousers secured by a black belt, black socks, and black high-top sneakers with silver soles, black laces, and a silver crescent moon emblem on the outer ankle.
+
+ 6. Pose: With his left arm raised straight up in a clenched fist and his right hand held at chest level in a tight fist gesture.
 
 Physical Appearance Prompt Style 4 — Tsukito
 
-Tsukito is a tall, moderately built man with short, slightly messy black hair, thick black-rimmed glasses, a neatly trimmed black beard, and bright blue eyes. His animal features include smaller, sleek pointed black cat ears and a long, slender, flexible black cat tail of even thickness. He wears a long silver necklace with a crescent moon pendant, a black leather watch on his left wrist, and a small black crossbody bag. His outfit is a long black hooded coat with a crescent moon emblem on the chest layered over a grey ribbed turtleneck sweater, slim-fit black trousers with a silver moon chain attached to the belt, black socks, and black leather high-top sneakers with silver moon accents. His expression is a confident, open-mouthed smile with his right arm bent in a relaxed fist and his left arm raised high in a triumphant fist.
+ 1. Base Anatomy: Tsukito is a tall, moderately built man. Bright blue eyes. His expression is a confident, open-mouthed smile.
+
+ 2. Hair & Head: Short, slightly messy black hair, thick black-rimmed glasses, a neatly trimmed black beard.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, sleek pointed black cat ears and a long, slender, flexible black cat tail of even thickness.
+
+ 4. Upper Body: He wears a long silver necklace with a crescent moon pendant, a black leather watch on his left wrist, and a small black crossbody bag. His outfit is a long black hooded coat with a crescent moon emblem on the chest layered over a grey ribbed turtleneck sweater.
+
+ 5. Lower Body & Feet: Slim-fit black trousers with a silver moon chain attached to the belt, black socks, and black leather high-top sneakers with silver moon accents.
+
+ 6. Pose: With his right arm bent in a relaxed fist and his left arm raised high in a triumphant fist.
 
 Physical Appearance Prompt Style 4b — Tsukito
 
-Tsukito is an adult male with a neat beard, bright blue eyes behind thick black-rimmed glasses, and short, messy black hair. Adhering to cat logic, he features sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail. He wears a thin black necklace with a silver crescent moon pendant over a grey ribbed turtleneck sweater, layered beneath a long, sleek black hooded coat detailed with silver crescent moon emblems, a straight reflective silver line across the back, zipper accents, and a small black crossbody utility bag resting on his side. His lower half consists of black slim-fit trousers secured by a black belt, accessorized with silver hip chains and dangling utility straps. He wears no visible socks above his footwear, which consists of clean black high-top sneakers with white outsoles and silver crescent moon motifs. He maintains a cheerful, open-mouthed smile, posing energetically with his right fist raised high into the air and his left fist clenched softly at his side.
+ 1. Base Anatomy: Tsukito is an adult male. A neat beard, bright blue eyes behind thick black-rimmed glasses. He maintains a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy black hair.
+
+ 3. Species Traits: Cat Logic — Adhering to cat logic, he features sleek, pointed black ears with pink inner fluff and a long, slender, flexible black tail.
+
+ 4. Upper Body: He wears a thin black necklace with a silver crescent moon pendant over a grey ribbed turtleneck sweater, layered beneath a long, sleek black hooded coat detailed with silver crescent moon emblems, a straight reflective silver line across the back, zipper accents, and a small black crossbody utility bag resting on his side.
+
+ 5. Lower Body & Feet: His lower half consists of black slim-fit trousers secured by a black belt, accessorized with silver hip chains and dangling utility straps. He wears no visible socks above his footwear, which consists of clean black high-top sneakers with white outsoles and silver crescent moon motifs.
+
+ 6. Pose: Posing energetically with his right fist raised high into the air and his left fist clenched softly at his side.
 
 ---
 
@@ -6125,35 +8648,115 @@ Ayato is a bright, open-hearted cat boy who approaches relationships with sincer
 
 Physical Appearance Prompt Style 1 — Ayato
 
-Ayato is a slim boy with short, tousled black hair brushed with deep violet highlights, layered bangs, and vivid violet eyes behind slim black glasses with a lively, playful expression. His animal features include small, sleek pointed black cat ears with pink inner fur and a long, flexible black tail of even slender thickness that curves behind him. He wears a black choker with a crescent pendant, layered star necklaces, and numerous dangling star charms, bead strands, chains, and graphic tags attached to his jacket and shorts. His outfit is a black graphic T-shirt printed with a large blue-and-purple paw emblem, layered beneath an oversized black hooded bomber jacket trimmed in electric blue and decorated with neon paw prints, stars, cat motifs, gradient brush graphics, sleeve lacing, and a large pink paw emblem on the hood, paired with black shorts with bright blue edging, paw patches, straps, chains, and hanging branded-style tabs, mismatched black-and-white crew socks with paw prints, and black high-top sneakers with white toe caps, blue trim, stars, and pink paw details. His expression is a cheerful open-mouthed smile with both arms hanging naturally at his sides in a relaxed stance.
+ 1. Base Anatomy: Ayato is a slim boy. Vivid violet eyes behind slim black glasses with a lively, playful expression. His expression is a cheerful open-mouthed smile.
+
+ 2. Hair & Head: Short, tousled black hair brushed with deep violet highlights, layered bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include small, sleek pointed black cat ears with pink inner fur and a long, flexible black tail of even slender thickness that curves behind him.
+
+ 4. Upper Body: He wears a black choker with a crescent pendant, layered star necklaces, and numerous dangling star charms, bead strands, chains. His outfit is a black graphic T-shirt printed with a large blue-and-purple paw emblem, layered beneath an oversized black hooded bomber jacket trimmed in electric blue and decorated with neon paw prints, stars, cat motifs, gradient brush graphics, sleeve lacing, and a large pink paw emblem on the hood.
+
+ 5. Lower Body & Feet: Graphic tags attached to his jacket and shorts. Paired with black shorts with bright blue edging, paw patches, straps, chains, and hanging branded-style tabs, mismatched black-and-white crew socks with paw prints, and black high-top sneakers with white toe caps, blue trim, stars, and pink paw details.
+
+ 6. Pose: With both arms hanging naturally at his sides in a relaxed stance.
 
 Physical Appearance Prompt Style 1b — Ayato
 
-Ayato is a slim teenage boy with vivid magenta-purple eyes shining through black rectangular glasses in a cheerful, animated gaze and short, shaggy black hair with deep violet highlights, choppy bangs, outward-flipping side layers, and a loose curled ahoge. He has small, sleek black cat ears with bright pink inner tufts and one slender, flexible black tail that arcs horizontally behind him. A black buckled choker with tiny pink accents and a large silver crescent charm is layered with a longer star pendant necklace above a black graphic T-shirt dominated by a large blue-to-purple paw-print logo, all covered by an oversized black hooded jacket with cobalt-blue lining, paw patches, cat-face graphics, stars, paint-splash effects, bead-and-star drawcords, and vivid blue, pink, and violet hardware; a pink sleeve strap reads “NYAN,” while a long blue waist strap reads “MEOW.” Black utility shorts with blue and pink piping are fitted with a gradient belt, chains, star charms, paw-print patches, and multiple hanging graphic straps. His mismatched crew socks are black on one leg and white on the other, both carrying paw prints and blue-pink stripe accents. Black high-top sneakers have white rubber toe caps and soles, blue laces and trim, oversized paw emblems, stars, and pink-blue decorative tabs. He finishes with a broad open-mouthed smile, standing squarely front-facing with his feet slightly apart and both arms relaxed naturally at his sides.
+ 1. Base Anatomy: Ayato is a slim teenage boy. Vivid magenta-purple eyes shining through black rectangular glasses in a cheerful, animated gaze. He finishes with a broad open-mouthed smile.
+
+ 2. Hair & Head: Short, shaggy black hair with deep violet highlights, choppy bangs, outward-flipping side layers, and a loose curled ahoge.
+
+ 3. Species Traits: Cat Logic — He has small, sleek black cat ears with bright pink inner tufts and one slender, flexible black tail that arcs horizontally behind him.
+
+ 4. Upper Body: A black buckled choker with tiny pink accents and a large silver crescent charm is layered with a longer star pendant necklace above a black graphic T-shirt dominated by a large blue-to-purple paw-print logo, all covered by an oversized black hooded jacket with cobalt-blue lining, paw patches, cat-face graphics, stars, paint-splash effects, bead-and-star drawcords, and vivid blue, pink, and violet hardware. Black high-top.
+
+ 5. Lower Body & Feet: A pink sleeve strap reads “NYAN,” while a long blue waist strap reads “MEOW.” Black utility shorts with blue and pink piping are fitted with a gradient belt, chains, star charms, paw-print patches, and multiple hanging graphic straps. His mismatched crew socks are black on one leg and white on the other, both carrying paw prints and blue-pink stripe accents. Sneakers have white rubber toe caps and soles, blue laces and trim, oversized paw emblems, stars, and pink-blue decorative tabs.
+
+ 6. Pose: Standing squarely front-facing with his feet slightly apart and both arms relaxed naturally at his sides.
 
 Physical Appearance Prompt Style 1c — Ayato
 
-Ayato has a slim youthful build with vivid violet eyes behind thin black glasses and a bright, playful open smile. His hair is messy and layered in deep black with indigo-violet highlights, with choppy bangs and lifted crown tufts that keep the silhouette energetic. He has black cat ears with pink inner fur, and a flexible black tail that extends behind him in a loose outward curve. He wears a black shirt printed with a large blue-to-violet paw mark, small stars, and a line-drawn cat face under a black zip hoodie lined in electric blue, and the jacket is loaded with paw patches, star charms, sleeve lacing, and two visible text tags: “NYAN,” which is the Japanese onomatopoeia for a cat’s meow, and “MEOW,” the English equivalent. He finishes the lower half with black shorts trimmed in blue and pink, chains, paw-mark accessories, mismatched socks with paw motifs and striped accents, and black high-top sneakers detailed in blue, purple, and paw-shaped decorations. In the front pose he stands relaxed and front-facing with his shoulders square, both arms hanging naturally at his sides, and his hands loose with the fingers slightly open.
+ 1. Base Anatomy: Ayato has a slim youthful build. Vivid violet eyes behind thin black glasses and a bright, playful open smile.
+
+ 2. Hair & Head: His hair is messy and layered in deep black with indigo-violet highlights, with choppy bangs and lifted crown tufts that keep the silhouette energetic.
+
+ 3. Species Traits: Cat Logic — He has black cat ears with pink inner fur, and a flexible black tail that extends behind him in a loose outward curve.
+
+ 4. Upper Body: He wears a black shirt printed with a large blue-to-violet paw mark, small stars, and a line-drawn cat face under a black zip hoodie lined in electric blue, and the jacket is loaded with paw patches, star charms, sleeve lacing, and two visible text tags: “NYAN,” which is the Japanese onomatopoeia for a cat’s meow, and “MEOW,” the English equivalent.
+
+ 5. Lower Body & Feet: He finishes the lower half with black shorts trimmed in blue and pink, chains, paw-mark accessories, mismatched socks with paw motifs and striped accents, and black high-top sneakers detailed in blue, purple, and paw-shaped decorations.
+
+ 6. Pose: In the front pose he stands relaxed and front-facing with his shoulders square, both arms hanging naturally at his sides, and his hands loose with the fingers slightly open.
 
 Physical Appearance Prompt Style 2 — Ayato
 
-Ayato is a slender teenage boy with shaggy, unkempt black hair topped by a stray ahoge and framed by slim dark glasses, and vivid violet eyes. His animal features include pointed black ears with rosy inner fur and a long, slender, softly fluffed black tail of even thickness. He wears a black buckled choker, a silver crescent-moon necklace, and beaded star-tipped drawstrings that dangle at his chest. His outfit is a black sweatshirt printed with a large purple paw, faint cat-face doodles, and scattered stars, layered under an oversized black zip hoodie with a cobalt hood lining, blue-violet paint-streak splashes, pink paw patches on the sleeves, a pink gradient tag at the chest pocket printed "NYAN," the Japanese onomatopoeia for a cat's meow, and a big pink paw with a whiskered cat face across the back of the hood, paired with blue-trimmed black shorts carrying chains, star charms, and a blue strap printed "MEOW," deliberately mismatched socks, one black with white paw prints and one white with pink-and-blue stripes, and black high-top sneakers with white toe caps, blue laces, buckled cuffs, and pastel paw prints. His expression is a fanged, open-mouthed grin, with his body squared to the viewer and both arms hanging relaxed at his sides.
+ 1. Base Anatomy: Ayato is a slender teenage boy. Vivid violet eyes. His expression is a fanged, open-mouthed grin.
+
+ 2. Hair & Head: Shaggy, unkempt black hair topped by a stray ahoge and framed by slim dark glasses.
+
+ 3. Species Traits: Cat Logic — His animal features include pointed black ears with rosy inner fur and a long, slender, softly fluffed black tail of even thickness.
+
+ 4. Upper Body: He wears a black buckled choker, a silver crescent-moon necklace, and beaded star-tipped drawstrings that dangle at his chest. His outfit is a black sweatshirt printed with a large purple paw, faint cat-face doodles, and scattered stars, layered under an oversized black zip hoodie with a cobalt hood lining, blue-violet paint-streak splashes, pink paw patches on the sleeves, a pink gradient tag at the chest pocket printed "NYAN," the Japanese onomatopoeia for a cat's meow, and a big pink paw with a whiskered cat face across the back of the hood.
+
+ 5. Lower Body & Feet: Paired with blue-trimmed black shorts carrying chains, star charms, and a blue strap printed "MEOW," deliberately mismatched socks, one black with white paw prints and one white with pink-and-blue stripes, and black high-top sneakers with white toe caps, blue laces, buckled cuffs, and pastel paw prints.
+
+ 6. Pose: With his body squared to the viewer and both arms hanging relaxed at his sides.
 
 Physical Appearance Prompt Style 2b — Ayato
 
-Ayato has a slim, teenage build with fair skin, vivid violet eyes behind dark rectangular glasses, and an open fanged grin. His black hair is short and shaggy. Soft black cat ears with rosy inner fur top his head, and one long, flexible black tail with plush fur sweeps out in a wide curve behind him. He wears a black buckled choker and a silver crescent-moon necklace over a black tee printed with a purple paw print, a faint cat-face outline, and scattered stars, all under an oversized black zip hoodie with a vivid blue hood lining and hem band, splashed with blue and violet paint-stroke graphics, pink paw prints on the sleeves, ribbon lace-up detailing, beaded star-tipped drawstrings, and a chest pocket with a hanging pink strap tag printed "NYAN," the Japanese onomatopoeia for a cat's meow. His black shorts carry a blue star-printed belt, a silver chain, star charms, a pink paw print, a black cat-face patch on the back pocket, and a hanging blue strap printed "MEOW," worn with mismatched socks — one black with white paw prints, one white with pink-and-blue stripes and a paw print — and black high-top sneakers with white toes and soles, buckled cuffs stamped with blue and pink paw prints, and tiny star charms. He stands square to the viewer with his arms relaxed at his sides, held slightly away from his body.
+ 1. Base Anatomy: Ayato has a slim, teenage build with fair skin. Vivid violet eyes behind dark rectangular glasses, and an open fanged grin.
+
+ 2. Hair & Head: His black hair is short and shaggy.
+
+ 3. Species Traits: Cat Logic — Soft black cat ears with rosy inner fur top his head, and one long, flexible black tail with plush fur sweeps out in a wide curve behind him.
+
+ 4. Upper Body: He wears a black buckled choker and a silver crescent-moon necklace over a black tee printed with a purple paw print, a faint cat-face outline, and scattered stars, all under an oversized black zip hoodie with a vivid blue hood lining and hem band, splashed with blue and violet paint-stroke graphics, pink paw prints on the sleeves, ribbon lace-up detailing, beaded star-tipped drawstrings, and a chest pocket with a hanging pink strap tag printed "NYAN," the Japanese onomatopoeia for a cat's meow. A paw print — and black high-top sneakers with white toes and soles.
+
+ 5. Lower Body & Feet: His black shorts carry a blue star-printed belt, a silver chain, star charms, a pink paw print, a black cat-face patch on the back pocket, and a hanging blue strap printed "MEOW," worn with mismatched socks — one black with white paw prints, one white with pink-and-blue stripes and a paw print — and black high-top sneakers with white toes and soles, buckled cuffs stamped with blue and pink paw prints, and tiny star charms.
+
+ 6. Pose: He stands square to the viewer with his arms relaxed at his sides, held slightly away from his body.
 
 Physical Appearance Prompt Style 3 — Ayato
 
-Ayato is slender with short, choppy black hair featuring deep purple highlights, messy bangs, and a pink cat-paw hair clip on the left side, and bright purple eyes framed by black round glasses with a cheerful, wide smile. His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, curving up dynamically. He wears a black leather collar with a silver crescent moon charm and a silver wallet chain with a pink star charm hanging from his waist. His outfit is an oversized black hooded jacket featuring blue and pink spray-paint splatters, a blue inner lining, and long drawstrings with star charms, layered over a black t-shirt with a large purple neon paw print graphic, black denim shorts with blue trim and a hanging ribbon printed with the text "MEOW", mismatched black and white crew socks featuring paw-print motifs, and high-top black canvas sneakers with white toes and a pink paw print emblem on the sides. His expression is a cheerful, open-mouthed smile with both arms hanging relaxed at his sides in a straightforward standing pose.
+ 1. Base Anatomy: Ayato is slender. Bright purple eyes framed by black round glasses with a cheerful, wide smile. His expression is a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, choppy black hair featuring deep purple highlights, messy bangs, and a pink cat-paw hair clip on the left side.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, curving up dynamically.
+
+ 4. Upper Body: He wears a black leather collar with a silver crescent moon charm and a silver wallet chain with a pink star charm hanging from his. His outfit is an oversized black hooded jacket featuring blue and pink spray-paint splatters, a blue inner lining, and long drawstrings with star charms, layered over a black t-shirt with a large purple neon paw print graphic.
+
+ 5. Lower Body & Feet: Waist. Black denim shorts with blue trim and a hanging ribbon printed with the text "MEOW", mismatched black and white crew socks featuring paw-print motifs, and high-top black canvas sneakers with white toes and a pink paw print emblem on the sides.
+
+ 6. Pose: With both arms hanging relaxed at his sides in a straightforward standing pose.
 
 Physical Appearance Prompt Style 4 — Ayato
 
-Ayato is a slim boy with short, highly textured black hair, messy bangs, thick black-rimmed glasses, and vivid purple eyes. His animal features include smaller, sleek pointed black cat ears with inner pink accents and a long, slender, flexible black cat tail of even thickness. He wears a black leather choker with a silver crescent moon and an O-ring, a silver star necklace, and dangling star charms on his jacket zippers. His outfit is a black zip-up hoodie heavily decorated with blue and pink paint splatters, star motifs, and a strap reading "NYAN" layered over a black t-shirt with a large purple and blue paw print, black shorts adorned with chains and a blue strap reading "MEOW", black mid-calf socks with paw prints and trans-colored stripes, and black high-top sneakers with pink paw prints and blue star hardware. His expression is a cheerful, toothy open-mouthed smile with his arms resting casually down at his sides.
+ 1. Base Anatomy: Ayato is a slim boy. Vivid purple eyes. His expression is a cheerful, toothy open-mouthed smile.
+
+ 2. Hair & Head: Short, highly textured black hair, messy bangs, thick black-rimmed glasses.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, sleek pointed black cat ears with inner pink accents and a long, slender, flexible black cat tail of even thickness.
+
+ 4. Upper Body: He wears a black leather choker with a silver crescent moon and an O-ring, a silver star necklace, and dangling star charms on his jacket zippers. His outfit is a black zip-up hoodie heavily decorated with blue and pink paint splatters, star motifs, and a strap reading "NYAN" layered over a black t-shirt with a large purple and blue paw print.
+
+ 5. Lower Body & Feet: Black shorts adorned with chains and a blue strap reading "MEOW", black mid-calf socks with paw prints and trans-colored stripes, and black high-top sneakers with pink paw prints and blue star hardware.
+
+ 6. Pose: With his arms resting casually down at his sides.
 
 Physical Appearance Prompt Style 4b — Ayato
 
-Ayato is a slender young boy with vibrant purple eyes behind black-rimmed glasses and short, messy black hair. Applying cat logic, he possesses sleek black ears with pink inner fluff and a long, slender, flexible black tail. His outfit begins with a black spiked choker bearing a silver moon pendant, layered under a black t-shirt displaying a large purple and pink paw print graphic, worn underneath a black zip-up hoodie featuring vibrant blue and pink paint splatters, star charms, cyan laces, and a large pink paw print alongside a cat head graphic on the back. He wears black shorts with cyan trim, heavily accessorized with a strap reading "MEOW", silver hip chains, and paw print patches. His legwear features mismatched black and white crew socks, both decorated with paw prints, leading down to black high-top canvas sneakers detailed with cyan and pink star charms, vibrant laces, and paw print emblems on the tongues. He displays a cheerful, open-mouthed smile, standing casually with his arms resting straight down at his sides.
+ 1. Base Anatomy: Ayato is a slender young boy. Vibrant purple eyes behind black-rimmed glasses. He displays a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy black hair.
+
+ 3. Species Traits: Cat Logic — Applying cat logic, he possesses sleek black ears with pink inner fluff and a long, slender, flexible black tail.
+
+ 4. Upper Body: His outfit begins with a black spiked choker bearing a silver moon pendant, layered under a black t-shirt displaying a large purple and pink paw print graphic, worn underneath a black zip-up hoodie featuring vibrant blue and pink paint splatters, star charms, cyan laces, and a large pink paw print alongside a cat head graphic on the back.
+
+ 5. Lower Body & Feet: He wears black shorts with cyan trim, heavily accessorized with a strap reading "MEOW", silver hip chains, and paw print patches. His legwear features mismatched black and white crew socks, both decorated with paw prints, leading down to black high-top canvas sneakers detailed with cyan and pink star charms, vibrant laces, and paw print emblems on the tongues.
+
+ 6. Pose: Standing casually with his arms resting straight down at his sides.
 
 ---
 
@@ -6347,35 +8950,115 @@ Fujio is a soft, easygoing cat boy whose affection usually appears as well-timed
 
 Physical Appearance Prompt Style 1 — Fujio
 
-Fujio is a slim boy with short, fluffy lavender hair cut into soft layered waves with long side bangs, and warm amber-gold eyes with a calm, gentle expression. His animal features include small, sleek pointed lavender cat ears with pale pink inner fur and a long, flexible lavender tail of even slender thickness that curves behind him and deepens slightly toward the tip. He wears a black choker with a round gold bell, a small silver necklace, layered purple-bead bracelets, and silver chain accessories. His outfit is a black hoodie with lavender lining, purple drawstrings, paw-print sleeves, and a simple lavender cat-face graphic, layered beneath a light blue sleeveless denim vest with frayed armholes, embroidered cascading wisteria blossoms, and a small black cat motif on the back, paired with black utility shorts with purple straps, paw patches, pockets, and silver chains, white slouch socks with lavender paw prints, and black high-top sneakers with white soles, purple laces, and paw emblems. His expression is a soft closed-mouth smile with one hand tucked casually into his pocket and the other arm relaxed at his side.
+ 1. Base Anatomy: Fujio is a slim boy. Warm amber-gold eyes with a calm, gentle expression. His expression is a soft closed-mouth smile.
+
+ 2. Hair & Head: Short, fluffy lavender hair cut into soft layered waves with long side bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include small, sleek pointed lavender cat ears with pale pink inner fur and a long, flexible lavender tail of even slender thickness that curves behind him and deepens slightly toward the tip.
+
+ 4. Upper Body: He wears a black choker with a round gold bell, a small silver necklace, layered purple-bead bracelets, and silver chain accessories. His outfit is a black hoodie with lavender lining, purple drawstrings, paw-print sleeves, and a simple lavender cat-face graphic, layered beneath a light blue sleeveless denim vest with frayed armholes, embroidered cascading wisteria blossoms, and a small black cat motif on the back.
+
+ 5. Lower Body & Feet: Paired with black utility shorts with purple straps, paw patches, pockets, and silver chains, white slouch socks with lavender paw prints, and black high-top sneakers with white soles, purple laces, and paw emblems.
+
+ 6. Pose: With one hand tucked casually into his pocket and the other arm relaxed at his side.
 
 Physical Appearance Prompt Style 1b — Fujio
 
-Fujio is a slim, youthful boy with warm golden-amber eyes and a calm, friendly gaze, paired with short shaggy lavender hair arranged in layered, feathered tufts with long side bangs and deeper violet shading around the ends. He has small, sleek lavender cat ears with pale pink inner tufts and one long, slender, flexible lavender tail that curves gently outward before tapering into a deeper purple tip. A black choker with a large gold bell and layered bead bracelets accessorize a black oversized hoodie with purple lining, lavender drawcords, paw-print sleeve graphics, and a simple lavender cat-face emblem on the chest, worn beneath a sleeveless light-blue denim vest with raw frayed armholes, metal buttons, embroidered hanging wisteria on the front and back, and a tiny black cat silhouette near the rear hem. Black cargo shorts feature paw-print patches, silver chains, utility pockets, purple tabs, and buckled hanging straps. White slouched crew socks are marked with lavender paw prints, and black high-top sneakers use pale purple soles, lavender laces, circular paw emblems, and purple heel tabs. He ends with a small closed-mouth smile, standing directly forward with his feet comfortably apart and both arms hanging loosely at his sides with relaxed hands.
+ 1. Base Anatomy: Fujio is a slim, youthful boy. Warm golden-amber eyes. He ends with a small closed-mouth smile.
+
+ 2. Hair & Head: A calm, friendly gaze, paired with short shaggy lavender hair arranged in layered, feathered tufts with long side bangs and deeper violet shading around the ends.
+
+ 3. Species Traits: Cat Logic — He has small, sleek lavender cat ears with pale pink inner tufts and one long, slender, flexible lavender tail that curves gently outward before tapering into a deeper purple tip.
+
+ 4. Upper Body: A black choker with a large gold bell and layered bead bracelets accessorize a black oversized hoodie with purple lining, lavender drawcords, paw-print sleeve graphics, and a simple lavender cat-face emblem on the chest, worn beneath a sleeveless light-blue denim vest with raw frayed armholes, metal buttons, embroidered hanging wisteria on the front and back, and a tiny black cat silhouette near the rear hem.
+
+ 5. Lower Body & Feet: Black cargo shorts feature paw-print patches, silver chains, utility pockets, purple tabs, and buckled hanging straps. White slouched crew socks are marked with lavender paw prints, and black high-top sneakers use pale purple soles, lavender laces, circular paw emblems, and purple heel tabs.
+
+ 6. Pose: Standing directly forward with his feet comfortably apart and both arms hanging loosely at his sides with relaxed hands.
 
 Physical Appearance Prompt Style 1c — Fujio
 
-Fujio has a slim, youthful build with golden amber eyes and a calm, faintly amused smile. His hair is shaggy, layered, and lilac-purple, cut around the jaw and nape with a long fringe that partly veils one eye and keeps the head shape soft and fluffy. He has pointed purple cat ears with pale inner fur, and a long lavender tail that stays slender and flexible rather than heavily fluffed. He wears a pale lavender undershirt beneath a black hoodie with a purple lining and a simple cat-face emblem on the chest, and over that he layers a sleeveless light denim vest with frayed armholes, a tiny paw pin, floral embroidery on the front, and large wisteria embroidery across the back panel. His lower half consists of black shorts with purple straps and paw-print details, a silver chain at the hip, loose white slouch socks, and black-and-purple canvas high-top sneakers. In the front pose he stands casually with his weight even, his right hand tucked into a pocket, and his left arm resting down by his side with the fingers relaxed.
+ 1. Base Anatomy: Fujio has a slim, youthful build. Golden amber eyes and a calm, faintly amused smile.
+
+ 2. Hair & Head: His hair is shaggy, layered, and lilac-purple, cut around the jaw and nape with a long fringe that partly veils one eye and keeps the head shape soft and fluffy.
+
+ 3. Species Traits: Cat Logic — He has pointed purple cat ears with pale inner fur, and a long lavender tail that stays slender and flexible rather than heavily fluffed.
+
+ 4. Upper Body: He wears a pale lavender undershirt beneath a black hoodie with a purple lining and a simple cat-face emblem on the chest, and over that he layers a sleeveless light denim vest with frayed armholes, a tiny paw pin, floral embroidery on the front, and large wisteria embroidery across the back panel.
+
+ 5. Lower Body & Feet: His lower half consists of black shorts with purple straps and paw-print details, a silver chain at the hip, loose white slouch socks, and black-and-purple canvas high-top sneakers.
+
+ 6. Pose: In the front pose he stands casually with his weight even, his right hand tucked into a pocket, and his left arm resting down by his side with the fingers relaxed.
 
 Physical Appearance Prompt Style 2 — Fujio
 
-Fujio is a slender teenage boy with fluffy, tousled lilac hair falling in soft messy layers, and warm honey-brown eyes. His animal features include pointed lavender ears filled with white inner fluff and a long, slender lilac tail that holds an even thickness as it curls behind him. He wears a black choker with a golden bell, a fine silver necklace with a paw charm, and a violet beaded bracelet at his wrist. His outfit is a pale lavender tee layered beneath an oversized black hoodie with purple drawstrings, a purple cat-face graphic, and paw-printed sleeves laced with purple cross-stitching, all topped by a frayed light-wash denim vest embroidered with trailing wisteria on the chest pocket and a full wisteria branch sheltering a tiny black cat across the back, paired with black cargo shorts strapped in purple buckles, chains, and paw prints, white slouchy leg-warmer socks marked with a lavender paw, and black high-top sneakers with white toe caps, lilac laces, and pale purple soles. His expression is a serene closed-lip smile, with one hand slipped casually into his shorts pocket and the other arm hanging loose at his side.
+ 1. Base Anatomy: Fujio is a slender teenage boy. Warm honey-brown eyes. His expression is a serene closed-lip smile.
+
+ 2. Hair & Head: Fluffy, tousled lilac hair falling in soft messy layers.
+
+ 3. Species Traits: Cat Logic — His animal features include pointed lavender ears filled with white inner fluff and a long, slender lilac tail that holds an even thickness as it curls behind him.
+
+ 4. Upper Body: He wears a black choker with a golden bell, a fine silver necklace with a paw charm, and a violet beaded bracelet at his wrist. His outfit is a pale lavender tee layered beneath an oversized black hoodie with purple drawstrings, a purple cat-face graphic, and paw-printed sleeves laced with purple cross-stitching, all topped by a frayed light-wash denim vest embroidered with trailing wisteria on the chest pocket and a full wisteria branch sheltering a tiny black cat across the back.
+
+ 5. Lower Body & Feet: Paired with black cargo shorts strapped in purple buckles, chains, and paw prints, white slouchy leg-warmer socks marked with a lavender paw, and black high-top sneakers with white toe caps, lilac laces, and pale purple soles.
+
+ 6. Pose: With one hand slipped casually into his shorts pocket and the other arm hanging loose at his side.
 
 Physical Appearance Prompt Style 2b — Fujio
 
-Fujio has a slim, lanky teenage build with fair skin, warm honey-amber eyes, and a soft closed-lip smile. His lavender-purple hair is short, fluffy, and casually tousled. Lilac cat ears with white inner fur sit atop his head, and a very long, slender lavender tail trails down and outward behind him. He wears a black choker with a golden bell and a thin silver paw-charm necklace, a pale lavender tee whose hem peeks out at the waist, and a black pullover hoodie with a purple-lined hood, purple drawstrings, a purple cat-face graphic on the chest, and purple paw prints with criss-cross lacing on the sleeves, all topped by a sleeveless light-wash denim vest with frayed armholes, embroidered with trailing wisteria on the front pocket and a large wisteria branch visited by a small black cat across the back, finished with a hanging chain and paw charm; a purple beaded bracelet circles his wrist, and the outfit carries no written text. His black cargo shorts feature purple straps, buckles, white and purple paw prints, and a silver chain, worn with white slouchy socks printed with purple paws and black high-top sneakers with purple laces, round paw-print patches, and pale lilac soles. He stands with his right hand tucked into his shorts pocket while his left arm hangs relaxed at his side.
+ 1. Base Anatomy: Fujio has a slim, lanky teenage build with fair skin. Warm honey-amber eyes, and a soft closed-lip smile.
+
+ 2. Hair & Head: His lavender-purple hair is short, fluffy, and casually tousled.
+
+ 3. Species Traits: Cat Logic — Lilac cat ears with white inner fur sit atop his head, and a very long, slender lavender tail trails down and outward behind him.
+
+ 4. Upper Body: He wears a black choker with a golden bell and a thin silver paw-charm necklace.
+
+ 5. Lower Body & Feet: A pale lavender tee whose hem peeks out at the waist, and a black pullover hoodie with a purple-lined hood, purple drawstrings, a purple cat-face graphic on the chest, and purple paw prints with criss-cross lacing on the sleeves, all topped by a sleeveless light-wash denim vest with frayed armholes, embroidered with trailing wisteria on the front pocket and a large wisteria branch visited by a small black cat across the back, finished with a hanging chain and paw charm; a purple beaded bracelet circles his wrist, and the outfit carries no written text. His black cargo shorts feature purple straps, buckles, white and purple paw prints, and a silver chain, worn with white slouchy socks printed with purple paws and black high-top sneakers with purple laces, round paw-print patches, and pale lilac soles.
+
+ 6. Pose: He stands with his right hand tucked into his shorts pocket while his left arm hangs relaxed at his side.
 
 Physical Appearance Prompt Style 3 — Fujio
 
-Fujio is slender with short, layered pastel purple hair with messy bangs and textured flips, and warm amber-yellow eyes with a gentle, serene smile. His animal features include smaller, pointed purple cat ears with white inner fur and a long, flexible, slender purple cat tail that maintains an even thickness. He wears a black leather collar with a large golden bell around his neck, a purple beaded bracelet on his left wrist, and a silver wallet chain with a purple paw charm hanging from his shorts. His outfit is a sleeveless light blue denim vest featuring an embroidered branch of purple wisteria flowers on the back, layered over an oversized black hoodie with a purple inner hood and printed purple paw prints on the sleeves, black cargo shorts with a purple buckle strap, white scrunched crew socks with a purple paw print emblem, and high-top black canvas sneakers with purple laces and a purple paw print emblem on the sides. His expression is a gentle, friendly smile with his right hand casually tucked into his shorts pocket and his left arm resting relaxed by his side.
+ 1. Base Anatomy: Fujio is slender. Warm amber-yellow eyes with a gentle, serene smile. His expression is a gentle, friendly smile.
+
+ 2. Hair & Head: Short, layered pastel purple hair with messy bangs and textured flips.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, pointed purple cat ears with white inner fur and a long, flexible, slender purple cat tail that maintains an even thickness.
+
+ 4. Upper Body: He wears a black leather collar with a large golden bell around his neck, a purple beaded bracelet on his left wrist. His outfit is a sleeveless light blue denim vest featuring an embroidered branch of purple wisteria flowers on the back, layered over an oversized black hoodie with a purple inner hood and printed purple paw prints on the sleeves.
+
+ 5. Lower Body & Feet: A silver wallet chain with a purple paw charm hanging from his shorts. Black cargo shorts with a purple buckle strap, white scrunched crew socks with a purple paw print emblem, and high-top black canvas sneakers with purple laces and a purple paw print emblem on the sides.
+
+ 6. Pose: With his right hand casually tucked into his shorts pocket and his left arm resting relaxed by his side.
 
 Physical Appearance Prompt Style 4 — Fujio
 
-Fujio is a slender boy with short, layered light purple hair, neatly parted bangs, and warm golden-brown eyes. His animal features include smaller, sleek pointed light purple cat ears and a long, slender, flexible light purple cat tail of even thickness. He wears a black leather choker with a gold bell, a simple silver pendant necklace, and purple beaded bracelets on both wrists. His outfit is a sleeveless light blue denim vest featuring an embroidered wisteria branch on the back layered over a black hoodie with a purple cat face graphic, black shorts with silver chains and purple straps, white slouched socks with purple paw prints, and black high-top canvas sneakers with purple laces and paw print logos. His expression is a soft, gentle closed-mouth smile with his left hand casually tucked into his shorts pocket and his right arm resting at his side.
+ 1. Base Anatomy: Fujio is a slender boy. Warm golden-brown eyes. His expression is a soft, gentle closed-mouth smile.
+
+ 2. Hair & Head: Short, layered light purple hair, neatly parted bangs.
+
+ 3. Species Traits: Cat Logic — His animal features include smaller, sleek pointed light purple cat ears and a long, slender, flexible light purple cat tail of even thickness.
+
+ 4. Upper Body: He wears a black leather choker with a gold bell, a simple silver pendant necklace, and purple beaded bracelets on both wrists. His outfit is a sleeveless light blue denim vest featuring an embroidered wisteria branch on the back layered over a black hoodie with a purple cat face graphic.
+
+ 5. Lower Body & Feet: Black shorts with silver chains and purple straps, white slouched socks with purple paw prints, and black high-top canvas sneakers with purple laces and paw print logos.
+
+ 6. Pose: With his left hand casually tucked into his shorts pocket and his right arm resting at his side.
 
 Physical Appearance Prompt Style 4b — Fujio
 
-Fujio is a slender young boy with warm amber eyes and short, textured pastel purple hair. Based on cat logic, he sports sleek pastel purple ears with white inner fluff and a long, slender, flexible purple tail. His accessories include a black choker with a gold bell, complementing a black hoodie featuring a minimalist purple cat face graphic and a back pocket showing a small black cat, all layered under a sleeveless light blue denim vest adorned with delicate purple wisteria flower embroidery on the back and small paw print patches. He wears black utility shorts accessorized with silver hip chains, a purple strapped hanging tag, and subtle paw motifs, alongside a purple beaded bracelet on his left wrist. His lower half is completed with slouchy white crew socks featuring purple paw prints, paired with black high-top canvas sneakers highlighted by purple laces, trim, and matching paw print emblems. He wears a gentle, closed-mouth smile, standing casually with his hands tucked coolly into his shorts pockets.
+ 1. Base Anatomy: Fujio is a slender young boy. Warm amber eyes. He wears a gentle, closed-mouth smile.
+
+ 2. Hair & Head: Short, textured pastel purple hair.
+
+ 3. Species Traits: Cat Logic — Based on cat logic, he sports sleek pastel purple ears with white inner fluff and a long, slender, flexible purple tail.
+
+ 4. Upper Body: His accessories include a black choker with a gold bell, complementing a black hoodie featuring a minimalist purple cat face graphic and a back pocket showing a small black cat, all layered under a sleeveless light blue denim vest adorned with delicate purple wisteria flower embroidery on the back and small paw print patches.
+
+ 5. Lower Body & Feet: He wears black utility shorts accessorized with silver hip chains, a purple strapped hanging tag, and subtle paw motifs, alongside a purple beaded bracelet on his left wrist. His lower half is completed with slouchy white crew socks featuring purple paw prints, paired with black high-top canvas sneakers highlighted by purple laces, trim, and matching paw print emblems.
+
+ 6. Pose: Standing casually with his hands tucked coolly into his shorts pockets.
 
 ---
 
@@ -6569,35 +9252,115 @@ Aoi is a gentle, moonlit fox boy whose natural warmth makes people feel comforta
 
 Physical Appearance Prompt Style 1 — Aoi
 
-Aoi is a slim boy with short icy-blue hair streaked with pale silver and peach highlights, styled in a neat layered crop with side-swept bangs, and bright blue eyes with a composed, friendly expression. His animal features include large, wide-based blue fox ears with cream inner fur and one thick, bushy fox tail that curves behind him in blended bands of blue, pale peach, silver, and white, ending in a broad white tip. He wears a black choker with a round gold bell, layered necklaces with a crescent-moon pendant, blue bead bracelets, and small tassel and jewel charms hanging from his sleeves and shorts. His outfit is a blue kimono-sleeved hooded jacket with white lining, gold piping, stylized ocean-wave prints, crescent motifs, tassel ties, and a small fox emblem layered over a white hoodie and dark V-neck inner shirt, paired with navy shorts edged in gold and accented with crescent charms, hanging cords, and tassels, white ankle socks with blue stripes and moon motifs, and blue-and-white athletic high-top sneakers with gold celestial details. His expression is a gentle closed-mouth smile with both arms relaxed at his sides in a calm, upright stance.
+ 1. Base Anatomy: Aoi is a slim boy. Bright blue eyes with a composed, friendly expression. His expression is a gentle closed-mouth smile.
+
+ 2. Hair & Head: Short icy-blue hair streaked with pale silver and peach highlights, styled in a neat layered crop with side-swept bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based blue fox ears with cream inner fur and one thick, bushy fox tail that curves behind him in blended bands of blue, pale peach, silver, and white, ending in a broad white tip.
+
+ 4. Upper Body: He wears a black choker with a round gold bell, layered necklaces with a crescent-moon pendant, blue bead bracelets. His outfit is a blue kimono-sleeved hooded jacket with white lining, gold piping, stylized ocean-wave prints, crescent motifs, tassel ties, and a small fox emblem layered over a white hoodie and dark V-neck inner shirt.
+
+ 5. Lower Body & Feet: Small tassel and jewel charms hanging from his sleeves and shorts. Paired with navy shorts edged in gold and accented with crescent charms, hanging cords, and tassels, white ankle socks with blue stripes and moon motifs, and blue-and-white athletic high-top sneakers with gold celestial details.
+
+ 6. Pose: With both arms relaxed at his sides in a calm, upright stance.
 
 Physical Appearance Prompt Style 1b — Aoi
 
-Aoi is a slim, youthful boy with clear cyan-blue eyes and a soft, contented gaze, framed by short, tousled steel-blue hair streaked with silvery white and fine warm peach accents, styled in airy layers with side-swept bangs and feathered ends. He has large, wide-based blue fox ears with pale pink inner fur and white tufts and one thick, luxuriantly bushy tail whose long fur blends steel blue, icy silver, and subtle peach highlights before fading into a broad white tip. A black choker with a round gold bell and a long crescent-moon pendant rests above a white V-neck hooded top, layered beneath an oversized blue hooded haori-style jacket with wide sleeves, gold piping, tasselled drawcords, rolling ocean-wave graphics, scattered stars, a small white fox-head chest emblem, and a large back illustration of a white cat seated beneath a gold crescent moon and starry sky. Navy shorts with fine gold edging are decorated with a blue waist cord, crescent charms, tassels, hanging chains, and small celestial ornaments. White ankle socks carry blue stripes and tiny gold crescent motifs, while blue-and-white athletic high-top sneakers feature layered panels, bright blue laces, gold crescent badges, and small star accents. He finishes with a gentle closed-mouth smile, standing front-facing with his legs straight and slightly apart and both arms resting naturally at his sides.
+ 1. Base Anatomy: Aoi is a slim, youthful boy. Clear cyan-blue eyes. He finishes with a gentle closed-mouth smile.
+
+ 2. Hair & Head: A soft, contented gaze, framed by short, tousled steel-blue hair streaked with silvery white and fine warm peach accents, styled in airy layers with side-swept bangs and feathered ends.
+
+ 3. Species Traits: Fox Logic — He has large, wide-based blue fox ears with pale pink inner fur and white tufts and one thick, luxuriantly bushy tail whose long fur blends steel blue, icy silver, and subtle peach highlights before fading into a broad white tip.
+
+ 4. Upper Body: A black choker with a round gold bell and a long crescent-moon pendant rests above a white V-neck hooded top, layered beneath an oversized blue hooded haori-style jacket with wide sleeves, gold piping, tasselled drawcords, rolling ocean-wave graphics, scattered stars, a small white fox-head chest emblem, and a large back illustration of a white cat seated beneath a gold crescent moon and starry sky.
+
+ 5. Lower Body & Feet: Navy shorts with fine gold edging are decorated with a blue waist cord, crescent charms, tassels, hanging chains, and small celestial ornaments. White ankle socks carry blue stripes and tiny gold crescent motifs, while blue-and-white athletic high-top sneakers feature layered panels, bright blue laces, gold crescent badges, and small star accents.
+
+ 6. Pose: Standing front-facing with his legs straight and slightly apart and both arms resting naturally at his sides.
 
 Physical Appearance Prompt Style 1c — Aoi
 
-Aoi has a slim, youthful build with bright azure-blue eyes and a soft closed smile. His hair is short and feathery in icy sky blue with faint warm peach streaks threaded through the layers, and the bangs sweep lightly across the forehead while the sides taper neatly around the face. He has large upright fox ears with pale inner fur, and a very full tail striped in blue, white, and peach that fans outward with a soft, airy texture. He wears a dark navy inner shirt beneath a white hooded zip layer, then tops both with a loose blue outer jacket whose sleeves and hem are decorated with white-and-gold wave patterns, dangling tassel ornaments, and a small fox-face badge on the chest, while a crescent-moon pendant and bell choker sit at the neckline. He pairs that with navy shorts edged in gold, several hanging moon-and-tassel charms, plain white ankle socks, and blue-and-white athletic sneakers. In the front pose he stands straight with his feet apart, both arms resting naturally at his sides, and his hands open in a neutral, easy posture.
+ 1. Base Anatomy: Aoi has a slim, youthful build. Bright azure-blue eyes and a soft closed smile.
+
+ 2. Hair & Head: His hair is short and feathery in icy sky blue with faint warm peach streaks threaded through the layers, and the bangs sweep lightly across the forehead while the sides taper neatly around the face.
+
+ 3. Species Traits: Fox Logic — He has large upright fox ears with pale inner fur, and a very full tail striped in blue, white, and peach that fans outward with a soft, airy texture.
+
+ 4. Upper Body: He wears a dark navy inner shirt beneath a white hooded zip layer, then tops both with a loose blue outer jacket whose sleeves and hem are decorated with white-and-gold wave patterns, dangling tassel ornaments, and a small fox-face badge on the chest, while a crescent-moon pendant and bell choker sit at the neckline.
+
+ 5. Lower Body & Feet: He pairs that with navy shorts edged in gold, several hanging moon-and-tassel charms, plain white ankle socks, and blue-and-white athletic sneakers.
+
+ 6. Pose: In the front pose he stands straight with his feet apart, both arms resting naturally at his sides, and his hands open in a neutral, easy posture.
 
 Physical Appearance Prompt Style 2 — Aoi
 
-Aoi is a slim young boy with short, layered silvery-blue hair brushed through with soft coral highlights, and clear sapphire-blue eyes. His animal features include large, wide-based steel-blue ears lined with coral-tan inner fur and a single magnificently bushy tail of silvery blue streaked with peach that finishes in a white tip. He wears a black choker with a golden bell and blue beaded bracelets on both wrists. His outfit is a navy V-neck under a white zip-up layer with a golden crescent pull, all wrapped in a blue hooded haori-style jacket patterned with seigaiha wave bands, gold trim, tassels, diamond gem ornaments, and a small white fox emblem at the chest, its back displaying a white fox seated beneath a golden crescent moon and stars, paired with black shorts piped in gold with blue ribbon ties and a crescent charm, white crew socks striped in blue with tiny moons, and chunky white-and-navy sneakers with blue laces, gold accents, and crescent-buckled straps. His expression is a soft, contented closed smile, with his body facing forward and both arms resting relaxed at his sides.
+ 1. Base Anatomy: Aoi is a slim young boy. Clear sapphire-blue eyes. His expression is a soft, contented closed smile.
+
+ 2. Hair & Head: Short, layered silvery-blue hair brushed through with soft coral highlights.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based steel-blue ears lined with coral-tan inner fur and a single magnificently bushy tail of silvery blue streaked with peach that finishes in a white tip.
+
+ 4. Upper Body: He wears a black choker with a golden bell and blue beaded bracelets on both wrists. His outfit is a navy V-neck under a white zip-up layer with a golden crescent pull, all wrapped in a blue hooded haori-style jacket patterned with seigaiha wave bands, gold trim, tassels, diamond gem ornaments, and a small white fox emblem at the chest, its back displaying a white fox seated beneath a golden crescent moon and stars.
+
+ 5. Lower Body & Feet: Paired with black shorts piped in gold with blue ribbon ties and a crescent charm, white crew socks striped in blue with tiny moons, and chunky white-and-navy sneakers with blue laces, gold accents, and crescent-buckled straps.
+
+ 6. Pose: With his body facing forward and both arms resting relaxed at his sides.
 
 Physical Appearance Prompt Style 2b — Aoi
 
-Aoi has a small, boyish build with fair skin, bright sapphire-blue eyes, and a gentle closed-lip smile. His silvery-blue hair is short and layered, streaked with strands of coral pink and deeper blue. Large steel-blue ears with coral inner fluff stand tall on his head, and one huge, luxuriant tail sweeps behind him in blended silver-blue and coral streaks, ending in a frosted white tip. He wears a black choker with a golden bell, a navy V-neck undershirt beneath a loose white shirt fastened with a golden crescent zipper pendant, and over them a blue hooded haori-style jacket with white lining, printed with Japanese seigaiha wave scallops, a small white fox silhouette on the front, gold-trimmed diamond motifs and tassels on the wide sleeves, and a large back scene of a white fox gazing up at a golden crescent moon and stars above rolling waves; blue beaded bracelets circle both wrists, and the prints are purely pictorial with no text. His black shorts are trimmed in gold with a blue ribbon knot, a hanging crescent charm, and tassels, worn with white socks banded in blue and marked with a small gold crescent, and chunky white-and-navy sneakers with blue laces, golden crescent moons, and star-studded straps. He stands facing forward with his arms hanging relaxed at his sides.
+ 1. Base Anatomy: Aoi has a small, boyish build with fair skin. Bright sapphire-blue eyes, and a gentle closed-lip smile.
+
+ 2. Hair & Head: His silvery-blue hair is short and layered, streaked with strands of coral pink and deeper blue.
+
+ 3. Species Traits: Fox Logic — Large steel-blue ears with coral inner fluff stand tall on his head, and one huge, luxuriant tail sweeps behind him in blended silver-blue and coral streaks, ending in a frosted white tip.
+
+ 4. Upper Body: He wears a black choker with a golden bell, a navy V-neck undershirt beneath a loose white shirt fastened with a golden crescent zipper pendant, and over them a blue hooded haori-style jacket with white lining, printed with Japanese seigaiha wave scallops, a small white fox silhouette on the front, gold-trimmed diamond motifs and tassels on the wide sleeves, and a large back scene of a white fox gazing up at a golden crescent moon and stars above rolling waves; blue beaded bracelets circle both wrists, and the prints are purely pictorial with no text.
+
+ 5. Lower Body & Feet: His black shorts are trimmed in gold with a blue ribbon knot, a hanging crescent charm, and tassels, worn with white socks banded in blue and marked with a small gold crescent, and chunky white-and-navy sneakers with blue laces, golden crescent moons, and star-studded straps.
+
+ 6. Pose: He stands facing forward with his arms hanging relaxed at his sides.
 
 Physical Appearance Prompt Style 3 — Aoi
 
-Aoi is slender with short, layered sky-blue hair featuring distinct peach-orange highlights and soft, side-swept bangs, and bright blue eyes with a cheerful, friendly smile. His animal features include large, wide-based light blue fox ears with white and peach inner fur and a thick, bushy, fluffy blue fox tail with peach-orange highlights mixed throughout. He wears a thin black leather collar with a large golden bell around his neck, blue beaded bracelets on his wrists, and a dark blue ribbon with a dangling golden crescent moon charm hanging from his waist. His outfit is a wide-sleeved, oversized blue zip-up hoodie featuring a white inner hood, a printed white fox emblem on the left chest, and a traditional white wave pattern along the hem, layered over a white shirt, dark blue shorts with a gold trim, white crew socks featuring a blue crescent moon motif, and white and blue athletic sneakers with a golden crescent moon emblem on the side strap. His expression is a cheerful, open-mouthed smile with his arms resting naturally down at his sides in a casual, front-facing standing posture.
+ 1. Base Anatomy: Aoi is slender. Bright blue eyes with a cheerful, friendly smile. His expression is a cheerful, open-mouthed smile.
+
+ 2. Hair & Head: Short, layered sky-blue hair featuring distinct peach-orange highlights and soft, side-swept bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based light blue fox ears with white and peach inner fur and a thick, bushy, fluffy blue fox tail with peach-orange highlights mixed throughout.
+
+ 4. Upper Body: He wears a thin black leather collar with a large golden bell around his neck, blue beaded bracelets on his wrists. His outfit is a wide-sleeved, oversized blue zip-up hoodie featuring a white inner hood, a printed white fox emblem on the left chest, and a traditional white wave pattern along the hem, layered over a white shirt.
+
+ 5. Lower Body & Feet: A dark blue ribbon with a dangling golden crescent moon charm hanging from his waist. Dark blue shorts with a gold trim, white crew socks featuring a blue crescent moon motif, and white and blue athletic sneakers with a golden crescent moon emblem on the side strap.
+
+ 6. Pose: With his arms resting naturally down at his sides in a casual, front-facing standing posture.
 
 Physical Appearance Prompt Style 4 — Aoi
 
-Aoi is a slim boy with short, textured light blue hair featuring silver and orange highlights, slightly swept bangs, and vibrant blue eyes. His animal features include large, wide-based light blue fox ears and a thick, bushy light blue fox tail with silver and orange streaks ending in a white tip. He wears a black ribbon choker with a gold bell, a gold crescent moon necklace, and blue beaded bracelets with tassel charms. His outfit is an oversized blue zip-up hoodie featuring white ocean wave patterns, gold star details, and a back graphic of a white fox sitting on a crescent moon layered over a white undershirt, navy blue shorts with gold chains and a moon charm, white ribbed socks with blue moon graphics, and white, blue, and black chunky athletic sneakers. His expression is a pleasant, gentle open-mouthed smile with his arms resting straight down at his sides.
+ 1. Base Anatomy: Aoi is a slim boy. Vibrant blue eyes. His expression is a pleasant, gentle open-mouthed smile.
+
+ 2. Hair & Head: Short, textured light blue hair featuring silver and orange highlights, slightly swept bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based light blue fox ears and a thick, bushy light blue fox tail with silver and orange streaks ending in a white tip.
+
+ 4. Upper Body: He wears a black ribbon choker with a gold bell, a gold crescent moon necklace, and blue beaded bracelets with tassel charms. His outfit is an oversized blue zip-up hoodie featuring white ocean wave patterns, gold star details, and a back graphic of a white fox sitting on a crescent moon layered over a white undershirt.
+
+ 5. Lower Body & Feet: Navy blue shorts with gold chains and a moon charm, white ribbed socks with blue moon graphics, and white, blue, and black chunky athletic sneakers.
+
+ 6. Pose: With his arms resting straight down at his sides.
 
 Physical Appearance Prompt Style 4b — Aoi
 
-Aoi is a slender young boy with bright blue eyes and short, messy light blue hair accented by subtle silver and white streaks. Following fox logic, he features large, wide-based light blue ears with white inner fluff and a beautifully thick, bushy tail that gradients from light blue to white with soft silver hues. He wears a black choker with a gold bell and a crescent moon pendant necklace, layered under a simple white inner shirt and a striking light blue open jacket-style haori. The jacket features wide sleeves, intricate white and gold oceanic wave patterns, star motifs, dangling blue tassels with gold accents, and a breathtaking back illustration of a white fox sitting on a golden crescent moon. He pairs this with dark blue shorts secured by a matching belt, accessorized with gold hip chains, blue beads, and a crescent moon charm, while wearing beaded bracelets on both wrists. His legwear consists of white crew socks with blue crescent moon designs, tucked into chunky white and blue sneakers with gold moon accents. He exhibits a friendly, soft smile, standing casually with his arms resting straight down at his sides.
+ 1. Base Anatomy: Aoi is a slender young boy. Bright blue eyes. He exhibits a friendly, soft smile.
+
+ 2. Hair & Head: Short, messy light blue hair accented by subtle silver and white streaks.
+
+ 3. Species Traits: Fox Logic — Following fox logic, he features large, wide-based light blue ears with white inner fluff and a beautifully thick, bushy tail that gradients from light blue to white with soft silver hues.
+
+ 4. Upper Body: He wears a black choker with a gold bell and a crescent moon pendant necklace, layered under a simple white inner shirt and a striking light blue open jacket-style haori. The jacket features wide sleeves, intricate white and gold oceanic wave patterns, star motifs, dangling blue tassels with gold accents, and a breathtaking back illustration of a white fox sitting on a golden crescent moon.
+
+ 5. Lower Body & Feet: He pairs this with dark blue shorts secured by a matching belt, accessorized with gold hip chains, blue beads, and a crescent moon charm, while wearing beaded bracelets on both wrists. His legwear consists of white crew socks with blue crescent moon designs, tucked into chunky white and blue sneakers with gold moon accents.
+
+ 6. Pose: Standing casually with his arms resting straight down at his sides.
 
 ---
 
@@ -6790,35 +9553,115 @@ Komugi is a warm, grounded fox boy whose devotion is expressed through quiet rel
 
 Physical Appearance Prompt Style 1 — Komugi
 
-Komugi is a slim young man with short sandy-blond hair styled in soft tousled layers with neat side bangs, and clear blue eyes behind black-rimmed glasses with a warm, studious expression. His animal features include large, wide-based tan fox ears with soft white inner fur and one thick, fluffy peach-beige fox tail that arches behind him and fades into a broad white tip. He wears rectangular black glasses, a crescent-moon pendant necklace, a small dark pocket accessory, and a gold chain with a wheat-shaped charm hanging from his trousers. His outfit is a cream ribbed turtleneck sweater layered beneath a camel cable-knit cardigan with dark buttons, patch pockets, and embroidered wheat motifs along the lower front and back, paired with dark brown cropped trousers with rolled cuffs and a black belt, scrunched cream socks, and sturdy dark brown lace-up ankle boots with tan soles and wheat embroidery. His expression is a cheerful closed-mouth smile with one fist raised high overhead and the other clenched near his chest in an enthusiastic pose.
+ 1. Base Anatomy: Komugi is a slim young man. Clear blue eyes behind black-rimmed glasses with a warm, studious expression. His expression is a cheerful closed-mouth smile.
+
+ 2. Hair & Head: Short sandy-blond hair styled in soft tousled layers with neat side bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based tan fox ears with soft white inner fur and one thick, fluffy peach-beige fox tail that arches behind him and fades into a broad white tip.
+
+ 4. Upper Body: He wears rectangular black glasses, a crescent-moon pendant necklace, a small dark pocket accessory. His outfit is a cream ribbed turtleneck sweater layered beneath a camel cable-knit cardigan with dark buttons, patch pockets, and embroidered wheat motifs along the lower front and back.
+
+ 5. Lower Body & Feet: A gold chain with a wheat-shaped charm hanging from his trousers. Paired with dark brown cropped trousers with rolled cuffs and a black belt, scrunched cream socks, and sturdy dark brown lace-up ankle boots with tan soles and wheat embroidery.
+
+ 6. Pose: With one fist raised high overhead and the other clenched near his chest in an enthusiastic pose.
 
 Physical Appearance Prompt Style 1b — Komugi
 
-Komugi is a lean adult man with bright sky-blue eyes behind black rectangular glasses and a warm, confident gaze, accompanied by short sandy-blond hair cut in tousled layers with a loose forelock and softly feathered side pieces. He has large, wide-based tan fox ears with pale cream inner tufts and one thick, bushy golden-beige tail that curves prominently behind him and fades into a generous white tip. A gold crescent pendant hangs over a thick ivory cable-knit turtleneck sweater, layered beneath a warm tan cable-knit cardigan with dark buttons, ribbed trim, patch pockets, a small chest emblem, and delicate wheat-stalk embroidery along the lower front and back. Dark chocolate-brown cropped trousers are held by a black belt and finished with rolled cuffs, a gold hip chain, and a dangling wheat-leaf charm. Cream ribbed slouch socks gather above dark brown leather lace-up ankle boots with tan welted soles and embroidered wheat sprigs at the outer sides. He ends with a bright closed-mouth smile, standing front-facing with his feet apart, his left fist held beside his chest, and his right arm extended high overhead in a triumphant raised-fist pose.
+ 1. Base Anatomy: Komugi is a lean adult man. Bright sky-blue eyes behind black rectangular glasses. He ends with a bright closed-mouth smile.
+
+ 2. Hair & Head: A warm, confident gaze, accompanied by short sandy-blond hair cut in tousled layers with a loose forelock and softly feathered side pieces.
+
+ 3. Species Traits: Fox Logic — He has large, wide-based tan fox ears with pale cream inner tufts and one thick, bushy golden-beige tail that curves prominently behind him and fades into a generous white tip.
+
+ 4. Upper Body: A gold crescent pendant hangs over a thick ivory cable-knit turtleneck sweater, layered beneath a warm tan cable-knit cardigan with dark buttons, ribbed trim, patch pockets, a small chest emblem, and delicate wheat-stalk embroidery along the lower front and back.
+
+ 5. Lower Body & Feet: Dark chocolate-brown cropped trousers are held by a black belt and finished with rolled cuffs, a gold hip chain, and a dangling wheat-leaf charm. Cream ribbed slouch socks gather above dark brown leather lace-up ankle boots with tan welted soles and embroidered wheat sprigs at the outer sides.
+
+ 6. Pose: Standing front-facing with his feet apart, his left fist held beside his chest, and his right arm extended high overhead in a triumphant raised-fist pose.
 
 Physical Appearance Prompt Style 1c — Komugi
 
-Komugi has a lean young-adult build with clear cobalt-blue eyes behind black rectangular glasses and a friendly, confident smile. His hair is short, tousled, and wheat-blond, with soft layered spikes and light bangs that sit above the brows. He has large tan fox ears with pale inner fur, and a thick peach-tan tail that ends in a bright white tip. He wears a cream cable-knit turtleneck sweater beneath a tan cable-knit cardigan with dark buttons, subtle wheat embroidery, and a small chest emblem showing a book paired with wheat stalks, and he adds a crescent pendant necklace over the knit. His lower half is made up of dark brown cropped trousers with rolled hems, a belt, a hanging wheat-shaped charm chain at the hip, ruffled cream socks, and sturdy brown lace-up boots. In the front pose he stands upright with his right arm raised high in a celebratory fist and his left arm bent with a second clenched fist held near his chest.
+ 1. Base Anatomy: Komugi has a lean young-adult build. Clear cobalt-blue eyes behind black rectangular glasses and a friendly, confident smile.
+
+ 2. Hair & Head: His hair is short, tousled, and wheat-blond, with soft layered spikes and light bangs that sit above the brows.
+
+ 3. Species Traits: Fox Logic — He has large tan fox ears with pale inner fur, and a thick peach-tan tail that ends in a bright white tip.
+
+ 4. Upper Body: He wears a cream cable-knit turtleneck sweater beneath a tan cable-knit cardigan with dark buttons, subtle wheat embroidery, and a small chest emblem showing a book paired with wheat stalks, and he adds a crescent pendant necklace over the knit.
+
+ 5. Lower Body & Feet: His lower half is made up of dark brown cropped trousers with rolled hems, a belt, a hanging wheat-shaped charm chain at the hip, ruffled cream socks, and sturdy brown lace-up boots.
+
+ 6. Pose: In the front pose he stands upright with his right arm raised high in a celebratory fist and his left arm bent with a second clenched fist held near his chest.
 
 Physical Appearance Prompt Style 2 — Komugi
 
-Komugi is a slim young man with short, tousled wheat-blond hair flicked up in a stray strand at the crown, bold dark brows behind black rectangular glasses, and bright cobalt-blue eyes. His animal features include large, wide-based sandy ears tufted with white inner fluff and a single thick, plush tail of warm wheat-cream fur that sweeps to a bright white tip. He wears a golden crescent-moon pendant on a cord at his chest. His outfit is a cream ribbed turtleneck layered under an oatmeal chunky-knit cardigan with brown buttons, a small open-book-and-pen patch at the chest, a golden pen tucked into the pocket, and wheat-stalk embroidery running along the hem, paired with brown-belted charcoal trousers cropped at the ankle and hung with a golden wheat-charm chain, slouchy cream ribbed socks, and dark chocolate lace-up work boots embroidered with wheat sprigs on tan lug soles. His expression is a warm, toothy grin, with one arm punched triumphantly overhead in a fist while the other fist curls at chest height.
+ 1. Base Anatomy: Komugi is a slim young man. Bright cobalt-blue eyes. His expression is a warm, toothy grin.
+
+ 2. Hair & Head: Short, tousled wheat-blond hair flicked up in a stray strand at the crown, bold dark brows behind black rectangular glasses.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based sandy ears tufted with white inner fluff and a single thick, plush tail of warm wheat-cream fur that sweeps to a bright white tip.
+
+ 4. Upper Body: He wears a golden crescent-moon pendant on a cord at his chest. His outfit is a cream ribbed turtleneck layered under an oatmeal chunky-knit cardigan with brown buttons, a small open-book-and-pen patch at the chest, a golden pen tucked into the pocket, and wheat-stalk embroidery running along the hem.
+
+ 5. Lower Body & Feet: Paired with brown-belted charcoal trousers cropped at the ankle and hung with a golden wheat-charm chain, slouchy cream ribbed socks, and dark chocolate lace-up work boots embroidered with wheat sprigs on tan lug soles.
+
+ 6. Pose: With one arm punched triumphantly overhead in a fist while the other fist curls at chest height.
 
 Physical Appearance Prompt Style 2b — Komugi
 
-Komugi has a slim young-adult build with fair skin, bright cornflower-blue eyes behind thick black rectangular glasses, bold dark eyebrows, and a warm, friendly grin. His wheat-blond hair is short and tousled. Tall tawny ears with white inner fur rise wide from his head, and a single large, bushy tail in warm wheat-cream plumes behind him, finishing in a bright white tip. He wears a cream ribbed turtleneck sweater and a golden crescent-moon pendant on a cord, layered under an oatmeal-tan knit cardigan with round brown buttons, a small book-and-pencil emblem pinned at the chest, a golden pen tucked into the pocket, and wheat-stalk embroidery running along the hem and across the back; the knitwear is decorative only, with no lettering. His charcoal-brown cropped trousers are cuffed at the ankle and belted in brown leather, hung with a golden chain and wheat-leaf charm, worn over chunky cream ribbed socks slouched into dark brown lace-up work boots embroidered with golden wheat above tan soles. He stands with his left arm raised high overhead in a fist while his right fist is held up at chest height.
+ 1. Base Anatomy: Komugi has a slim young-adult build with fair skin. Bright cornflower-blue eyes behind thick black rectangular glasses, bold dark eyebrows, and a warm, friendly grin.
+
+ 2. Hair & Head: His wheat-blond hair is short and tousled.
+
+ 3. Species Traits: Fox Logic — Tall tawny ears with white inner fur rise wide from his head, and a single large, bushy tail in warm wheat-cream plumes behind him, finishing in a bright white tip.
+
+ 4. Upper Body: He wears a cream ribbed turtleneck sweater and a golden crescent-moon pendant on a cord, layered under an oatmeal-tan knit cardigan with round brown buttons, a small book-and-pencil emblem pinned at the chest, a golden pen tucked into the pocket, and wheat-stalk embroidery running along the hem and across the back; the knitwear is decorative only, with no lettering.
+
+ 5. Lower Body & Feet: His charcoal-brown cropped trousers are cuffed at the ankle and belted in brown leather, hung with a golden chain and wheat-leaf charm, worn over chunky cream ribbed socks slouched into dark brown lace-up work boots embroidered with golden wheat above tan soles.
+
+ 6. Pose: He stands with his left arm raised high overhead in a fist while his right fist is held up at chest height.
 
 Physical Appearance Prompt Style 3 — Komugi
 
-Komugi is slender with short, messy beige hair featuring layered flips and a neat fringe, and bright blue eyes framed by thick black rectangular glasses with a warm, confident smile. His animal features include large, wide-based beige fox ears with white fluffy inner fur and a thick, bushy, fluffy beige fox tail with a prominent white tip. He wears a gold chain necklace with a dangling golden crescent moon pendant, a gold chain with a hanging metallic leaf charm from his belt, and a small metal book-shaped brooch pinned to his chest. His outfit is an oversized beige cable-knit cardigan featuring embroidered stalks of golden wheat along the bottom hem, layered over a cream-colored ribbed turtleneck sweater, crop-length dark brown trousers secured by a black belt, cream-colored ribbed crew socks, and dark brown leather boots with brown laces and embroidered golden wheat details on the side. His expression is a warm, confident smile with his left arm raised straight up in a clenched fist and his right hand held near his chest in a supportive fist gesture.
+ 1. Base Anatomy: Komugi is slender. Bright blue eyes framed by thick black rectangular glasses with a warm, confident smile. His expression is a warm, confident smile.
+
+ 2. Hair & Head: Short, messy beige hair featuring layered flips and a neat fringe.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based beige fox ears with white fluffy inner fur and a thick, bushy, fluffy beige fox tail with a prominent white tip.
+
+ 4. Upper Body: He wears a gold chain necklace with a dangling golden crescent moon pendant. His outfit is an oversized beige cable-knit cardigan featuring embroidered stalks of golden wheat along the bottom hem, layered over a cream-colored ribbed turtleneck sweater.
+
+ 5. Lower Body & Feet: A gold chain with a hanging metallic leaf charm from his belt, and a small metal book-shaped brooch pinned to his chest. Crop-length dark brown trousers secured by a black belt, cream-colored ribbed crew socks, and dark brown leather boots with brown laces and embroidered golden wheat details on the side.
+
+ 6. Pose: With his left arm raised straight up in a clenched fist and his right hand held near his chest in a supportive fist gesture.
 
 Physical Appearance Prompt Style 4 — Komugi
 
-Komugi is a moderately built boy with short, messy sandy-blonde hair, thick black-rimmed glasses, and bright blue eyes. His animal features include large, wide-based sandy-blonde fox ears and a thick, fluffy sandy-blonde fox tail that transitions smoothly into a white tip. He wears a thin silver necklace with a gold crescent moon pendant and a dark leather belt with an attached gold chain and wheat stalk charm. His outfit is a beige cable-knit cardigan adorned with wheat embroidery along the hem layered over a cream-colored ribbed turtleneck sweater, dark brown cropped trousers with rolled cuffs, beige slouched ribbed socks, and dark brown leather lace-up boots with gold wheat motifs. His expression is a confident, closed-mouth smile with his right hand curled into a fist near his chest and his left arm raised high in an enthusiastic fist.
+ 1. Base Anatomy: Komugi is a moderately built boy. Bright blue eyes. His expression is a confident, closed-mouth smile.
+
+ 2. Hair & Head: Short, messy sandy-blonde hair, thick black-rimmed glasses.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based sandy-blonde fox ears and a thick, fluffy sandy-blonde fox tail that transitions smoothly into a white tip.
+
+ 4. Upper Body: He wears a thin silver necklace with a gold crescent moon pendant and a dark leather. His outfit is a beige cable-knit cardigan adorned with wheat embroidery along the hem layered over a cream-colored ribbed turtleneck sweater.
+
+ 5. Lower Body & Feet: Belt with an attached gold chain and wheat stalk charm. Dark brown cropped trousers with rolled cuffs, beige slouched ribbed socks, and dark brown leather lace-up boots with gold wheat motifs.
+
+ 6. Pose: With his right hand curled into a fist near his chest and his left arm raised high in an enthusiastic fist.
 
 Physical Appearance Prompt Style 4b — Komugi
 
-Komugi is a slender young boy with bright blue eyes behind black-rimmed glasses and short, messy light brown hair. Applying fox logic, he possesses large, wide-based light brown ears with white inner fluff and a thick, bushy tail that elegantly gradients from light brown at the base to a pure white tip. His outfit starts with a gold crescent moon pendant necklace layered over a cream-colored ribbed turtleneck sweater, worn underneath a chunky, beige button-up knit cardigan featuring delicate gold wheat stalk embroidery along the bottom hem and front pockets. He wears dark brown cropped trousers cinched with a dark brown leather belt, accessorized with a subtle gold hip chain and a hanging leaf charm. His legwear includes slouchy beige knit socks, perfectly paired with dark brown leather lace-up boots decorated with matching gold wheat embroidery on the sides. He maintains a confident, open-mouthed smile, posing energetically with his right fist raised high in the air and his left fist clenched near his waist.
+ 1. Base Anatomy: Komugi is a slender young boy. Bright blue eyes behind black-rimmed glasses. He maintains a confident, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy light brown hair.
+
+ 3. Species Traits: Fox Logic — Applying fox logic, he possesses large, wide-based light brown ears with white inner fluff and a thick, bushy tail that elegantly gradients from light brown at the base to a pure white tip.
+
+ 4. Upper Body: His outfit starts with a gold crescent moon pendant necklace layered over a cream-colored ribbed turtleneck sweater, worn underneath a chunky, beige button-up knit cardigan featuring delicate gold wheat stalk embroidery along the bottom hem and front pockets.
+
+ 5. Lower Body & Feet: He wears dark brown cropped trousers cinched with a dark brown leather belt, accessorized with a subtle gold hip chain and a hanging leaf charm. His legwear includes slouchy beige knit socks, perfectly paired with dark brown leather lace-up boots decorated with matching gold wheat embroidery on the sides.
+
+ 6. Pose: Posing energetically with his right fist raised high in the air and his left fist clenched near his waist.
 
 ---
 
@@ -7012,35 +9855,115 @@ Seiya is a calm, wintry fox boy whose affection is refreshingly direct, honest, 
 
 Physical Appearance Prompt Style 1 — Seiya
 
-Seiya is a slim boy with short, tousled silver-white hair shaded with pale sky-blue tones, styled with softly spiked layers and side-swept bangs, and vivid blue eyes with a confident, upbeat expression. His animal features include large, wide-based pale-blue fox ears with cream inner fur and one thick, bushy fox tail that begins in deep navy at the base, transitions through vivid cobalt and sky blue, and ends in a broad icy-white tip. He wears layered necklaces with star, crystal, and crescent-moon pendants, along with matching celestial straps and dangling charm tabs attached to his jacket and shorts. His outfit is a white ribbed sweater layered under a navy zip-front hoodie with pale-blue lining, fox emblems, constellation graphics, starry gradient panels, and dangling crescent charms, paired with navy shorts trimmed in silver and decorated with straps, chains, small stars, and celestial tags, scrunched white socks with blue star patches, and navy high-top sneakers with white laces, white toe caps, and star details. His expression is a confident closed-mouth smile with one fist raised overhead and the other clenched near his chest in a spirited pose.
+ 1. Base Anatomy: Seiya is a slim boy. Vivid blue eyes with a confident, upbeat expression. His expression is a confident closed-mouth smile.
+
+ 2. Hair & Head: Short, tousled silver-white hair shaded with pale sky-blue tones, styled with softly spiked layers and side-swept bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based pale-blue fox ears with cream inner fur and one thick, bushy fox tail that begins in deep navy at the base, transitions through vivid cobalt and sky blue, and ends in a broad icy-white tip.
+
+ 4. Upper Body: He wears layered necklaces with star, crystal, and crescent-moon pendants. His outfit is a white ribbed sweater layered under a navy zip-front hoodie with pale-blue lining, fox emblems, constellation graphics, starry gradient panels, and dangling crescent charms.
+
+ 5. Lower Body & Feet: Along with matching celestial straps and dangling charm tabs attached to his jacket and shorts. Paired with navy shorts trimmed in silver and decorated with straps, chains, small stars, and celestial tags, scrunched white socks with blue star patches, and navy high-top sneakers with white laces, white toe caps, and star details.
+
+ 6. Pose: With one fist raised overhead and the other clenched near his chest in a spirited pose.
 
 Physical Appearance Prompt Style 1b — Seiya
 
-Seiya is a slim teenage boy with deep cobalt-blue eyes and a composed, quietly upbeat gaze, framed by short tousled silver-white hair that transitions into icy blue along the lower layers and side bangs, with a small windswept tuft at the crown. He has large, wide-based silver-blue fox ears with creamy inner fur and one thick, bushy tail that begins deep midnight blue at the base, shifts through vivid cobalt and pale sky blue, and ends in a broad icy-white tip. Layered blue crystal and gold pendant necklaces rest over an ivory ribbed mock-neck sweater, which is covered by an oversized navy hooded jacket with a pale gray hood lining, fox-head emblems, crescent charms, gold-edged pockets, tiny constellations, and a star-field gradient that brightens from midnight navy into luminous icy blue along the hem and sleeves; the back carries a gold fox-head crest above a mapped constellation. Navy shorts with pale blue cuffs are decorated with constellation motifs, stars, blue cords, metallic chains, and long hanging celestial straps. White scrunched socks carry blue star and cross patches, and navy high-top sneakers feature white toe caps and soles, white laces, fox badges, stars, and blue crystal-like accents. He finishes with a slight closed-mouth smile, standing directly forward with his feet set apart, his left fist held near his chest, and his right arm lifted vertically overhead with a firmly clenched fist.
+ 1. Base Anatomy: Seiya is a slim teenage boy. Deep cobalt-blue eyes. He finishes with a slight closed-mouth smile.
+
+ 2. Hair & Head: A composed, quietly upbeat gaze, framed by short tousled silver-white hair that transitions into icy blue along the lower layers and side bangs, with a small windswept tuft at the crown.
+
+ 3. Species Traits: Fox Logic — He has large, wide-based silver-blue fox ears with creamy inner fur and one thick, bushy tail that begins deep midnight blue at the base, shifts through vivid cobalt and pale sky blue, and ends in a broad icy-white tip.
+
+ 4. Upper Body: Layered blue crystal and gold pendant necklaces rest over an ivory ribbed mock-neck sweater, which is covered by an oversized navy hooded jacket with a pale gray hood lining, fox-head emblems, crescent charms, gold-edged pockets, tiny constellations, and a star-field gradient that brightens from midnight navy into luminous icy blue along the hem and sleeves; the back carries a gold fox-head crest above a mapped constellation.
+
+ 5. Lower Body & Feet: Navy shorts with pale blue cuffs are decorated with constellation motifs, stars, blue cords, metallic chains, and long hanging celestial straps. White scrunched socks carry blue star and cross patches, and navy high-top sneakers feature white toe caps and soles, white laces, fox badges, stars, and blue crystal-like accents.
+
+ 6. Pose: Standing directly forward with his feet set apart, his left fist held near his chest, and his right arm lifted vertically overhead with a firmly clenched fist.
 
 Physical Appearance Prompt Style 1c — Seiya
 
-Seiya has a slim, athletic youthful build with vivid sapphire-blue eyes and a confident, upbeat smile. His hair is short and slightly tousled, colored icy white at the crown and shifting into pale blue through the outer layers and tips, with forward-swept bangs framing the face. He has broad fox ears in white and cool blue, and a thick bushy tail that deepens from rich cobalt at the base into a luminous icy-blue and white tip. He layers a white ribbed mock-neck knit under a navy zip hoodie with a pale lining, and the jacket is embellished with star fields, a gradient night-sky fade, a fox-head emblem, and constellation graphics, while a stack of jewelry adds a star, a crystal, and a crescent moon at the chest. He wears cuffed navy shorts with a dangling star-tab strap and additional metal accents, white socks, and navy high-top sneakers decorated with stars and blue gradient details. In the front pose he plants his feet apart, throws his right fist high overhead, and keeps his left fist bent close to his body in a spirited rally stance.
+ 1. Base Anatomy: Seiya has a slim, athletic youthful build. Vivid sapphire-blue eyes and a confident, upbeat smile.
+
+ 2. Hair & Head: His hair is short and slightly tousled, colored icy white at the crown and shifting into pale blue through the outer layers and tips, with forward-swept bangs framing the face.
+
+ 3. Species Traits: Fox Logic — He has broad fox ears in white and cool blue, and a thick bushy tail that deepens from rich cobalt at the base into a luminous icy-blue and white tip.
+
+ 4. Upper Body: He layers a white ribbed mock-neck knit under a navy zip hoodie with a pale lining, and the jacket is embellished with star fields, a gradient night-sky fade, a fox-head emblem, and constellation graphics, while a stack of jewelry adds a star, a crystal, and a crescent moon at the chest.
+
+ 5. Lower Body & Feet: He wears cuffed navy shorts with a dangling star-tab strap and additional metal accents, white socks, and navy high-top sneakers decorated with stars and blue gradient details.
+
+ 6. Pose: In the front pose he plants his feet apart, throws his right fist high overhead, and keeps his left fist bent close to his body in a spirited rally stance.
 
 Physical Appearance Prompt Style 2 — Seiya
 
-Seiya is a slim young boy with short, windswept silver hair washed with pale icy blue, and deep navy-blue eyes. His animal features include large, wide-based frost-blue ears filled with white inner fluff and a single plush tail that flows from deep navy through vivid blue into a frosted white tip, glittering with starlike speckles. He wears a silver necklace hung with a blue crystal pendant and a tiny crescent charm clipped to his zipper. His outfit is a chunky white ribbed turtleneck layered under a navy galaxy-gradient zip hoodie that fades to white at the ribbed hem, dusted with star speckles and detailed with gold fox-face embroidery at the chest and hood, a constellation traced across the back, a moon-phase patch on the sleeve, and star-tipped drawstrings, paired with navy shorts with pale gray cuffs and moon-printed suspender straps hung with a fox charm, white socks with star-marked cuffs, and navy-and-white platform high-top sneakers etched with gold fox outlines and stars. His expression is a gentle, confident closed smile, with one arm raised overhead in a fist and the other fist held at chest height.
+ 1. Base Anatomy: Seiya is a slim young boy. Deep navy-blue eyes. His expression is a gentle, confident closed smile.
+
+ 2. Hair & Head: Short, windswept silver hair washed with pale icy blue.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based frost-blue ears filled with white inner fluff and a single plush tail that flows from deep navy through vivid blue into a frosted white tip, glittering with starlike speckles.
+
+ 4. Upper Body: He wears a silver necklace hung with a blue crystal pendant and a tiny crescent charm clipped to his zipper. His outfit is a chunky white ribbed turtleneck layered under a navy galaxy-gradient zip hoodie that fades to white at the ribbed hem, dusted with star speckles and detailed with gold fox-face embroidery at the chest and hood, a constellation traced across the back, a moon-phase patch on the sleeve, and star-tipped drawstrings.
+
+ 5. Lower Body & Feet: Paired with navy shorts with pale gray cuffs and moon-printed suspender straps hung with a fox charm, white socks with star-marked cuffs, and navy-and-white platform high-top sneakers etched with gold fox outlines and stars.
+
+ 6. Pose: With one arm raised overhead in a fist and the other fist held at chest height.
 
 Physical Appearance Prompt Style 2b — Seiya
 
-Seiya has a small, boyish build with lightly tanned skin, deep blue eyes, and a soft, confident closed-lip smile. His silvery-white hair is short and spiky, washed with pale blue. Tall icy-blue ears with fluffy white inner fur stand wide on his head, and one grand plumed tail sweeps up behind him, its fur shifting from star-flecked deep sapphire at the base to a frosted silver-white tip. He wears a white ribbed turtleneck sweater with a necklace holding a blue crystal pendant, beneath a navy galaxy-print zip hoodie with a pale gray hood lining, its starfield speckles dissolving into white at the ribbed hem, decorated with a small fox-face outline on the chest and hood, a sleeve patch bearing moon symbols, and a crescent charm hanging from the silver zipper; the patch markings are ornamental, with no legible text. His navy shorts have pale gray cuffs and hanging harness straps ending in a fox-face charm and star accents, worn with white socks tabbed in blue stars and chunky navy-and-white high-top sneakers with white laces, fox faces, and sparkle details. He stands with his left arm raised overhead in a fist while his right fist is held at chest height.
+ 1. Base Anatomy: Seiya has a small, boyish build with lightly tanned skin. Deep blue eyes, and a soft, confident closed-lip smile.
+
+ 2. Hair & Head: His silvery-white hair is short and spiky, washed with pale blue.
+
+ 3. Species Traits: Fox Logic — Tall icy-blue ears with fluffy white inner fur stand wide on his head, and one grand plumed tail sweeps up behind him, its fur shifting from star-flecked deep sapphire at the base to a frosted silver-white tip.
+
+ 4. Upper Body: He wears a white ribbed turtleneck sweater with a necklace holding a blue crystal pendant, beneath a navy galaxy-print zip hoodie with a pale gray hood lining, its starfield speckles dissolving into white at the ribbed hem, decorated with a small fox-face outline on the chest and hood, a sleeve patch bearing moon symbols, and a crescent charm hanging from the silver zipper; the patch markings are ornamental, with no legible text.
+
+ 5. Lower Body & Feet: His navy shorts have pale gray cuffs and hanging harness straps ending in a fox-face charm and star accents, worn with white socks tabbed in blue stars and chunky navy-and-white high-top sneakers with white laces, fox faces, and sparkle details.
+
+ 6. Pose: He stands with his left arm raised overhead in a fist while his right fist is held at chest height.
 
 Physical Appearance Prompt Style 3 — Seiya
 
-Seiya is slender with short, spiky silver-white hair featuring a soft blue gradient at the tips and messy bangs, and bright blue eyes with a cheerful, determined smile. His animal features include large, wide-based silver-blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients from deep blue to sky blue with a white tip. He wears a silver chain necklace with a blue star-shaped cross pendant and a dark blue fabric strap hanging from his shorts featuring a white fox icon and a blue star charm. His outfit is an oversized dark blue zip-up hoodie featuring a starry night sky gradient that fades into a light blue nebula at the hem and a white constellation pattern on the back, layered over a cream-colored ribbed high-neck sweater, dark blue athletic shorts with a white trim, white crew socks decorated with blue star patterns, and high-top dark blue and white sneakers featuring a white fox face emblem on the sides. His expression is a cheerful, confident smile with his left arm raised straight up in a fist and his right hand clenched in a tight fist at chest level.
+ 1. Base Anatomy: Seiya is slender. Bright blue eyes with a cheerful, determined smile. His expression is a cheerful, confident smile.
+
+ 2. Hair & Head: Short, spiky silver-white hair featuring a soft blue gradient at the tips and messy bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based silver-blue fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients from deep blue to sky blue with a white tip.
+
+ 4. Upper Body: He wears a silver chain necklace with a blue star-shaped cross pendant and a dark blue fabric strap hanging from his. His outfit is an oversized dark blue zip-up hoodie featuring a starry night sky gradient that fades into a light blue nebula at the hem and a white constellation pattern on the back, layered over a cream-colored ribbed high-neck sweater.
+
+ 5. Lower Body & Feet: Shorts featuring a white fox icon and a blue star charm. Dark blue athletic shorts with a white trim, white crew socks decorated with blue star patterns, and high-top dark blue and white sneakers featuring a white fox face emblem on the sides.
+
+ 6. Pose: With his left arm raised straight up in a fist and his right hand clenched in a tight fist at chest level.
 
 Physical Appearance Prompt Style 4 — Seiya
 
-Seiya is a slender boy with short, messy silver-white hair fading into light blue tips, parted bangs, and bright azure blue eyes. His animal features include large, wide-based light blue fox ears with white inner fluff and a thick, bushy fox tail featuring a gradient from dark blue at the base to a pale blue and white tip. He wears a silver necklace with a blue four-point star pendant and silver star charms dangling from his jacket. His outfit is a navy blue zip-up hoodie transitioning into a light blue starry sky gradient with constellation patterns layered over a white ribbed turtleneck sweater, navy blue shorts with silver chains and starry straps, white ribbed socks with blue star motifs, and black high-top sneakers with white soles and celestial details. His expression is a cheerful, confident smile with his right hand curled into a fist at his chest and his left arm raised straight up in a triumphant fist.
+ 1. Base Anatomy: Seiya is a slender boy. Bright azure blue eyes. His expression is a cheerful, confident smile.
+
+ 2. Hair & Head: Short, messy silver-white hair fading into light blue tips, parted bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based light blue fox ears with white inner fluff and a thick, bushy fox tail featuring a gradient from dark blue at the base to a pale blue and white tip.
+
+ 4. Upper Body: He wears a silver necklace with a blue four-point star pendant and silver star charms dangling from his jacket. His outfit is a navy blue zip-up hoodie transitioning into a light blue starry sky gradient with constellation patterns layered over a white ribbed turtleneck sweater.
+
+ 5. Lower Body & Feet: Navy blue shorts with silver chains and starry straps, white ribbed socks with blue star motifs, and black high-top sneakers with white soles and celestial details.
+
+ 6. Pose: With his right hand curled into a fist at his chest and his left arm raised straight up in a triumphant fist.
 
 Physical Appearance Prompt Style 4b — Seiya
 
-Seiya is a slender young boy with vibrant blue eyes and short, textured white hair that gradients beautifully into light blue at the tips. Based on fox logic, he features large, wide-based light blue ears with white inner fluff and a thick, bushy tail that transitions from dark blue at the base to light blue before ending in a striking white tip. He wears a silver necklace with a blue diamond and crescent moon pendant over a white ribbed turtleneck sweater, layered beneath a deep navy blue zip-up hoodie that gradients into a lighter blue at the bottom hem, heavily decorated with white speckles resembling a starry night sky, silver constellation lines, star charms, and a minimalist fox head logo on the back of the hood. He pairs this with navy blue shorts and a matching belt, accessorized with a long hanging strap featuring star motifs and a small blue fox charm. His lower half is completed with white crew socks displaying blue star details, worn with black and white high-top sneakers adorned with blue star and moon designs. He displays a cheerful, confident smile, posing with his right fist raised high into the air and his left arm resting casually at his side.
+ 1. Base Anatomy: Seiya is a slender young boy. Vibrant blue eyes. He displays a cheerful, confident smile.
+
+ 2. Hair & Head: Short, textured white hair that gradients beautifully into light blue at the tips.
+
+ 3. Species Traits: Fox Logic — Based on fox logic, he features large, wide-based light blue ears with white inner fluff and a thick, bushy tail that transitions from dark blue at the base to light blue before ending in a striking white tip.
+
+ 4. Upper Body: He wears a silver necklace with a blue diamond and crescent moon pendant over a white ribbed turtleneck sweater, layered beneath a deep navy blue zip-up hoodie that gradients into a lighter blue at the bottom hem, heavily decorated with white speckles resembling a starry night sky, silver constellation lines, star charms, and a minimalist fox head logo on the back of the hood.
+
+ 5. Lower Body & Feet: He pairs this with navy blue shorts and a matching belt, accessorized with a long hanging strap featuring star motifs and a small blue fox charm. His lower half is completed with white crew socks displaying blue star details, worn with black and white high-top sneakers adorned with blue star and moon designs.
+
+ 6. Pose: Posing with his right fist raised high into the air and his left arm resting casually at his side.
 
 ---
 
@@ -7156,7 +10079,7 @@ Personality Description:
 
 As a Kondere, Akatsuki approaches people first with genuine warmth — he is the one who comes over, checks in, and makes an effort to include others, offering his company openly rather than waiting to be sought out. His Kuudere layer is what shapes how that warmth is expressed: kuudere characters maintain a calm, composed, emotionally restrained exterior, feeling things fully on the inside while showing them sparingly on the outside. For Akatsuki, these two qualities create an unusual and appealing balance — he has the warmth to reach out and the composure to do it without fuss or intensity. He will approach you, sit with you, and quietly make sure you are alright, all while maintaining an even, unruffled calm that makes his warmth feel steady and safe rather than overwhelming.
 
-The combination makes Akatsuki feel like a calm presence with a genuinely warm center — approachable and composed at the same time. He does not gush or perform, but he does not hold himself coldly apart either; he simply cares in a quiet, measured way, expressing it through attention and small deliberate actions rather than big emotional displays. His name captures him well: 和 for the harmony and balance he carries, 月 for the quiet lunar calm of his presence. Beneath the composed surface and behind his glasses is someone thoughtful and genuinely kind, whose still waters run deep — and whose striking crimson-moon coloring hints at a quiet intensity underneath all that calm. 🎑
+The combination makes Akatsuki feel like a calm presence with a genuinely warm center — approachable and composed at the same time. He does not gush or perform, but he does not hold himself coldly apart either; he simply cares in a quiet, measured way, expressing it through attention and small deliberate actions rather than big emotional displays. His name captures him well: 暁 for the gentle first light with which he approaches others, 月 for the quiet lunar calm of his presence. Beneath the composed surface and behind his glasses is someone thoughtful and genuinely kind, whose still waters run deep — and whose striking crimson-moon coloring hints at a quiet intensity underneath all that calm. 🎑
 
 Summarized Personality Description:
 
@@ -7225,7 +10148,7 @@ Akatsuki is a composed, crimson-moon fox boy whose warmth is real but quiet — 
 
 Behind his glasses and his unruffled expression is someone genuinely thoughtful and kind, whose feelings run deeper than his composed surface lets on. Akatsuki expresses affection through attention rather than declaration — he notices what people need, remembers it, and handles it without making a production of it. His calm is not coldness; it is simply the shape his warmth takes, measured and quiet and steady. The people who know him well learn to read the small signals — the deliberate way he chooses to sit near someone, the quiet question at the right moment, the way his even voice softens just slightly for the people he trusts.
 
-His crimson-moon aesthetic suits him beautifully: the serene white of moonlight shot through with deep, quiet red, calm on the surface with an intensity glowing underneath. His name says the same thing — 和 for the harmony and balance he carries into every room, 月 for the still lunar calm of his presence. Akatsuki is the fox boy who will sit with you under the night sky and not need to fill the silence, whose steady, understated warmth turns out to be one of the most reassuring things to have nearby. He feels everything he seems too calm to show — he simply prefers to let his quiet presence say it for him. 🎑
+His crimson-moon aesthetic suits him beautifully: the serene white of moonlight shot through with deep, quiet red, calm on the surface with an intensity glowing underneath. His name says the same thing — 暁 for the dawnlike warmth he brings into every room, 月 for the still lunar calm of his presence. Akatsuki is the fox boy who will sit with you under the night sky and not need to fill the silence, whose steady, understated warmth turns out to be one of the most reassuring things to have nearby. He feels everything he seems too calm to show — he simply prefers to let his quiet presence say it for him. 🎑
 
 Summarized Profile Description:
 Calmly Warm Kondere-Kuudere
@@ -7234,34 +10157,134 @@ Akatsuki is a composed, crimson-moon fox boy whose affection takes the form of q
 
 Physical Appearance Prompt Style 1 — Akatsuki
 
-Akatsuki is a slim boy with short, tousled white hair that transitions into deep crimson-red at the lower layers and ends, framed by side-swept bangs, and warm reddish-brown eyes behind round dark glasses with a spirited, lively expression. His animal features include large, wide-based dark red fox ears with white inner fur and one thick, bushy fox tail that blends from crimson through dark red into a broad white tip, marked with glowing crescent-moon motifs. He wears round black glasses, a black cord necklace with a crescent pendant, and red tassel ornaments and knotted charms attached to his coat. His outfit is a black and deep crimson kimono-sleeved hooded coat with maple-leaf patterns, crescent symbols, geometric trim, red gradient paneling, and a large back graphic combining a crescent moon, rising sun, mountain, and maple leaves, layered over a white high-neck shirt and dark tapered trousers with red straps and hanging charms, white crew socks printed with red crescent moons, and black-and-red high-top sneakers with layered straps and maple accents. His expression is a broad open-mouthed grin with one fist lifted high overhead and the other clenched near his chest in an excited, triumphant pose.
+ 1. Base Anatomy: Akatsuki is a slim boy. Warm reddish-brown eyes behind round dark glasses with a spirited, lively expression. His expression is a broad open-mouthed grin.
+
+ 2. Hair & Head: Short, tousled white hair that transitions into deep crimson-red at the lower layers and ends, framed by side-swept bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based dark red fox ears with white inner fur and one thick, bushy fox tail that blends from crimson through dark red into a broad white tip, marked with glowing crescent-moon motifs.
+
+ 4. Upper Body: He wears round black glasses, a black cord necklace with a crescent pendant, and red tassel ornaments and knotted charms attached to his coat. His outfit is a black and deep crimson kimono-sleeved hooded coat with maple-leaf patterns, crescent symbols, geometric trim, red gradient paneling, and a large back graphic combining a crescent moon, rising sun, mountain, and maple leaves.
+
+ 5. Lower Body & Feet: Layered over a white high-neck shirt and dark tapered trousers with red straps and hanging charms, white crew socks printed with red crescent moons, and black-and-red high-top sneakers with layered straps and maple accents.
+
+ 6. Pose: With one fist lifted high overhead and the other clenched near his chest in an excited, triumphant pose.
 
 Physical Appearance Prompt Style 1b — Akatsuki
 
-Akatsuki is a slim teenage boy with warm amber-brown eyes behind black rectangular glasses and a spirited, enthusiastic gaze, paired with short tousled white hair that gradually shifts into dusty rose and deep crimson at the lower back and side layers, with sharply feathered bangs and a small upward crown tuft. He has large, wide-based red fox ears with dark crimson outer shading and white inner tufts and one thick, intensely bushy tail whose fur graduates from dark burgundy through glowing crimson into a broad white tip, decorated across the red sections with luminous cream crescent-moon markings. A black cord necklace with a dark crescent pendant lies over a plain ivory high-neck shirt, layered beneath a long black hooded kimono-style coat with wide sleeves, deep red gradient hems, geometric lining, maple-leaf patterns, crescent ornaments, tassels, and a large back graphic combining a cream crescent, a rising red sun, stylized mountain, water lines, and scattered maple leaves. Dark charcoal cropped jogger trousers are secured by a narrow sash and decorated with red geometric side panels, ankle straps, buckles, hanging tags, and a long tassel ornament. White crew socks bear small red crescent motifs, while black-and-crimson high-top sneakers feature layered straps, red maple graphics, thick white-edged soles, and dark fox-like badges. He ends with a wide open-mouthed smile, standing in a strong front-facing stance with his feet apart, his left fist clenched beside his chest, and his right arm thrust high overhead in an exuberant victory pose.
+ 1. Base Anatomy: Akatsuki is a slim teenage boy. Warm amber-brown eyes behind black rectangular glasses. He ends with a wide open-mouthed smile.
+
+ 2. Hair & Head: A spirited, enthusiastic gaze, paired with short tousled white hair that gradually shifts into dusty rose and deep crimson at the lower back and side layers, with sharply feathered bangs and a small upward crown tuft.
+
+ 3. Species Traits: Fox Logic — He has large, wide-based red fox ears with dark crimson outer shading and white inner tufts and one thick, intensely bushy tail whose fur graduates from dark burgundy through glowing crimson into a broad white tip, decorated across the red sections with luminous cream crescent-moon markings.
+
+ 4. Upper Body: A black cord necklace with a dark crescent pendant lies over a plain ivory high-neck shirt, layered beneath a long black hooded kimono-style coat with wide sleeves, deep red gradient hems, geometric lining, maple-leaf patterns, crescent ornaments, tassels, and a large back graphic combining a cream crescent, a rising red sun, stylized mountain, water lines, and scattered maple leaves.
+
+ 5. Lower Body & Feet: Dark charcoal cropped jogger trousers are secured by a narrow sash and decorated with red geometric side panels, ankle straps, buckles, hanging tags, and a long tassel ornament. White crew socks bear small red crescent motifs, while black-and-crimson high-top sneakers feature layered straps, red maple graphics, thick white-edged soles, and dark fox-like badges.
+
+ 6. Pose: Standing in a strong front-facing stance with his feet apart, his left fist clenched beside his chest, and his right arm thrust high overhead in an exuberant victory pose.
 
 Physical Appearance Prompt Style 1c — Akatsuki
 
-Akatsuki has a lean young-adult build with warm rose-brown eyes behind dark glasses and a lively open smile. His hair is short, tousled, and white with rose-red shading along the lower layers and around the sides, and the uneven fringe gives the head a quick, wind-tossed rhythm. He has tall fox ears in deep red fading to pale inner fur, and a large crimson tail with a white tip and pale crescent-like markings that make the fluff read almost luminous. He wears a white turtleneck under an open black hooded haori with kimono-like sleeves, and the outer layer is washed with deep red at the hem and patterned with maple leaves, wave motifs, a crescent moon crest, and a knot-and-tassel ornament, while a separate crescent pendant hangs on a cord at the neck. He completes the look with charcoal jogger-style pants marked by red straps and hanging ornaments, white socks printed with red crescent moons, and black-and-red high-top sneakers. In the front pose he stands with his body square to the viewer, his right arm thrust up in a triumphant fist, and his left arm bent with a clenched fist held just in front of his torso.
+ 1. Base Anatomy: Akatsuki has a lean young-adult build. Warm rose-brown eyes behind dark glasses and a lively open smile.
+
+ 2. Hair & Head: His hair is short, tousled, and white with rose-red shading along the lower layers and around the sides, and the uneven fringe gives the head a quick, wind-tossed rhythm.
+
+ 3. Species Traits: Fox Logic — He has tall fox ears in deep red fading to pale inner fur, and a large crimson tail with a white tip and pale crescent-like markings that make the fluff read almost luminous.
+
+ 4. Upper Body: He wears a white turtleneck under an open black hooded haori with kimono-like sleeves, and the outer layer is washed with deep red at the hem and patterned with maple leaves, wave motifs, a crescent moon crest, and a knot-and-tassel ornament, while a separate crescent pendant hangs on a cord at the neck.
+
+ 5. Lower Body & Feet: He completes the look with charcoal jogger-style pants marked by red straps and hanging ornaments, white socks printed with red crescent moons, and black-and-red high-top sneakers.
+
+ 6. Pose: In the front pose he stands with his body square to the viewer, his right arm thrust up in a triumphant fist, and his left arm bent with a clenched fist held just in front of his torso.
 
 Physical Appearance Prompt Style 2 — Akatsuki
 
-Akatsuki is a slim young man with short, tousled white hair that blushes into rose-red at the fringe and nape, framed by black rectangular glasses, and warm garnet-brown eyes. His animal features include large, wide-based deep-crimson ears edged in pale fluff and a single grand, bushy tail of dark red fur marked with pale crescent-moon motifs that mists into a white tip. He wears a black cord necklace with a white crescent pendant. His outfit is a cream turtleneck layered under an open black hooded haori-style coat that deepens into red at its wide sleeves and hem, printed with drifting maple leaves, faced with red asanoha-patterned lapels, adorned with a gold-and-red knot tassel at the chest and a fox silhouette on one sleeve, its back painted with a golden crescent moon, a rayed red sun, and a white Mt. Fuji among clouds and maple leaves while a red brocade tag inscribed with small stylized characters, ornamental rather than legible, hangs from the hood, paired with corded black hakama-style joggers gathered into red-banded cuffs with buckled straps and criss-cross lacing at the calves, white socks printed with little red crescents, and black high-top sneakers with red maple-leaf panels and fox-motif straps. His expression is an exuberant open-mouthed grin, with one arm raised high overhead in a fist while the other fist tightens at chest height.
+ 1. Base Anatomy: Akatsuki is a slim young man. Warm garnet-brown eyes. His expression is an exuberant open-mouthed grin.
+
+ 2. Hair & Head: Short, tousled white hair that blushes into rose-red at the fringe and nape, framed by black rectangular glasses.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based deep-crimson ears edged in pale fluff and a single grand, bushy tail of dark red fur marked with pale crescent-moon motifs that mists into a white tip.
+
+ 4. Upper Body: He wears a black cord necklace with a white crescent pendant. His outfit is a cream turtleneck layered under an open black hooded haori-style coat that deepens into red at its wide sleeves and hem, printed with drifting maple leaves, faced with red asanoha-patterned lapels, adorned with a gold-and-red knot tassel at the chest and a fox silhouette on one sleeve, its back painted with a golden crescent moon, a rayed red sun, and a white Mt.
+
+ 5. Lower Body & Feet: Fuji among clouds and maple leaves while a red brocade tag inscribed with small stylized characters, ornamental rather than legible, hangs from the hood, paired with corded black hakama-style joggers gathered into red-banded cuffs with buckled straps and criss-cross lacing at the calves, white socks printed with little red crescents, and black high-top sneakers with red maple-leaf panels and fox-motif straps.
+
+ 6. Pose: With one arm raised high overhead in a fist while the other fist tightens at chest height.
 
 Physical Appearance Prompt Style 2b — Akatsuki
 
-Akatsuki has a slim young-adult build with fair skin, warm garnet-red eyes behind black rectangular glasses, and a big open-mouthed grin. His short, messy white hair flushes into crimson toward the fringe and nape. Tall, deep-crimson ears with darker interiors rise wide from his head, and a single great plumed tail flows behind him in layered crimson and white, patterned with pale crescent moons and flame-like swirls before ending in a white tip. He wears an ivory turtleneck sweater and a black-corded crescent-moon pendant, draped in a long black hooded haori-style robe that smolders into ember red at the wide sleeves and hem, scattered with drifting crimson maple leaves over faint geometric linework, fastened at the chest with a red knotted-cord tassel ornament beside a small crescent moon, marked with a red fox face on one sleeve, and printed across the back with a golden crescent moon, red sun, and white mountain silhouette among maple leaves; a red tag hanging from the hood bears stylized white glyphs that are ornamental rather than legible. His charcoal jogger-style hakama pants are cinched by a gray obi-like belt with a knot pendant, detailed with buckled straps, red cuff bands, red cross-lacing up the lower legs, and a side strap with a hanging star charm, worn over white socks printed with red crescents and black high-top sneakers with red straps, maple-leaf prints, and red-trimmed soles. He stands with his left arm thrust high overhead in a triumphant fist while his right fist is raised at chest height.
+ 1. Base Anatomy: Akatsuki has a slim young-adult build with fair skin. Warm garnet-red eyes behind black rectangular glasses, and a big open-mouthed grin.
+
+ 2. Hair & Head: His short, messy white hair flushes into crimson toward the fringe and nape.
+
+ 3. Species Traits: Fox Logic — Tall, deep-crimson ears with darker interiors rise wide from his head, and a single great plumed tail flows behind him in layered crimson and white, patterned with pale crescent moons and flame-like swirls before ending in a white tip.
+
+ 4. Upper Body: He wears an ivory turtleneck sweater and a black-corded crescent-moon pendant, draped in a long black hooded haori-style robe that smolders into ember red at the wide sleeves and hem, scattered with drifting crimson maple leaves over faint geometric linework, fastened at the chest with a red knotted-cord tassel ornament beside a small crescent moon, marked with a red fox face on one sleeve, and printed across the back with a golden crescent moon, red sun, and white mountain silhouette among maple leaves; a red tag hanging from the hood bears stylized white glyphs that are ornamental rather than legible.
+
+ 5. Lower Body & Feet: His charcoal jogger-style hakama pants are cinched by a gray obi-like belt with a knot pendant, detailed with buckled straps, red cuff bands, red cross-lacing up the lower legs, and a side strap with a hanging star charm, worn over white socks printed with red crescents and black high-top sneakers with red straps, maple-leaf prints, and red-trimmed soles.
+
+ 6. Pose: He stands with his left arm thrust high overhead in a triumphant fist while his right fist is raised at chest height.
 
 Physical Appearance Prompt Style 3 — Akatsuki
 
-Akatsuki is slender with short, shaggy silver-white hair featuring a soft reddish-pink gradient at the tips and messy bangs, and bright brown eyes framed by thick black rectangular glasses with a joyful, open-mouthed smile. His animal features include large, wide-based reddish-brown fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients into a deep red color adorned with white crescent moon patterns and a white tip. He wears a black cord necklace with a dangling black crescent moon pendant, a red braided cord tassel charm hanging from his jacket, and a black strap with a gold star charm attached to his shorts. His outfit is a loose-fitting black kimono-style cardigan featuring a deep red gradient on the sleeves and hem adorned with red maple leaves and a large golden crescent moon illustration on the back, layered over a cream-colored high-neck shirt, crop-length dark grey jogger pants with red stripes, white crew socks featuring a red crescent moon emblem, and high-top black sneakers with red accents and a printed red maple leaf on the sides. His expression is a joyful, open-mouthed smile with his left arm raised high in a clenched fist and his right hand held tightly in a fist at chest level.
+ 1. Base Anatomy: Akatsuki is slender. Bright brown eyes framed by thick black rectangular glasses with a joyful, open-mouthed smile. His expression is a joyful, open-mouthed smile.
+
+ 2. Hair & Head: Short, shaggy silver-white hair featuring a soft reddish-pink gradient at the tips and messy bangs.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based reddish-brown fox ears with white inner fur and a thick, bushy, fluffy fox tail that gradients into a deep red color adorned with white crescent moon patterns and a white tip.
+
+ 4. Upper Body: He wears a black cord necklace with a dangling black crescent moon pendant, a red braided cord tassel charm hanging from his jacket. His outfit is a loose-fitting black kimono-style cardigan featuring a deep red gradient on the sleeves and hem adorned with red maple leaves and a large golden crescent moon illustration on the back, layered over a cream-colored high-neck shirt.
+
+ 5. Lower Body & Feet: A black strap with a gold star charm attached to his shorts. Crop-length dark grey jogger pants with red stripes, white crew socks featuring a red crescent moon emblem, and high-top black sneakers with red accents and a printed red maple leaf on the sides.
+
+ 6. Pose: With his left arm raised high in a clenched fist and his right hand held tightly in a fist at chest level.
 
 Physical Appearance Prompt Style 4 — Akatsuki
 
-Akatsuki is a slim boy with short, messy white hair featuring dark red tips, textured bangs, thick black-rimmed glasses, and dark crimson eyes. His animal features include large, wide-based white fox ears with deep red interiors and a thick, fluffy fox tail featuring a striking red and white gradient adorned with white crescent moon markings. He wears a thin silver necklace with a black crescent moon pendant and decorative red tassels hanging from his jacket and waist. His outfit is a black kimono-style jacket decorated with red maple leaves and a back graphic of a sun and crescent moon setting behind Mount Fuji layered over a white turtleneck sweater, dark grey cropped trousers with red straps and plaid cuffs, white ribbed socks with red moon emblems, and black and red high-top sneakers with maple leaf designs. His expression is a bright, enthusiastic open-mouthed smile with his right hand curled into a fist near his chest and his left arm raised high in a victorious fist.
+ 1. Base Anatomy: Akatsuki is a slim boy. Dark crimson eyes. His expression is a bright, enthusiastic open-mouthed smile.
+
+ 2. Hair & Head: Short, messy white hair featuring dark red tips, textured bangs, thick black-rimmed glasses.
+
+ 3. Species Traits: Fox Logic — His animal features include large, wide-based white fox ears with deep red interiors and a thick, fluffy fox tail featuring a striking red and white gradient adorned with white crescent moon markings.
+
+ 4. Upper Body: He wears a thin silver necklace with a black crescent moon pendant and decorative red tassels hanging from his jacket and. His outfit is a black kimono-style jacket decorated with red maple leaves and a back graphic of a sun and crescent moon setting behind Mount Fuji layered over a white turtleneck sweater.
+
+ 5. Lower Body & Feet: Waist. Dark grey cropped trousers with red straps and plaid cuffs, white ribbed socks with red moon emblems, and black and red high-top sneakers with maple leaf designs.
+
+ 6. Pose: With his right hand curled into a fist near his chest and his left arm raised high in a victorious fist.
 
 Physical Appearance Prompt Style 4b — Akatsuki
 
-Akatsuki is a slender young boy with warm reddish-brown eyes behind black-rimmed glasses and short, messy white hair that gradients dramatically into dark red at the tips. Following fox logic, he possesses large, wide-based dark red ears with white inner fluff and a thick, bushy tail transitioning from dark red at the base to vibrant red with white crescent moon patterns, finishing with a pure white tip. His attire begins with a silver crescent moon pendant necklace worn over a white ribbed turtleneck sweater, layered beneath a striking black kimono-style open haori jacket featuring deep red gradients at the hem, decorated with red maple leaf patterns, dangling red tassels, a minimalist red cat/fox head graphic on the left sleeve, and a prominent back illustration of a crescent moon, rising sun, and Mount Fuji silhouette. He wears black cropped jogger pants styled with red crisscross strapping, silver buckles, and a dangling red star charm. His legwear consists of white crew socks with red crescent moon motifs, paired with black high-top sneakers featuring red accents, maple leaf designs, and white soles. He exhibits an enthusiastic, open-mouthed smile, posing with his right fist raised triumphantly into the air and his left fist clenched softly near his waist.
+ 1. Base Anatomy: Akatsuki is a slender young boy. Warm reddish-brown eyes behind black-rimmed glasses. He exhibits an enthusiastic, open-mouthed smile.
+
+ 2. Hair & Head: Short, messy white hair that gradients dramatically into dark red at the tips.
+
+ 3. Species Traits: Fox Logic — Following fox logic, he possesses large, wide-based dark red ears with white inner fluff and a thick, bushy tail transitioning from dark red at the base to vibrant red with white crescent moon patterns, finishing with a pure white tip.
+
+ 4. Upper Body: His attire begins with a silver crescent moon pendant necklace worn over a white ribbed turtleneck sweater, layered beneath a striking black kimono-style open haori jacket featuring deep red gradients at the hem, decorated with red maple leaf patterns, dangling red tassels, a minimalist red cat/fox head graphic on the left sleeve, and a prominent back illustration of a crescent moon, rising sun, and Mount Fuji silhouette.
+
+ 5. Lower Body & Feet: He wears black cropped jogger pants styled with red crisscross strapping, silver buckles, and a dangling red star charm. His legwear consists of white crew socks with red crescent moon motifs, paired with black high-top sneakers featuring red accents, maple leaf designs, and white soles.
+
+ 6. Pose: Posing with his right fist raised triumphantly into the air and his left fist clenched softly near his waist.
+
+---
+
+Universal quality tags you can add to any of them:
+
+masterpiece quality, best quality, high resolution, detailed face, detailed eyes, clean line art, soft lighting, simple background, full body character reference
+
+Universal negative tags:
+
+worst quality, low quality, low resolution, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, deformed, mutated, blurry, jpeg artifacts, watermark, stray text, stray logos, signature, cropped
+
+---
+
+Universal quality tags you can add to any of them:
+
+masterpiece, best_quality, highres, absurdres, detailed_face, detailed_eyes, clean_lineart, soft_lighting, simple_background
+
+Universal negative tags:
+
+worst_quality, low_quality, normal_quality, lowres, bad_anatomy, bad_hands, extra_fingers, missing_fingers, extra_limbs, deformed, mutated, blurry, jpeg_artifacts, watermark, text, logo, signature, cropped
 
 ---
