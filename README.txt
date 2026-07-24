@@ -344,6 +344,20 @@ Physical Appearance Prompt Style 5b — Sumire
 
 6. Pose: In the front view, she stands with her feet separated and weight subtly shifted toward one leg. Her right elbow is bent, holding a softly clenched paw-like fist beside her cheek; her left arm hangs beside her skirt with the wrist gently bent and fingers relaxed. Her head tilts slightly toward the raised hand. The profile and rear views show a neutral upright turnaround stance with both arms lowered naturally at her sides.
 
+Physical Appearance Prompt Style 5c — Sumire
+
+1. Base Anatomy: Slender, petite build. Bright violet eyes. Joyful expression with an open-mouthed smile.
+
+2. Hair & Head: Extremely long, wavy pastel purple hair reaching the mid-thighs. Straight-cut bangs. Adorned with a floral hairpiece composed of purple and white flowers with dangling chain ornaments on the left side.
+
+3. Species Traits: Upright, pointed animal ears blending with the purple hair, featuring white inner fluff. A long, slender, and flexible purple tail curving upwards, decorated near the base with a purple bow and floral accents.
+
+4. Upper Body: Black choker with a purple gem pendant. White ruffled inner crop top with a sweetheart neckline and corset-style lacing. Layered over this is a black cropped jacket with wide, drooping sleeves, decorated with purple cherry blossom prints, metallic buckles, straps, and cross-shaped zipper pulls.
+
+5. Lower Body & Feet: Black pleated mini skirt with a purple floral border print along the hem. A belted waist features silver chains and a hanging floral charm. Black thigh-high stockings secured by garter straps, featuring a purple floral accent on the left thigh. Black platform combat boots with purple laces, multiple buckled straps, and purple flower decorations.
+
+6. Pose: Standing upright. In the front view, the right arm is raised with a gently curled fist near the face, while the left arm hangs relaxed. The side and back views show both arms resting naturally downwards.
+
 Physical Appearance Prompt Style 1 — Sumire Alt Style 1
 
  1. Base Anatomy: Sumire is a petite, slim girl. One visible vivid purple eye with a lively, mischievous expression. Her expression is a wide open-mouthed smile showing a small fang.
@@ -483,6 +497,20 @@ Physical Appearance Prompt Style 5b — Sumire Alt Style 1
 5. Lower Body & Feet: A black pleated miniskirt has violet border stripes, a black belt with a purple-edged buckle, floral embroidery, gold chains, a white paw-shaped charm, purple blossoms, and hanging wisteria-like ornaments. Her right leg wears an opaque black thigh-high stocking decorated with small violet flowers near the lower leg. Her left leg wears a black fishnet thigh-high with a solid top band, purple bow, garter hardware, and floral ornaments. Black lace-up combat boots have thick purple platform soles, purple laces, ankle straps, buckles, flower appliqués, and hanging blossom-and-chain decorations.
 
 6. Pose: In the front view, her right elbow is bent and raised, with a softly clenched fist held beside her cheek. Her left arm hangs beside the skirt, wrist slightly flexed and fingers relaxed. Her head inclines subtly toward the raised hand, her hips shift slightly to one side, and her feet remain separated. In the profile and rear views, both arms rest naturally down at her sides while she stands upright with straight legs.
+
+Physical Appearance Prompt Style 5c — Sumire Alt Style 1
+
+1. Base Anatomy: Slender, petite build. Bright violet eyes. Joyful expression with an open-mouthed smile showing small fangs.
+
+2. Hair & Head: Extremely long, wavy pastel purple hair reaching down to the mid-thighs. Straight-cut bangs. Adorned with a purple floral hairpiece with dangling wisteria-like floral chains on the left side.
+
+3. Species Traits: Upright, pointed pastel purple animal ears with white inner fluff. A long, slender, flexible pastel purple tail curving upwards, decorated near the base with a purple ribbon bow and dangling gemstone.
+
+4. Upper Body: Black choker with a purple gem pendant. White ruffled inner crop top with a sweetheart neckline, thin straps, and purple ribbon lacing. Layered over this is a black cropped jacket worn off the shoulders, featuring wide sleeves, purple floral prints, criss-cross lacing details on the sleeves, and straps with silver buckles.
+
+5. Lower Body & Feet: Black pleated mini skirt with a purple border print, belt, and silver chains with paw print and floral charms. Asymmetrical legwear: a solid black thigh-high stocking on the right leg with purple floral patterns at the top, and black fishnet tights on the left leg, both secured by garter straps with purple bows. Chunky black platform boots with purple soles, purple laces, and dangling wisteria floral charms.
+
+6. Pose: Standing upright. In the front view, the right arm is raised with a gently curled fist near the face, while the left arm hangs relaxed. The side and back views show both arms resting naturally downwards.
 
 ---
 
@@ -823,6 +851,20 @@ Physical Appearance Prompt Style 5b — Yuuka
 
 6. Pose: In the front view, both elbows are bent outward and both softly clenched fists are held at upper-chest height in a symmetrical pawing gesture. Her shoulders are lifted slightly, torso faces forward, and feet are set apart with relaxed knees. In profile, the visible arm hangs beside her body while she stands erect. The rear view is neutral, with both arms lowered and feet parallel.
 
+Physical Appearance Prompt Style 5c — Yuuka
+
+1. Base Anatomy: Petite, slender build. Brilliant blue eyes. Cheerful, open-mouthed smile.
+
+2. Hair & Head: Long, wavy black hair that transitions into vibrant purple at the ends, cascading to the mid-back. Messy, textured bangs. Accessorized with a cluster of purple flowers and a red tassel on the left side.
+
+3. Species Traits: Sleek, pointed black animal ears with soft pinkish inner fluff. A smooth, slender, curved black tail accented with a purple ribbon bow near the base.
+
+4. Upper Body: Black choker with a golden bell. Black cropped inner t-shirt featuring a solid purple paw print logo on the chest. Worn underneath a slightly oversized black zip-up hoodie jacket with purple lining and purple hem trim. The jacket is detailed with purple floral prints, strap accents with silver buckles, and a large purple paw print graphic centered on the back.
+
+5. Lower Body & Feet: Two-tiered, ruffled black mini skirt featuring a purple floral gradient pattern and a matching purple bow on the left hip. Black thigh-high stockings attached to black garter belts with metallic clips and a paw print charm on the left thigh. Black high-top canvas sneakers with white soles, purple laces, and subtle floral and paw print embellishments.
+
+6. Pose: Standing straight. In the front view, both hands are held up near the chest with loosely curled fists. The side and back views display the arms hanging straight down by the sides.
+
 Physical Appearance Prompt Style 1 — Yuuka Alt Style 1
 
  1. Base Anatomy: Yuuka is a petite, slim girl. Bright sapphire-blue eyes with an energetic, delighted expression. Her expression is a wide open-mouthed smile showing a small fang.
@@ -962,6 +1004,20 @@ Physical Appearance Prompt Style 5b — Yuuka Alt Style 1
 5. Lower Body & Feet: A black pleated miniskirt has violet hem stripes, scattered gold stars, a black belt with purple and gold hardware, draped gold chains, and layered purple petal-shaped overskirt panels. A large dark-violet flower rosette with gold detailing sits over the left hip. Black thigh-high stockings are held by slim garter straps; one stocking includes a purple flower ornament, a faceted violet jewel, and a hanging gold chain. Her black high-top platform sneakers have white rubber toe caps and midsoles, purple lugged outsoles, pale-gold laces, gold eyelets, ankle straps, purple bows, star emblems, and violet side panels.
 
 6. Pose: In the front view, both elbows are bent and raised beside the torso. Her hands are held near shoulder height with palms angled forward and fingers spread but gently curled into matching paw-like gestures. Her shoulders lift slightly, one knee relaxes inward, and her feet remain apart with a subtle shift of weight toward one leg. In the profile and rear views, both arms hang naturally beside her body, fingers relaxed, while she maintains an upright neutral stance.
+
+Physical Appearance Prompt Style 5c — Yuuka Alt Style 1
+
+1. Base Anatomy: Petite, slender build. Brilliant blue eyes. Cheerful, open-mouthed smile.
+
+2. Hair & Head: Long, wavy black hair that transitions into vibrant purple at the ends, cascading to the mid-back. Messy, textured bangs. Accessorized with a cluster of purple flowers and a purple tassel on the left side.
+
+3. Species Traits: Sleek, pointed black animal ears with soft pinkish inner fluff. A smooth, slender, curved black tail accented with a purple ribbon bow near the base.
+
+4. Upper Body: Black choker with a golden bell. Black cropped inner t-shirt featuring a gold crescent moon and star logo with a purple bow on the chest. Worn underneath a black off-the-shoulder zip-up jacket with purple inner lining and purple trim. The jacket features purple cherry blossom prints, cross-laced ribbon details on the sleeves, and a prominent bow at the back of the waist.
+
+5. Lower Body & Feet: Two-tiered, ruffled black mini skirt featuring a purple star and galaxy gradient pattern and a matching purple bow on the right hip. Black thigh-high stockings attached to black garter belts with metallic clips and a purple floral and moon charm on the left thigh. Black high-top platform canvas sneakers with purple soles, purple laces, and subtle star embellishments.
+
+6. Pose: Standing straight. In the front view, both hands are held up near the chest with loosely curled fists. The side and back views display the arms hanging straight down by the sides.
 
 ---
 
@@ -1302,6 +1358,20 @@ Physical Appearance Prompt Style 5b — Akane
 
 6. Pose: In the front view, she stands straight with feet close and evenly planted. Both arms descend naturally beside the long sleeve panels, palms facing inward and fingers gently curved. Her shoulders are level and her head faces directly forward. The profile and rear views retain the same composed upright stance, with arms resting down and the garment panels hanging freely.
 
+Physical Appearance Prompt Style 5c — Akane
+
+1. Base Anatomy: Slender build. Ruby red eyes. Gentle, closed-mouth smile.
+
+2. Hair & Head: Long, flowing black hair with vibrant crimson tips, falling past the waist. Soft, wispy bangs. Features intricate red cherry blossom hairpieces with hanging red beads and tassels on both sides of the head.
+
+3. Species Traits: Pointed black animal ears with soft inner fluff. A long, slender black tail curving in an S-shape, adorned with a red bow and a golden heart-shaped lock charm near the tip.
+
+4. Upper Body: Black choker with a golden heart pendant. Black, off-the-shoulder corset-style inner top with red lacing down the center and ruffled lace trim. The top integrates into an elaborate wide-sleeved outer garment with a red cherry blossom pattern, draped sheer fabric, and a large, prominent red bow tied at the lower back.
+
+5. Lower Body & Feet: Layered, ruffled dark red and black mini skirt. Asymmetrical legwear: a black thigh-high stocking with red floral motifs and ribbon lacing on the left leg, secured by a red garter with a heart charm. The right leg is bare, featuring a matching standalone garter. Black platform boots with chunky heels, decorated with red bows and straps.
+
+6. Pose: Standing upright. In the front view, the arms are relaxed downwards and positioned slightly outward. The side and back views show the arms resting naturally at the sides.
+
 ---
 
 Name:
@@ -1641,6 +1711,20 @@ Physical Appearance Prompt Style 5b — Momoka
 
 6. Pose: In the front view, both elbows are bent and held slightly away from the torso. Her hands form small relaxed fists at shoulder height, with wrists turned inward in a paw-like pose. Her torso is upright, knees straight, and feet placed closely together. The side and rear views use a neutral turnaround posture with the arms lowered and hands beside the skirt.
 
+Physical Appearance Prompt Style 5c — Momoka
+
+1. Base Anatomy: Petite, delicate build. Bright magenta eyes. Soft, pleasant smile.
+
+2. Hair & Head: Very long, voluminous pastel pink hair falling gracefully to the thighs. Neatly cut bangs framing the face. A large pink cherry blossom hair clip with trailing ribbons and beaded tassels is pinned on the left side.
+
+3. Species Traits: Fluffy, pointed pink animal ears matching the hair color. A long, slender pink tail curling upwards, accessorized with a pink bow and dangling golden ornaments near the base.
+
+4. Upper Body: Pink choker with a gold heart pendant. Light cream-colored, long-sleeved inner blouse with ruffled cuffs and a pink ribbon at the collar. Layered over this is a pink bodice featuring subtle floral embroidery. The back features a large, structured pink bow with hanging ribbons.
+
+5. Lower Body & Feet: Scalloped pink skirt resembling overlapping flower petals, featuring delicate floral embroidery and beaded gold tassels along the hem. Sheer white thigh-high stockings with subtle floral patterns, held up by pink floral garters with hanging beads. Soft pink Mary Jane-style block heels with ankle straps and flower accents.
+
+6. Pose: Standing upright. In the front view, both hands are raised chest-high with softly curled fists. The side and back views show the arms relaxed downward.
+
 ---
 
 Name:
@@ -1979,6 +2063,20 @@ Physical Appearance Prompt Style 5b — Mikan
 5. Lower Body & Feet: A highly layered orange-and-white Lolita skirt includes alternating lace tiers, ruffles, heart motifs, small bows, floral patterns, and orange underskirt panels. Short orange bloomers or safety shorts are visible beneath the skirt. One thigh has a narrow red heart garter with a dangling ornament; the other has an elaborate orange-and-white lace band with a bow. White ruffled ankle socks are worn with orange platform Mary Jane shoes featuring broad straps, ankle ribbons, white lace, flowers, bows, and thick red-orange soles.
 
 6. Pose: In the front view, she stands with her feet close and torso directly forward. Both arms hang slightly away from the skirt, elbows minimally bent, palms facing inward and fingers open in a relaxed display. Her head is lifted and mouth open enthusiastically. In the profile and rear views, her arms rest straight down and her posture remains upright.
+
+Physical Appearance Prompt Style 5c — Mikan
+
+1. Base Anatomy: Slender, lively build. Bright blue eyes. Exuberant, wide open-mouthed smile showing small teeth.
+
+2. Hair & Head: Long, wavy orange hair fading into a reddish-pink hue at the ends, reaching down to the lower back. Wispy bangs. A vibrant hairpiece made of orange and red roses, white blossoms, and ribbons adorns the left side.
+
+3. Species Traits: Upright, pointed orange animal ears. A flexible, slender orange tail curving in a loop, decorated near the tip with a red bow covered in white polka dots.
+
+4. Upper Body: Black choker with a golden heart bell. Off-the-shoulder white top with ruffled sleeves and a red bow at the bust. The midsection features an orange corset-like bodice with white criss-cross lacing, accented with an orange slice graphic and rose decoration on the left waist. A large red bow with trailing ribbons is tied at the lower back.
+
+5. Lower Body & Feet: Tiered orange and white ruffled mini skirt. Bare legs with asymmetrical accessories: an orange garter belt with a heart charm on the right thigh, and a thicker ruffled garter on the left thigh. Long white ribbons with floral prints trail from the waist down the back of the legs. Orange platform block heels featuring an orange slice motif, ankle straps, and ruffled white ankle cuffs.
+
+6. Pose: Standing energetically. In the front view, the arms are extended downwards and slightly outwards with open, relaxed hands. The side and back views show the arms hanging straight down at the sides.
 
 ---
 
@@ -2324,6 +2422,20 @@ Physical Appearance Prompt Style 5b — Azuki
 5. Lower Body & Feet: A short peach pleated skirt has white piping, scattered blossoms, a white eyelet-lace hem, and decorative corset lacing along one hip. Her legs are bare apart from delicate flower garters and ribbon ornaments around the thighs and knees. Thick cream cable-knit leg warmers bunch from below the knees to the ankles and are decorated with peach bows, blossoms, bells, and tassels. Pink platform Mary Jane shoes have block heels, layered straps, toe bows, floral appliqués, and cream soles.
 
 6. Pose: In the front view, both elbows are bent and both open hands are lifted beside the shoulders. Fingers are spread and gently curled into an expressive pawing gesture. Her hips angle subtly, one knee relaxes inward, and the feet remain separated. The profile and rear views show her standing straight with both arms lowered beside the body.
+
+Physical Appearance Prompt Style 5c — Azuki
+
+1. Base Anatomy: Slender build. Violet eyes. Warm, joyful smile showing small teeth.
+
+2. Hair & Head: Long, wavy light beige hair that softly transitions to pastel pink at the ends. Slightly parted bangs. Embellished with a cluster of pale pink cherry blossoms and dangling tassels on the left side of the head.
+
+3. Species Traits: Triangular, pointed beige animal ears. A long, smooth, slender beige tail curving gently upwards, adorned with a pink bow and hanging pink tassels near the base.
+
+4. Upper Body: Beige choker with a golden bell. White ruffled inner top layered under a loose, kimono-style beige and pink jacket with wide, drooping sleeves. The jacket is decorated with pink cherry blossoms and features a large pink bow at the front waist with a dangling crescent moon charm. The back is tied with a matching pink bow.
+
+5. Lower Body & Feet: Pleated peach-colored mini skirt with a white lace hem and cross-lacing details on the sides. A pink garter strap encircles the right thigh, featuring hanging tassels. Cream-colored knit leg warmers reaching the mid-calf, adorned with pink bows and small bell charms. Peach-colored platform Mary Jane shoes with thick soles and pink bows.
+
+6. Pose: Standing casually. In the front view, the right hand is raised in a relaxed, slightly curled gesture near the face, while the left arm rests downwards. The side and back views show the arms hanging naturally down.
 
 ---
 
@@ -2673,6 +2785,20 @@ Physical Appearance Prompt Style 5b — Benika
 
 6. Pose: In the front view, she stands with feet apart and weight balanced centrally. Both arms hang down but are held slightly away from the body by the oversized sleeves; her hands are open with loosely bent fingers. The head and torso face forward. The profile and rear views use a straight neutral stance with arms resting beside the hips.
 
+Physical Appearance Prompt Style 5c — Benika
+
+1. Base Anatomy: Petite, fit build. Bright pinkish-red eyes. Cheerful, open-mouthed smile.
+
+2. Hair & Head: Extremely long, textured coral-red hair blending into pale peach at the ends, cascading down to the mid-thighs. Choppy bangs. A prominent hairpiece featuring large red flowers, gold accents, and black ribbons sits on the left side.
+
+3. Species Traits: Upright, pointed coral-red animal ears. A long, slender red tail curving in a loop, featuring a large red bow and a dangling golden bell near the end.
+
+4. Upper Body: Black choker with a golden bell. Black crop top featuring a red floral emblem logo on the chest. Covered by a dark, oversized, drop-shoulder zip-up jacket with red inner lining and a hood. The jacket features intricate red and gold cherry blossom embroidery, metallic zippers, red braided cords, and a black-to-red gradient on the wide sleeves.
+
+5. Lower Body & Feet: Red and black pleated mini skirt with gold trim and draped chain accessories. Black thigh-high stockings secured by a black garter harness with a red floral charm on the left thigh. Black high-top canvas sneakers with thick white soles, decorated with red laces, floral patterns, and red ribbons at the cuffs.
+
+6. Pose: Standing upright. In the front view, the arms are relaxed downwards and held slightly away from the body with open hands. The side and back views display the arms resting naturally at the sides.
+
 ---
 
 Name:
@@ -3017,6 +3143,20 @@ Physical Appearance Prompt Style 5b — Renge
 
 6. Pose: In the front view, both elbows are bent and lifted. Her open hands are held beside her face and shoulders, with fingers spread and curled like gentle paws. Her torso faces forward while one knee angles slightly inward and one foot sits marginally ahead of the other. The profile and rear views place both arms down in a neutral upright turnaround stance.
 
+Physical Appearance Prompt Style 5c — Renge
+
+1. Base Anatomy: Slender, graceful build. Deep rose-red eyes. Sweet, open-mouthed smile.
+
+2. Hair & Head: Long, wavy light pink hair falling to the mid-back. Softly parted bangs. A large, blooming pink lotus flower clip with dangling beads and gold tassels is positioned on the left side of the head.
+
+3. Species Traits: Sleek, pointed light pink animal ears. A long, slender pink tail curling gracefully behind her, adorned with a large pink bow and hanging golden charms near the middle.
+
+4. Upper Body: Black choker with a pink diamond-shaped gemstone. A pale pink, kimono-inspired dress featuring wide, draping sleeves decorated with a pink lotus motif. A wide pink obi-style sash wraps the waist, featuring a central lotus blossom and long dangling pink tassels. A large, structured pink bow is tied at the back.
+
+5. Lower Body & Feet: Layered, ruffled pale pink mini skirt. White thigh-high stockings with lace trim, held up by pink ribbon garters with dangling tassels. Thick pink platform heels with ankle straps, adorned with pink bows and delicate gold accents.
+
+6. Pose: Standing upright. In the front view, both hands are raised near the chest with the fingers softly curled downwards, mimicking paws. The side and back views show the arms hanging relaxed by her sides.
+
 ---
 
 Name:
@@ -3355,6 +3495,20 @@ Physical Appearance Prompt Style 5b — Ichika
 5. Lower Body & Feet: A short pink pleated skirt has a fitted waistband, strawberry-print border panels, white ribbon details, and a layered white ruffled hem. Pale-pink thigh-high stockings have a fine diamond lattice pattern, white ruffled tops, pink bows, and prominent strawberry ornaments. Pink platform lace-up ankle boots feature thick lugged soles, block heels, white laces, ruffled collars, side bows, flower decorations, strawberries, and contrasting pale-pink panels.
 
 6. Pose: In the front view, her shoulders draw slightly inward and both arms extend down in front of her body. Her hands meet and overlap loosely at the center of the skirt, with fingers relaxed. Her feet are placed closely together and her body remains straight. The profile and rear views show both arms lowered naturally at her sides.
+
+Physical Appearance Prompt Style 5c — Ichika
+
+1. Base Anatomy: Slender, delicate build. Bright red eyes. Gentle, happy smile.
+
+2. Hair & Head: Voluminous, long pink hair with subtle blue inner streaks, reaching down to the hips. Straight-cut bangs. Accessorized with white flowers, red strawberries, and trailing pearl strands on both sides of her head.
+
+3. Species Traits: Triangular, pointed pink animal ears with white inner fluff. A long, slender pink tail curving upwards, decorated with a pink bow and a hanging strawberry charm near the tip.
+
+4. Upper Body: Pink choker with a strawberry pendant. A white, oversized chunky knit cardigan with cable-knit textures, embroidered with small pink flowers and strawberries. Underneath is a pink collared top featuring a pink ribbon bow and a strawberry brooch at the center of the chest. The back of the cardigan has a large pink bow at the waistline.
+
+5. Lower Body & Feet: Ruffled mini skirt with a distinct border print of repeating red strawberries. Pale pink fishnet tights extending up to the mid-thigh, secured with pink ruffled garters and strawberry charms. Light pink platform boots featuring strawberry motifs, ribbon laces, and a pink bow on the back of the heel.
+
+6. Pose: Standing with legs turned slightly inward. In the front view, her hands are clasped together in front of her lower stomach. The side and back views show her arms relaxed downward in front of her body.
 
 ---
 
@@ -3699,6 +3853,20 @@ Physical Appearance Prompt Style 5b — Ayaka
 5. Lower Body & Feet: High-waisted fitted black shorts have a black belt, pink flower bow at the center, gold rings, purple utility loops, chains, and several long blue-pink decorative straps. One thigh carries a black garter with pastel flower appliqués and a blue tassel. Black ankle socks display pink-and-white paw emblems and fine horizontal stripes. Her chunky navy-and-black high-top boots have blue and lavender armor-like panels, black laces, broad pink buckle straps, flower and paw details, and thick platform soles.
 
 6. Pose: In the front view, she stands symmetrically with feet parallel and slightly separated. Both arms hang straight but slightly away from the hips because of the jacket’s volume; palms face inward and fingers remain open and relaxed. Her torso and head face directly forward. The profile and rear views maintain an upright neutral stance with both arms lowered naturally.
+
+Physical Appearance Prompt Style 5c — Ayaka
+
+1. Base Anatomy: Slender, fit build. Striking blue eyes. Soft, confident smile.
+
+2. Hair & Head: Long, voluminous blue hair that gradients beautifully into pastel pink at the ends, reaching the lower back. Softly framed bangs. Decorated with pink cherry blossom clips, dangling chains, and stars on the left side.
+
+3. Species Traits: Upright, pointed blue animal ears blending with the hair. A slender, flexible tail with a gradient from blue at the base to pink at the tip, adorned with a pink bow near the base.
+
+4. Upper Body: Black strap choker with a gold star pendant. Black inner crop top featuring a criss-cross halter neckline cutout. Layered over this is a distinctive bomber-style jacket with a vibrant sunset and cloud pattern (blue fading into pink clouds). The jacket has strap details, buckles, hanging charms, and a pink hanging ribbon displaying vertical Japanese kanji resembling "星空" (Starry Sky).
+
+5. Lower Body & Feet: Black denim-style short shorts with a frayed hem. A black harness-style garter wraps around the right thigh with blue paw print and floral charms. Long pink ribbons with floral prints dangle from the waist. Black high-top platform boots with pink and blue accents, buckled straps, and paw print motifs on the tongues.
+
+6. Pose: Standing straight. In the front view, the arms are relaxed downwards, slightly away from the torso with open, relaxed hands. The side and back views show the arms hanging naturally by the sides.
 
 ---
 
@@ -4046,6 +4214,20 @@ Physical Appearance Prompt Style 5b — Haruka
 5. Lower Body & Feet: A black waistband and orange belt secure a short orange skirt with overlapping scalloped petal panels, cream floral prints, fine green accents, and a white ruffled underskirt. At the left hip is a large decorative arrangement composed of an orange-slice ornament, white blossoms, green leaves, orange ribbons, and long green-and-orange sash tails. White thigh-high stockings have paired orange bands at the tops; the right stocking bears an orange paw-print motif, while the left has a thin green-orange side stripe and a flower-and-ribbon ornament near the upper thigh. Her white high-top platform sneakers have orange laces, orange piping, black padded collars, flower appliqués, paw motifs, and thick white soles with orange edging.
 
 6. Pose: In the front view, both elbows are bent and lifted away from the torso. Her hands form relaxed fists at upper-chest height with the wrists angled inward, creating a symmetrical pawing gesture. Her torso faces forward, her feet are set slightly apart, and her weight is distributed evenly. In the profile and rear views, she stands upright with both arms lowered, hands relaxed beside the skirt, and legs nearly parallel.
+
+Physical Appearance Prompt Style 5c — Haruka
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Open-mouthed, cheerful smile showing a small tooth.
+
+2. Hair & Head: Short, choppy orange hair reaching just below the chin. Messy bangs. A white and yellow floral hair clip on the left side.
+
+3. Species Traits: Pointed orange animal ears with white inner fluff. A long, slender, fuzzy orange tail curving upwards, adorned with a red bow decorated with a white paw print.
+
+4. Upper Body: Black choker with a golden bell. White ruffled inner blouse with a brown corset-like waist section. Layered with an oversized, zip-up cream hooded jacket featuring an orange cherry blossom pattern. The jacket has an orange inner lining, a large flower graphic on the back of the hood, and green ribbon accents with an orange slice charm at the waist.
+
+5. Lower Body & Feet: Layered orange skirt with white scalloped hems and floral patterns. White thigh-high stockings with orange double stripes at the top and an orange paw print on the right thigh. Cream-colored chunky high-top sneakers with orange laces, black accents, and small paw print motifs on the heels.
+
+6. Pose: Standing upright. In the front view, both arms are raised to chest level with curled fists. Side and back views show arms resting naturally downward.
 
 ---
 
@@ -4422,6 +4604,20 @@ Physical Appearance Prompt Style 5b — Kikyo
 
 6. Pose: In the front view, she stands erect with both shoulders level and both arms hanging straight beside her torso. Her palms face inward, fingers are loosely extended, and the oversized sleeves partly cover her hands. Her feet are parallel and separated by a narrow gap. The profile view preserves the same upright posture with the visible arm resting at her side; the rear view shows both arms lowered symmetrically and legs straight.
 
+Physical Appearance Prompt Style 5c — Kikyo
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, closed-mouth smile.
+
+2. Hair & Head: Shoulder-length, messy dark blue hair transitioning to vibrant cyan at the tips. Choppy bangs. Adorned with a large blue floral hairpiece with dangling stars and beads on the left side.
+
+3. Species Traits: Upright, pointed dark blue animal ears with lighter inner fluff. A long, slender, fluffy tail with a dark blue to cyan gradient, featuring a black bow with a crescent moon charm near the base.
+
+4. Upper Body: Black choker with a silver crescent moon pendant. Black inner top. Over this, a black cropped zip-up jacket with dark blue floral embroidery and blue straps. The jacket features a hood, silver moon and star zipper pulls, and a back graphic depicting a glowing blue cityscape reflected in water, beneath a crescent moon and hanging stars.
+
+5. Lower Body & Feet: Black denim-style short shorts with frayed edges. A black belt with dangling chains and a long black strap featuring a purple paw print emblem. Bare legs. Black platform combat boots with multiple buckled straps, dangling blue star and moon charms, and silver eyelets.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -4758,6 +4954,20 @@ Physical Appearance Prompt Style 5b — Kohaku
 5. Lower Body & Feet: A high-waisted dark-brown pleated skirt is secured with a narrow black-brown belt and small gold buckle. The skirt has an amber geometric border near the hem and a cream ruffled underskirt. Dark-brown knee-high socks have scalloped amber edging and small gold botanical or bird-shaped motifs. Cream mid-calf boots feature low block heels, gold-brown soles, side buckle straps, stitched paneling, and small brown ribbon ornaments near the outer ankles.
 
 6. Pose: In the front view, both elbows are bent and held away from the torso. Her hands form relaxed fists at upper-chest height, with the wrists angled inward in a symmetrical pawing gesture. Her torso faces directly forward, feet are slightly separated, and her weight is balanced evenly. In the profile and rear views, both arms hang naturally beside her body with relaxed fingers and straight posture.
+
+Physical Appearance Prompt Style 5c — Kohaku
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Open-mouthed, cheerful smile showing a small upper tooth.
+
+2. Hair & Head: Extremely long, wavy chocolate brown hair reaching down to the thighs. Straight-cut bangs. Adorned with a cluster of sunflowers and white daisies on the left side, and a braided crown at the back tied with a small orange ribbon.
+
+3. Species Traits: Upright, wide brown animal ears with white inner fluff. A thick, bushy brown tail curving upward that fades into a white tip.
+
+4. Upper Body: Mustard yellow collared inner shirt with a brown ribbon tie. Layered over this is a thick, cream-colored knit cardigan with brown buttons, featuring embroidered orange wheat and floral patterns along the hem and a small brown bow on the pocket details.
+
+5. Lower Body & Feet: Dark brown pleated skirt with an ornate golden-brown patterned border and white ruffled hem. A thin brown belt. Dark brown calf-length socks with scalloped tops and a small gold floral motif. Cream-colored ankle boots with a slight heel, side buckles, and brown ribbon accents on the back.
+
+6. Pose: Standing upright. In the front view, both hands are raised near the chest with loosely curled fists. The side and back views show arms resting naturally downward.
 
 ---
 
@@ -5098,6 +5308,20 @@ Physical Appearance Prompt Style 5b — Himari
 5. Lower Body & Feet: A high-waisted sunflower-yellow A-line suspender skirt has a broad fitted waistband, decorative buttons, and a large orange bow positioned slightly off-center at the front. Sunflowers, white blossoms, and green leaves are embroidered near the lower corners, above a striped border and white ruffled hem. White lace-edged bloomers are visible beneath the skirt. Cream knee-high ribbed socks have scalloped tops and small sunflower rosettes. Cream lace-up ankle boots include low block heels, ruffled collars, orange laces, sunflower appliqués, and warm-gold trim.
 
 6. Pose: In the front view, both elbows are bent and lifted beside her upper torso. Her hands form small, loosely closed fists near shoulder height, with wrists turned inward. She stands front-facing with feet spaced slightly apart and knees straight. In the side and rear views, her arms are lowered beside the skirt, fingers relaxed, and posture upright.
+
+Physical Appearance Prompt Style 5c — Himari
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Bright, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Long, wavy orange-blonde hair reaching the mid-back. Messy bangs. A large sunflower and white daisy hairpiece on the left side, tied with an orange ribbon.
+
+3. Species Traits: Upright, pointed orange animal ears with white inner fluff. A large, bushy orange tail with a white tip.
+
+4. Upper Body: White short-sleeved blouse with ruffled cuffs and a Peter Pan collar tied with an orange ribbon. Over this are thick orange suspenders attached to the skirt, with a central orange bow at the waist.
+
+5. Lower Body & Feet: Orange flared skirt with a white ruffled hem, decorated with a sunflower print on the lower right side. A large orange ribbon is tied at the lower back. Underneath are white ruffled bloomers. White knee-high socks with a cable-knit pattern and a small orange rosette accent. Cream-colored lace-up heeled boots with a sunflower charm on the outer sides.
+
+6. Pose: Standing straight. In the front view, both arms are raised to chest level with lightly curled fists. Side and back views show arms hanging straight down naturally.
 
 ---
 
@@ -5447,6 +5671,20 @@ Physical Appearance Prompt Style 5b — Shiroha
 
 6. Pose: In the front view, both elbows are bent close to the torso. Her hands are raised at upper-chest level, lightly grasping the narrow front straps or fabric edges with softly closed fingers. Her feet are separated and her body remains upright with a subtle hip shift. In profile and from behind, both arms hang naturally beside the long sleeve panels.
 
+Physical Appearance Prompt Style 5c — Shiroha
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, open-mouthed smile.
+
+2. Hair & Head: Long, flowing white hair reaching the mid-back. Side-swept bangs covering the right eye. Accessorized with a large cluster of white flowers, pearls, and dangling gold tassels on the left side, with a matching bow and floral arrangement at the back.
+
+3. Species Traits: Large, pointed white animal ears with soft inner fluff. A thick, extremely fluffy white tail curving upwards.
+
+4. Upper Body: Gold choker with a circular pendant. A white kimono-style top worn off the shoulders, featuring thin halter-like straps, wide flowing sleeves with gold trim, and subtle white cherry blossom and gold crescent moon patterns. A dark navy obi sash is wrapped around the waist with a gold cord, a white floral centerpiece, and a large white bow at the back featuring dangling gold tassels.
+
+5. Lower Body & Feet: Short white ruffled skirt. A white garter strap around the left thigh with a delicate ribbon and gold dangling charm. Bare legs. White ankle boots with gold trim, layered bows on the sides, and gold dangling floral charms.
+
+6. Pose: Standing upright. In the front view, both hands are brought together near the chest with loosely curled fists. The side and back views display the arms hanging straight down.
+
 Physical Appearance Prompt Style 1 — Shiroha Alt Style 1
 
  1. Base Anatomy: Shiroha is a petite, slender girl. One visible vivid blue eye with a bright, gentle expression. Her expression is a delighted open-mouthed smile.
@@ -5586,6 +5824,20 @@ Physical Appearance Prompt Style 5b — Shiroha Alt Style 1
 5. Lower Body & Feet: The bodice continues into a short layered white and pale-gray skirt with pleated panels, floral silhouettes, gold edging, and a white ruffled underskirt. Long split robe panels descend behind and beside the legs, ending in crescents, beads, and white tassels. Her legs are bare apart from short white socks with fine gold trim. White ankle boots have block heels, wide folded cuffs, gold edging, crescent emblems, side bows, cords, and hanging tassels.
 
 6. Pose: In the front view, both elbows are bent and raised beside her torso. Her hands form small relaxed fists at upper-chest height, with wrists angled inward and shoulders slightly lifted. Her feet are set apart and her weight is evenly balanced. In the profile and rear views, both arms hang naturally beside the long sleeves and robe panels.
+
+Physical Appearance Prompt Style 5c — Shiroha Alt Style 1
+
+1. Base Anatomy: Slender build. Bright blue eyes. Cheerful, open-mouthed smile.
+
+2. Hair & Head: Long, flowing white hair reaching the mid-back. Side-swept bangs covering the right eye. Accessorized with a large cluster of white flowers, pearls, and dangling gold tassels on the left side.
+
+3. Species Traits: Large, wide white animal ears with soft inner fluff. A thick, bushy white tail.
+
+4. Upper Body: Gold choker with a crescent moon pendant. A white, modernized kimono-style top with wide, flowing sleeves. The garment features subtle greyish-blue floral and leaf patterns, gold trim, and gold crescent moon charms dangling from the sleeves. The waist is secured by a light grey-blue obi sash with gold borders, a thin gold cord tied in a bow, and a small white fox mask accessory hanging on the left hip. The back features a large bow with a gold flower centerpiece.
+
+5. Lower Body & Feet: Short, pleated light grey-blue skirt matching the obi. A long, asymmetrical fabric panel hangs from the right side of the obi down the leg, featuring a white animal graphic and floral patterns. Bare legs. White socks peeking out of white, low-heeled ankle boots that feature gold trim, gold crescent moon emblems on the toes, and white bows with dangling gold star charms on the outer sides.
+
+6. Pose: Standing upright. In the front view, both hands are brought together near the chest with loosely curled fists. The side and back views display the arms hanging straight down.
 
 ---
 
@@ -5939,6 +6191,20 @@ Physical Appearance Prompt Style 5b — Sakumi
 
 6. Pose: In the front view, both arms are bent and raised beside the chest. Her hands form softly closed fists with the wrists angled inward, while her shoulders remain relaxed. She stands with feet apart and one knee subtly relaxed. In the side and rear views, her arms hang down beside her body with fingers gently extended.
 
+Physical Appearance Prompt Style 5c — Sakumi
+
+1. Base Anatomy: Petite, slender build. Vibrant blue eyes. Cheerful, open-mouthed smile showing a small tooth.
+
+2. Hair & Head: Long, flowing pink hair reaching the mid-back. Straight-cut bangs. Adorned with a pink cherry blossom hair clip and dangling red cherries on the left side.
+
+3. Species Traits: Pointed pink animal ears with white inner fluff and cherry blossom accents near the base. A thick, bushy pink tail that fades to white at the tip, decorated with a cherry blossom cluster near the base.
+
+4. Upper Body: Black choker with a golden bell. White inner blouse with a pink ribbon tie and dangling cherry charm. Layered over this is a pale pink zip-up cardigan adorned with white cherry blossom patterns, pink trim, and a large pink bow at the back of the waist featuring dangling cherry accents.
+
+5. Lower Body & Feet: Pink pleated mini skirt with a white border print and a white ruffled hem. Black thigh-high stockings with a vertical trail of pink cherry blossoms, attached via garter straps with cherry and blossom charms. Light pink heeled ankle boots adorned with cherry blossom accents on the outer sides.
+
+6. Pose: Standing straight. In the front view, both hands are held up near the chest with loosely curled fists. The side and back views display the arms hanging straight down by the sides.
+
 ---
 
 Name:
@@ -6283,6 +6549,20 @@ Physical Appearance Prompt Style 5b — Aomi
 
 6. Pose: In the front view, both elbows are bent and lifted to either side of the torso. Her hands form relaxed fists at shoulder height, with wrists angled inward. Her feet are placed apart and her torso faces forward. In the profile and rear views, both arms rest straight down, with the long skirt train and pearl chains hanging naturally.
 
+Physical Appearance Prompt Style 5c — Aomi
+
+1. Base Anatomy: Slender build. Amber eyes. Bright, open-mouthed smile.
+
+2. Hair & Head: Very long, flowing light blue hair reaching past the waist. Choppy bangs. Accessorized with a cluster of blue hydrangeas, white flowers, pearls, and a blue ribbon on the left side.
+
+3. Species Traits: Upright, pointed light blue animal ears with white inner fluff. A large, bushy light blue tail that fades to white at the tip.
+
+4. Upper Body: Blue choker with a blue gem pendant. An elaborate white and light blue marine-themed dress top with a sweetheart neckline, featuring a blue sailor-style collar, a blue ribbon bow at the chest, and detached, sheer white puff sleeves with ruffled cuffs. A large blue bow with a seashell centerpiece and pearl chains adorns the front waist, with a matching bow at the lower back.
+
+5. Lower Body & Feet: A layered, asymmetrical high-low skirt. The front features a short white ruffled hem layered over blue, while the back extends into a long, sweeping blue train decorated with white ocean wave patterns, stars, and gold trim. A white garter strap on the left thigh with a seashell and star charm. Sheer white ankle socks with a subtle diamond pattern. White heeled ankle boots with blue trim and a blue ribbon and seashell charm on the side.
+
+6. Pose: Standing straight. In the front view, both arms are raised to chest level with tightly curled fists. Side and back views show arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -6511,7 +6791,7 @@ Physical Appearance Prompt Style 1b — Nijika
 
  4. Upper Body: A black collar and crisscross chest harness with a small gold paw-like ornament sit above a fitted black cropped top, layered beneath an oversized cropped black hooded utility jacket with rainbow-gradient lining and piping, multicolored buckled straps, zip pockets, paw and flower patches, and vivid gradient hardware; the back carries a large rainbow fox-head emblem surrounded by small paw and flower graphics.
 
- 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ.” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
+ 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
 
  6. Pose: Standing directly front-facing with her feet set shoulder-width apart and both arms hanging naturally at her sides with relaxed open hands.
 
@@ -6525,7 +6805,7 @@ Physical Appearance Prompt Style 1c — Nijika
 
  4. Upper Body: Her upper half consists of a black cropped inner top with crossed straps at the neckline, layered beneath a cropped black hooded jacket covered in holographic rainbow trim, paw-print motifs, multi-strap hardware, and a large multicolored fox-head logo on the back ringed by paw prints and flowers.
 
- 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ,” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
+ 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
 
  6. Pose: In the front pose her body faces straight ahead, her feet are planted shoulder-width apart, and both arms hang relaxed at her sides with her fingers slightly open.
 
@@ -6539,7 +6819,7 @@ Physical Appearance Prompt Style 2 — Nijika
 
  4. Upper Body: She wears an O-ring collar harness topped with a small orange blossom, black fingerless long gloves, and a black thigh strap carrying a pink paw-print charm. Her outfit is a black high-neck halter crop top under a cropped black hooded jacket edged in holographic rainbow trim and covered with iridescent zippers, buckled sleeve straps bearing small katakana lettering, pastel paw prints, and rainbow blossoms.
 
- 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika," above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
+ 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ reading "Nishikawa Nijika" above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
 
  6. Pose: She stands squarely with her arms hanging relaxed at her sides.
 
@@ -6551,7 +6831,7 @@ Physical Appearance Prompt Style 2b — Nijika
 
  3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip.
 
- 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
+ 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ read "Nishikawa Nijika" the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
 
  5. Lower Body & Feet: Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering hanging at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints.
 
@@ -6607,7 +6887,7 @@ Physical Appearance Prompt Style 5 — Nijika
 
 3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into cream and pink at the tip, plush and full.
 
-4. Upper Body: A black cropped halter top under an oversized black hooded jacket with iridescent rainbow-trimmed seams, buckle straps, zip pockets, chains, and pastel floral and paw-print motifs. The back of the hood carries a rainbow gradient fox-face graphic framed by flowers, with a small label above it printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika,". A choker with a small bell sits at the throat. Vertical ribbon straps bear additional stylized "西川ニジカ" script.
+4. Upper Body: A black cropped halter top under an oversized black hooded jacket with iridescent rainbow-trimmed seams, buckle straps, zip pockets, chains, and pastel floral and paw-print motifs. The back of the hood carries a rainbow gradient fox-face graphic framed by flowers, with a small label above it printed with the Japanese characters 西川ニジカ reading "Nishikawa Nijika". A choker with a small bell sits at the throat. Vertical ribbon straps bear additional stylized "西川ニジカ" script.
 
 5. Lower Body & Feet: Black high-waisted shorts with a rainbow-buckle belt, hanging chains, and a thigh strap with a paw-print charm. Black wrapped ankle socks. Chunky black platform sneakers with pink and blue paw-print accents.
 
@@ -6626,6 +6906,20 @@ Physical Appearance Prompt Style 5b — Nijika
 5. Lower Body & Feet: High-waisted black utility shorts include a black belt with an iridescent geometric buckle, silver chains, D-rings, side straps, pocket flaps, and a long hanging black tab ending in a pink paw emblem. One thigh has a black garter decorated with a rainbow flower and multicolored paw pads; additional gradient straps hang beside it. Black scrunched ankle socks are worn with chunky black lace-up combat sneakers featuring thick lugged soles, padded ankle sections, and blue and pink paw-print badges.
 
 6. Pose: In the front view, she stands squarely with feet slightly apart and both arms lowered beside her body. Her palms face inward, fingers are relaxed, and the oversized sleeves partly cover her hands. The side view maintains a straight neutral stance with the visible arm lowered. In the rear view, both arms hang symmetrically and the single tail falls centrally before curving outward.
+
+Physical Appearance Prompt Style 5c — Nijika
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and dangling safety pin earring on the left side.
+
+3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue and fading into pink at the tip.
+
+4. Upper Body: Black choker with a gold bell, star, and criss-cross chest straps. Black inner crop top decorated with small flower motifs and a paw print. Over this, a black cropped zip-up jacket with a hood. The jacket features iridescent rainbow trim along the zippers, pockets, and sleeves. The hood interior is rainbow-colored. The back of the jacket displays a stylized rainbow gradient animal face logo surrounded by paw prints and flowers, with a rectangular box containing the Japanese katakana "西川ニジカ" (Yoshikawa Nijika). The right sleeve features a vertical strap with the katakana "西川ニジカ".
+
+5. Lower Body & Feet: Black denim-style short shorts with a black belt featuring a rainbow buckle, silver eyelets, and dangling chains. A rainbow strap hangs from the waist with "西川ニジカ" printed on it. A black strap circles the right thigh with a paw print detail. Black mid-calf scrunch socks. Chunky black platform sneakers with iridescent pink and blue paw prints on the sides and heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
 
 Physical Appearance Prompt Style 1 — Nijika Alt Style 1
 
@@ -6663,7 +6957,7 @@ Physical Appearance Prompt Style 1c — Nijika Alt Style 1
 
  3. Species Traits: Fox Logic — Her ears are broad and upright with white inner fur, and her tail is thick and plush, fading from blue at the base through mint, lemon yellow, peach, pink, and lavender toward the tip.
 
- 4. Upper Body: She wears a black choker with a small gold bell and flower motif over a black wrap-style crop top crossed by thin harness straps, then layers a cropped black hooded jacket over it, the jacket lined and trimmed in iridescent rainbow colors and decorated with floral paw prints, metallic straps, and neon piping; a small nameplate on the hem, collar, and sleeve reads “西川ニジカ,” which transliterates to “Nishikawa Nijika,” and the back carries a large stylized fox-face logo framed by floral paw elements.
+ 4. Upper Body: She wears a black choker with a small gold bell and flower motif over a black wrap-style crop top crossed by thin harness straps, then layers a cropped black hooded jacket over it, the jacket lined and trimmed in iridescent rainbow colors and decorated with floral paw prints, metallic straps, and neon piping; a small nameplate on the hem, collar, and sleeve reads “西川ニジカ” which transliterates to “Nishikawa Nijika” and the back carries a large stylized fox-face logo framed by floral paw elements.
 
  5. Lower Body & Feet: Her lower half consists of black shorts with an iridescent belt buckle, hanging chain loops, utility straps, and a thigh band on one leg, paired with black ankle socks and chunky black sneakers marked with pink and blue paw prints.
 
@@ -6677,7 +6971,7 @@ Physical Appearance Prompt Style 2 — Nijika Alt Style 1
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based fluffy blue ears with white-and-pink inner fur, and a single big, plush and bushy tail that melts from cornflower blue through teal and gold into a rosy pink tip.
 
- 4. Upper Body: She wears a black harness-style halter collar with a golden ring and bell-flower centerpiece, plus black fingerless gloves. Her outfit is a black strappy crop top beneath a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps and scattered with pastel flowers and paw prints, its back panel bearing a large rainbow-gradient fox head ringed by blossoms beneath a rectangular patch printed 西川ニジカ — read "Nishikawa Nijika," her own name, whose given name echoes niji, the Japanese word for rainbow — with matching lettering running down a sleeve strap.
+ 4. Upper Body: She wears a black harness-style halter collar with a golden ring and bell-flower centerpiece, plus black fingerless gloves. Her outfit is a black strappy crop top beneath a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps and scattered with pastel flowers and paw prints, its back panel bearing a large rainbow-gradient fox head ringed by blossoms beneath a rectangular patch printed 西川ニジカ — read "Nishikawa Nijika" her own name, whose given name echoes niji, the Japanese word for rainbow — with matching lettering running down a sleeve strap.
 
  5. Lower Body & Feet: Paired with black cuffed shorts on a rainbow-buckled belt hung with silver chains, harness straps, a long iridescent thigh ribbon repeating the 西川ニジカ print, and a black thigh strap with a pink paw charm, black slouched socks, and chunky black platform sneakers stamped with pastel pink and blue paw prints.
 
@@ -6691,7 +6985,7 @@ Physical Appearance Prompt Style 2b — Nijika Alt Style 1
 
  3. Species Traits: Fox Logic — Fluffy blue ears with pale inner fur perch on her head, and one large, plush tail flows behind her in a full prismatic gradient, shifting from sky blue at the base through mint and gold into rose pink at the tip.
 
- 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ, read "Nishikawa Nijika," the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
+ 4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ read "Nishikawa Nijika" the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
 
  5. Lower Body & Feet: Her black cuffed shorts are held by a rainbow-buckled belt hung with chains and harness straps, with a long iridescent ribbon printed with the same 西川ニジカ lettering falling at her left thigh and a black thigh strap bearing a pink paw charm, worn over black slouched socks and chunky black platform sneakers stamped with pastel paw prints.
 
@@ -6766,6 +7060,20 @@ Physical Appearance Prompt Style 5b — Nijika Alt Style 1
 5. Lower Body & Feet: High-waisted black utility shorts are secured with a black belt and an iridescent geometric buckle. They include stitched cargo panels, silver chains, D-rings, pocket straps, rainbow-gradient tabs, and a long black hanging strap ending in a pink paw badge. One thigh carries a black garter with a multicolored flower-and-paw ornament. Black scrunched socks are paired with chunky black lace-up combat sneakers featuring thick lugged soles, padded collars, and blue and pink paw-print badges.
 
 6. Pose: In the front view, she stands squarely with feet slightly apart and both arms lowered beside her body. Her palms face inward and her fingers remain relaxed beneath the fingerless cuffs. The profile view preserves the same upright posture with the visible arm hanging naturally. In the rear view, both arms are lowered symmetrically and the single tail falls centrally before sweeping outward.
+
+Physical Appearance Prompt Style 5c — Nijika Alt Style 1
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and a dangling safety pin earring on the left side.
+
+3. Species Traits: Large, wide light blue animal ears with white inner fluff. A thick, bushy tail featuring a vivid rainbow gradient transitioning from blue at the base, to yellow, orange, pink, and ending in a purple tip.
+
+4. Upper Body: Black choker with a gold bell, star, and criss-cross chest straps. Black inner crop top decorated with small flower motifs and a paw print. Over this, a black cropped zip-up jacket with a hood. The jacket features iridescent rainbow trim along the zippers, pockets, and sleeves. The hood interior is rainbow-colored. The back of the jacket displays a stylized rainbow gradient animal face logo surrounded by paw prints and flowers, with a rectangular box containing the Japanese katakana "西川ニジカ" (Yoshikawa Nijika). The right sleeve features a vertical strap with the katakana "西川ニジカ", and a front rainbow strap hanging from the waist also reads "西川ニジカ".
+
+5. Lower Body & Feet: Black denim-style short shorts with a black belt featuring a rainbow buckle, silver eyelets, and dangling chains. A black strap circles the right thigh with a pink paw print detail. Black mid-calf scrunch socks. Chunky black platform sneakers with iridescent pink and blue paw prints on the sides and heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
 
 Physical Appearance Prompt Style 1 — Nijika Alt Style 2
 
@@ -6907,6 +7215,20 @@ Physical Appearance Prompt Style 5b — Nijika Alt Style 2
 
 6. Pose: In the front view, she stands upright with feet parallel and slightly separated. Both arms hang straight beside the shorts, palms inward and fingers relaxed. The profile view shows the visible arm resting naturally against her side. In the rear view, both arms remain lowered symmetrically while the single tail descends between the legs and curves outward.
 
+Physical Appearance Prompt Style 5c — Nijika Alt Style 2
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and a dangling safety pin earring on the left side.
+
+3. Species Traits: Large, wide light blue animal ears with white inner fluff. A thick, bushy tail with a pastel gradient starting light blue at the base, fading into white in the middle, and ending with a pink tip.
+
+4. Upper Body: Black choker with a gold bell, star, and criss-cross chest straps. Black inner crop top decorated with small flower motifs and a paw print. Over this, a black cropped zip-up jacket with a hood. The jacket features iridescent rainbow trim along the zippers, pockets, and sleeves. The hood interior is rainbow-colored. The back of the jacket displays a stylized rainbow gradient animal face logo surrounded by paw prints and flowers, with a rectangular box containing the Japanese katakana "西川ニジカ" (Yoshikawa Nijika). The right sleeve features a vertical strap with the katakana "西川ニジカ", and a front rainbow strap hanging from the waist also reads "西川ニジカ".
+
+5. Lower Body & Feet: Black denim-style short shorts with a black belt featuring a rainbow buckle, silver eyelets, and dangling chains. A black strap circles the right thigh with a pink paw print detail. Black mid-calf scrunch socks. Chunky black platform sneakers with iridescent pink and blue paw prints on the sides and heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
+
 Physical Appearance Prompt Style 1 — Nijika Alt Style 3
 
  1. Base Anatomy: Nijika is a petite, slim girl. Clear blue eyes with a calm, confident expression. Her expression is a small closed-mouth smile.
@@ -7046,6 +7368,20 @@ Physical Appearance Prompt Style 5b — Nijika Alt Style 3
 5. Lower Body & Feet: High-waisted black utility shorts include a black belt with an iridescent geometric buckle, silver chains, D-rings, side straps, pocket flaps, and a long hanging black tab ending in a pink paw emblem. One thigh has a black garter decorated with a rainbow flower and multicolored paw pads; additional gradient straps hang beside it. Black scrunched ankle socks are worn with chunky black lace-up combat sneakers featuring thick lugged soles, padded ankle sections, and blue and pink paw-print badges.
 
 6. Pose: In the front view, she stands squarely with feet slightly apart and both arms lowered beside her body. Her palms face inward, fingers are relaxed, and the oversized sleeves partly cover her hands. The side view maintains a straight neutral stance with the visible arm lowered. In the rear view, both arms hang symmetrically and the single tail falls centrally before curving outward.
+
+Physical Appearance Prompt Style 5c — Nijika Alt Style 3
+
+1. Base Anatomy: Slender build. Bright blue eyes. Gentle, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and dangling safety pin earring on the left side.
+
+3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue and fading into pink at the tip.
+
+4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
+
+5. Lower Body & Feet: Black denim-style short shorts with a black belt featuring a rainbow buckle, silver eyelets, and dangling chains. A rainbow strap hangs from the waist with "西川ニジカ" printed on it. A black strap circles the right thigh with a paw print detail. Black mid-calf scrunch socks. Chunky black platform sneakers with iridescent pink and blue paw prints on the sides and heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
 
 ---
 
@@ -7391,6 +7727,20 @@ Physical Appearance Prompt Style 5b — Yuuhi
 
 6. Pose: In the front view, her shoulders are level and both arms hang straight beside the shorts. Her hands remain open with relaxed fingers and palms facing inward. She stands with feet parallel and slightly separated. The profile and rear views preserve the same neutral upright posture, with both arms lowered and the single tail descending behind her.
 
+Physical Appearance Prompt Style 5c — Yuuhi
+
+1. Base Anatomy: Slender build. Purple eyes. Open-mouthed, cheerful smile.
+
+2. Hair & Head: Incredibly long, voluminous coral-pink hair transitioning to a darker pink at the ends, cascading down to the knees. Straight bangs. A large pink ribbon tied into a bow with cherry blossom accents on the left side.
+
+3. Species Traits: Upright, pointed orange-pink animal ears with lighter inner fluff. A massive, incredibly bushy tail with a gradient from orange at the base to deep pink, finishing with a white tip.
+
+4. Upper Body: Black choker with a golden sun pendant. White cropped inner tank top featuring a graphic of a pink sunset over water. Worn over this is an oversized, open white hooded jacket that fades into coral-pink at the bottom and cuffs. The jacket is decorated with white cherry blossom patterns along the gradient areas.
+
+5. Lower Body & Feet: Black high-waisted shorts with a thin black belt and a silver buckle. Black straps and dangling gold chains hang from the waist, ending in a tag with a pink paw print. Black scrunch socks. Chunky black platform sneakers with blue and pink paw print motifs on the heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards with palms lightly open. Side and back views show arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -7735,6 +8085,20 @@ Physical Appearance Prompt Style 5b — Yurine
 
 6. Pose: In the front view, both elbows are bent and raised. Her hands form small relaxed fists at upper-chest height, with wrists turned inward and shoulders slightly lifted. She stands with feet apart and knees straight. In the profile and rear views, her arms are lowered naturally beside the long split panels.
 
+Physical Appearance Prompt Style 5c — Yurine
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Cheerful, open-mouthed smile showing a small upper tooth.
+
+2. Hair & Head: Short, shoulder-length white hair with a subtle pale purple tint. Straight-cut bangs. Adorned with large white lilies, gold accents, and a dangling pale purple tassel on the left side.
+
+3. Species Traits: Pointed white animal ears with soft inner fluff. A thick, extremely bushy white tail with a subtle pale purple tint.
+
+4. Upper Body: White choker with a gold teardrop pendant. A white, ethereal dress worn off the shoulders, held up by thin white straps that cross at the collarbone. Features long, flowing detached sleeves with ruffled cuffs, intricate gold embroidery, and a large pale purple bow at the chest centered with a white lily. A matching pale purple bow and lily sit at the lower back.
+
+5. Lower Body & Feet: Puffy white bloomers layered beneath a short, ruffled skirt hem, accented with small purple ribbons. Long, flowing white ribbon tails hang from the back waist, adorned with gold floral patterns and gold tassel tips. A delicate gold chain garter on the left thigh with a dangling lily charm. White ankle boots with gold trim, pale purple ribbons, and large white lily accents on the outer sides.
+
+6. Pose: Standing upright. In the front view, both hands are raised near the chest with tightly curled fists. The side and back views display the arms hanging straight down.
+
 ---
 
 Name:
@@ -8073,6 +8437,20 @@ Physical Appearance Prompt Style 5b — Yuuha
 5. Lower Body & Feet: High-waisted black utility shorts include a wide belt with a violet-blue geometric buckle, silver D-rings, layered chains, zipper pockets, side straps, and long hanging patterned tabs. One thigh carries a narrow black garter with small stars, a buckle, and crystal tassels. Black scrunched socks are worn with heavy black platform combat boots featuring thick lugged soles, ankle straps, crescent and star motifs, purple-blue feather ornaments, chains, and small crystal drops.
 
 6. Pose: In the front view, both arms hang down beside the hips, with palms facing inward and fingers loosely extended. Her shoulders remain level, torso faces directly forward, and feet are slightly separated. In profile, the visible arm rests straight beside the shorts. In the rear view, both arms are lowered symmetrically while the single tail hangs centrally and curves toward one side.
+
+Physical Appearance Prompt Style 5c — Yuuha
+
+1. Base Anatomy: Slender build. Bright cyan eyes. Gentle, closed-mouth smile.
+
+2. Hair & Head: Extremely long, layered dark blue hair that transitions to bright cyan at the mid-length, reaching down to the thighs. Choppy bangs. Accessorized with a cluster of blue flowers, stars, and beads on the left side.
+
+3. Species Traits: Upright, pointed dark blue animal ears with lighter inner fluff. A large, bushy tail with a gradient starting dark purple at the base and fading into bright cyan at the tip.
+
+4. Upper Body: Black choker with a dangling silver crescent moon and crystal pendant. Black inner top with a subtle constellation pattern. Over this, a black cropped zip-up jacket worn slightly off the shoulders, featuring a prominent hood, baggy sleeves, and silver buckles and straps. The jacket is decorated with a starry night sky pattern, silver constellation lines, and dangling purple and blue feather charms.
+
+5. Lower Body & Feet: Black short shorts with a wide black belt featuring silver eyelets and a silver buckle. Dangling silver chains and straps hang from the waist, decorated with blue and purple feathers and star charms. A black strap circles the left thigh with dangling crystal charms. Black scrunch socks with crescent moon graphics. Black chunky platform combat boots with dangling feather charms and cyan and purple gradient stars on the heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards. Side and back views show arms hanging straight down naturally.
 
 ---
 
@@ -8417,6 +8795,20 @@ Physical Appearance Prompt Style 5b — Hiyori
 5. Lower Body & Feet: A short peach pleated skirt displays white and pale-gold floral patterns, narrow border stripes, and a layered cream lace ruffle at the hem. Her legs are bare apart from short cream ruffled ankle socks. Cream mid-calf boots have low block heels, warm-gold piping, folded cuffs, side bows, polished bells, tassels, and peach floral detailing.
 
 6. Pose: In the front view, both elbows are bent and lifted beside her upper torso. Her hands form small relaxed fists near shoulder height, with wrists angled inward in a matching pawing gesture. Her feet are parallel and slightly separated, and her posture is straight. In the profile and rear views, both arms hang naturally at her sides with relaxed hands.
+
+Physical Appearance Prompt Style 5c — Hiyori
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Joyful, open-mouthed smile showing small fangs.
+
+2. Hair & Head: Short, wavy beige hair reaching just below the chin. Messy bangs. A cluster of pastel pink and blue flowers with a gold bell on the left side.
+
+3. Species Traits: Extremely large, wide, pale beige animal ears with thick white inner fluff. A thick, fluffy beige tail curving downward, ending in a white tip.
+
+4. Upper Body: Brown choker with a gold bell. A traditional-style inner kimono top with a pastel orange to white gradient and white cherry blossom patterns, secured with a burnt orange obi sash tied with an intricate knot, a decorative gold tag, and dangling tassels. Worn over this is an oversized, open white kimono-style coat with a hood and wide sleeves, decorated with gold trim, small red bows, and gold geometric floral emblems. A large burnt orange bow with a gold center and a large gold bell adorns the lower back.
+
+5. Lower Body & Feet: A layered mini skirt featuring a pastel orange gradient with white cherry blossoms over a white ruffled hem. Bare legs. White ruffled ankle socks. Cream-colored ankle boots with gold trim and side bows featuring large gold bells.
+
+6. Pose: Standing straight. In the front view, both hands are raised near the chest with softly curled fists. Side and back views show arms resting naturally downward.
 
 ---
 
@@ -8768,6 +9160,20 @@ Physical Appearance Prompt Style 5b — Hinagiku
 5. Lower Body & Feet: A high-waisted cream and beige tiered miniskirt has a fitted waistband, layered lace panels, embroidered floral bands, scalloped eyelet ruffles, gold cords, and a large side bow centered by a daisy. One thigh carries a narrow beige garter with a daisy medallion, linked gold rings, and a hanging tassel. Cream ribbed leg warmers gather around the lower calves and are topped with ruffles and daisy ornaments. Her cream mid-calf boots have low block heels, folded cuffs, gold botanical embroidery, side bows, cords, tassels, and warm beige soles.
 
 6. Pose: In the front view, both elbows are bent and lifted beside her torso. Her hands form relaxed fists at upper-chest height with the wrists turned inward in a matching pawing gesture. Her hips shift slightly to one side, one knee relaxes inward, and her feet remain apart. In the profile and rear views, both arms hang naturally beside her body with open, relaxed hands.
+
+Physical Appearance Prompt Style 5c — Hinagiku
+
+1. Base Anatomy: Petite, slender build. Amber eyes. Joyful, open-mouthed smile showing a small upper tooth.
+
+2. Hair & Head: Long, wavy light ash-brown hair reaching the mid-back. Messy, straight-cut bangs. Adorned with a cluster of white daisies and white ribbons on the left side.
+
+3. Species Traits: Large, wide light brown animal ears with white inner fluff. A thick, bushy brown tail that fades to a lighter beige and white at the tip.
+
+4. Upper Body: Oversized, off-white hooded sweater featuring embroidered white daisies and a gold ribbon tie at the collar. It has long, puffy sleeves with gathered cuffs, a gold ribbon laced detail at the back, and a large gold bow at the lower back. A small white square purse decorated with a daisy hangs from a gold chain strap across the body.
+
+5. Lower Body & Feet: A layered, ruffled cream-colored mini skirt with subtle floral patterns and a brown belt featuring a gold daisy buckle and dangling ribbons. A brown garter strap circles the left thigh, adorned with a white daisy and a dangling gold charm. Thick, ribbed cream-colored slouch socks with a daisy pinned to the folded tops. Cream-colored heeled ankle boots with gold trim, side bows, and dangling gold charms.
+
+6. Pose: Standing straight. In the front view, both hands are held up near the chest with loosely curled fists. The side and back views display the arms hanging straight down naturally.
 
 ---
 
@@ -9122,6 +9528,20 @@ Physical Appearance Prompt Style 5b — Sango
 
 6. Pose: In the front view, she stands upright with her feet parallel and slightly separated. Both arms hang straight beside her body, palms facing inward and fingers loosely extended; the oversized sleeves partly cover her hands. The profile and rear views maintain the same neutral stance with level shoulders and both arms lowered.
 
+Physical Appearance Prompt Style 5c — Sango
+
+1. Base Anatomy: Slender, petite build. Bright blue eyes. Gentle, closed-mouth smile.
+
+2. Hair & Head: Shoulder-length, messy pink hair transitioning to a darker purple-pink gradient at the tips. Choppy bangs. Accessorized with a large red hibiscus flower and dangling white floral beads on the left side.
+
+3. Species Traits: Large, wide pink animal ears with light inner fluff. A thick, extremely bushy pink tail that fades to a lighter pale pink at the tip.
+
+4. Upper Body: Black choker with a golden bell. Black inner top. Over this, a black oversized zip-up hoodie. The hoodie features pink drawstrings, pink cherry blossom prints, blue and pink ocean waves, and coral branch motifs on the sleeves. The front chest text reads "Coral Shore" above "Kurohama Sango" with a pink coral graphic. The back features a large circular graphic of a pink sunset over a blue ocean with palm trees, waves, and seashells, bordered by coral, with the text "Coral Shore" arched above it in a cursive font. The sleeves have pink straps, cargo pockets, and paw print motifs.
+
+5. Lower Body & Feet: Black short shorts with frayed edges. A black belt with dangling chains and a strap featuring a pink paw print. Bare legs. Black mid-calf scrunch socks. Chunky black platform sneakers with pink paw print motifs on the sides and heels.
+
+6. Pose: Standing straight. In the front view, arms hang relaxed slightly outwards with palms open. Side and back views show arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -9460,6 +9880,20 @@ Physical Appearance Prompt Style 5b — Hokuto
 5. Lower Body & Feet: Black knee-length cargo shorts have multiple flap and zip pockets, blue-edged hanging tabs, silver rings, chains, and utility straps. Beneath them are fitted black compression leggings ending below the knees; one thigh is encircled by a buckled strap with a small blue cross detail. Black ankle socks have tiny star patterns. His black lace-up combat boots feature thick soles, padded cuffs, multiple ankle straps, silver buckles, blue tabs, crescent emblems, and small star details.
 
 6. Pose: In the front view, both elbows are bent and lifted beside his upper torso. His gloved hands are held near shoulder height with palms facing forward and fingers spread and gently curled in matching paw-like gestures. His feet are set apart, one leg angled slightly outward, and his torso faces forward. In the profile and rear views, both arms hang naturally at his sides with relaxed hands and an upright stance.
+
+Physical Appearance Prompt Style 5c — Hokuto
+
+1. Base Anatomy: Youthful, slender build. Blue eyes. Cheerful, open-mouthed expression.
+
+2. Hair & Head: Short, messy black hair with dark purple highlights throughout.
+
+3. Species Traits: Sleek, upright black animal ears with soft pinkish inner fluff. A slender, flexible black tail that curls upwards in an S-shape.
+
+4. Upper Body: Black choker with a silver crescent moon pendant. A plain black inner shirt. Layered over this is a black zip-up jacket with a hood, featuring blue zipper trim and minimalist white constellation patterns on the chest and upper sleeves. A small black cross-body bag with matching constellation designs is worn over the right shoulder and rests on the left hip. Black fingerless gloves.
+
+5. Lower Body & Feet: Black shorts layered over black knee-length compression leggings. The shorts feature silver zipper details, dangling silver chains, and a small black utility pouch strapped to the left thigh. Black crew socks adorned with small blue star patterns. Black high-top boots with silver side buckles, blue accents, and a silver crescent moon detail on the tongue.
+
+6. Pose: Standing straight. In the front view, both hands are raised near chest level with open palms facing forward. The side and back views show the arms hanging straight down naturally.
 
 ---
 
@@ -9804,6 +10238,20 @@ Physical Appearance Prompt Style 5b — Tsukito
 5. Lower Body & Feet: Straight fitted black trousers are secured by a black belt with a rectangular buckle. Silver chains and a crescent charm hang from the waistband, and a long black utility strap descends along one thigh. Black high-top combat boots have front lacing, ankle straps, silver buckles, crescent emblems, white-edged midsoles, and low stacked heels.
 
 6. Pose: In the front view, his right arm is extended high above his head with the elbow nearly straight and hand closed into a celebratory fist. His left elbow is bent, holding a second fist beside the lower chest. His legs are spread in a confident stance, and his upper body leans very slightly toward the raised arm. The profile view shows the near fist held at chest height while the other arm is lowered for the neutral turnaround. In the rear view, both arms hang straight beside the coat with open, relaxed hands.
+
+Physical Appearance Prompt Style 5c — Tsukito
+
+1. Base Anatomy: Adult, athletic build. Blue eyes. Cheerful, open-mouthed smile. Features a black beard and goatee.
+
+2. Hair & Head: Short, slightly messy black hair. Wears thick-rimmed black glasses.
+
+3. Species Traits: Sleek, pointed black animal ears with light pinkish inner fluff. A slender, flexible black tail extending downwards and curving outward slightly.
+
+4. Upper Body: Silver necklace with a crescent moon pendant. A grey ribbed turtleneck sweater. Worn over this is a long, unzipped black coat with a hood. The coat features silver zipper details on the pockets, silver trim lines, and small silver crescent moon emblems on the left chest and the back of the hood. A small black cross-body bag hangs on the right side. A black wristwatch on the left arm.
+
+5. Lower Body & Feet: Black slim-fit pants. A black belt with a silver chain and a crescent moon charm hanging from the left side. Black high-top sneakers with silver crescent moon emblems on the sides and silver trim along the soles.
+
+6. Pose: Standing straight. In the front and side views, the right arm is raised high with a clenched fist, while the left arm is bent slightly at the elbow with a clenched fist resting near the waist. The back view shows both arms hanging straight down naturally.
 
 ---
 
@@ -10150,6 +10598,20 @@ Physical Appearance Prompt Style 5b — Ayato
 
 6. Pose: In the front view, he stands upright with both arms hanging beside the jacket, palms facing inward and fingers relaxed. His feet are slightly apart and parallel, and his head faces directly forward. The profile view keeps the visible arm lowered close to the thigh. In the rear view, both arms hang symmetrically while the tail crosses behind the legs and curves toward one side.
 
+Physical Appearance Prompt Style 5c — Ayato
+
+1. Base Anatomy: Youthful, slender build. Purple eyes. Bright, open-mouthed smile.
+
+2. Hair & Head: Short, messy black hair. Wears black-rimmed glasses.
+
+3. Species Traits: Sleek, pointed black animal ears with pink inner fluff. A slender, flexible black tail that curves upwards at the tip.
+
+4. Upper Body: Black choker with a silver crescent moon pendant and dangling star charms. A black inner t-shirt displaying a large purple and blue paw print graphic. Over this is an oversized black zip-up jacket with a bright blue inner hood. The jacket is heavily decorated with pink and blue paw prints, star motifs, blue paint splatter graphics, and lace-up details on the sleeves with dangling star charms. Straps attached to the zippers feature the text "NYAN". The back displays a large stylized animal face outline in pink and blue.
+
+5. Lower Body & Feet: Black shorts with a blue hem. A black belt with blue trim and silver eyelets. Dangling silver chains with star charms, and blue/black straps hanging down with the text "MEOW". Mismatched mid-calf socks: the right is black with a white/blue paw print, and the left is white with a black/blue paw print. Black high-top sneakers with bright blue laces, dangling star charms, and large pink paw prints on the tongues and heels.
+
+6. Pose: Standing straight. In the front view, the arms hang slightly outwards with relaxed hands. The side and back views show the arms hanging straight down by the sides.
+
 ---
 
 Name:
@@ -10493,6 +10955,20 @@ Physical Appearance Prompt Style 5b — Fujio
 5. Lower Body & Feet: Loose black cargo shorts have patch pockets, lavender tabs, silver chains, side straps, small paw-print appliqués, and purple hardware. White-to-pale-lavender slouched crew socks gather around the ankles and carry purple paw motifs. His black high-top sneakers have lavender laces, white toe caps and midsoles, purple outsole edging, circular paw emblems, purple heel tabs, and small decorative patches.
 
 6. Pose: In the front view, he stands with feet slightly separated and both arms resting straight beside his body. His hands are open with naturally curved fingers, although one is partly covered by the oversized sleeve. His shoulders remain relaxed and his torso faces forward. The profile and rear views maintain the same neutral upright stance, with both arms lowered and the tail sweeping gently to one side.
+
+Physical Appearance Prompt Style 5b — Fujio
+
+1. Base Anatomy: Slender build. Amber eyes. Gentle, closed-mouth smile.
+
+2. Hair & Head: Short, fluffy, textured light purple hair.
+
+3. Species Traits: Sleek, upright light purple animal ears with soft white inner fluff. A slender, flexible light purple tail extending downwards and curling gently at the tip.
+
+4. Upper Body: Black choker with a gold bell. A black inner hoodie with purple drawstrings, featuring a minimalist purple animal face logo with cross-eyes on the chest. Layered over the hoodie is a light blue, sleeveless denim vest with frayed armholes. The vest has purple criss-cross lacing on the sides and a large embroidered graphic of a wisteria branch with dangling purple flowers on the back, accompanied by a small black animal silhouette on the lower right back. Purple beaded bracelets on both wrists.
+
+5. Lower Body & Feet: Black shorts with small purple paw print graphics and purple straps dangling from the cargo pockets. Silver chains hang from the waist. Thick, slouchy white socks featuring purple paw print graphics. Black canvas high-top sneakers with purple laces, purple soles, and purple paw print motifs on the sides and heels.
+
+6. Pose: Standing straight. In the front view, both hands are casually tucked into the front pockets of the shorts. The side and back views show the arms resting downward, angled slightly towards the pockets.
 
 ---
 
@@ -10838,6 +11314,20 @@ Physical Appearance Prompt Style 5b — Aoi
 
 6. Pose: In the front view, he stands upright with feet slightly apart and parallel. Both arms hang naturally beside his body, palms inward and fingers relaxed. The profile view maintains the same neutral posture with the visible arm lowered. In the rear view, both arms remain straight at his sides while the single tail descends centrally and sweeps toward one side.
 
+Physical Appearance Prompt Style 5c — Aoi
+
+1. Base Anatomy: Youthful, slender build. Bright blue eyes. Gentle, open-mouthed smile showing a small upper tooth.
+
+2. Hair & Head: Short, messy light blue hair with subtle silver/white highlights. Choppy bangs.
+
+3. Species Traits: Large, wide light blue animal ears with white inner fluff. A thick, extremely bushy tail with a gradient from light blue to pale pink/silver, fading into a white tip.
+
+4. Upper Body: Black choker with a gold bell. A white inner shirt. Layered over this is a loose, oversized blue hooded jacket. The jacket features gold zipper details, a gold crescent moon pendant, a small white animal face logo on the left chest, and intricate white and gold ocean wave patterns along the hem and sleeves. The back displays a large graphic of a white animal sitting on a gold crescent moon, surrounded by stars and ocean waves. Dangling blue tassels with gold accents hang from the hood and bottom hem. Blue beaded bracelets on both wrists.
+
+5. Lower Body & Feet: Dark navy blue short shorts with a gold trim. A thin belt with dangling gold chains and a crescent moon charm. Bare legs. White crew socks with blue stripes and a gold crescent moon emblem. Blue and white chunky sneakers with gold star and moon accents.
+
+6. Pose: Standing straight. In the front view, the arms hang relaxed slightly outwards with open palms. Side and back views show arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -11179,6 +11669,20 @@ Physical Appearance Prompt Style 5b — Komugi
 5. Lower Body & Feet: Dark chocolate-brown trousers have a relaxed tapered cut and rolled cuffs ending above the ankles. A black-brown belt with a rectangular buckle secures the waist, while a fine gold chain and wheat-shaped pendant hang from one hip. Cream ribbed socks are gathered loosely above dark-brown lace-up work boots. The boots have tan welted soles, low stacked heels, stitched panels, and gold wheat embroidery on the outer sides.
 
 6. Pose: In the front view, his right arm is raised high overhead with the elbow nearly straight and hand closed into a celebratory fist. His left elbow is bent, holding a second fist beside the chest. His feet are separated and his torso faces forward. In the profile view, the visible fist remains raised near the chest while the opposite arm is lowered. In the rear view, both arms hang naturally beside his body with relaxed hands.
+
+Physical Appearance Prompt Style 5c — Komugi
+
+1. Base Anatomy: Youthful, slightly athletic build. Blue eyes. Confident, open-mouthed smile.
+
+2. Hair & Head: Short, messy sandy-blonde hair. Wears thick-rimmed black glasses.
+
+3. Species Traits: Large, wide sandy-blonde animal ears with white inner fluff. A thick, bushy tail with a gradient starting sandy-blonde at the base and ending in a white tip.
+
+4. Upper Body: Gold necklace with a crescent moon pendant. A thick, cream-colored ribbed turtleneck sweater. Worn over this is a beige button-up knit cardigan. The cardigan features brown buttons, a small brown pocket detail on the left chest with a wheat pin, and an embroidered wheat stalk pattern along the lower hem.
+
+5. Lower Body & Feet: Dark brown, loose-fitting cropped trousers rolled up at the calves. A brown belt with a silver buckle. A dangling gold chain with a wheat stalk charm hangs from the right waist. Thick, slouchy cream-colored ribbed socks. Brown leather lace-up boots with a gold wheat stalk emblem on the sides.
+
+6. Pose: Standing straight. In the front and side views, the right arm is raised high with a clenched fist, while the left arm is bent at the elbow with a clenched fist resting near the chest. The back view shows both arms hanging straight down naturally.
 
 ---
 
@@ -11524,6 +12028,20 @@ Physical Appearance Prompt Style 5b — Seiya
 
 6. Pose: In the front view, his right arm is extended above his head with the hand closed into a raised fist. His left elbow is bent, holding a second fist beside the chest. His legs are set apart and his posture is upright. In the profile view, the visible hand rests inside the jacket pocket while the body stands neutrally. In the rear view, both arms hang straight beside the body with relaxed fingers.
 
+Physical Appearance Prompt Style 5c — Seiya
+
+1. Base Anatomy: Youthful, slender build. Bright blue eyes. Confident, open-mouthed smile.
+
+2. Hair & Head: Short, messy light blue hair that fades into white at the roots and tips. Textured bangs.
+
+3. Species Traits: Large, wide light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting deep blue at the base, fading into light blue, and ending in a white tip.
+
+4. Upper Body: Silver necklace with a blue diamond-shaped crystal and a crescent moon charm. A white ribbed turtleneck sweater. Over this is a blue hooded zip-up jacket that transitions into a lighter blue at the bottom hem and cuffs, mimicking a starry night sky. The jacket features white speckles representing stars, silver star and moon zipper pulls, a small gold animal face logo on the left chest, and silver constellation patterns on the back. The back of the hood also has a gold animal face outline.
+
+5. Lower Body & Feet: Dark blue shorts with a lighter blue hem. A dark blue belt with a silver buckle. A dark blue strap hangs from the waist with silver stars, a crescent moon, and a small blue animal face charm. Bare legs. Thick, slouchy white socks with a blue strap detail near the top featuring white stars. High-top navy blue and white sneakers with star emblems and a white animal face logo on the sides.
+
+6. Pose: Standing straight. In the front and side views, the right arm is raised high with a clenched fist, while the left arm is bent at the elbow with a clenched fist resting near the chest. The back view shows both arms hanging straight down naturally.
+
 ---
 
 Name:
@@ -11867,6 +12385,20 @@ Physical Appearance Prompt Style 5b — Akatsuki
 5. Lower Body & Feet: Loose charcoal-black cropped trousers have a tapered jogger shape, gathered cuffs, asymmetrical red panels, buckled calf straps, hanging black tabs, and red geometric accents. A dark waist sash or belt supports a gold knot ornament and long red tassel. White crew socks display small red crescent motifs. Black high-top sneakers have red straps, dark-red maple-leaf panels, white midsoles, low-profile soles, and layered black-and-crimson uppers.
 
 6. Pose: In the front view, his right arm is raised overhead with the elbow nearly straight and hand closed into a firm fist. His left elbow is bent, holding a second fist beside the chest. His feet are spread and his torso faces forward in an energetic stance. In the profile view, the near fist remains held at chest height while the opposite arm is lowered. In the rear view, both arms hang naturally beside the coat with open, relaxed hands.
+
+Physical Appearance Prompt Style 5c — Akatsuki
+
+1. Base Anatomy: Youthful, slender build. Red eyes. Confident, open-mouthed smile.
+
+2. Hair & Head: Short, messy white hair transitioning to dark red at the roots and tips. Wears thick-rimmed black glasses.
+
+3. Species Traits: Large, wide white animal ears with deep red inner coloring and dark red tips. A thick, bushy tail featuring a dark red base adorned with white crescent moons, fading into a white tip.
+
+4. Upper Body: Black necklace with a silver crescent moon pendant. A white ribbed turtleneck sweater. Over this is an open, loose-fitting black hooded jacket with wide, kimono-style sleeves. The jacket fades to a deep red at the hems and cuffs. It is decorated with red maple leaves, subtle geometric patterns, red tassels dangling from the chest, and a stylized red animal face on the left chest. The back features a large graphic of a red sun setting behind a mountain, partially encircled by a large cream-colored crescent moon, surrounded by red maple leaves. A red tag hangs from the back of the hood.
+
+5. Lower Body & Feet: Dark grey, loose-fitting cropped trousers rolled up at the calves. A red and black patterned belt. A black strap with red trim and a dangling star charm hangs from the left hip. Red criss-cross strappy details on the outer calves of the trousers. White crew socks featuring a red crescent moon emblem. Black high-top sneakers with red trim, red laces, and a red maple leaf motif on the sides.
+
+6. Pose: Standing straight. In the front and side views, the right arm is raised high with a clenched fist, while the left arm is bent at the elbow with a clenched fist resting near the chest. The back view shows both arms hanging straight down naturally.
 
 ---
 
